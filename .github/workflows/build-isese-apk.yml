@@ -2,6 +2,10 @@ name: Build Isese Ponbele APK
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - 'android-app/**'
+      - '.github/workflows/build-isese-apk.yml'
 
 permissions:
   contents: read
@@ -12,6 +16,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Bundle complete website inside Android app
+        shell: bash
+        run: |
+          rm -rf android-app/app/src/main/assets/www
+          mkdir -p android-app/app/src/main/assets/www
+          for item in *; do
+            if [ "$item" = "android-app" ]; then
+              continue
+            fi
+            if [ -f "$item" ]; then
+              cp "$item" android-app/app/src/main/assets/www/
+            elif [ -d "$item" ]; then
+              cp -R "$item" android-app/app/src/main/assets/www/
+            fi
+          done
+          echo "Bundled website size:"
+          du -sh android-app/app/src/main/assets/www
+          echo "Bundled files:"
+          find android-app/app/src/main/assets/www -type f | wc -l
 
       - name: Set up Java 17
         uses: actions/setup-java@v4
@@ -33,16 +57,23 @@ jobs:
         with:
           gradle-version: '8.9'
 
-      - name: Build installable APK
+      - name: Build full installable APK
         working-directory: android-app
         run: gradle --no-daemon assembleDebug
 
-      - name: Rename APK
-        run: cp android-app/app/build/outputs/apk/debug/app-debug.apk Isese-Ponbele.apk
+      - name: Verify APK package
+        shell: bash
+        run: |
+          APK="android-app/app/build/outputs/apk/debug/app-debug.apk"
+          test -f "$APK"
+          /usr/local/lib/android/sdk/build-tools/35.0.0/aapt dump badging "$APK" | head -20
+          ls -lh "$APK"
+          cp "$APK" Isese-Ponbele-2.0.apk
 
-      - name: Upload APK
+      - name: Upload full Android APK
         uses: actions/upload-artifact@v4
         with:
-          name: Isese-Ponbele-APK
-          path: Isese-Ponbele.apk
+          name: Isese-Ponbele-Android-2.0
+          path: Isese-Ponbele-2.0.apk
           if-no-files-found: error
+          retention-days: 90
