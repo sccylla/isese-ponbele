@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.IsesePonbele" parent="android:style/Theme.Material.Light.NoActionBar">
+    <style name="Theme.IsesePonbele" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#B88338</item>
+        <item name="colorPrimaryVariant">#7C5322</item>
+        <item name="colorOnPrimary">#FFF7E8</item>
+        <item name="colorSecondary">#D7B16A</item>
+        <item name="colorOnSecondary">#17100B</item>
         <item name="android:fontFamily">sans</item>
         <item name="android:windowActionModeOverlay">true</item>
-        <item name="android:navigationBarColor">#12100D</item>
+        <item name="android:navigationBarColor">#0F0A07</item>
         <item name="android:statusBarColor">#12100D</item>
         <item name="android:windowLightStatusBar">false</item>
         <item name="android:windowBackground">#12100D</item>
+        <item name="android:windowNoTitle">true</item>
     </style>
 </resources>
