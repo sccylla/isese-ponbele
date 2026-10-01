@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Nunito+Sans:opsz,wght@6..12,400;6..12,500;6..12,600;6..12,700;6..12,800;6..12,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&family=Nunito+Sans:opsz,wght@6..12,400;6..12,500;6..12,600;6..12,700;6..12,800;6..12,900&display=swap');
 
 :root{
-  --font-display:'Bowlby One SC','Arial Black',Impact,sans-serif;
+  --font-display:'Bagel Fat One','Arial Black',Impact,sans-serif;
   --font-body:'Nunito Sans',Arial,sans-serif;
   --font-reading:'Nunito Sans',Arial,sans-serif;
   --font-ui:'Nunito Sans',Arial,sans-serif;
@@ -63,21 +63,21 @@ h1,h2,h3,h4,h5,h6,
 
 body{letter-spacing:0}
 .display,.section-title,.page-hero h1{
-  letter-spacing:-.035em!important;
+  letter-spacing:-.02em!important;
   font-weight:400!important;
-  line-height:.94!important;
+  line-height:.96!important;
 }
 .brand-copy strong{
   font-weight:400!important;
-  letter-spacing:.035em!important;
+  letter-spacing:.015em!important;
 }
 .category-card h3,.entry-card h3,.knowledge-article h2,.herb-card h3,.story-step h3{
   font-weight:400!important;
-  letter-spacing:-.015em!important;
+  letter-spacing:-.01em!important;
 }
 .iwure-title,.iwure-yoruba{
   font-weight:400!important;
-  letter-spacing:-.015em!important;
+  letter-spacing:-.01em!important;
 }
 .nav-links,.btn,.kicker,.eyebrow,.breadcrumbs,.hero-badge,.entry-tag,.filter-label,.footer h4{
   font-weight:800!important;
