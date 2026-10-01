@@ -1,0 +1,46 @@
+ISESE PONBELE — PHOTO CREDITS
+
+The website uses externally hosted cultural photographs from Wikimedia Commons.
+Please preserve these credits when publishing the website.
+
+1) Odi meji.jpg — Babalawo casting Odu on an Ifa tray
+Creator: 4toscenethesis
+License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+Source: https://commons.wikimedia.org/wiki/File:Odi_meji.jpg
+
+2) Jogo de Ikin Orossi.JPG — Opon Ifa with divination objects
+Creator: Toluaye
+License: Public Domain
+Source: https://commons.wikimedia.org/wiki/File:Jogo_de_Ikin_Orossi.JPG
+
+3) Obatala Priester im Tempel.jpg — Obatala priests in their temple in Ile-Ife
+Creator: Dierk Lange
+License listed on Commons: CC BY-SA 2.5 / CC0 availability on file page
+Source: https://commons.wikimedia.org/wiki/File:Obatala_Priester_im_Tempel.jpg
+
+4) Yoruba Talking Drum Performer in Nigeria.jpg
+Creator: Tijani Taofeek Bamidele
+License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+Source: https://commons.wikimedia.org/wiki/File:Yoruba_Talking_Drum_Performer_in_Nigeria.jpg
+
+5) Cowrie shells.jpg
+Creator: Salil Kumar Mukherjee
+License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+Source: https://commons.wikimedia.org/wiki/File:Cowrie_shells.jpg
+
+6) Yoruba Shango.jpg — Sango staff
+Creator: Cliff1066
+License: Creative Commons Attribution 2.0 (CC BY 2.0)
+Source: https://commons.wikimedia.org/wiki/File:Yoruba_Shango.jpg
+
+7) Statue Of Osun.jpg — Osun statue in the Osun-Osogbo grove
+Creator: ExploreWithTunde
+License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+Source: https://commons.wikimedia.org/wiki/File:Statue_Of_Osun.jpg
+
+8) Agere ifa (Receptacle).jpg
+Creator: CloudyMyst
+License: Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
+Source: https://commons.wikimedia.org/wiki/File:Agere_ifa_(Receptacle).jpg
+
+Note: Images are referenced by their Wikimedia upload URLs in the HTML/CSS, so an internet connection is required for them to load. If you later host local copies, retain the attribution/licence information above.
