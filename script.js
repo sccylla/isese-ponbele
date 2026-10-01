@@ -51,7 +51,7 @@
       el.textContent=Math.floor(target*eased)+suffix;
       if(p<1) requestAnimationFrame(tick);
     };
-    requestAnimationFrame(tick); counterObserver.unobserve(el);
+    requestAnimationFrame(tick); counterObserver.unobserve(e.target);
   }),{threshold:.5});
   counters.forEach(c=>counterObserver.observe(c));
 
@@ -60,7 +60,7 @@
   if(dot && ring && matchMedia('(hover:hover) and (pointer:fine)').matches){
     let mx=0,my=0,rx=0,ry=0;
     addEventListener('mousemove',e=>{mx=e.clientX;my=e.clientY;dot.style.left=mx+'px';dot.style.top=my+'px'});
-    const follow=()=>{rx+=(mx-rx)*.16;ry+=(my-ry)*.16;ring.style.left=rx+'px';ring.style.top=ry+'px';requestAnimationFrame(follow)};follow();
+    const follow=()=>{rx+=(mx-rx)*.24;ry+=(my-ry)*.24;ring.style.left=rx+'px';ring.style.top=ry+'px';requestAnimationFrame(follow)};follow();
     $$('a,button,.entry-card,.category-card').forEach(el=>{
       el.addEventListener('mouseenter',()=>ring.classList.add('hover'));
       el.addEventListener('mouseleave',()=>ring.classList.remove('hover'));
