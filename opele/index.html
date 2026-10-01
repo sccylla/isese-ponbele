@@ -1,14 +1,94 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#171008"><title>Digital Opele Ifa</title><link rel="stylesheet" href="style.css"></head><body>
-<header><div class="logo">Ọ̀</div><div><small>ISESE · DIGITAL DIVINATION TOOL</small><h1>Digital Ọ̀pẹ̀lẹ̀ Ifá</h1></div></header>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#120b05">
+<title>Digital Opele Ifa — Consultation</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="logo">Ọ̀</div>
+  <div class="brand"><small>ISESE · DIGITAL CONSULTATION TOOL</small><h1>Digital Ọ̀pẹ̀lẹ̀ Ifá</h1></div>
+  <div class="pack-badge" id="packBadge">CORE</div>
+</header>
 <main>
-<section class="hero panel"><div><span class="tag">8 FACES · 256 ODÙ</span><h2>Cast the chain.<br>Read the sign.</h2><p>A mobile Opele casting tool that resolves eight two-faced results into the right and left legs of one Odù.</p></div><div class="seal">IFÁ</div></section>
-<section class="panel intention"><label>Question / intention <em>optional</em></label><textarea id="question" maxlength="280" placeholder="Hold the matter in mind or write it here..."></textarea><small>Stored only on this device with your cast history.</small></section>
-<section class="grid">
-<article class="panel caster"><div class="head"><div><small>OPELE CHAIN</small><h3 id="status">Ready to cast</h3></div><button id="sound" class="round">◉</button></div><div id="chain" class="chain"><div class="legtitle l">LEFT LEG</div><div class="legtitle r">RIGHT LEG</div></div><button id="cast" class="primary">✦ &nbsp; CAST OPELE</button><div class="row"><button id="manual" class="secondary">Enter physical cast</button><button id="clear" class="secondary">Clear</button></div></article>
-<aside class="panel result"><small>ODÙ REVEALED</small><div id="empty" class="empty"><div class="sample">I&nbsp;&nbsp;II<br>II&nbsp;&nbsp;I<br>I&nbsp;&nbsp;II<br>II&nbsp;&nbsp;I</div><p>Your Odù will appear here.</p></div><div id="result" hidden><div id="number" class="num">—</div><h2 id="name">—</h2><p id="type" class="type">—</p><div id="figure" class="figure"></div><div class="legs"><div><small>Right leg</small><b id="rightName"></b><code id="rightBits"></code></div><div><small>Left leg</small><b id="leftName"></b><code id="leftBits"></code></div></div><div class="meta"><span id="time"></span><span id="source"></span></div><button id="copy" class="secondary wide">Copy cast result</button></div></aside>
-</section>
-<section class="panel tabs"><div class="tabbar"><button class="tab active" data-tab="history">History</button><button class="tab" data-tab="reference">16 Principal Odù</button><button class="tab" data-tab="settings">Settings</button></div><div id="history" class="tabpane active"></div><div id="reference" class="tabpane"></div><div id="settings" class="tabpane"><div class="setting"><b>Cast convention</b><p>Single mark = 1; double mark = 0; top → bottom; right leg named first.</p></div><div class="setting"><b>Practice note</b><p>This software reproduces the casting structure and identifies the Odù. Interpretation remains a matter of Ifá training, lineage and practice.</p></div><button id="wipe" class="danger">Erase cast history</button></div></section>
-<section class="panel note"><small>HOW IT WORKS</small><h3>One cast, eight binary faces, 256 possible Odù.</h3><p>Digital casts use the device cryptographic random generator. You can also throw a physical Opele and enter the exact eight faces, using the app only to identify the resulting Odù.</p></section>
+  <section class="hero panel">
+    <div>
+      <span class="tag">8 FACES · 256 ODÙ · QUESTION INTERPRETATION</span>
+      <h2>Ask the matter.<br>Cast the chain.<br>Read the answer.</h2>
+      <p>This version does more than identify the Odù. It uses the exact cast, both legs and the subject of your question to produce a structured consultation reading.</p>
+    </div>
+    <div class="seal">IFÁ</div>
+  </section>
+
+  <section class="panel intention">
+    <div class="labelrow"><label for="question">Your question / matter</label><span id="topicLabel">GENERAL</span></div>
+    <textarea id="question" maxlength="700" placeholder="Example: Will this business agreement be good for me? / What is blocking my progress? / What should I know about this relationship?"></textarea>
+    <div class="topicchips" id="topicChips">
+      <button data-topic="general" class="active">General</button><button data-topic="money">Money</button><button data-topic="work">Work</button><button data-topic="love">Love</button><button data-topic="family">Family</button><button data-topic="travel">Travel</button><button data-topic="conflict">Conflict</button><button data-topic="spiritual">Spiritual</button><button data-topic="health">Health</button>
+    </div>
+    <small>Topic is detected automatically; you can override it. Consultation records remain on this device.</small>
+  </section>
+
+  <section class="grid">
+    <article class="panel caster">
+      <div class="head"><div><small>OPELE CHAIN</small><h3 id="status">Ready for consultation</h3></div><button id="sound" class="round" aria-label="sound">◉</button></div>
+      <div id="chain" class="chain"><div class="legtitle l">LEFT LEG</div><div class="legtitle r">RIGHT LEG</div></div>
+      <button id="cast" class="primary">✦ &nbsp; ASK & CAST OPELE</button>
+      <div class="row"><button id="manual" class="secondary">Enter physical cast</button><button id="clear" class="secondary">Clear</button></div>
+    </article>
+
+    <aside class="panel result">
+      <small>ODÙ & DIRECT ANSWER</small>
+      <div id="empty" class="empty"><div class="sample">I&nbsp;&nbsp;II<br>II&nbsp;&nbsp;I<br>I&nbsp;&nbsp;II<br>II&nbsp;&nbsp;I</div><p>Your Odù and consultation answer will appear here.</p></div>
+      <div id="result" hidden>
+        <div class="topresult"><div id="number" class="num">—</div><div><h2 id="name">—</h2><p id="type" class="type">—</p></div></div>
+        <div id="answerClass" class="answerclass">—</div>
+        <h3 id="directAnswer" class="directanswer">—</h3>
+        <p id="answerLead" class="answerlead"></p>
+        <div id="figure" class="figure"></div>
+        <div class="legs"><div><small>Right leg</small><b id="rightName"></b><code id="rightBits"></code></div><div><small>Left leg</small><b id="leftName"></b><code id="leftBits"></code></div></div>
+        <div class="meta"><span id="time"></span><span id="source"></span></div>
+        <button id="jumpReading" class="secondary wide">Read full consultation ↓</button>
+      </div>
+    </aside>
+  </section>
+
+  <section id="reading" class="panel reading" hidden>
+    <div class="readinghead"><div><small>FULL CONSULTATION</small><h2 id="readingTitle">—</h2></div><span id="readingTopic" class="pill">GENERAL</span></div>
+    <div class="questionbox"><small>QUESTION</small><p id="readingQuestion">—</p></div>
+    <div class="readinggrid">
+      <article><span class="kicker">MAIN MESSAGE</span><h3 id="mainMessageTitle">What the cast is saying</h3><p id="mainMessage"></p></article>
+      <article><span class="kicker">RIGHT LEG · PRIMARY</span><h3 id="rightReadingTitle"></h3><p id="rightReading"></p></article>
+      <article><span class="kicker">LEFT LEG · UNDERLYING</span><h3 id="leftReadingTitle"></h3><p id="leftReading"></p></article>
+      <article><span class="kicker">WHAT SUPPORTS THE MATTER</span><h3 id="supportTitle"></h3><p id="supportText"></p></article>
+      <article class="warn"><span class="kicker">WHAT MAY BLOCK IT</span><h3 id="blockTitle"></h3><p id="blockText"></p></article>
+      <article><span class="kicker">NEXT STEP</span><h3 id="actionTitle"></h3><p id="actionText"></p></article>
+    </div>
+    <div class="deepread"><span class="kicker">DEEPER READING</span><p id="deepReading"></p></div>
+    <div id="safetyNote" class="safety" hidden></div>
+    <div class="consult-actions"><button id="copy" class="secondary">Copy full consultation</button><button id="sameQuestion" class="secondary">Cast again on this matter</button><button id="newQuestion" class="secondary">New question</button></div>
+  </section>
+
+  <section class="panel tabs">
+    <div class="tabbar"><button class="tab active" data-tab="history">Consultations</button><button class="tab" data-tab="reference">16 Principal Odù</button><button class="tab" data-tab="settings">About engine</button></div>
+    <div id="history" class="tabpane active"></div>
+    <div id="reference" class="tabpane"></div>
+    <div id="settings" class="tabpane">
+      <div class="setting"><b>Interpretation pack</b><p id="packInfo">Core interpretation engine loaded. Android builds can include the expanded offline knowledge pack.</p></div>
+      <div class="setting"><b>Cast convention</b><p>Single mark = 1; double mark = 0; top → bottom; right leg named first.</p></div>
+      <div class="setting"><b>Important practice note</b><p>The direct-answer layer is a software interpretation system built around the cast and question topic. It is not a replacement for lineage-specific Ibọ̀, ẹbọ, Ese Ifá or the judgment of a trained Babaláwo. You can always use “Enter physical cast” to make the software interpret a real Opele throw.</p></div>
+      <button id="wipe" class="danger">Erase consultation history</button>
+    </div>
+  </section>
+
+  <section class="panel note"><small>WHAT CHANGED</small><h3>This is now a consultation engine, not only an Odù lookup.</h3><p>The app classifies the question, reads both principal legs, calculates a digital orientation for direct questions, and composes a matter-specific answer with supporting factors, obstacles and a practical next step. The Android edition also carries an expanded offline interpretation pack so it can work without internet.</p></section>
 </main>
-<dialog id="dialog"><form method="dialog"><div class="dialoghead"><div><small>PHYSICAL OPELE</small><h3>Enter the eight faces</h3></div><button class="round" value="cancel">×</button></div><p>Tap each position to switch between single (I) and double (II), top to bottom.</p><div class="manualgrid"><div><b>Left leg</b><div id="mleft"></div></div><div><b>Right leg</b><div id="mright"></div></div></div><button id="apply" class="primary">IDENTIFY ODÙ</button></form></dialog>
-<div id="toast" class="toast"></div><script src="app.js"></script></body></html>
+
+<dialog id="dialog"><form method="dialog"><div class="dialoghead"><div><small>PHYSICAL OPELE</small><h3>Enter the eight faces</h3></div><button class="round" value="cancel">×</button></div><p>Tap each position to switch between single (I) and double (II), top to bottom.</p><div class="manualgrid"><div><b>Left leg</b><div id="mleft"></div></div><div><b>Right leg</b><div id="mright"></div></div></div><button id="apply" class="primary">READ THIS CAST</button></form></dialog>
+<div id="toast" class="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>
