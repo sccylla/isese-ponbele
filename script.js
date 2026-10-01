@@ -176,6 +176,37 @@
     showStep(0);
   }
 
+  // Iwure ti Oni — daily homepage blessing
+  const isHome = /(^|\/)index\.html$/.test(location.pathname) || location.pathname === '/' || location.pathname.endsWith('/isese-ponbele/');
+  if(isHome){
+    const iwure = [
+      {yo:'Ki Ori wa gbe wa. Ki ona wa la. Ki ire gbogbo maa ba wa rin loni. Ase.',en:'May our Ori uphold us. May our paths open. May every form of goodness walk with us today.'},
+      {yo:'Ki a ji si ire, ki a rin si ire, ki a si pada si ile pelu ire. Ase.',en:'May we wake into goodness, walk in goodness, and return home carrying goodness.'},
+      {yo:'Ki owo wa ma di ofo. Ki ise wa ni eso. Ki aanu ati oju rere maa tele wa. Ase.',en:'May our hands never be empty. May our work bear fruit. May mercy and favourable regard follow us.'},
+      {yo:'Ki alaafia gbe inu ile wa. Ki ibi jina si wa. Ki ayo ati ilera maa kun ojo wa. Ase.',en:'May peace live in our homes. May harm remain far from us. May joy and wellbeing fill our day.'},
+      {yo:'Ki Ori rere dari wa si ibi ti ire wa wa. Ki a ma se asise ona. Ki a ri opin rere. Ase.',en:'May good Ori guide us toward where our blessings are. May we not lose our way. May our matters end well.'},
+      {yo:'Ki ona owo, ona ise ati ona aanu si fun wa. Ki ohun rere ti a n wa maa wa wa. Ase.',en:'May the roads of prosperity, work and mercy open for us. May the good things we seek also seek us.'},
+      {yo:'Ki agbara wa ma dinku. Ki ogbon wa ma su. Ki a ni suuru, igboya ati ase lati pari ohun rere. Ase.',en:'May our strength not diminish. May wisdom not fail us. May we have patience, courage and authority to complete good things.'}
+    ];
+    const now=new Date();
+    const start=new Date(now.getFullYear(),0,0);
+    const day=Math.floor((now-start)/86400000);
+    const b=iwure[day % iwure.length];
+    const overlay=document.createElement('div');
+    overlay.className='iwure-overlay';
+    overlay.setAttribute('role','dialog');
+    overlay.setAttribute('aria-modal','true');
+    overlay.setAttribute('aria-label','Iwure ti Oni');
+    overlay.innerHTML=`<div class="iwure-card"><button class="iwure-x" aria-label="Close daily blessing">×</button><div class="iwure-content"><div class="iwure-cowries" aria-hidden="true"><span style="--r:-18deg"></span><span style="--r:11deg"></span><span style="--r:-7deg"></span><span style="--r:19deg"></span><span style="--r:-13deg"></span></div><div class="iwure-kicker">Isese Ponbele • Daily blessing</div><h2 class="iwure-title">Iwure ti Oni</h2><p class="iwure-yoruba">${b.yo}</p><p class="iwure-english">${b.en}</p><div class="iwure-date">${now.toLocaleDateString(undefined,{weekday:'long',day:'numeric',month:'long',year:'numeric'})}</div><button class="iwure-close">Ase • Enter the house</button></div></div>`;
+    document.body.appendChild(overlay);
+    const closeIwure=()=>{overlay.classList.remove('open');setTimeout(()=>overlay.remove(),450)};
+    overlay.querySelector('.iwure-x')?.addEventListener('click',closeIwure);
+    overlay.querySelector('.iwure-close')?.addEventListener('click',closeIwure);
+    overlay.addEventListener('click',e=>{if(e.target===overlay)closeIwure()});
+    addEventListener('keydown',e=>{if(e.key==='Escape'&&overlay.isConnected)closeIwure()});
+    setTimeout(()=>overlay.classList.add('open'),1150);
+  }
+
   // Back top
   $('.back-top')?.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
 })();
