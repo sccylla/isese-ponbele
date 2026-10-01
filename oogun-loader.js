@@ -1,42 +1,87 @@
-(async()=>{
-const grid=document.getElementById('entryGrid'),filters=document.getElementById('oogunFilters'),count=document.getElementById('resultCount'),search=document.getElementById('catalogueSearch'),pager=document.getElementById('oogunPagination'),summary=document.getElementById('oogunPageSummary'),modal=document.getElementById('detailModal'),modalBody=document.getElementById('modalBody');
-const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const slug=s=>String(s??'').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-const finish=()=>{document.querySelector('.site-loader')?.classList.add('done');document.body.classList.remove('loading')};
-setTimeout(finish,700);
-const setNote=html=>{const n=document.querySelector('.oogun-source-note');if(n)n.innerHTML=html};
-const social=t=>{const m=encodeURIComponent(`Hello Isese Ponbele, I am asking about ${t}.`);return `<div class="post-social"><span class="post-social-label">Connect with Isese Ponbele</span><a class="social-btn social-tiktok" href="https://www.tiktok.com/@iseseponbele" target="_blank" rel="noopener noreferrer">TikTok</a><a class="social-btn social-facebook" href="https://www.facebook.com/iseseponbele" target="_blank" rel="noopener noreferrer">Facebook</a><a class="social-btn social-youtube" href="https://www.youtube.com/@iseseponbele" target="_blank" rel="noopener noreferrer">YouTube</a><a class="social-btn social-whatsapp" href="https://wa.me/2347047604452?text=${m}" target="_blank" rel="noopener noreferrer">WhatsApp</a></div>`};
-const list=(title,items,ordered=false)=>{if(!items?.length)return'';const tag=ordered?'ol':'ul';return `<div class="formula-block"><h4>${esc(title)}</h4><${tag}>${items.map(x=>`<li>${esc(x)}</li>`).join('')}</${tag}></div>`};
-const decompress=async b64=>{if(!b64)return[];if(!('DecompressionStream'in window))throw new Error('Compressed archive data is not supported by this browser.');const raw=atob(b64),bytes=Uint8Array.from(raw,c=>c.charCodeAt(0)),stream=new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip')),text=await new Response(stream).text(),data=JSON.parse(text);return Array.isArray(data)?data:[]};
-const getChunk=async url=>{const r=await fetch(url,{cache:'no-store'});if(!r.ok)throw new Error(`${url} returned ${r.status}`);const text=await r.text();const m=text.match(/\+\s*"([A-Za-z0-9+/=]+)"\s*;?\s*$/m)||text.match(/=\s*"([A-Za-z0-9+/=]+)"\s*;?\s*$/m);if(!m)throw new Error(`Invalid archive chunk: ${url}`);return m[1]};
-const loadChunks=urls=>Promise.all(urls.map(getChunk)).then(parts=>parts.join(''));
-let entries=[],active='all',q='',page=1;const pageSize=60;
-const getMatches=()=>entries.filter(e=>{if(active!=='all'&&slug(e.c||'Other')!==active)return false;if(!q)return true;return `${e.t||''} ${e.m||''} ${e.c||''} ${e.s||''} ${e.pg||''}`.toLowerCase().includes(q)});
-const card=e=>{const restricted=e.r?.length,short=e.m||'Traditional Oogun archive entry';return `<article class="entry-card reveal in-view" data-entry-id="${esc(e.q)}"><div class="entry-top"><span class="entry-tag">${esc(e.c||'Other')}</span><span class="entry-id">${esc(e.s||e.q)}</span></div><h3>${esc(e.t||'Untitled entry')}</h3><div class="translation">${esc(short)}</div><p>${restricted?'Independent archive entry':(e.a?.length||e.p?.length||e.u?.length?'Open the formula to view materials, preparation and usage':'Open the record to view its source reference')}</p>${social(e.t||'this entry')}<span class="entry-open">↗</span></article>`};
-function renderPager(total){if(!pager||!summary)return;const pages=Math.max(1,Math.ceil(total/pageSize));if(page>pages)page=pages;const nums=[];for(let i=1;i<=pages;i++)if(i===1||i===pages||Math.abs(i-page)<=2)nums.push(i);let html=`<button data-page="${page-1}" ${page===1?'disabled':''}>←</button>`,last=0;for(const n of nums){if(last&&n-last>1)html+='<span>…</span>';html+=`<button data-page="${n}" class="${n===page?'active':''}">${n}</button>`;last=n}html+=`<button data-page="${page+1}" ${page===pages?'disabled':''}>→</button>`;pager.innerHTML=html;const start=total?((page-1)*pageSize+1):0,end=Math.min(page*pageSize,total);summary.textContent=total?`Showing ${start.toLocaleString()}–${end.toLocaleString()} of ${total.toLocaleString()} entries • Page ${page} of ${pages}`:''}
-function render(){const matches=getMatches(),start=(page-1)*pageSize,shown=matches.slice(start,start+pageSize);if(grid)grid.innerHTML=shown.map(card).join('');if(count)count.textContent=`${matches.length.toLocaleString()} ${matches.length===1?'entry':'entries'} in catalogue`;const empty=document.querySelector('.empty-state');if(empty)empty.style.display=matches.length?'none':'block';renderPager(matches.length)}
-function refreshFilters(){const cats=[...new Set(entries.map(e=>e.c||'Other'))].sort((a,b)=>a.localeCompare(b)),counts=Object.fromEntries(cats.map(c=>[c,entries.filter(e=>(e.c||'Other')===c).length]));if(filters)filters.innerHTML=[`<button class="filter-btn ${active==='all'?'active':''}" data-filter="all"><span>All formulas</span><span>${entries.length}</span></button>`,...cats.map(c=>`<button class="filter-btn ${active===slug(c)?'active':''}" data-filter="${slug(c)}"><span>${esc(c)}</span><span>${counts[c]}</span></button>`)].join('')}
-function apply(data){entries=[...data].sort((a,b)=>(Number(a.q)||0)-(Number(b.q)||0));window.OOGUN_ENTRIES=entries;page=1;refreshFilters();render();document.querySelectorAll('.hero-badge').forEach(b=>{if(/entries imported|entries available/i.test(b.textContent))b.textContent=`${entries.length.toLocaleString()} entries available`})}
-function openItem(id){const item=entries.find(x=>String(x.q)===String(id));if(!item||!modal||!modalBody)return;const restricted=item.r?.length,src=item.src||'OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS',pg=item.pg?` • PDF page ${item.pg}`:'',details=restricted?'':`${list('Materials needed',item.a)}${list('Preparation',item.p,true)}${list('Usage',item.u,true)}${list('Incantation / Ofo',item.i)}${list('Translation',item.x)}${list('Source notes',item.o)}`;modalBody.innerHTML=`<div class="kicker">Source entry ${esc(item.s||item.q)} • ${esc(item.c||'Other')}</div><h2>${esc(item.t||'Untitled entry')}</h2><div class="translation">${esc(item.m||'Traditional Oogun archive entry')}</div><div class="modal-meta"><span>${esc(item.c||'Other')}</span><span>Independent formula</span></div>${details}<div class="source-line">Source: <em>${esc(src)}</em>${esc(pg)} — wording organized from the supplied source.</div>${social(item.t||'this entry')}`;modal.classList.add('open');document.body.style.overflow='hidden'}
-filters?.addEventListener('click',e=>{const b=e.target.closest('.filter-btn[data-filter]');if(!b)return;active=b.dataset.filter;page=1;refreshFilters();render()});search?.addEventListener('input',()=>{q=search.value.trim().toLowerCase();page=1;render()});pager?.addEventListener('click',e=>{const b=e.target.closest('button[data-page]');if(!b||b.disabled)return;page=Number(b.dataset.page)||1;render();document.querySelector('.catalogue-toolbar')?.scrollIntoView({behavior:'smooth',block:'start'})});grid?.addEventListener('click',e=>{if(e.target.closest('.post-social a'))return;const c=e.target.closest('.entry-card[data-entry-id]');if(c)openItem(c.dataset.entryId)});
-const close=()=>{modal?.classList.remove('open');document.body.style.overflow=''};document.querySelector('.modal-close')?.addEventListener('click',close);modal?.addEventListener('click',e=>{if(e.target===modal)close()});addEventListener('keydown',e=>{if(e.key==='Escape')close()});
-const menu=document.querySelector('.menu-btn'),nav=document.querySelector('.nav-links');menu?.addEventListener('click',()=>nav?.classList.toggle('open'));document.querySelector('.back-top')?.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));document.querySelectorAll('.view-toggle button').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.view-toggle button').forEach(x=>x.classList.remove('active'));b.classList.add('active');grid?.classList.toggle('list-view',b.dataset.view==='list')}));
-const v='20261001-10';
-const baseUrls=Array.from({length:6},(_,i)=>`oogun-gz-${i+1}.js?v=${v}`);
-const extraUrls=Array.from({length:8},(_,i)=>`oogun-extra-lite-${i+1}.js?v=${v}`);
-try{
-setNote('<strong>Archive:</strong> Opening the original collection…');
-const baseCompressedPromise=loadChunks(baseUrls);
-const extraCompressedPromise=loadChunks(extraUrls);
-const base=await decompress(await baseCompressedPromise);
-if(!base.length)throw new Error('Original archive could not be decoded.');
-apply(base);finish();
-setNote(`<strong>Archive:</strong> ${base.length.toLocaleString()} original entries are open. Loading 1,000 additional PDF entries…`);
-try{
-const extra=await decompress(await extraCompressedPromise);
-if(extra.length!==1000)throw new Error(`Expanded archive decoded ${extra.length} entries instead of 1,000.`);
-apply([...base,...extra]);
-setNote('<strong>Archive:</strong> Full collection loaded — 220 original records plus 1,000 source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>.');
-}catch(extraErr){console.error('Expanded archive error:',extraErr);setNote(`<strong>Archive:</strong> The original ${base.length.toLocaleString()} entries are open, but the additional PDF archive did not finish loading. Reload this page to retry.`)}
-}catch(err){console.error('Archive error:',err);if(grid)grid.innerHTML='<div class="empty-state" style="display:block">The archive could not be opened. Please reload this page.</div>';if(count)count.textContent='Archive unavailable';finish();setNote('<strong>Archive:</strong> The data files did not load correctly on this visit. Please reload the page.')}
+(async () => {
+  const grid = document.getElementById('entryGrid');
+  const filterBox = document.getElementById('oogunFilters');
+  const count = document.getElementById('resultCount');
+  const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const slug = s => s.toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+
+  const social = title => {
+    const msg = encodeURIComponent(`Hello Isese Ponbele, I am asking about ${title}.`);
+    return `<div class="post-social" aria-label="Isese Ponbele social media">
+      <span class="post-social-label">Connect with Isese Ponbele</span>
+      <a class="social-btn social-tiktok" href="https://www.tiktok.com/@iseseponbele" target="_blank" rel="noopener noreferrer">TikTok</a>
+      <a class="social-btn social-facebook" href="https://www.facebook.com/iseseponbele" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a class="social-btn social-youtube" href="https://www.youtube.com/@iseseponbele" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <a class="social-btn social-whatsapp" href="https://wa.me/2347047604452?text=${msg}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+    </div>`;
+  };
+
+  const list = (title, items, ordered=false) => {
+    if(!items || !items.length) return '';
+    const tag = ordered ? 'ol' : 'ul';
+    return `<div class="formula-block"><h4>${esc(title)}</h4><${tag}>${items.map(x=>`<li>${esc(x)}</li>`).join('')}</${tag}></div>`;
+  };
+
+  try {
+    if(!('DecompressionStream' in window)) throw new Error('This browser does not support compressed archive data.');
+    const raw = atob(window.OOGUN_GZ || '');
+    const bytes = Uint8Array.from(raw, c => c.charCodeAt(0));
+    const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
+    const text = await new Response(stream).text();
+    const entries = JSON.parse(text).sort((a,b)=>a.q-b.q);
+    window.OOGUN_ENTRIES = entries;
+    window.OOGUN_GZ = '';
+
+    const cats = [...new Set(entries.map(e=>e.c))].sort((a,b)=>a.localeCompare(b));
+    const counts = Object.fromEntries(cats.map(c=>[c,entries.filter(e=>e.c===c).length]));
+    if(filterBox) filterBox.innerHTML = [
+      `<button class="filter-btn active" data-filter="all"><span>All formulas</span><span>${entries.length}</span></button>`,
+      ...cats.map(c=>`<button class="filter-btn" data-filter="${slug(c)}"><span>${esc(c)}</span><span>${counts[c]}</span></button>`)
+    ].join('');
+
+    if(grid) grid.innerHTML = entries.map(e=>{
+      const restricted = e.r && e.r.length;
+      const short = e.m || 'Traditional Oogun archive entry';
+      return `<article class="entry-card reveal" data-category="${slug(e.c)}" data-entry-id="${e.q}" data-label="${esc(e.c)}" data-title="${esc(e.t)}" data-translation="${esc(short)}" data-type="${esc(e.c)}" data-description="${esc(short)}">
+        <div class="entry-top"><span class="entry-tag">${esc(e.c)}</span><span class="entry-id">${esc(e.s)}</span></div>
+        <h3>${esc(e.t)}</h3>
+        <div class="translation">${esc(short)}</div>
+        <p>${restricted ? 'Independent archive entry' : 'Open the formula to view materials, preparation and usage'}</p>
+        ${social(e.t)}
+        <span class="entry-open">↗</span>
+      </article>`;
+    }).join('');
+    if(count) count.textContent = `${entries.length} entries`;
+
+    await new Promise((resolve,reject)=>{
+      const s=document.createElement('script'); s.src='script.js'; s.onload=resolve; s.onerror=reject; document.body.appendChild(s);
+    });
+
+    document.querySelectorAll('.post-social a').forEach(a=>a.addEventListener('click',e=>e.stopPropagation()));
+
+    const modal=document.getElementById('detailModal'), body=document.getElementById('modalBody');
+    document.querySelectorAll('.entry-card[data-entry-id]').forEach(card=>{
+      card.addEventListener('click',()=>{
+        const e=entries.find(x=>x.q===Number(card.dataset.entryId));
+        if(!e || !modal || !body) return;
+        const restricted = e.r && e.r.length;
+        const details = restricted ? '' : `${list('Materials needed',e.a)}${list('Preparation',e.p,true)}${list('Usage',e.u,true)}${list('Incantation / Ofo',e.i)}${list('Translation',e.x)}${list('Source notes',e.o)}`;
+        body.innerHTML = `<div class="kicker">Source entry ${esc(e.s)} • ${esc(e.c)}</div>
+          <h2>${esc(e.t)}</h2>
+          <div class="translation">${esc(e.m||'Traditional Oogun archive entry')}</div>
+          <div class="modal-meta"><span>${esc(e.c)}</span><span>Independent formula</span></div>
+          ${details}
+          <div class="source-line">Source: <em>OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS</em> — wording preserved as supplied.</div>
+          ${social(e.t)}`;
+        modal.classList.add('open');
+        document.body.style.overflow='hidden';
+        body.querySelectorAll('.post-social a').forEach(a=>a.addEventListener('click',ev=>ev.stopPropagation()));
+      });
+    });
+  } catch(err) {
+    console.error(err);
+    if(grid) grid.innerHTML='<div class="empty-state" style="display:block">The Oogun archive could not be loaded in this browser.</div>';
+    if(count) count.textContent='Archive unavailable';
+    const s=document.createElement('script'); s.src='script.js'; document.body.appendChild(s);
+  }
 })();
