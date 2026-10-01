@@ -1,21 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#12100D">
+    android:background="#12100D"
+    android:fitsSystemWindows="true">
 
-    <WebView
-        android:id="@+id/webView"
+    <LinearLayout
+        android:id="@+id/appShell"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#12100D">
 
-    <ProgressBar
-        android:id="@+id/progressBar"
-        style="?android:attr/progressBarStyleHorizontal"
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/topBar"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:background="@drawable/appbar_background"
+            android:elevation="10dp"
+            app:menu="@menu/toolbar_menu"
+            app:title=""
+            app:contentInsetStartWithNavigation="12dp"
+            app:contentInsetStart="12dp"
+            app:contentInsetEnd="6dp">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <FrameLayout
+                    android:layout_width="44dp"
+                    android:layout_height="44dp"
+                    android:background="@drawable/logo_circle">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="IP"
+                        android:textColor="#FFF4DD"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="11dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/appTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ISESE PONBELE"
+                        android:textColor="#FFF4DD"
+                        android:textSize="15sp"
+                        android:textStyle="bold"
+                        android:letterSpacing="0.06" />
+
+                    <TextView
+                        android:id="@+id/pageTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp"
+                        android:text="Traditional Knowledge House"
+                        android:textColor="#C9AE86"
+                        android:textSize="11sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </com.google.android.material.appbar.MaterialToolbar>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#12100D">
+
+            <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+                android:id="@+id/swipeRefresh"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <WebView
+                    android:id="@+id/webView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#12100D"
+                    android:overScrollMode="never" />
+            </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+            <com.google.android.material.progressindicator.LinearProgressIndicator
+                android:id="@+id/progressBar"
+                android:layout_width="match_parent"
+                android:layout_height="3dp"
+                android:layout_gravity="top"
+                android:visibility="gone"
+                app:indicatorColor="#D7B16A"
+                app:trackColor="#33251A"
+                app:trackThickness="3dp" />
+
+            <TextView
+                android:id="@+id/offlineChip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|center_horizontal"
+                android:layout_marginTop="12dp"
+                android:background="#E61B120C"
+                android:elevation="8dp"
+                android:paddingStart="14dp"
+                android:paddingTop="7dp"
+                android:paddingEnd="14dp"
+                android:paddingBottom="7dp"
+                android:text="Offline library ready"
+                android:textColor="#E3BD72"
+                android:textSize="11sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+        </FrameLayout>
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+            android:id="@+id/bottomNav"
+            android:layout_width="match_parent"
+            android:layout_height="72dp"
+            android:background="@drawable/bottom_nav_background"
+            android:elevation="14dp"
+            app:itemIconSize="23dp"
+            app:itemIconTint="@color/bottom_nav_color"
+            app:itemTextColor="@color/bottom_nav_color"
+            app:itemRippleColor="#33D7B16A"
+            app:labelVisibilityMode="labeled"
+            app:menu="@menu/bottom_nav_menu" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/splashOverlay"
         android:layout_width="match_parent"
-        android:layout_height="3dp"
-        android:layout_gravity="top"
-        android:max="100"
-        android:progressTint="#C8953F"
-        android:indeterminateTint="#C8953F" />
+        android:layout_height="match_parent"
+        android:background="@drawable/splash_background"
+        android:clickable="true"
+        android:elevation="30dp">
+
+        <View
+            android:id="@+id/ringOuter"
+            android:layout_width="210dp"
+            android:layout_height="210dp"
+            android:layout_gravity="center"
+            android:background="@drawable/ring_outline"
+            android:alpha="0.22" />
+
+        <View
+            android:id="@+id/ringInner"
+            android:layout_width="158dp"
+            android:layout_height="158dp"
+            android:layout_gravity="center"
+            android:background="@drawable/ring_outline"
+            android:alpha="0.38" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="28dp">
+
+            <FrameLayout
+                android:id="@+id/splashLogo"
+                android:layout_width="112dp"
+                android:layout_height="112dp"
+                android:background="@drawable/logo_circle"
+                android:elevation="18dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="IP"
+                    android:textColor="#FFF4DD"
+                    android:textSize="31sp"
+                    android:textStyle="bold"
+                    android:letterSpacing="0.08" />
+            </FrameLayout>
+
+            <TextView
+                android:id="@+id/splashTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="28dp"
+                android:text="ISESE PONBELE"
+                android:textColor="#FFF4DD"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.10" />
+
+            <TextView
+                android:id="@+id/splashSubtitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:gravity="center"
+                android:text="ISESE L'AGBA • ILE IMO YORUBA"
+                android:textColor="#D7B16A"
+                android:textSize="12sp"
+                android:textStyle="bold"
+                android:letterSpacing="0.08" />
+
+            <com.google.android.material.progressindicator.LinearProgressIndicator
+                android:layout_width="150dp"
+                android:layout_height="3dp"
+                android:layout_marginTop="30dp"
+                android:indeterminate="true"
+                app:indicatorColor="#D7B16A"
+                app:trackColor="#402A18"
+                app:trackThickness="3dp" />
+        </LinearLayout>
+    </FrameLayout>
 </FrameLayout>
