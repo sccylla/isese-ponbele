@@ -2,10 +2,6 @@ name: Build Isese Ponbele APK
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'android-app/**'
-      - '.github/workflows/build-isese-apk.yml'
 
 permissions:
   contents: read
