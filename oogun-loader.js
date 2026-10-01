@@ -33,6 +33,21 @@
     return Array.isArray(data) ? data : [];
   };
 
+  const loadRealPdfArchive = async () => {
+    window.OOGUN_EXTRA_GZ = '';
+    for(let i=1;i<=8;i++) {
+      await new Promise((resolve,reject) => {
+        const s = document.createElement('script');
+        s.src = `oogun-extra-lite-${i}.js?v=20261001-5`;
+        s.async = false;
+        s.onload = resolve;
+        s.onerror = () => reject(new Error(`Could not load verified PDF archive part ${i}.`));
+        document.head.appendChild(s);
+      });
+    }
+    return window.OOGUN_EXTRA_GZ || '';
+  };
+
   const render = entries => {
     entries = [...entries].sort((a,b)=>(Number(a.q)||0)-(Number(b.q)||0));
     window.OOGUN_ENTRIES = entries;
@@ -41,9 +56,9 @@
       if(/entries imported/i.test(b.textContent)) b.textContent=`${entries.length.toLocaleString()} entries imported`;
     });
     const archiveNote=document.querySelector('.oogun-source-note');
-    if(archiveNote) archiveNote.innerHTML = entries.length > 220
-      ? '<strong>Archive note:</strong> This archive combines the original Oogun collection with 1,000 source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. New additions retain their PDF page references.'
-      : '<strong>Archive note:</strong> The original Oogun archive is available. The expanded PDF archive did not finish loading.';
+    if(archiveNote) archiveNote.innerHTML = entries.length === 1220
+      ? '<strong>Archive note:</strong> This archive combines the original 220-record Oogun collection with 1,000 source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. New additions retain their PDF page references.'
+      : `<strong>Archive note:</strong> ${entries.length.toLocaleString()} archive entries are currently available.`;
 
     const cats = [...new Set(entries.map(e=>e.c || 'Other'))].sort((a,b)=>a.localeCompare(b));
     const counts = Object.fromEntries(cats.map(c=>[c,entries.filter(e=>(e.c||'Other')===c).length]));
@@ -59,7 +74,7 @@
         <div class="entry-top"><span class="entry-tag">${esc(e.c||'Other')}</span><span class="entry-id">${esc(e.s||e.q)}</span></div>
         <h3>${esc(e.t||'Untitled entry')}</h3>
         <div class="translation">${esc(short)}</div>
-        <p>${restricted ? 'Independent archive entry' : 'Open the formula to view materials, preparation and usage'}</p>
+        <p>${restricted ? 'Independent archive entry' : (e.a?.length || e.p?.length || e.u?.length ? 'Open the formula to view materials, preparation and usage' : 'Open the record to view its source reference')}</p>
         ${social(e.t||'this entry')}
         <span class="entry-open">↗</span>
       </article>`;
@@ -93,42 +108,21 @@
   };
 
   try {
-    let baseEntries = [];
-    let expandedEntries = [];
+    const baseEntries = await decompress(window.OOGUN_BASE_GZ || window.OOGUN_GZ || '');
+    const realExtraCompressed = await loadRealPdfArchive();
+    const extraEntries = await decompress(realExtraCompressed);
 
-    try {
-      baseEntries = await decompress(window.OOGUN_BASE_GZ || window.OOGUN_GZ || '');
-    } catch(baseErr) {
-      console.error('Base archive error:', baseErr);
-    }
+    if(baseEntries.length !== 220) console.warn(`Expected 220 original entries, decoded ${baseEntries.length}.`);
+    if(extraEntries.length !== 1000) throw new Error(`Expected 1,000 PDF entries, decoded ${extraEntries.length}.`);
 
-    try {
-      expandedEntries = await decompress(window.OOGUN_EXPANDED_GZ || '');
-    } catch(expandedErr) {
-      console.error('Expanded archive error:', expandedErr);
-    }
-
-    let entries = baseEntries;
-    if(expandedEntries.length > baseEntries.length) {
-      entries = expandedEntries;
-    } else if(expandedEntries.length) {
-      const merged = [...baseEntries, ...expandedEntries];
-      const seen = new Set();
-      entries = merged.filter(e => {
-        const key = `${e.src||''}|${e.s||''}|${e.q||''}|${e.t||''}`;
-        if(seen.has(key)) return false;
-        seen.add(key);
-        return true;
-      });
-    }
-
-    if(!entries.length) throw new Error('No archive entries could be decoded.');
+    const entries = [...baseEntries, ...extraEntries];
+    if(entries.length !== 1220) throw new Error(`Expected 1,220 total entries, got ${entries.length}.`);
     render(entries);
 
     try {
       await new Promise((resolve,reject)=>{
         const s=document.createElement('script');
-        s.src='script.js?v=20261001-3';
+        s.src='script.js?v=20261001-5';
         s.onload=resolve;
         s.onerror=reject;
         document.body.appendChild(s);
@@ -138,7 +132,7 @@
     }
   } catch(err) {
     console.error(err);
-    if(grid) grid.innerHTML='<div class="empty-state" style="display:block">The Oogun archive could not be loaded. Please refresh the page.</div>';
+    if(grid) grid.innerHTML='<div class="empty-state" style="display:block">The expanded Oogun archive could not be loaded. Please refresh the page.</div>';
     if(count) count.textContent='Archive unavailable';
   }
 })();
