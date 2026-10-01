@@ -1,10 +1,10 @@
 /* Cowrie cursor for desktop / fine-pointer devices */
 @media (hover:hover) and (pointer:fine){
-  html,body,a,button,[role="button"],input,textarea,select,.entry-card,.category-card{cursor:none!important}
+  html,body,a,button,[role="button"],input,textarea,select,.entry-card,.category-card,.iwure-overlay,.iwure-overlay *{cursor:none!important}
 
   .cursor-dot{
     position:fixed!important;
-    z-index:10000!important;
+    z-index:100000!important;
     pointer-events:none!important;
     width:18px!important;
     height:27px!important;
@@ -41,7 +41,7 @@
 
   .cursor-ring{
     position:fixed!important;
-    z-index:9999!important;
+    z-index:99999!important;
     pointer-events:none!important;
     width:42px!important;
     height:42px!important;
