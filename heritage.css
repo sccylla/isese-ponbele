@@ -1,0 +1,199 @@
+/* Isese Ponbele — immersive Yoruba/Babalawo background layer */
+:root{
+  --ifa-photo:url('https://upload.wikimedia.org/wikipedia/commons/1/1b/Odi_meji.jpg');
+  --opon-photo:url('https://upload.wikimedia.org/wikipedia/commons/a/af/Jogo_de_Ikin_Orossi.JPG');
+  --drum-photo:url('https://upload.wikimedia.org/wikipedia/commons/d/d8/Yoruba_Talking_Drum_Performer_in_Nigeria.jpg');
+  --cowrie-photo:url('https://upload.wikimedia.org/wikipedia/commons/7/7e/Cowrie_shells.jpg');
+  --obatala-photo:url('https://upload.wikimedia.org/wikipedia/commons/c/cb/Obatala_Priester_im_Tempel.jpg');
+  --heritage-ink:#100b08;
+  --heritage-indigo:#101d2a;
+  --heritage-clay:#6b371d;
+  --heritage-gold:#d5a451;
+  --heritage-cream:#f0dfbd;
+}
+
+html{background:#100b08}
+body{
+  background:
+    linear-gradient(rgba(235,219,188,.92),rgba(235,219,188,.92)),
+    var(--opon-photo) center/520px auto fixed;
+}
+body::before{
+  content:'';position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:
+    radial-gradient(circle at 14% 18%,rgba(211,162,80,.12),transparent 26%),
+    radial-gradient(circle at 84% 68%,rgba(33,53,69,.13),transparent 28%);
+  mix-blend-mode:multiply;
+}
+
+/* Main home hero — clearly Babalawo / Ifa at first sight */
+.hero-immersive{
+  min-height:88vh;
+  background-image:
+    linear-gradient(90deg,rgba(11,7,5,.95) 0%,rgba(14,9,6,.88) 38%,rgba(14,9,6,.48) 69%,rgba(9,7,5,.74) 100%),
+    linear-gradient(180deg,rgba(16,29,42,.32),rgba(52,27,14,.44)),
+    var(--ifa-photo)!important;
+  background-size:cover!important;
+  background-position:center 32%!important;
+  background-attachment:fixed!important;
+}
+.hero-immersive::before{
+  content:'';position:absolute;inset:0;pointer-events:none;z-index:0;
+  background-image:
+    linear-gradient(45deg,transparent 44%,rgba(222,179,100,.10) 45%,rgba(222,179,100,.10) 47%,transparent 48%),
+    linear-gradient(-45deg,transparent 44%,rgba(222,179,100,.08) 45%,rgba(222,179,100,.08) 47%,transparent 48%);
+  background-size:44px 44px;
+  mask-image:linear-gradient(to right,#000,transparent 54%);
+}
+.hero-immersive .hero-copy{
+  position:relative;z-index:2;padding:34px;border:1px solid rgba(226,188,112,.23);
+  background:linear-gradient(135deg,rgba(18,12,8,.78),rgba(24,18,13,.40));
+  backdrop-filter:blur(3px);border-radius:28px;box-shadow:0 28px 80px rgba(0,0,0,.25);
+}
+.hero-immersive .hero-copy p,.hero-immersive .hero-note{color:#f2e6d1}
+.hero-immersive .display{color:#fff8eb;text-shadow:0 6px 28px rgba(0,0,0,.36)}
+.hero-immersive .display em{color:#e2b263}
+.hero-traditional-visual{filter:drop-shadow(0 28px 42px rgba(0,0,0,.42))}
+
+/* Cultural photographic dividers between content blocks */
+.section-paper,.section-cream{position:relative;isolation:isolate}
+.section-paper::before,.section-cream::before{
+  content:'';position:absolute;inset:0;z-index:-2;pointer-events:none;
+  background-image:
+    linear-gradient(rgba(241,226,198,.91),rgba(241,226,198,.91)),
+    var(--cowrie-photo);
+  background-size:auto,430px auto;background-position:center,center;
+  background-attachment:scroll,fixed;
+}
+.section-cream::before{
+  background-image:
+    linear-gradient(rgba(228,207,168,.91),rgba(228,207,168,.91)),
+    var(--obatala-photo);
+  background-size:auto,cover;background-position:center,center 30%;
+}
+.section-paper::after,.section-cream::after{
+  content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;opacity:.34;
+  background-image:var(--adire-grid);background-size:160px 160px;
+}
+
+.section-dark{
+  position:relative;isolation:isolate;
+  background-image:
+    linear-gradient(105deg,rgba(9,12,15,.96),rgba(17,30,42,.91) 52%,rgba(63,34,17,.88)),
+    var(--opon-photo)!important;
+  background-size:cover!important;background-position:center!important;background-attachment:fixed!important;
+}
+.section-dark::after{
+  content:'';position:absolute;inset:0;z-index:-1;pointer-events:none;
+  background:radial-gradient(circle at 75% 42%,rgba(217,168,86,.17),transparent 28%);
+}
+.section-dark .section-title,.section-dark h2,.section-dark h3{color:#fff3dd}
+.section-dark .section-copy,.section-dark p{color:#dbcdb8}
+
+.sacred-section{
+  background-image:
+    linear-gradient(rgba(236,219,186,.89),rgba(236,219,186,.92)),
+    var(--opon-photo)!important;
+  background-size:auto,cover!important;background-position:center!important;
+}
+.ritual-gallery-section{
+  background-image:
+    linear-gradient(110deg,rgba(10,8,6,.94),rgba(18,31,43,.87)),
+    var(--drum-photo)!important;
+  background-size:cover!important;background-position:center 35%!important;background-attachment:fixed!important;
+}
+
+/* Every inner-page hero becomes culturally photographic */
+.page-hero{
+  position:relative;overflow:hidden;
+  background-image:
+    linear-gradient(95deg,rgba(11,7,5,.95),rgba(17,29,40,.84) 60%,rgba(54,29,16,.66)),
+    var(--ifa-photo)!important;
+  background-size:cover!important;background-position:center 35%!important;
+  border-bottom:1px solid rgba(211,164,82,.24);
+}
+.page-hero::after{
+  content:'';position:absolute;inset:0;pointer-events:none;
+  background-image:var(--adire-grid);background-size:140px 140px;opacity:.11;
+}
+.page-hero>.container{position:relative;z-index:1}
+.page-hero-catalogue{
+  background-image:linear-gradient(95deg,rgba(8,7,6,.94),rgba(25,39,49,.80)),var(--opon-photo)!important;
+  background-position:center 52%!important;
+}
+.page-hero-herbs{
+  background-image:linear-gradient(95deg,rgba(16,11,6,.94),rgba(39,53,35,.80)),var(--obatala-photo)!important;
+}
+.page-hero-contact{
+  background-image:linear-gradient(95deg,rgba(10,7,5,.94),rgba(32,24,17,.76)),var(--drum-photo)!important;
+  background-position:center 38%!important;
+}
+
+/* Cards now feel like carved wood / woven cloth rather than white app cards */
+.category-card,.entry-card,.herb-card,.value-card,.orisa-card,.culture-card,.story-step,.concept,.contact-item,.multi-form,.filter-panel,.archive-panel{
+  border-color:rgba(111,66,31,.22)!important;
+  box-shadow:0 18px 48px rgba(63,37,18,.12),inset 0 0 0 1px rgba(255,246,225,.34)!important;
+}
+.category-card:not(.dark):not(.forest),.entry-card,.herb-card,.value-card,.concept,.contact-item,.multi-form,.filter-panel{
+  background:
+    linear-gradient(145deg,rgba(252,244,226,.94),rgba(226,203,163,.90)),
+    var(--cowrie-photo) center/240px auto!important;
+}
+.archive-stage{box-shadow:0 34px 100px rgba(0,0,0,.22)}
+.archive-nav{background:linear-gradient(180deg,#17100c,#25160e)}
+
+/* Footer: ceremony, rhythm and deep indigo */
+.footer{
+  position:relative;isolation:isolate;
+  background-image:
+    linear-gradient(100deg,rgba(8,7,7,.97),rgba(15,28,39,.92),rgba(54,27,13,.90)),
+    var(--drum-photo)!important;
+  background-size:cover!important;background-position:center 48%!important;
+}
+.footer::before{
+  content:'';position:absolute;inset:0;z-index:-1;background-image:var(--adire-grid);background-size:145px 145px;opacity:.10;
+}
+
+/* Iwure ti Oni popup */
+.iwure-overlay{
+  position:fixed;inset:0;z-index:99990;display:grid;place-items:center;padding:24px;
+  background:rgba(9,6,4,.72);backdrop-filter:blur(8px);opacity:0;visibility:hidden;transition:opacity .4s ease,visibility .4s ease;
+}
+.iwure-overlay.open{opacity:1;visibility:visible}
+.iwure-card{
+  width:min(620px,100%);position:relative;overflow:hidden;border-radius:32px;padding:42px 42px 34px;
+  color:#f8ebd2;border:1px solid rgba(225,181,100,.42);
+  background-image:
+    linear-gradient(140deg,rgba(16,11,7,.97),rgba(23,39,51,.94) 58%,rgba(81,43,20,.92)),
+    var(--opon-photo);
+  background-size:cover;background-position:center;
+  box-shadow:0 40px 120px rgba(0,0,0,.56);
+  transform:translateY(24px) scale(.96);transition:transform .48s var(--ease);
+}
+.iwure-overlay.open .iwure-card{transform:none}
+.iwure-card::before{
+  content:'';position:absolute;inset:12px;border:1px solid rgba(225,181,100,.22);border-radius:23px;pointer-events:none;
+}
+.iwure-card::after{
+  content:'';position:absolute;inset:0;background-image:var(--adire-grid);background-size:130px 130px;opacity:.10;pointer-events:none;
+}
+.iwure-content{position:relative;z-index:2;text-align:center}
+.iwure-cowries{display:flex;justify-content:center;gap:8px;margin-bottom:16px}
+.iwure-cowries span{display:block;width:18px;height:27px;border-radius:52% 48% 48% 52%;background:linear-gradient(#f6e7c7,#d5a75c);position:relative;transform:rotate(var(--r,0deg));box-shadow:0 5px 12px rgba(0,0,0,.24)}
+.iwure-cowries span::after{content:'';position:absolute;left:50%;top:5px;bottom:5px;width:4px;transform:translateX(-50%);border-radius:99px;background:#6b4828}
+.iwure-kicker{font-family:var(--font-ui);font-size:.76rem;letter-spacing:.25em;text-transform:uppercase;color:#e7bc70}
+.iwure-title{font-family:var(--font-display);font-size:clamp(2.2rem,7vw,4.1rem);line-height:.92;margin:.18em 0 .35em;color:#fff7e7}
+.iwure-yoruba{font-family:var(--font-display);font-size:clamp(1.35rem,3.5vw,2rem);line-height:1.35;margin:0 auto 16px;max-width:500px;color:#ffe9bd}
+.iwure-english{font-family:var(--font-reading);font-size:1.02rem;line-height:1.65;margin:0 auto;max-width:500px;color:#dacbb6}
+.iwure-date{margin-top:20px;font-family:var(--font-ui);font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#a99a88}
+.iwure-close{margin-top:25px;border:1px solid rgba(231,188,112,.46);background:#d8a958;color:#17100b;border-radius:999px;padding:12px 22px;font-family:var(--font-ui);font-weight:700;cursor:pointer;position:relative;z-index:3}
+.iwure-x{position:absolute;top:17px;right:19px;z-index:4;width:36px;height:36px;border-radius:50%;border:1px solid rgba(255,255,255,.23);background:rgba(0,0,0,.24);color:white;font-size:1.15rem;cursor:pointer}
+
+@media(max-width:800px){
+  .hero-immersive{background-attachment:scroll!important;background-position:62% center!important}
+  .hero-immersive .hero-copy{padding:24px;background:rgba(16,11,7,.77)}
+  .section-dark,.ritual-gallery-section{background-attachment:scroll!important}
+  .page-hero{background-position:60% center!important}
+  .iwure-card{padding:38px 24px 29px;border-radius:25px}
+}
+@media(prefers-reduced-motion:reduce){.iwure-card{transition:none}}
