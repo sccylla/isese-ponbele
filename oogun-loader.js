@@ -3,7 +3,7 @@
   const filterBox = document.getElementById('oogunFilters');
   const count = document.getElementById('resultCount');
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const slug = s => s.toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+  const slug = s => String(s ?? '').toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
 
   const social = title => {
     const msg = encodeURIComponent(`Hello Isese Ponbele, I am asking about ${title}.`);
@@ -22,38 +22,51 @@
     return `<div class="formula-block"><h4>${esc(title)}</h4><${tag}>${items.map(x=>`<li>${esc(x)}</li>`).join('')}</${tag}></div>`;
   };
 
-  const loadArchive = async () => {
-    window.OOGUN_GZ = '';
-    for(let i=1;i<=12;i++) {
-      await new Promise((resolve,reject)=>{
-        const s=document.createElement('script');
-        s.src=`oogun-data-${i}.js`;
-        s.onload=resolve;
-        s.onerror=()=>reject(new Error(`Could not load archive data part ${i}.`));
-        document.head.appendChild(s);
-      });
-    }
-  };
-
-  try {
-    if(!('DecompressionStream' in window)) throw new Error('This browser does not support compressed archive data.');
-    await loadArchive();
-    const raw = atob(window.OOGUN_GZ || '');
+  const decompress = async b64 => {
+    if(!b64) return [];
+    if(!('DecompressionStream' in window)) throw new Error('Compressed archive data is not supported by this browser.');
+    const raw = atob(b64);
     const bytes = Uint8Array.from(raw, c => c.charCodeAt(0));
     const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
     const text = await new Response(stream).text();
-    const entries = JSON.parse(text).sort((a,b)=>a.q-b.q);
-    window.OOGUN_ENTRIES = entries;
+    const data = JSON.parse(text);
+    return Array.isArray(data) ? data : [];
+  };
+
+  const loadExtraArchive = async () => {
+    const previous = window.OOGUN_GZ || '';
     window.OOGUN_GZ = '';
+    try {
+      for(let i=1;i<=12;i++) {
+        await new Promise((resolve,reject)=>{
+          const s=document.createElement('script');
+          s.src=`oogun-data-${i}.js?v=20261001-2`;
+          s.async=false;
+          s.onload=resolve;
+          s.onerror=()=>reject(new Error(`Could not load archive data part ${i}.`));
+          document.head.appendChild(s);
+        });
+      }
+      return window.OOGUN_GZ || '';
+    } finally {
+      window.OOGUN_GZ = previous;
+    }
+  };
+
+  const render = entries => {
+    entries = [...entries].sort((a,b)=>(Number(a.q)||0)-(Number(b.q)||0));
+    window.OOGUN_ENTRIES = entries;
 
     document.querySelectorAll('.hero-badge').forEach(b=>{
-      if(/220 entries imported/i.test(b.textContent)) b.textContent='1,220 entries imported';
+      if(/entries imported/i.test(b.textContent)) b.textContent=`${entries.length.toLocaleString()} entries imported`;
     });
     const archiveNote=document.querySelector('.oogun-source-note');
-    if(archiveNote) archiveNote.innerHTML='<strong>Archive note:</strong> The archive now combines the original 220-record Oogun collection with 1,000 source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. PDF page references are retained for the new additions.';
+    if(archiveNote) archiveNote.innerHTML = entries.length > 220
+      ? '<strong>Archive note:</strong> This archive combines the original Oogun collection with source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. New additions retain their PDF page references.'
+      : '<strong>Archive note:</strong> The original Oogun archive is available. Additional PDF entries are being loaded separately.';
 
-    const cats = [...new Set(entries.map(e=>e.c))].sort((a,b)=>a.localeCompare(b));
-    const counts = Object.fromEntries(cats.map(c=>[c,entries.filter(e=>e.c===c).length]));
+    const cats = [...new Set(entries.map(e=>e.c || 'Other'))].sort((a,b)=>a.localeCompare(b));
+    const counts = Object.fromEntries(cats.map(c=>[c,entries.filter(e=>(e.c||'Other')===c).length]));
     if(filterBox) filterBox.innerHTML = [
       `<button class="filter-btn active" data-filter="all"><span>All formulas</span><span>${entries.length}</span></button>`,
       ...cats.map(c=>`<button class="filter-btn" data-filter="${slug(c)}"><span>${esc(c)}</span><span>${counts[c]}</span></button>`)
@@ -62,48 +75,89 @@
     if(grid) grid.innerHTML = entries.map(e=>{
       const restricted = e.r && e.r.length;
       const short = e.m || 'Traditional Oogun archive entry';
-      return `<article class="entry-card reveal" data-category="${slug(e.c)}" data-entry-id="${e.q}" data-label="${esc(e.c)}" data-title="${esc(e.t)}" data-translation="${esc(short)}" data-type="${esc(e.c)}" data-description="${esc(short)}">
-        <div class="entry-top"><span class="entry-tag">${esc(e.c)}</span><span class="entry-id">${esc(e.s)}</span></div>
-        <h3>${esc(e.t)}</h3>
+      return `<article class="entry-card reveal" data-category="${slug(e.c||'Other')}" data-entry-id="${esc(e.q)}" data-label="${esc(e.c||'Other')}" data-title="${esc(e.t)}" data-translation="${esc(short)}" data-type="${esc(e.c||'Other')}" data-description="${esc(short)}">
+        <div class="entry-top"><span class="entry-tag">${esc(e.c||'Other')}</span><span class="entry-id">${esc(e.s||e.q)}</span></div>
+        <h3>${esc(e.t||'Untitled entry')}</h3>
         <div class="translation">${esc(short)}</div>
         <p>${restricted ? 'Independent archive entry' : 'Open the formula to view materials, preparation and usage'}</p>
-        ${social(e.t)}
+        ${social(e.t||'this entry')}
         <span class="entry-open">↗</span>
       </article>`;
     }).join('');
-    if(count) count.textContent = `${entries.length} entries`;
-
-    await new Promise((resolve,reject)=>{
-      const s=document.createElement('script'); s.src='script.js'; s.onload=resolve; s.onerror=reject; document.body.appendChild(s);
-    });
+    if(count) count.textContent = `${entries.length.toLocaleString()} entries`;
 
     document.querySelectorAll('.post-social a').forEach(a=>a.addEventListener('click',e=>e.stopPropagation()));
 
     const modal=document.getElementById('detailModal'), body=document.getElementById('modalBody');
     document.querySelectorAll('.entry-card[data-entry-id]').forEach(card=>{
       card.addEventListener('click',()=>{
-        const e=entries.find(x=>x.q===Number(card.dataset.entryId));
+        const id = card.dataset.entryId;
+        const e=entries.find(x=>String(x.q)===String(id));
         if(!e || !modal || !body) return;
         const restricted = e.r && e.r.length;
         const sourceName = e.src || 'OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS';
         const sourcePage = e.pg ? ` • PDF page ${e.pg}` : '';
         const details = restricted ? '' : `${list('Materials needed',e.a)}${list('Preparation',e.p,true)}${list('Usage',e.u,true)}${list('Incantation / Ofo',e.i)}${list('Translation',e.x)}${list('Source notes',e.o)}`;
-        body.innerHTML = `<div class="kicker">Source entry ${esc(e.s)} • ${esc(e.c)}</div>
-          <h2>${esc(e.t)}</h2>
+        body.innerHTML = `<div class="kicker">Source entry ${esc(e.s||e.q)} • ${esc(e.c||'Other')}</div>
+          <h2>${esc(e.t||'Untitled entry')}</h2>
           <div class="translation">${esc(e.m||'Traditional Oogun archive entry')}</div>
-          <div class="modal-meta"><span>${esc(e.c)}</span><span>Independent formula</span></div>
+          <div class="modal-meta"><span>${esc(e.c||'Other')}</span><span>Independent formula</span></div>
           ${details}
           <div class="source-line">Source: <em>${esc(sourceName)}</em>${esc(sourcePage)} — wording organized from the supplied source.</div>
-          ${social(e.t)}`;
+          ${social(e.t||'this entry')}`;
         modal.classList.add('open');
         document.body.style.overflow='hidden';
         body.querySelectorAll('.post-social a').forEach(a=>a.addEventListener('click',ev=>ev.stopPropagation()));
       });
     });
+  };
+
+  try {
+    const baseCompressed = window.OOGUN_GZ || '';
+    let baseEntries = [];
+    try { baseEntries = await decompress(baseCompressed); }
+    catch(baseErr) { console.error('Base archive error:', baseErr); }
+
+    let entries = baseEntries;
+    try {
+      const extraCompressed = await loadExtraArchive();
+      const extraEntries = await decompress(extraCompressed);
+      if(extraEntries.length) {
+        const containsOriginalRange = extraEntries.some(e => Number(e.q) > 0 && Number(e.q) <= 220);
+        if(containsOriginalRange && extraEntries.length >= baseEntries.length) {
+          entries = extraEntries;
+        } else {
+          const merged = [...baseEntries, ...extraEntries];
+          const seen = new Set();
+          entries = merged.filter(e => {
+            const key = `${e.src||''}|${e.s||''}|${e.q||''}|${e.t||''}`;
+            if(seen.has(key)) return false;
+            seen.add(key);
+            return true;
+          });
+        }
+      }
+    } catch(extraErr) {
+      console.error('Additional archive error:', extraErr);
+    }
+
+    if(!entries.length) throw new Error('No archive entries could be decoded.');
+    render(entries);
+
+    try {
+      await new Promise((resolve,reject)=>{
+        const s=document.createElement('script');
+        s.src='script.js?v=20261001-2';
+        s.onload=resolve;
+        s.onerror=reject;
+        document.body.appendChild(s);
+      });
+    } catch(scriptErr) {
+      console.error('Archive interface helper error:', scriptErr);
+    }
   } catch(err) {
     console.error(err);
-    if(grid) grid.innerHTML='<div class="empty-state" style="display:block">The Oogun archive could not be loaded in this browser.</div>';
+    if(grid) grid.innerHTML='<div class="empty-state" style="display:block">The Oogun archive could not be loaded. Please refresh the page.</div>';
     if(count) count.textContent='Archive unavailable';
-    const s=document.createElement('script'); s.src='script.js'; document.body.appendChild(s);
   }
 })();
