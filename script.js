@@ -164,6 +164,26 @@
   herbSearch?.addEventListener('input',filterHerbs);
   $$('.alphabet button').forEach(b=>b.addEventListener('click',()=>{$$('.alphabet button').forEach(x=>x.classList.remove('active'));b.classList.add('active');herbLetter=b.dataset.letter;filterHerbs()}));
 
+  // Social/contact buttons at the end of every Leaves Documentary post
+  if($$('.leaf-entry').length){
+    if(!$('#leaf-social-style')){
+      const style=document.createElement('style');
+      style.id='leaf-social-style';
+      style.textContent=`.leaf-post-social{margin-top:20px;padding-top:16px;border-top:1px solid rgba(111,66,31,.14)}.leaf-post-social-label{display:block;margin-bottom:9px;font-size:.66rem;font-weight:900;letter-spacing:.1em;text-transform:uppercase;color:#7b6248}.leaf-post-social-links{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}.leaf-post-social a{display:flex;align-items:center;justify-content:center;min-height:38px;padding:7px 8px;border-radius:10px;color:#fff!important;text-decoration:none!important;font-size:.68rem;font-weight:900}.leaf-social-tiktok{background:#090909}.leaf-social-facebook{background:#1877f2}.leaf-social-youtube{background:#e00028}.leaf-social-whatsapp{background:#159447}@media(max-width:560px){.leaf-post-social-links{grid-template-columns:repeat(2,minmax(0,1fr))}}`;
+      document.head.appendChild(style);
+    }
+    $$('.leaf-entry').forEach(card=>{
+      const content=$('.leaf-content',card);
+      if(!content || $('.leaf-post-social',content)) return;
+      const leaf=card.dataset.name || $('h3',card)?.textContent?.trim() || 'this leaf';
+      const msg=encodeURIComponent(`Hello Isese Ponbele, I am asking about the ${leaf} leaf documentary.`);
+      const block=document.createElement('div');
+      block.className='leaf-post-social';
+      block.innerHTML=`<span class="leaf-post-social-label">Follow & contact Isese Ponbele</span><div class="leaf-post-social-links"><a class="leaf-social-tiktok" href="https://www.tiktok.com/@iseseponbele" target="_blank" rel="noopener noreferrer">TikTok</a><a class="leaf-social-facebook" href="https://www.facebook.com/iseseponbele" target="_blank" rel="noopener noreferrer">Facebook</a><a class="leaf-social-youtube" href="https://www.youtube.com/@iseseponbele" target="_blank" rel="noopener noreferrer">YouTube</a><a class="leaf-social-whatsapp" href="https://wa.me/2347047604452?text=${msg}" target="_blank" rel="noopener noreferrer">WhatsApp</a></div>`;
+      content.appendChild(block);
+    });
+  }
+
   // Multi-step consultation form
   const form=$('#consultationForm');
   if(form){
