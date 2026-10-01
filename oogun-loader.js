@@ -4,16 +4,18 @@
   const count = document.getElementById('resultCount');
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const slug = s => s.toLowerCase().replace(/&/g,'and').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-  const social = (title) => {
+
+  const social = title => {
     const msg = encodeURIComponent(`Hello Isese Ponbele, I am asking about ${title}.`);
     return `<div class="post-social" aria-label="Isese Ponbele social media">
-      <span class="post-social-label">Connect / enquire</span>
-      <a class="social-btn social-tiktok" href="https://www.tiktok.com/@iseseponbele" target="_blank" rel="noopener noreferrer" aria-label="Isese Ponbele on TikTok">TikTok</a>
-      <a class="social-btn social-facebook" href="https://www.facebook.com/iseseponbele" target="_blank" rel="noopener noreferrer" aria-label="Isese Ponbele on Facebook">Facebook</a>
-      <a class="social-btn social-youtube" href="https://www.youtube.com/iseseponbele" target="_blank" rel="noopener noreferrer" aria-label="Isese Ponbele on YouTube">YouTube</a>
-      <a class="social-btn social-whatsapp" href="https://wa.me/2347047604452?text=${msg}" target="_blank" rel="noopener noreferrer" aria-label="Contact Isese Ponbele on WhatsApp">WhatsApp</a>
+      <span class="post-social-label">Connect with Isese Ponbele</span>
+      <a class="social-btn social-tiktok" href="https://www.tiktok.com/@iseseponbele" target="_blank" rel="noopener noreferrer">TikTok</a>
+      <a class="social-btn social-facebook" href="https://www.facebook.com/iseseponbele" target="_blank" rel="noopener noreferrer">Facebook</a>
+      <a class="social-btn social-youtube" href="https://www.youtube.com/iseseponbele" target="_blank" rel="noopener noreferrer">YouTube</a>
+      <a class="social-btn social-whatsapp" href="https://wa.me/2347047604452?text=${msg}" target="_blank" rel="noopener noreferrer">WhatsApp</a>
     </div>`;
   };
+
   const list = (title, items, ordered=false) => {
     if(!items || !items.length) return '';
     const tag = ordered ? 'ol' : 'ul';
@@ -37,28 +39,44 @@
       ...cats.map(c=>`<button class="filter-btn" data-filter="${slug(c)}"><span>${esc(c)}</span><span>${counts[c]}</span></button>`)
     ].join('');
 
-    if(grid) {
-      grid.classList.add('oogun-full-grid');
-      grid.innerHTML = entries.map(e=>{
-        const restricted = e.r && e.r.length;
-        const short = e.m || 'Traditional Oogun archive entry';
-        const details = restricted
-          ? `<div class="modal-note formula-restriction"><strong>Source entry retained:</strong> This formula remains visible by title, stated purpose and category. Its source contains operational directions involving ${esc(e.r.join(', '))}; those dangerous action steps are not published on the public page.</div>`
-          : `${list('Materials needed',e.a)}${list('Preparation',e.p,true)}${list('Usage',e.u,true)}${list('Incantation / Ofo',e.i)}${list('Translation',e.x)}${list('Source notes',e.o)}`;
-        return `<article class="entry-card oogun-post reveal" id="oogun-${esc(e.s)}" data-category="${slug(e.c)}" data-entry-id="${e.q}" data-label="${esc(e.c)}" data-title="${esc(e.t)}" data-translation="${esc(short)}" data-type="${esc(e.c)}" data-description="${esc(short)}">
-          <div class="entry-top"><span class="entry-tag">${esc(e.c)}</span><span class="entry-id">${esc(e.s)}</span></div>
-          <h3>${esc(e.t)}</h3>
-          <div class="translation">${esc(short)}</div>
-          ${details}
-          <div class="source-line">Source: <em>OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS</em> — wording preserved as supplied; claimed effects and botanical identifications are not independently verified.</div>
-          ${social(e.t)}
-        </article>`;
-      }).join('');
-    }
-    if(count) count.textContent=`${entries.length} entries • full posts shown below`;
+    if(grid) grid.innerHTML = entries.map(e=>{
+      const restricted = e.r && e.r.length;
+      const short = e.m || 'Traditional Oogun archive entry';
+      return `<article class="entry-card reveal" data-category="${slug(e.c)}" data-entry-id="${e.q}" data-label="${esc(e.c)}" data-title="${esc(e.t)}" data-translation="${esc(short)}" data-type="${esc(e.c)}" data-description="${esc(short)}">
+        <div class="entry-top"><span class="entry-tag">${esc(e.c)}</span><span class="entry-id">${esc(e.s)}</span></div>
+        <h3>${esc(e.t)}</h3>
+        <div class="translation">${esc(short)}</div>
+        <p>${restricted ? 'Independent archive entry' : 'Open the formula to view materials, preparation and usage'}</p>
+        ${social(e.t)}
+        <span class="entry-open">↗</span>
+      </article>`;
+    }).join('');
+    if(count) count.textContent = `${entries.length} entries`;
 
     await new Promise((resolve,reject)=>{
       const s=document.createElement('script'); s.src='script.js'; s.onload=resolve; s.onerror=reject; document.body.appendChild(s);
+    });
+
+    document.querySelectorAll('.post-social a').forEach(a=>a.addEventListener('click',e=>e.stopPropagation()));
+
+    const modal=document.getElementById('detailModal'), body=document.getElementById('modalBody');
+    document.querySelectorAll('.entry-card[data-entry-id]').forEach(card=>{
+      card.addEventListener('click',()=>{
+        const e=entries.find(x=>x.q===Number(card.dataset.entryId));
+        if(!e || !modal || !body) return;
+        const restricted = e.r && e.r.length;
+        const details = restricted ? '' : `${list('Materials needed',e.a)}${list('Preparation',e.p,true)}${list('Usage',e.u,true)}${list('Incantation / Ofo',e.i)}${list('Translation',e.x)}${list('Source notes',e.o)}`;
+        body.innerHTML = `<div class="kicker">Source entry ${esc(e.s)} • ${esc(e.c)}</div>
+          <h2>${esc(e.t)}</h2>
+          <div class="translation">${esc(e.m||'Traditional Oogun archive entry')}</div>
+          <div class="modal-meta"><span>${esc(e.c)}</span><span>Independent formula</span></div>
+          ${details}
+          <div class="source-line">Source: <em>OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS</em> — wording preserved as supplied.</div>
+          ${social(e.t)}`;
+        modal.classList.add('open');
+        document.body.style.overflow='hidden';
+        body.querySelectorAll('.post-social a').forEach(a=>a.addEventListener('click',ev=>ev.stopPropagation()));
+      });
     });
   } catch(err) {
     console.error(err);
