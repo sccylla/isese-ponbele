@@ -3,7 +3,11 @@ on:
   workflow_dispatch:
   push:
     branches: [digital-opele]
-    paths: ['opele/**','opele-android/**','.github/workflows/digital-opele-apk.yml']
+    paths:
+      - 'opele/**'
+      - 'opele-android/**'
+      - '.github/scripts/generate_opele_knowledge.py'
+      - '.github/workflows/digital-opele-apk.yml'
 permissions: { contents: read }
 jobs:
   build-apk:
@@ -25,14 +29,28 @@ jobs:
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.9'
-      - name: Bundle web app
-        run: mkdir -p opele-android/app/src/main/assets && cp -R opele/. opele-android/app/src/main/assets/
+      - name: Bundle consultation web app
+        run: |
+          rm -rf opele-android/app/src/main/assets
+          mkdir -p opele-android/app/src/main/assets
+          cp -R opele/. opele-android/app/src/main/assets/
+      - name: Generate expanded offline interpretation pack
+        run: |
+          python .github/scripts/generate_opele_knowledge.py opele-android/app/src/main/assets/knowledge.generated.js
+          ls -lh opele-android/app/src/main/assets/knowledge.generated.js
+          test $(stat -c%s opele-android/app/src/main/assets/knowledge.generated.js) -gt 10000000
       - name: Build APK
         working-directory: opele-android
         run: gradle :app:assembleDebug --stacktrace
+      - name: Verify and rename APK
+        run: |
+          APK="opele-android/app/build/outputs/apk/debug/app-debug.apk"
+          test -f "$APK"
+          ls -lh "$APK"
+          cp "$APK" Digital-Opele-Ifa-v2.apk
       - uses: actions/upload-artifact@v4
         with:
-          name: digital-opele-ifa-apk
-          path: opele-android/app/build/outputs/apk/debug/app-debug.apk
+          name: digital-opele-ifa-v2-apk
+          path: Digital-Opele-Ifa-v2.apk
           if-no-files-found: error
           retention-days: 90
