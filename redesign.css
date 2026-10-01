@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+
+/* =========================================================
+   ISESE PONBELE — NEW EDITORIAL THEME
+   Indigo / terracotta / ivory — image-light — mobile-first
+   ========================================================= */
+:root{
+  --font-display:'Lora',Georgia,serif;
+  --font-reading:'Plus Jakarta Sans',Arial,sans-serif;
+  --font-ui:'Plus Jakarta Sans',Arial,sans-serif;
+  --indigo:#152536;
+  --indigo-2:#20394f;
+  --indigo-3:#2f506c;
+  --terracotta:#a45337;
+  --terracotta-2:#c56f50;
+  --ivory:#f7f1e7;
+  --ivory-2:#fcfaf6;
+  --sand:#e6d4ba;
+  --ink:#1e1a17;
+  --muted:#746d65;
+  --gold:#b88b4a;
+  --line:rgba(30,26,23,.11);
+  --line-dark:rgba(255,255,255,.13);
+  --shadow:0 22px 60px rgba(20,27,34,.10);
+  --shadow-soft:0 10px 30px rgba(20,27,34,.07);
+  --radius-lg:28px;
+  --radius-md:18px;
+}
+
+html{font-size:16px;background:var(--ivory-2)!important}
+body{font-family:var(--font-reading)!important;background:var(--ivory-2)!important;color:var(--ink)!important;line-height:1.72!important;letter-spacing:0!important}
+body:before,body:after{display:none!important}
+*{scrollbar-color:var(--terracotta) var(--ivory)}
+.container{width:min(1180px,calc(100% - 48px))!important}
+.section{padding:92px 0!important}
+.section-paper,.section-cream{background:var(--ivory-2)!important}
+.section-dark,.section-forest{background:var(--indigo)!important;color:#fff!important}
+
+/* Typography — force total change from prior theme */
+h1,h2,h3,h4,h5,h6,.display,.section-title,.page-hero h1,.entry-card h3,.knowledge-article h2,.herb-card h3,.dictionary-entry strong,.amulet-card h3,.store-card h3,.modal-card h2,.contact-aside h2,.form-step h3,.timeline-item h3,.value-card strong,.story-step h3,.archive-panel h3,.brand-copy strong,.home-title,.portal-card h3,.editorial-title{font-family:var(--font-display)!important;font-style:normal!important;font-weight:600!important;letter-spacing:-.035em!important}
+p,.section-copy,.entry-card p,.knowledge-article p,.herb-card p,.dictionary-entry p,.amulet-card p,.store-card p,.portal-card p{font-family:var(--font-reading)!important}
+.kicker,.eyebrow,.breadcrumbs,.hero-badge,.entry-tag,.filter-label,.step-label,.brand-copy small,.footer h4,.dictionary-count,.main-section-kicker,.main-section-no,.loader-text,.portal-kicker,.home-overline{font-family:var(--font-ui)!important;text-transform:uppercase!important;letter-spacing:.14em!important;font-weight:700!important}
+
+/* Strip out old decorative/photo treatment */
+.top-ticker,.motion-band,.cowrie-procession,.grain,.hero-glow,.hero-traditional-visual,.ritual-gallery-section,.traditional-photo-band,.knowledge-photo-montage,.photo-credit,.orisa-grid,.culture-grid,.sacred-section{display:none!important}
+.page-hero-photo:before,.page-hero-photo:after,.page-hero-catalogue:before,.page-hero-herbs:before,.page-hero-contact:before,.page-hero-amulets:before,.page-hero-store:before,.page-hero-dictionary:before{background-image:none!important;filter:none!important;opacity:1!important}
+.page-hero-photo{background:linear-gradient(135deg,var(--indigo),var(--indigo-2))!important}
+
+/* Header */
+.site-header{position:sticky!important;top:0!important;background:rgba(252,250,246,.96)!important;border-bottom:1px solid var(--line)!important;box-shadow:none!important;backdrop-filter:blur(14px)!important}
+.site-header.scrolled{background:rgba(252,250,246,.985)!important;box-shadow:0 10px 28px rgba(23,31,38,.05)!important}
+.nav{height:78px!important;gap:24px!important}
+.brand{gap:12px!important;min-width:max-content!important}
+.brand-mark{width:48px!important;height:48px!important;flex:0 0 48px!important;border-radius:50%!important;box-shadow:none!important;border:1px solid rgba(164,83,55,.20)!important}
+.brand-copy strong{font-size:1.05rem!important;color:var(--indigo)!important;letter-spacing:-.01em!important}
+.brand-copy small{font-size:.5rem!important;color:#8b7567!important;letter-spacing:.16em!important;margin-top:5px!important}
+.nav-links{display:flex!important;align-items:center!important;gap:20px!important;font-family:var(--font-ui)!important;font-size:.74rem!important;font-weight:700!important}
+.nav-links>a{padding:11px 0!important;color:#443a34!important}
+.nav-links>a:not(.nav-cta):after{height:2px!important;background:var(--terracotta)!important;bottom:5px!important}
+.nav-cta{background:var(--indigo)!important;color:#fff!important;border-radius:10px!important;padding:11px 15px!important}
+.menu-btn{display:none!important;border:1px solid var(--line)!important;background:#fff!important;color:var(--indigo)!important;border-radius:12px!important}
+
+/* NEW HOMEPAGE */
+.home-hero{position:relative;overflow:hidden;background:var(--ivory-2);padding:96px 0 78px;border-bottom:1px solid var(--line)}
+.home-hero:before{content:'';position:absolute;right:-140px;top:-120px;width:440px;height:440px;border-radius:50%;background:radial-gradient(circle,var(--sand),transparent 68%);opacity:.56}
+.home-hero-grid{display:grid;grid-template-columns:minmax(0,1.22fr) minmax(290px,.78fr);gap:70px;align-items:center}
+.home-overline{font-size:.69rem;color:var(--terracotta);margin-bottom:18px}
+.home-title{font-size:clamp(4.2rem,7.3vw,7.4rem);line-height:.9;margin:0;max-width:900px;color:var(--indigo)}
+.home-title span{display:block;color:var(--terracotta);font-weight:500}
+.home-lede{font-size:1.02rem;line-height:1.85;color:#685f58;max-width:700px;margin:26px 0 0}
+.home-actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:32px}
+.home-actions .btn{border-radius:10px!important;min-height:50px!important;padding:0 19px!important}
+.btn-primary{background:var(--terracotta)!important;color:#fff!important}
+.btn-primary:hover{background:#8f432d!important}
+.btn-ghost{background:transparent!important;color:var(--indigo)!important;border:1px solid rgba(21,37,54,.18)!important}
+.home-logo-panel{position:relative;padding:20px;background:var(--indigo);border-radius:32px;box-shadow:0 28px 70px rgba(21,37,54,.17)}
+.home-logo-panel:before{content:'';position:absolute;inset:12px;border:1px solid rgba(255,255,255,.10);border-radius:24px;pointer-events:none}
+.home-logo-panel img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:22px;display:block}
+.home-logo-note{display:flex;justify-content:space-between;gap:18px;align-items:flex-end;margin-top:18px;color:#e8e0d5}
+.home-logo-note strong{font-family:var(--font-display);font-size:1.5rem;font-weight:600}
+.home-logo-note span{font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:#c8aa8d;text-align:right}
+
+.home-intro{padding:34px 0;background:var(--indigo);color:#fff}
+.home-intro-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:50px;align-items:center}
+.home-intro h2{font-family:var(--font-display)!important;font-size:clamp(2rem,3.5vw,3.6rem);line-height:1.03;margin:0;font-weight:600}
+.home-intro p{margin:0;color:#d5dbe0;max-width:580px}
+
+.portal-section{padding:94px 0;background:var(--ivory)}
+.portal-head{display:flex;justify-content:space-between;gap:40px;align-items:end;margin-bottom:34px}
+.portal-head .editorial-title{font-size:clamp(2.8rem,4.5vw,5rem);line-height:.98;margin:0;color:var(--indigo);max-width:750px}
+.portal-head p{max-width:470px;margin:0;color:var(--muted)}
+.portal-grid{display:grid;grid-template-columns:1.25fr .75fr .75fr;grid-auto-rows:minmax(220px,auto);gap:16px}
+.portal-card{position:relative;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;min-height:220px;padding:28px;border-radius:22px;background:#fff;border:1px solid var(--line);transition:transform .25s ease,border-color .25s ease,box-shadow .25s ease}
+.portal-card:hover{transform:translateY(-4px);border-color:rgba(164,83,55,.28);box-shadow:var(--shadow-soft)}
+.portal-card.primary{grid-row:span 2;background:var(--indigo);color:#fff;border-color:transparent;padding:34px;min-height:456px}
+.portal-card.accent{background:#ead6c8}
+.portal-card.deep{background:#e5e9ec}
+.portal-number{font-size:.67rem;letter-spacing:.16em;text-transform:uppercase;font-weight:700;color:var(--terracotta)}
+.portal-card.primary .portal-number{color:#d7ae88}
+.portal-card h3{font-size:clamp(1.8rem,2.8vw,3rem);line-height:1.04;margin:18px 0 10px;color:var(--indigo)}
+.portal-card.primary h3{font-size:clamp(2.7rem,4vw,4.5rem);color:#fff}
+.portal-card p{margin:0;color:#766b63;font-size:.92rem;line-height:1.7}
+.portal-card.primary p{color:#ced7de;max-width:520px}
+.portal-link{display:inline-flex;align-items:center;gap:10px;margin-top:24px;font-size:.74rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--terracotta)}
+.portal-card.primary .portal-link{color:#efc89f}
+.portal-glyph{font-family:var(--font-display);font-size:3.5rem;color:rgba(164,83,55,.22);position:absolute;right:24px;top:18px}
+.portal-card.primary .portal-glyph{font-size:6rem;color:rgba(255,255,255,.08);right:30px;top:24px}
+
+.editorial-band{padding:96px 0;background:var(--ivory-2)}
+.editorial-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:72px;align-items:start}
+.editorial-title{font-size:clamp(2.7rem,4.4vw,4.8rem);line-height:1.02;color:var(--indigo);margin:0}
+.editorial-copy{color:var(--muted);font-size:1rem;line-height:1.8;margin:18px 0 0;max-width:520px}
+.editorial-points{display:grid;border-top:1px solid var(--line)}
+.editorial-point{display:grid;grid-template-columns:70px 1fr;gap:20px;padding:22px 0;border-bottom:1px solid var(--line)}
+.editorial-point span{font-size:.66rem;letter-spacing:.14em;text-transform:uppercase;color:var(--terracotta);font-weight:800}
+.editorial-point h3{font-size:1.55rem;margin:0 0 5px;color:var(--indigo)}
+.editorial-point p{margin:0;color:var(--muted);font-size:.9rem}
+
+.home-consult{padding:76px 0;background:#ead9c8}
+.home-consult-card{display:flex;justify-content:space-between;align-items:center;gap:40px}
+.home-consult h2{font-family:var(--font-display)!important;font-size:clamp(2.4rem,4vw,4.2rem);line-height:1;margin:0;color:var(--indigo)}
+.home-consult p{max-width:600px;color:#675b52;margin:12px 0 0}
+
+/* INTERNAL PAGES — SAME NEW THEME */
+.page-hero{padding:96px 0 76px!important;background:linear-gradient(135deg,var(--indigo),var(--indigo-2))!important;color:#fff!important}
+.page-hero:before{display:none!important}
+.page-hero h1{font-size:clamp(3.8rem,6.8vw,7rem)!important;line-height:.92!important;color:#fff!important}
+.page-hero p{color:#d6dde2!important;font-size:1rem!important;max-width:720px!important}
+.breadcrumbs{color:#d3b99f!important}
+.hero-badge{background:rgba(255,255,255,.04)!important;border-color:rgba(255,255,255,.14)!important;color:#e4e8eb!important;border-radius:8px!important}
+
+/* Cards / archives */
+.main-section-card,.category-card,.entry-card,.herb-card,.knowledge-article,.toc-card,.value-card,.amulet-card,.store-card,.dictionary-entry,.multi-form,.filter-panel{background:#fff!important;border:1px solid var(--line)!important;border-radius:18px!important;box-shadow:none!important}
+.main-section-card.feature{background:var(--indigo)!important;color:#fff!important}
+.main-section-card:before{display:none!important}
+.entry-card:hover,.herb-card:hover,.amulet-card:hover,.store-card:hover,.dictionary-entry:hover{transform:translateY(-3px)!important;box-shadow:var(--shadow-soft)!important}
+.entry-card h3,.herb-card h3,.dictionary-entry strong,.amulet-card h3,.store-card h3{color:var(--indigo)!important}
+.entry-tag,.certainty,.main-section-kicker,.main-section-no{border-radius:6px!important}
+.search-box input,.field input,.field textarea,.field select,.dictionary-search .search-box{border-radius:10px!important;border:1px solid rgba(21,37,54,.13)!important;background:#fff!important}
+.filter-btn.active,.filter-btn:hover,.toc-link:hover,.toc-link.active{background:#edf1f3!important;color:var(--indigo)!important}
+.entry-open,.view-toggle button.active,.alphabet button.active,.alphabet button:hover{background:var(--indigo)!important}
+.reference-note,.contact-aside{background:var(--indigo)!important}
+
+/* Footer */
+.footer{background:#0f1c27!important;color:#bfc9cf!important;padding:68px 0 24px!important}
+.footer-grid{gap:38px!important}
+.footer h4{color:#fff!important}
+.footer a{color:#cbd3d8!important}
+.footer a:hover{color:#fff!important}
+.footer-bottom{border-top:1px solid rgba(255,255,255,.08)!important}
+.footer .brand-copy strong{color:#fff!important}
+.footer .brand-copy small{color:#adbbc5!important}
+
+/* Iwure popup */
+.iwure-overlay{background:rgba(9,19,27,.76)!important}
+.iwure-card{background:var(--ivory-2)!important;border-radius:22px!important;border:1px solid rgba(184,139,74,.20)!important}
+.iwure-title{font-family:var(--font-display)!important;color:var(--indigo)!important}
+.iwure-yoruba{font-family:var(--font-display)!important;color:#312b27!important}
+.iwure-close{background:var(--terracotta)!important;color:#fff!important;border-radius:10px!important}
+
+/* TABLET */
+@media(max-width:1040px){
+  .container{width:min(100% - 36px,940px)!important}
+  .menu-btn{display:grid!important;place-items:center!important;width:44px!important;height:44px!important}
+  .nav-links{position:absolute!important;top:calc(100% + 8px)!important;left:18px!important;right:18px!important;display:flex!important;flex-direction:column!important;align-items:stretch!important;gap:2px!important;padding:10px!important;background:#fff!important;border:1px solid var(--line)!important;border-radius:16px!important;box-shadow:0 20px 50px rgba(21,37,54,.14)!important;opacity:0!important;visibility:hidden!important;transform:translateY(-8px)!important;transition:.2s ease!important}
+  .nav-links.open{opacity:1!important;visibility:visible!important;transform:none!important}
+  .nav-links>a{padding:13px 14px!important;border-radius:9px!important}
+  .nav-links>a:not(.nav-cta):after{display:none!important}
+  .nav-links>a.active:not(.nav-cta){background:#f0f3f5!important;color:var(--indigo)!important}
+  .nav-cta{margin-top:4px!important;text-align:center!important}
+  .home-hero-grid{grid-template-columns:1fr;gap:42px}
+  .home-logo-panel{max-width:440px}
+  .home-intro-grid,.editorial-grid{grid-template-columns:1fr;gap:28px}
+  .portal-grid{grid-template-columns:1fr 1fr;grid-auto-rows:auto}
+  .portal-card.primary{grid-row:auto;grid-column:span 2;min-height:330px}
+  .home-consult-card{display:block}
+  .home-consult .btn{margin-top:24px}
+  .catalogue-layout,.knowledge-grid,.contact-wrap,.about-split{grid-template-columns:1fr!important}
+  .filter-panel,.toc,.sticky-story{position:relative!important;top:auto!important}
+  .footer-grid{grid-template-columns:1.4fr 1fr 1fr!important}
+}
+
+/* MOBILE */
+@media(max-width:680px){
+  html{font-size:15px}
+  .container{width:calc(100% - 28px)!important}
+  .section{padding:64px 0!important}
+  .nav{height:68px!important;gap:10px!important}
+  .brand-mark{width:42px!important;height:42px!important;flex:0 0 42px!important}
+  .brand-copy strong{font-size:.9rem!important}
+  .brand-copy small{display:none!important}
+  .menu-btn{width:42px!important;height:42px!important}
+  .nav-links{left:14px!important;right:14px!important}
+  .home-hero{padding:68px 0 52px}
+  .home-title{font-size:clamp(3.15rem,15vw,4.45rem);line-height:.91}
+  .home-lede{font-size:.94rem;line-height:1.75;margin-top:20px}
+  .home-actions{display:grid;grid-template-columns:1fr;width:100%;margin-top:26px}
+  .home-actions .btn{width:100%}
+  .home-logo-panel{padding:14px;border-radius:22px}
+  .home-logo-panel img{border-radius:16px}
+  .home-logo-note{display:block;margin-top:13px}
+  .home-logo-note span{display:block;text-align:left;margin-top:5px}
+  .home-intro{padding:28px 0}
+  .home-intro h2{font-size:2rem}
+  .home-intro p{font-size:.88rem;margin-top:10px}
+  .portal-section{padding:64px 0}
+  .portal-head{display:block;margin-bottom:24px}
+  .portal-head .editorial-title{font-size:2.7rem}
+  .portal-head p{margin-top:14px;font-size:.9rem}
+  .portal-grid{grid-template-columns:1fr;gap:12px}
+  .portal-card,.portal-card.primary{grid-column:auto;min-height:auto;padding:24px;border-radius:16px}
+  .portal-card.primary h3{font-size:2.5rem}
+  .portal-card h3{font-size:1.8rem}
+  .portal-glyph{font-size:2.7rem}
+  .portal-card.primary .portal-glyph{font-size:4rem}
+  .editorial-band{padding:64px 0}
+  .editorial-title{font-size:2.6rem}
+  .editorial-point{grid-template-columns:48px 1fr;gap:14px;padding:18px 0}
+  .editorial-point h3{font-size:1.35rem}
+  .home-consult{padding:54px 0}
+  .home-consult h2{font-size:2.5rem}
+  .page-hero{padding:70px 0 54px!important}
+  .page-hero h1{font-size:clamp(3rem,14vw,4.6rem)!important}
+  .hero-badge-row{gap:6px!important}.hero-badge{font-size:.56rem!important}
+  .entry-grid,.herb-grid,.dictionary-grid,.amulet-grid,.store-grid,.concept-grid,.value-grid,.choice-grid{grid-template-columns:1fr!important}
+  .catalogue-toolbar{display:block!important}.view-toggle{display:none!important}
+  .result-row{display:block!important}.result-row span:last-child{display:none!important}
+  .knowledge-article,.multi-form,.contact-aside,.amulet-card,.store-card,.dictionary-entry,.entry-card,.herb-card{padding:20px!important}
+  .knowledge-article h2{font-size:2rem!important}
+  .footer{padding:50px 0 20px!important}.footer-grid{grid-template-columns:1fr!important;gap:26px!important}.footer-grid>div:last-child{grid-column:auto!important}
+  .iwure-content{padding:28px 22px 24px!important}.iwure-title{font-size:2.25rem!important}.iwure-yoruba{font-size:1rem!important}
+}
+
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
