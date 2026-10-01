@@ -1,0 +1,29 @@
+name: Build Digital Opele APK
+on:
+  workflow_dispatch:
+  push:
+    branches: [digital-opele]
+    paths: ['opele/**','opele-android/**','.github/workflows/digital-opele-apk.yml']
+permissions: { contents: read }
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with: { distribution: temurin, java-version: '21' }
+      - uses: android-actions/setup-android@v3
+      - run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+      - uses: gradle/actions/setup-gradle@v4
+        with: { gradle-version: '8.9' }
+      - name: Bundle web app
+        run: mkdir -p opele-android/app/src/main/assets && cp -R opele/. opele-android/app/src/main/assets/
+      - name: Build APK
+        working-directory: opele-android
+        run: gradle :app:assembleDebug --stacktrace
+      - uses: actions/upload-artifact@v4
+        with:
+          name: digital-opele-ifa-apk
+          path: opele-android/app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error
+          retention-days: 90
