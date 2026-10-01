@@ -22,8 +22,22 @@
     return `<div class="formula-block"><h4>${esc(title)}</h4><${tag}>${items.map(x=>`<li>${esc(x)}</li>`).join('')}</${tag}></div>`;
   };
 
+  const loadArchive = async () => {
+    window.OOGUN_GZ = '';
+    for(let i=1;i<=12;i++) {
+      await new Promise((resolve,reject)=>{
+        const s=document.createElement('script');
+        s.src=`oogun-data-${i}.js`;
+        s.onload=resolve;
+        s.onerror=()=>reject(new Error(`Could not load archive data part ${i}.`));
+        document.head.appendChild(s);
+      });
+    }
+  };
+
   try {
     if(!('DecompressionStream' in window)) throw new Error('This browser does not support compressed archive data.');
+    await loadArchive();
     const raw = atob(window.OOGUN_GZ || '');
     const bytes = Uint8Array.from(raw, c => c.charCodeAt(0));
     const stream = new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip'));
@@ -31,6 +45,12 @@
     const entries = JSON.parse(text).sort((a,b)=>a.q-b.q);
     window.OOGUN_ENTRIES = entries;
     window.OOGUN_GZ = '';
+
+    document.querySelectorAll('.hero-badge').forEach(b=>{
+      if(/220 entries imported/i.test(b.textContent)) b.textContent='1,220 entries imported';
+    });
+    const archiveNote=document.querySelector('.oogun-source-note');
+    if(archiveNote) archiveNote.innerHTML='<strong>Archive note:</strong> The archive now combines the original 220-record Oogun collection with 1,000 source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. PDF page references are retained for the new additions.';
 
     const cats = [...new Set(entries.map(e=>e.c))].sort((a,b)=>a.localeCompare(b));
     const counts = Object.fromEntries(cats.map(c=>[c,entries.filter(e=>e.c===c).length]));
@@ -65,13 +85,15 @@
         const e=entries.find(x=>x.q===Number(card.dataset.entryId));
         if(!e || !modal || !body) return;
         const restricted = e.r && e.r.length;
+        const sourceName = e.src || 'OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS';
+        const sourcePage = e.pg ? ` • PDF page ${e.pg}` : '';
         const details = restricted ? '' : `${list('Materials needed',e.a)}${list('Preparation',e.p,true)}${list('Usage',e.u,true)}${list('Incantation / Ofo',e.i)}${list('Translation',e.x)}${list('Source notes',e.o)}`;
         body.innerHTML = `<div class="kicker">Source entry ${esc(e.s)} • ${esc(e.c)}</div>
           <h2>${esc(e.t)}</h2>
           <div class="translation">${esc(e.m||'Traditional Oogun archive entry')}</div>
           <div class="modal-meta"><span>${esc(e.c)}</span><span>Independent formula</span></div>
           ${details}
-          <div class="source-line">Source: <em>OOGUN BABA OGUN YORUBA TRADITIONAL CHARMS</em> — wording preserved as supplied.</div>
+          <div class="source-line">Source: <em>${esc(sourceName)}</em>${esc(sourcePage)} — wording organized from the supplied source.</div>
           ${social(e.t)}`;
         modal.classList.add('open');
         document.body.style.overflow='hidden';
