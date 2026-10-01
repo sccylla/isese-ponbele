@@ -33,26 +33,6 @@
     return Array.isArray(data) ? data : [];
   };
 
-  const loadExtraArchive = async () => {
-    const previous = window.OOGUN_GZ || '';
-    window.OOGUN_GZ = '';
-    try {
-      for(let i=1;i<=12;i++) {
-        await new Promise((resolve,reject)=>{
-          const s=document.createElement('script');
-          s.src=`oogun-data-${i}.js?v=20261001-2`;
-          s.async=false;
-          s.onload=resolve;
-          s.onerror=()=>reject(new Error(`Could not load archive data part ${i}.`));
-          document.head.appendChild(s);
-        });
-      }
-      return window.OOGUN_GZ || '';
-    } finally {
-      window.OOGUN_GZ = previous;
-    }
-  };
-
   const render = entries => {
     entries = [...entries].sort((a,b)=>(Number(a.q)||0)-(Number(b.q)||0));
     window.OOGUN_ENTRIES = entries;
@@ -62,8 +42,8 @@
     });
     const archiveNote=document.querySelector('.oogun-source-note');
     if(archiveNote) archiveNote.innerHTML = entries.length > 220
-      ? '<strong>Archive note:</strong> This archive combines the original Oogun collection with source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. New additions retain their PDF page references.'
-      : '<strong>Archive note:</strong> The original Oogun archive is available. Additional PDF entries are being loaded separately.';
+      ? '<strong>Archive note:</strong> This archive combines the original Oogun collection with 1,000 source-derived entries from <em>AKOJOPO ASIRI YORUBA</em>. New additions retain their PDF page references.'
+      : '<strong>Archive note:</strong> The original Oogun archive is available. The expanded PDF archive did not finish loading.';
 
     const cats = [...new Set(entries.map(e=>e.c || 'Other'))].sort((a,b)=>a.localeCompare(b));
     const counts = Object.fromEntries(cats.map(c=>[c,entries.filter(e=>(e.c||'Other')===c).length]));
@@ -113,32 +93,33 @@
   };
 
   try {
-    const baseCompressed = window.OOGUN_GZ || '';
     let baseEntries = [];
-    try { baseEntries = await decompress(baseCompressed); }
-    catch(baseErr) { console.error('Base archive error:', baseErr); }
+    let expandedEntries = [];
+
+    try {
+      baseEntries = await decompress(window.OOGUN_BASE_GZ || window.OOGUN_GZ || '');
+    } catch(baseErr) {
+      console.error('Base archive error:', baseErr);
+    }
+
+    try {
+      expandedEntries = await decompress(window.OOGUN_EXPANDED_GZ || '');
+    } catch(expandedErr) {
+      console.error('Expanded archive error:', expandedErr);
+    }
 
     let entries = baseEntries;
-    try {
-      const extraCompressed = await loadExtraArchive();
-      const extraEntries = await decompress(extraCompressed);
-      if(extraEntries.length) {
-        const containsOriginalRange = extraEntries.some(e => Number(e.q) > 0 && Number(e.q) <= 220);
-        if(containsOriginalRange && extraEntries.length >= baseEntries.length) {
-          entries = extraEntries;
-        } else {
-          const merged = [...baseEntries, ...extraEntries];
-          const seen = new Set();
-          entries = merged.filter(e => {
-            const key = `${e.src||''}|${e.s||''}|${e.q||''}|${e.t||''}`;
-            if(seen.has(key)) return false;
-            seen.add(key);
-            return true;
-          });
-        }
-      }
-    } catch(extraErr) {
-      console.error('Additional archive error:', extraErr);
+    if(expandedEntries.length > baseEntries.length) {
+      entries = expandedEntries;
+    } else if(expandedEntries.length) {
+      const merged = [...baseEntries, ...expandedEntries];
+      const seen = new Set();
+      entries = merged.filter(e => {
+        const key = `${e.src||''}|${e.s||''}|${e.q||''}|${e.t||''}`;
+        if(seen.has(key)) return false;
+        seen.add(key);
+        return true;
+      });
     }
 
     if(!entries.length) throw new Error('No archive entries could be decoded.');
@@ -147,7 +128,7 @@
     try {
       await new Promise((resolve,reject)=>{
         const s=document.createElement('script');
-        s.src='script.js?v=20261001-2';
+        s.src='script.js?v=20261001-3';
         s.onload=resolve;
         s.onerror=reject;
         document.body.appendChild(s);
