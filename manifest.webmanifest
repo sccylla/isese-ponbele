@@ -1,0 +1,34 @@
+{
+  "name": "Isese Ponbele",
+  "short_name": "Isese Ponbele",
+  "description": "Yoruba Traditional Knowledge House — Oogun, leaves, amulet works, store and Yoruba dictionary.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "background_color": "#12100d",
+  "theme_color": "#12100d",
+  "orientation": "any",
+  "lang": "en",
+  "categories": ["education", "lifestyle", "books"],
+  "icons": [
+    {
+      "src": "/assets/isese-ponbele-logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/isese-ponbele-logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {"name":"Ogun Charms","short_name":"Ogun","url":"/catalogue.html"},
+    {"name":"Leaves Documentary","short_name":"Leaves","url":"/herbs.html"},
+    {"name":"Yoruba Dictionary","short_name":"Dictionary","url":"/dictionary.html"}
+  ]
+}
