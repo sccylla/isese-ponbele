@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600;6..96,700&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root{
+  --font-display:'Bodoni Moda', Didot, 'Times New Roman', serif;
+  --font-body:'Manrope', Inter, system-ui, sans-serif;
+  --font-reading:'Manrope', Inter, system-ui, sans-serif;
+  --font-ui:'Manrope', Inter, system-ui, sans-serif;
+}
+
+body,
+button,
+input,
+textarea,
+select,
+.nav-links,
+.brand-copy small,
+.kicker,
+.eyebrow,
+.breadcrumbs,
+.hero-badge,
+.loader-text,
+.step-label,
+.filter-label,
+.footer h4,
+.entry-tag,
+.translation,
+.result-row,
+.modal-meta,
+.certainty,
+.iwure-kicker,
+.iwure-date,
+.iwure-close,
+.iwure-x{
+  font-family:var(--font-body)!important;
+}
+
+h1,h2,h3,h4,h5,h6,
+.display,
+.section-title,
+.page-hero h1,
+.category-card h3,
+.archive-content h3,
+.story-step h3,
+.stat strong,
+.story-symbol,
+.archive-content .archive-index,
+.entry-card h3,
+.entry-id,
+.modal-card h2,
+.knowledge-article h2,
+.concept strong,
+.herb-card h3,
+.about-visual .seal,
+.value-card strong,
+.timeline-item h3,
+.contact-aside h2,
+.form-step h3,
+.brand-copy strong,
+.iwure-title,
+.iwure-yoruba{
+  font-family:var(--font-display)!important;
+  font-optical-sizing:auto;
+}
+
+body{letter-spacing:-.005em}
+.display,.section-title,.page-hero h1{letter-spacing:-.045em!important;font-weight:500!important}
+.brand-copy strong{font-weight:600!important;letter-spacing:.055em!important}
+.category-card h3,.entry-card h3,.knowledge-article h2,.herb-card h3,.story-step h3{font-weight:500!important;letter-spacing:-.025em!important}
+.iwure-title,.iwure-yoruba{font-weight:500!important;letter-spacing:-.02em!important}
+.nav-links,.btn,.kicker,.eyebrow,.breadcrumbs,.hero-badge,.entry-tag,.filter-label,.footer h4{font-weight:700!important}
