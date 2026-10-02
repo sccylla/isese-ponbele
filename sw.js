@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v10-full-logo';
+const CACHE_NAME = 'isese-ponbele-app-v11-clean-hero';
 const CORE = [
   '/',
   '/index.html',
@@ -11,9 +11,60 @@ const CORE = [
   '/script.js',
   '/site-main.js',
   '/styles.css',
-  '/brand-logo-update.css',
-  '/assets/isese-ponbele-logo.png'
+  '/hero-clean-v6.css',
+  '/assets/isese-home-hero-art.webp',
+  '/assets/isese-ponbele-logo.webp'
 ];
-self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
-self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE_NAME).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
-self.addEventListener('fetch',event=>{const r=event.request;if(r.method!=='GET')return;const u=new URL(r.url);if(u.origin!==self.location.origin)return;const fresh=new Set(['/script.js','/site-main.js','/styles.css','/brand-logo-update.css','/manifest.webmanifest','/assets/isese-ponbele-logo.png']);if(r.mode==='navigate'||fresh.has(u.pathname)){event.respondWith(fetch(r,{cache:'no-store'}).then(res=>{if(res&&res.status===200){const copy=res.clone();caches.open(CACHE_NAME).then(c=>c.put(r,copy))}return res}).catch(async()=>await caches.match(r)||(r.mode==='navigate'?caches.match('/index.html'):Response.error())));return}event.respondWith(caches.match(r).then(c=>c||fetch(r).then(res=>{if(res&&res.status===200){const copy=res.clone();caches.open(CACHE_NAME).then(cache=>cache.put(r,copy))}return res})))});
+
+self.addEventListener('install', event => {
+  event.waitUntil(
+    caches.open(CACHE_NAME)
+      .then(cache => cache.addAll(CORE))
+      .then(() => self.skipWaiting())
+  );
+});
+
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys()
+      .then(keys => Promise.all(keys.filter(k => k !== CACHE_NAME).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
+  );
+});
+
+self.addEventListener('fetch', event => {
+  const req = event.request;
+  if (req.method !== 'GET') return;
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin) return;
+
+  const alwaysFresh = req.mode === 'navigate' ||
+    /\.(?:css|js|png|webp|avif|svg)$/i.test(url.pathname) ||
+    url.pathname === '/manifest.webmanifest';
+
+  if (alwaysFresh) {
+    event.respondWith(
+      fetch(req, { cache: 'no-store' })
+        .then(res => {
+          if (res && res.status === 200) {
+            const copy = res.clone();
+            caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
+          }
+          return res;
+        })
+        .catch(async () => (await caches.match(req)) ||
+          (req.mode === 'navigate' ? caches.match('/index.html') : Response.error()))
+    );
+    return;
+  }
+
+  event.respondWith(
+    caches.match(req).then(cached => cached || fetch(req).then(res => {
+      if (res && res.status === 200) {
+        const copy = res.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(req, copy));
+      }
+      return res;
+    }))
+  );
+});
