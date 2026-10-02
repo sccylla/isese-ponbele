@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v6-static-logo';
+const CACHE_NAME = 'isese-ponbele-app-v7-png-logo';
 const CORE = [
   '/',
   '/index.html',
@@ -12,7 +12,7 @@ const CORE = [
   '/site-main.js',
   '/styles.css',
   '/brand-logo-update.css',
-  '/assets/isese-ponbele-logo.webp'
+  '/logo-chunks/chunk-00.txt'
 ];
 
 self.addEventListener('install', event => {
@@ -43,7 +43,7 @@ self.addEventListener('fetch', event => {
     '/styles.css',
     '/brand-logo-update.css',
     '/manifest.webmanifest',
-    '/assets/isese-ponbele-logo.webp'
+    '/logo-chunks/chunk-00.txt'
   ]);
 
   if (request.mode === 'navigate' || alwaysFresh.has(url.pathname)) {
