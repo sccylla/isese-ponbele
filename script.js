@@ -1,5 +1,5 @@
 (() => {
-  const LOGO = '/assets/isese-ponbele-logo.png?v=20261002-exact-upload-2';
+  const LOGO = '/assets/isese-ponbele-logo.png?v=20261002-full-image';
 
   const applyLogo = () => {
     let icon = document.querySelector('link[rel~="icon"]');
@@ -23,7 +23,7 @@
   applyLogo();
 
   const main = document.createElement('script');
-  main.src = 'site-main.js?v=20261002-exact-upload-2';
+  main.src = 'site-main.js?v=20261002-full-image';
   main.async = false;
   document.head.appendChild(main);
 })();
