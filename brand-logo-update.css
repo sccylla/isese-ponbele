@@ -1,5 +1,5 @@
-/* Isese Ponbele PNG logo — direct static asset. */
-:root{--isese-exact-logo:url('/assets/isese-ponbele-logo.png?v=20261002-png-static')}
+/* Exact Isese Ponbele PNG supplied by the site owner. */
+:root{--isese-exact-logo:url('/assets/isese-ponbele-logo.png?v=20261002-exact-upload-2')}
 .brand-mark{
   background:var(--isese-exact-logo) center/contain no-repeat!important;
   background-color:transparent!important;
