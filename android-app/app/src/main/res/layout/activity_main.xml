@@ -142,7 +142,8 @@
         android:layout_height="match_parent"
         android:background="@drawable/splash_background"
         android:clickable="true"
-        android:elevation="30dp">
+        android:elevation="30dp"
+        android:visibility="gone">
 
         <View
             android:id="@+id/ringOuter"
