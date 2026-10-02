@@ -1,0 +1,38 @@
+/* Exact Isese Ponbele gold emblem integration. Branding only; no layout/loader timing changes. */
+.brand-mark{
+  background-image:url('assets/isese-ponbele-emblem.svg')!important;
+  background-repeat:no-repeat!important;
+  background-position:center!important;
+  background-size:contain!important;
+  background-color:transparent!important;
+  border:none!important;
+  box-shadow:none!important;
+}
+.brand-mark>span,.brand-mark>img{display:none!important}
+.loader-mark{
+  width:clamp(120px,18vw,190px)!important;
+  height:clamp(120px,18vw,190px)!important;
+  font-size:0!important;
+  color:transparent!important;
+  background:url('assets/isese-ponbele-emblem.svg') center/contain no-repeat!important;
+  border:none!important;
+  border-radius:0!important;
+  box-shadow:none!important;
+}
+.story-symbol{
+  font-size:0!important;
+  color:transparent!important;
+  background:url('assets/isese-ponbele-emblem.svg') center/contain no-repeat!important;
+  min-height:220px;
+}
+.hero-grid.has-brand-emblem{grid-template-columns:minmax(0,1.08fr) minmax(280px,.92fr);align-items:center;gap:clamp(24px,5vw,70px)}
+.hero-brand-emblem{display:flex;align-items:center;justify-content:center;min-width:0}
+.hero-brand-emblem img{display:block;width:min(100%,520px);height:auto;filter:drop-shadow(0 26px 48px rgba(0,0,0,.38));animation:iseseBrandFloat 5.5s ease-in-out infinite}
+@keyframes iseseBrandFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@media(max-width:900px){
+  .hero-grid.has-brand-emblem{grid-template-columns:1fr}
+  .hero-brand-emblem{order:-1}
+  .hero-brand-emblem img{width:min(82vw,390px)}
+  .loader-mark{width:138px!important;height:138px!important}
+}
+@media(prefers-reduced-motion:reduce){.hero-brand-emblem img{animation:none!important}}
