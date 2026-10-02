@@ -1,0 +1,112 @@
+/* Clean homepage hero reset — intentionally overrides every prior experimental hero rule */
+body.homepage-clean-hero .top-ticker{display:none!important}
+body.homepage-clean-hero .site-header{
+  position:absolute!important;top:0!important;right:0!important;bottom:auto!important;left:0!important;z-index:100!important;
+  background:linear-gradient(180deg,rgba(24,13,8,.96),rgba(24,13,8,.72) 72%,rgba(24,13,8,0))!important;
+  border:0!important;box-shadow:none!important;backdrop-filter:none!important;
+}
+body.homepage-clean-hero .site-header .nav{
+  width:min(1240px,calc(100% - 48px))!important;max-width:1240px!important;height:auto!important;min-height:92px!important;
+  margin:0 auto!important;padding:0!important;display:flex!important;align-items:center!important;gap:28px!important;
+}
+body.homepage-clean-hero .brand{display:flex!important;align-items:center!important;gap:14px!important;flex:0 0 auto!important}
+body.homepage-clean-hero .brand-mark{
+  display:block!important;width:62px!important;height:62px!important;min-width:62px!important;min-height:62px!important;
+  margin:0!important;padding:0!important;border:0!important;border-radius:0!important;box-shadow:none!important;overflow:visible!important;
+  background:transparent url('/assets/isese-ponbele-logo.webp?v=clean-v6') center/contain no-repeat!important;
+}
+body.homepage-clean-hero .brand-mark span,body.homepage-clean-hero .brand-mark:before,body.homepage-clean-hero .brand-mark:after{display:none!important;content:none!important}
+body.homepage-clean-hero .brand-copy strong{color:#e0a64e!important;font-size:1rem!important;letter-spacing:.06em!important}
+body.homepage-clean-hero .brand-copy small{color:#d5c4a9!important;font-size:.62rem!important;letter-spacing:.07em!important}
+body.homepage-clean-hero .nav-links{margin-left:auto!important;display:flex!important;align-items:center!important;gap:27px!important}
+body.homepage-clean-hero .nav-links a{color:#f0e3cf!important;font-family:Georgia,'Times New Roman',serif!important;font-size:.77rem!important;letter-spacing:.07em!important}
+body.homepage-clean-hero .nav-links a.active,body.homepage-clean-hero .nav-links a:hover{color:#e0a64e!important}
+body.homepage-clean-hero .nav-cta{border:1px solid rgba(224,166,78,.48)!important;background:rgba(85,50,24,.28)!important}
+
+body.homepage-clean-hero .hero-immersive{
+  position:relative!important;display:flex!important;align-items:center!important;isolation:isolate!important;
+  width:100%!important;max-width:none!important;height:auto!important;min-height:760px!important;aspect-ratio:auto!important;
+  margin:0!important;padding:138px 0 78px!important;overflow:hidden!important;border:0!important;border-radius:0!important;box-shadow:none!important;
+  background:
+    radial-gradient(circle at 83% 38%,rgba(160,91,34,.24),transparent 31%),
+    radial-gradient(circle at 9% 17%,rgba(230,178,91,.10),transparent 23%),
+    repeating-linear-gradient(135deg,rgba(226,177,91,.025) 0 1px,transparent 1px 19px),
+    linear-gradient(110deg,#211109 0%,#321a0d 54%,#241209 100%)!important;
+}
+body.homepage-clean-hero .hero-immersive:before{
+  content:''!important;display:block!important;position:absolute!important;inset:0!important;z-index:0!important;pointer-events:none!important;
+  background:linear-gradient(90deg,rgba(24,13,7,.17),transparent 40%,rgba(24,13,7,.07))!important;opacity:1!important;
+}
+body.homepage-clean-hero .hero-immersive:after{
+  content:''!important;display:block!important;position:absolute!important;left:0!important;right:0!important;bottom:0!important;top:auto!important;
+  height:110px!important;z-index:1!important;pointer-events:none!important;border:0!important;border-radius:0!important;
+  background:linear-gradient(180deg,transparent,#180d07 96%)!important;opacity:1!important;
+}
+body.homepage-clean-hero .hero-glow{display:none!important}
+body.homepage-clean-hero .hero-grid{
+  position:relative!important;inset:auto!important;top:auto!important;right:auto!important;bottom:auto!important;left:auto!important;z-index:4!important;
+  display:grid!important;grid-template-columns:minmax(0,1fr) minmax(410px,.92fr)!important;align-items:center!important;
+  width:min(1240px,calc(100% - 48px))!important;max-width:1240px!important;height:auto!important;min-height:0!important;
+  margin:0 auto!important;padding:0!important;gap:clamp(46px,6vw,88px)!important;overflow:visible!important;
+}
+body.homepage-clean-hero .hero-grid:before{display:none!important;content:none!important}
+body.homepage-clean-hero .hero-copy{
+  position:relative!important;display:block!important;visibility:visible!important;opacity:1!important;transform:none!important;
+  grid-column:1!important;grid-row:1!important;align-self:center!important;max-width:650px!important;width:auto!important;height:auto!important;
+  margin:0!important;padding:0!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;text-align:left!important;
+}
+body.homepage-clean-hero .hero-copy:before{
+  content:'ANCIENT WISDOM  ·  LIVING TRADITION  ·  YORUBA HERITAGE'!important;display:block!important;
+  width:auto!important;height:auto!important;margin:0 0 20px!important;padding:0!important;background:none!important;border:0!important;
+  color:#d9a450!important;font:700 .68rem/1.45 Georgia,'Times New Roman',serif!important;letter-spacing:.17em!important;
+}
+body.homepage-clean-hero .hero-copy .eyebrow{display:none!important}
+body.homepage-clean-hero .hero-copy .display{display:block!important;margin:0!important;padding:0!important;color:transparent!important;font-size:0!important;line-height:1!important}
+body.homepage-clean-hero .hero-copy .display:before,body.homepage-clean-hero .hero-copy .display:after{
+  display:block!important;color:#e0a64e!important;font-family:Georgia,'Times New Roman',serif!important;font-size:clamp(4.35rem,6.4vw,7rem)!important;
+  font-weight:700!important;line-height:.79!important;letter-spacing:-.045em!important;text-shadow:0 12px 30px rgba(0,0,0,.34)!important;
+}
+body.homepage-clean-hero .hero-copy .display:before{content:'ISESE'!important}
+body.homepage-clean-hero .hero-copy .display:after{content:'PONBELE'!important;margin-top:.14em!important}
+body.homepage-clean-hero .hero-copy .display em{display:none!important}
+body.homepage-clean-hero .hero-copy>p{max-width:600px!important;margin:29px 0 0!important;padding:0!important;color:transparent!important;font-size:0!important;line-height:1!important}
+body.homepage-clean-hero .hero-copy>p:before{content:'Yoruba Traditional Knowledge House'!important;display:block!important;margin-bottom:13px!important;color:#f3e5cf!important;font:700 1.4rem/1.25 Georgia,'Times New Roman',serif!important}
+body.homepage-clean-hero .hero-copy>p:after{content:'Explore Ogun, discover the knowledge of Ewe, traditional craft, cultural offerings and Ede Yoruba — preserving living Yoruba heritage with respect for its roots.'!important;display:block!important;color:#cfbea5!important;font:400 1rem/1.72 Georgia,'Times New Roman',serif!important}
+body.homepage-clean-hero .hero-actions{display:flex!important;justify-content:flex-start!important;gap:12px!important;margin-top:29px!important}
+body.homepage-clean-hero .hero-actions .btn{min-height:52px!important;padding:0 23px!important;border-radius:5px!important;box-shadow:none!important;font-size:.78rem!important;font-weight:800!important;letter-spacing:.055em!important;text-transform:uppercase!important}
+body.homepage-clean-hero .hero-actions .btn-primary{background:linear-gradient(135deg,#dda950,#ba7628)!important;color:#211207!important;border-color:#e6b96b!important}
+body.homepage-clean-hero .hero-actions .btn-ghost{background:rgba(56,31,15,.46)!important;color:#f1e2cb!important;border-color:rgba(226,177,94,.36)!important}
+body.homepage-clean-hero .hero-note{display:none!important}
+body.homepage-clean-hero .hero-logo-wrap{display:none!important}
+
+/* Right side is an ordinary visual panel, not the removable HTML logo wrapper. */
+body.homepage-clean-hero .hero-grid:after{
+  content:''!important;display:block!important;visibility:visible!important;opacity:1!important;transform:none!important;
+  grid-column:2!important;grid-row:1!important;align-self:center!important;justify-self:stretch!important;
+  width:100%!important;max-width:560px!important;height:auto!important;aspect-ratio:1/1!important;margin:0 0 0 auto!important;
+  border:1px solid rgba(224,169,83,.24)!important;border-radius:22px!important;overflow:hidden!important;
+  background:#2a160d url('/assets/isese-home-hero-art.webp?v=clean-v6') center/cover no-repeat!important;
+  box-shadow:0 28px 70px rgba(0,0,0,.35)!important;filter:none!important;position:relative!important;z-index:5!important;
+}
+
+@media(max-width:1020px){
+  body.homepage-clean-hero .nav-links{gap:17px!important}
+  body.homepage-clean-hero .hero-grid{grid-template-columns:minmax(0,1fr) minmax(340px,.8fr)!important;gap:40px!important}
+}
+@media(max-width:900px){
+  body.homepage-clean-hero .site-header{position:relative!important;background:#1d1009!important}
+  body.homepage-clean-hero .site-header .nav{width:min(100% - 32px,760px)!important;min-height:78px!important}
+  body.homepage-clean-hero .hero-immersive{min-height:0!important;height:auto!important;aspect-ratio:auto!important;padding:64px 0 60px!important}
+  body.homepage-clean-hero .hero-grid{width:min(100% - 32px,760px)!important;grid-template-columns:1fr!important;gap:38px!important}
+  body.homepage-clean-hero .hero-copy{grid-column:1!important;grid-row:1!important;max-width:720px!important}
+  body.homepage-clean-hero .hero-grid:after{grid-column:1!important;grid-row:2!important;justify-self:center!important;margin:0 auto!important;width:min(100%,520px)!important}
+}
+@media(max-width:760px){
+  body.homepage-clean-hero .brand-mark{width:48px!important;height:48px!important;min-width:48px!important;min-height:48px!important}
+  body.homepage-clean-hero .hero-copy:before{font-size:.56rem!important;letter-spacing:.12em!important}
+  body.homepage-clean-hero .hero-copy .display:before,body.homepage-clean-hero .hero-copy .display:after{font-size:clamp(3rem,15vw,4.8rem)!important;line-height:.82!important}
+  body.homepage-clean-hero .hero-copy>p:before{font-size:1.15rem!important}
+  body.homepage-clean-hero .hero-copy>p:after{font-size:.91rem!important}
+  body.homepage-clean-hero .hero-actions{display:grid!important;grid-template-columns:1fr!important}
+  body.homepage-clean-hero .hero-actions .btn{width:100%!important}
+}
