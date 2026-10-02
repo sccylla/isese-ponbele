@@ -93,8 +93,19 @@
     hero.insertAdjacentElement('afterend', previewWrap);
   };
 
+  const enhanceLeaves = () => {
+    const path = location.pathname;
+    const isLeaves = path.endsWith('/herbs.html') || path.endsWith('herbs.html');
+    if (!isLeaves || document.querySelector('script[data-rich-leaves]')) return;
+    const rich = document.createElement('script');
+    rich.src = 'leaves-rich.js?v=20261002-rich-leaves-v1';
+    rich.dataset.richLeaves = 'true';
+    document.head.appendChild(rich);
+  };
+
   applyLogo();
   enhanceHomepage();
+  enhanceLeaves();
 
   const main = document.createElement('script');
   main.src = 'site-main.js?v=20261002-home-clean';
