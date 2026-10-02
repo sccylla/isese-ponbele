@@ -29,6 +29,9 @@
 
     document.querySelectorAll('.hero-logo-wrap').forEach(el => el.remove());
 
+    const referenceHouse = document.querySelector('.knowledge-journey')?.closest('section');
+    if (referenceHouse) referenceHouse.remove();
+
     if (document.getElementById('homeArchivePreviews')) return;
 
     const hero = document.querySelector('.hero-immersive');
