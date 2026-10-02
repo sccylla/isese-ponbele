@@ -1,7 +1,7 @@
 /* Hero artwork hotfix — use the real uploaded assets and a fresh cache key */
 body.homepage-clean-hero .brand-mark{
-  background:transparent url('/assets/isese-ponbele-logo.webp?v=real-v7') center/contain no-repeat!important;
+  background:transparent url('/assets/isese-ponbele-logo.webp?v=real-v8') center/contain no-repeat!important;
 }
 body.homepage-clean-hero .hero-grid:after{
-  background:#2a160d url('/assets/isese-home-hero-art.webp?v=real-v7') center/cover no-repeat!important;
+  background:#2a160d url('/assets/isese-home-hero-art.webp?v=real-v8') center/cover no-repeat!important;
 }
