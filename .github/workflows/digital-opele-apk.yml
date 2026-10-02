@@ -39,18 +39,25 @@ jobs:
           python .github/scripts/generate_opele_knowledge.py opele-android/app/src/main/assets/knowledge.generated.js
           ls -lh opele-android/app/src/main/assets/knowledge.generated.js
           test $(stat -c%s opele-android/app/src/main/assets/knowledge.generated.js) -gt 10000000
-      - name: Build APK
+      - name: Build clean APK
         working-directory: opele-android
         run: gradle :app:assembleDebug --stacktrace
-      - name: Verify and rename APK
+      - name: Verify Android package and launcher
         run: |
           APK="opele-android/app/build/outputs/apk/debug/app-debug.apk"
+          AAPT="$ANDROID_HOME/build-tools/35.0.0/aapt"
           test -f "$APK"
-          ls -lh "$APK"
-          cp "$APK" Digital-Opele-Ifa-v2.apk
+          "$AAPT" dump badging "$APK" | tee /tmp/badging.txt
+          grep -q "package: name='com.iseseponbele.digitalopele'" /tmp/badging.txt
+          grep -q "versionName='3.0.0'" /tmp/badging.txt
+          grep -q "launchable-activity" /tmp/badging.txt
+          grep -q "application-icon" /tmp/badging.txt
+          unzip -t "$APK"
+          cp "$APK" Digital-Opele-Ifa-v3.apk
+          ls -lh Digital-Opele-Ifa-v3.apk
       - uses: actions/upload-artifact@v4
         with:
-          name: digital-opele-ifa-v2-apk
-          path: Digital-Opele-Ifa-v2.apk
+          name: digital-opele-ifa-v3-apk
+          path: Digital-Opele-Ifa-v3.apk
           if-no-files-found: error
           retention-days: 90
