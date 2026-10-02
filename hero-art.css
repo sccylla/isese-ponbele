@@ -1,0 +1,67 @@
+/* New generated Isese Ponbele hero artwork — final visual override */
+body.homepage-clean-hero .hero-immersive{
+  background:
+    linear-gradient(90deg,rgba(30,17,10,.985) 0%,rgba(42,24,14,.97) 54%,rgba(35,19,11,.985) 100%),
+    #24140c!important;
+}
+
+body.homepage-clean-hero .hero-grid{
+  grid-template-columns:minmax(0,1.05fr) minmax(360px,.85fr)!important;
+  gap:clamp(40px,6vw,88px)!important;
+}
+
+body.homepage-clean-hero .hero-grid::after{
+  content:''!important;
+  display:block!important;
+  width:min(100%,540px)!important;
+  aspect-ratio:1/1!important;
+  justify-self:end!important;
+  border-radius:14px!important;
+  border:1px solid rgba(222,172,91,.46)!important;
+  box-shadow:
+    0 30px 70px rgba(0,0,0,.38),
+    0 0 0 8px rgba(224,171,85,.035),
+    inset 0 0 0 1px rgba(255,255,255,.035)!important;
+  background-image:url('/assets/isese-home-hero-art.webp?v=20261002-newhero')!important;
+  background-size:cover!important;
+  background-position:center!important;
+  background-repeat:no-repeat!important;
+  opacity:1!important;
+}
+
+body.homepage-clean-hero .hero-copy .display{
+  font-size:clamp(3.8rem,5.5vw,6rem)!important;
+  color:#fff4df!important;
+}
+
+body.homepage-clean-hero .hero-copy .display em{color:#d9a24d!important}
+body.homepage-clean-hero .hero-copy>p{color:#d8c7b0!important}
+
+body.homepage-clean-hero .hero-actions .btn-primary{
+  background:#c88d3c!important;
+  border-color:#dcaa5a!important;
+}
+body.homepage-clean-hero .hero-actions .btn-primary:hover{background:#dda652!important}
+
+@media(max-width:900px){
+  body.homepage-clean-hero .hero-grid{
+    grid-template-columns:1fr!important;
+    gap:42px!important;
+  }
+  body.homepage-clean-hero .hero-grid::after{
+    justify-self:center!important;
+    width:min(88vw,520px)!important;
+  }
+}
+
+@media(max-width:620px){
+  body.homepage-clean-hero .hero-immersive{padding:64px 0 54px!important}
+  body.homepage-clean-hero .hero-grid{gap:30px!important}
+  body.homepage-clean-hero .hero-grid::after{
+    width:min(92vw,390px)!important;
+    border-radius:10px!important;
+  }
+  body.homepage-clean-hero .hero-copy .display{
+    font-size:clamp(2.9rem,13vw,4.05rem)!important;
+  }
+}
