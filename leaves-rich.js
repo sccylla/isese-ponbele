@@ -88,9 +88,9 @@
       <details class="leaf-more"><summary>More information about this plant</summary><div class="leaf-more-content">${blocks}<div class="leaf-source-note">${esc(d.source)}</div></div></details>`;
   }
 
-  document.addEventListener('DOMContentLoaded',()=>{
+  function init(){
     const intro = document.querySelector('.leaves-intro');
-    if(intro){
+    if(intro && !document.querySelector('.leaf-rich-intro')){
       const extra=document.createElement('div');
       extra.className='leaf-rich-intro';
       extra.innerHTML='<strong>Expanded plant records:</strong> Each documented leaf now includes quick-reference facts, growth habit, distribution, identification features, cultural/name notes, uncertainty flags and a safety/documentation note. Botanical identity takes priority over guessing.';
@@ -105,8 +105,10 @@
       const sourceBox=body.querySelector('.leaf-sources');
       const wrap=document.createElement('div');
       wrap.innerHTML=buildRichSection(d);
-      const nodes=[...wrap.children];
-      nodes.forEach(node=> sourceBox ? body.insertBefore(node,sourceBox) : body.appendChild(node));
+      [...wrap.children].forEach(node=> sourceBox ? body.insertBefore(node,sourceBox) : body.appendChild(node));
     });
-  });
+  }
+
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',init,{once:true});
+  else init();
 })();
