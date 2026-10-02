@@ -103,9 +103,19 @@
     document.head.appendChild(rich);
   };
 
+  const addFooterCredit = () => {
+    const footerBottom = document.querySelector('.footer-bottom');
+    if (!footerBottom || footerBottom.querySelector('.ifadare-credit')) return;
+    const credit = document.createElement('span');
+    credit.className = 'ifadare-credit';
+    credit.textContent = 'Credits: Dr. Ifadare';
+    footerBottom.appendChild(credit);
+  };
+
   applyLogo();
   enhanceHomepage();
   enhanceLeaves();
+  addFooterCredit();
 
   const main = document.createElement('script');
   main.src = 'site-main.js?v=20261002-deploy-retry';
