@@ -1,0 +1,78 @@
+/* Final homepage hero override: stable, balanced, traditional, and script-proof */
+body.homepage-clean-hero .site-header{
+  position:absolute!important;inset:0 0 auto 0!important;z-index:50!important;
+  background:linear-gradient(180deg,rgba(26,14,8,.96),rgba(26,14,8,.68) 72%,transparent)!important;
+}
+body.homepage-clean-hero .site-header .nav{min-height:96px!important;align-items:center!important}
+body.homepage-clean-hero .brand{display:flex!important;align-items:center!important;gap:14px!important}
+body.homepage-clean-hero .brand-mark{
+  width:64px!important;height:64px!important;min-width:64px!important;border:0!important;border-radius:0!important;
+  background:url('/assets/isese-ponbele-emblem.svg?v=20261002-final-v4') center/contain no-repeat!important;
+  box-shadow:none!important;overflow:visible!important;
+}
+body.homepage-clean-hero .brand-mark span{display:none!important}
+body.homepage-clean-hero .brand-copy strong{font-size:1rem!important;line-height:1.05!important;color:#e1aa50!important;letter-spacing:.05em!important}
+body.homepage-clean-hero .brand-copy small{font-size:.62rem!important;line-height:1.2!important;color:#d7c6aa!important;letter-spacing:.06em!important}
+
+body.homepage-clean-hero .hero-immersive{
+  min-height:760px!important;padding:142px 0 74px!important;display:flex!important;align-items:center!important;
+  background:
+    radial-gradient(circle at 86% 43%,rgba(165,99,39,.30),transparent 32%),
+    radial-gradient(circle at 16% 26%,rgba(221,171,86,.10),transparent 25%),
+    repeating-linear-gradient(45deg,rgba(226,176,89,.025) 0 1px,transparent 1px 20px),
+    linear-gradient(115deg,#1d1009 0%,#2b170c 48%,#3a1f10 100%)!important;
+}
+body.homepage-clean-hero .hero-immersive:after{height:90px!important;opacity:.42!important}
+body.homepage-clean-hero .hero-grid{
+  display:grid!important;grid-template-columns:minmax(0,1.05fr) minmax(360px,.95fr)!important;
+  gap:clamp(48px,6vw,88px)!important;align-items:center!important;position:relative!important;z-index:4!important;
+}
+body.homepage-clean-hero .hero-grid:before{display:none!important;content:none!important}
+body.homepage-clean-hero .hero-copy{
+  max-width:650px!important;margin:0!important;padding:0!important;background:transparent!important;border:0!important;
+  border-radius:0!important;box-shadow:none!important;text-align:left!important;align-self:center!important;
+}
+body.homepage-clean-hero .hero-copy:before{
+  margin-bottom:20px!important;font-size:.68rem!important;letter-spacing:.17em!important;color:#dda854!important;
+}
+body.homepage-clean-hero .hero-copy .display{margin:0 0 22px!important;line-height:.82!important}
+body.homepage-clean-hero .hero-copy .display::before,
+body.homepage-clean-hero .hero-copy .display::after{
+  font-size:clamp(4rem,6.7vw,7rem)!important;line-height:.82!important;color:#e1aa50!important;letter-spacing:-.05em!important;
+  text-shadow:0 12px 34px rgba(0,0,0,.32)!important;
+}
+body.homepage-clean-hero .hero-copy>p{margin-top:24px!important;max-width:600px!important}
+body.homepage-clean-hero .hero-copy>p::before{font-size:1.4rem!important;color:#f3e6d0!important}
+body.homepage-clean-hero .hero-copy>p::after{font-size:1rem!important;line-height:1.7!important;color:#cfbea4!important}
+body.homepage-clean-hero .hero-actions{margin-top:30px!important;gap:12px!important}
+body.homepage-clean-hero .hero-actions .btn{min-height:52px!important;border-radius:5px!important;padding:0 22px!important}
+body.homepage-clean-hero .hero-note{margin-top:25px!important;max-width:580px!important}
+
+/* Render the emblem as the second grid item so JS cannot remove it */
+body.homepage-clean-hero .hero-grid::after{
+  content:''!important;display:block!important;justify-self:end!important;align-self:center!important;
+  width:min(40vw,520px)!important;max-width:100%!important;aspect-ratio:1/1!important;
+  background:url('/assets/isese-ponbele-emblem.svg?v=20261002-final-v4') center/contain no-repeat!important;
+  border:0!important;border-radius:0!important;box-shadow:none!important;
+  filter:drop-shadow(0 28px 44px rgba(0,0,0,.36))!important;opacity:1!important;position:relative!important;z-index:5!important;
+}
+body.homepage-clean-hero .hero-logo-wrap{display:none!important}
+
+@media(max-width:980px){
+  body.homepage-clean-hero .hero-immersive{min-height:auto!important;padding:126px 0 70px!important}
+  body.homepage-clean-hero .hero-grid{grid-template-columns:1fr!important;gap:48px!important}
+  body.homepage-clean-hero .hero-grid::after{grid-row:1!important;justify-self:center!important;width:min(68vw,470px)!important}
+  body.homepage-clean-hero .hero-copy{grid-row:2!important;max-width:760px!important}
+}
+@media(max-width:760px){
+  body.homepage-clean-hero .site-header{position:relative!important;background:#1c1009!important}
+  body.homepage-clean-hero .site-header .nav{min-height:78px!important}
+  body.homepage-clean-hero .brand-mark{width:52px!important;height:52px!important;min-width:52px!important}
+  body.homepage-clean-hero .hero-immersive{padding:52px 0 54px!important}
+  body.homepage-clean-hero .hero-grid{gap:32px!important}
+  body.homepage-clean-hero .hero-grid::after{width:min(82vw,360px)!important}
+  body.homepage-clean-hero .hero-copy .display::before,
+  body.homepage-clean-hero .hero-copy .display::after{font-size:clamp(3rem,15vw,4.9rem)!important}
+  body.homepage-clean-hero .hero-copy>p::before{font-size:1.15rem!important}
+  body.homepage-clean-hero .hero-copy>p::after{font-size:.92rem!important}
+}
