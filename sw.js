@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v4-exact-brand';
+const CACHE_NAME = 'isese-ponbele-app-v5-exact-brand';
 const CORE = [
   '/',
   '/index.html',
@@ -41,6 +41,7 @@ self.addEventListener('fetch', event => {
     '/brand-exact-data.js',
     '/styles.css',
     '/favicon.svg',
+    '/manifest.webmanifest',
     '/assets/isese-ponbele-logo.webp'
   ]);
 

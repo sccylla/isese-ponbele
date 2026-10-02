@@ -14,13 +14,13 @@
   "categories": ["education", "lifestyle", "books"],
   "icons": [
     {
-      "src": "/assets/isese-ponbele-logo.webp",
+      "src": "/assets/isese-ponbele-logo.webp?v=20261002-exact-3",
       "sizes": "512x512",
       "type": "image/webp",
       "purpose": "any"
     },
     {
-      "src": "/assets/isese-ponbele-logo.webp",
+      "src": "/assets/isese-ponbele-logo.webp?v=20261002-exact-3",
       "sizes": "512x512",
       "type": "image/webp",
       "purpose": "maskable"
