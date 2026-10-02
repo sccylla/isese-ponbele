@@ -1,16 +1,16 @@
-const CACHE_NAME = 'isese-ponbele-app-v1';
+const CACHE_NAME = 'isese-ponbele-app-v4-exact-brand';
 const CORE = [
   '/',
   '/index.html',
-  '/styles.css',
-  '/script.js',
-  '/manifest.webmanifest',
-  '/assets/isese-ponbele-logo.webp',
   '/catalogue.html',
   '/herbs.html',
   '/amulets.html',
   '/dictionary.html',
-  '/contact.html'
+  '/contact.html',
+  '/store.html',
+  '/brand-exact-data.js',
+  '/script.js',
+  '/site-main.js'
 ];
 
 self.addEventListener('install', event => {
@@ -35,29 +35,37 @@ self.addEventListener('fetch', event => {
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
 
-  if (request.mode === 'navigate') {
+  const alwaysFresh = new Set([
+    '/script.js',
+    '/site-main.js',
+    '/brand-exact-data.js',
+    '/styles.css',
+    '/favicon.svg',
+    '/assets/isese-ponbele-logo.webp'
+  ]);
+
+  if (request.mode === 'navigate' || alwaysFresh.has(url.pathname)) {
     event.respondWith(
-      fetch(request)
+      fetch(request, {cache: 'no-store'})
         .then(response => {
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+          if (response && response.status === 200) {
+            const copy = response.clone();
+            caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+          }
           return response;
         })
-        .catch(async () => (await caches.match(request)) || caches.match('/index.html'))
+        .catch(async () => (await caches.match(request)) || (request.mode === 'navigate' ? caches.match('/index.html') : Response.error()))
     );
     return;
   }
 
   event.respondWith(
-    caches.match(request).then(cached => {
-      if (cached) return cached;
-      return fetch(request).then(response => {
-        if (response && response.status === 200) {
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
-        }
-        return response;
-      });
-    })
+    caches.match(request).then(cached => cached || fetch(request).then(response => {
+      if (response && response.status === 200) {
+        const copy = response.clone();
+        caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+      }
+      return response;
+    }))
   );
 });
