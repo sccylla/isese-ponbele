@@ -1,6 +1,6 @@
-/* Exact Isese Ponbele gold emblem integration. Branding only; no loader timing changes. */
+/* Isese Ponbele gold logo integration. Uses the supplied full gold logo across the homepage and loading screen. */
 .brand-mark{
-  background-image:url('assets/isese-ponbele-emblem.svg')!important;
+  background-image:url('assets/isese-ponbele-logo.webp')!important;
   background-repeat:no-repeat!important;
   background-position:center!important;
   background-size:contain!important;
@@ -10,23 +10,25 @@
 }
 .brand-mark>span,.brand-mark>img{display:none!important}
 .loader-mark{
-  width:clamp(120px,18vw,190px)!important;
-  height:clamp(120px,18vw,190px)!important;
+  width:clamp(170px,28vw,300px)!important;
+  height:clamp(170px,28vw,300px)!important;
   font-size:0!important;
   color:transparent!important;
-  background:url('assets/isese-ponbele-emblem.svg') center/contain no-repeat!important;
+  background:url('assets/isese-ponbele-logo.webp') center/contain no-repeat!important;
   border:none!important;
   border-radius:0!important;
   box-shadow:none!important;
+  filter:drop-shadow(0 18px 38px rgba(0,0,0,.42));
 }
 .story-symbol{
   font-size:0!important;
   color:transparent!important;
-  background:url('assets/isese-ponbele-emblem.svg') center/contain no-repeat!important;
-  min-height:220px;
+  background:url('assets/isese-ponbele-logo.webp') center/contain no-repeat!important;
+  min-height:260px;
+  filter:drop-shadow(0 18px 36px rgba(0,0,0,.24));
 }
 .hero-grid{
-  grid-template-columns:minmax(0,1.08fr) minmax(280px,.92fr)!important;
+  grid-template-columns:minmax(0,1.08fr) minmax(300px,.92fr)!important;
   align-items:center!important;
   gap:clamp(24px,5vw,70px)!important;
 }
@@ -34,16 +36,16 @@
   content:"";
   display:block;
   width:100%;
-  min-height:clamp(330px,42vw,540px);
-  background:url('assets/isese-ponbele-emblem.svg') center/contain no-repeat;
-  filter:drop-shadow(0 26px 48px rgba(0,0,0,.38));
+  min-height:clamp(360px,46vw,590px);
+  background:url('assets/isese-ponbele-logo.webp') center/contain no-repeat;
+  filter:drop-shadow(0 28px 52px rgba(0,0,0,.42));
   animation:iseseBrandFloat 5.5s ease-in-out infinite;
 }
 @keyframes iseseBrandFloat{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
 @media(max-width:900px){
   .hero-grid{grid-template-columns:1fr!important}
-  .hero-grid::after{grid-row:1;min-height:clamp(280px,78vw,420px)}
+  .hero-grid::after{grid-row:1;min-height:clamp(300px,84vw,460px)}
   .hero-copy{grid-row:2}
-  .loader-mark{width:138px!important;height:138px!important}
+  .loader-mark{width:210px!important;height:210px!important}
 }
 @media(prefers-reduced-motion:reduce){.hero-grid::after{animation:none!important}}
