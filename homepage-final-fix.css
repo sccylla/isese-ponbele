@@ -1,0 +1,54 @@
+/* Homepage layout stabilization — no redesign, only formatting/responsiveness */
+html,body{overflow-x:hidden}
+main{min-width:0}
+.hero-immersive{isolation:isolate}
+.hero-grid,.hero-copy,.hero-logo-wrap{min-width:0}
+.hero-copy{position:relative;z-index:3}
+.hero-logo-wrap{position:relative;z-index:2}
+.hero-logo-direct{max-width:100%;height:auto}
+.home-social,.home-products,.stats-strip,.cowrie-procession,.motion-band{width:100%;max-width:100%;overflow:hidden}
+.home-social-inner,.home-products-head,.stats-grid,.footer-grid{min-width:0}
+.home-products-head>*{min-width:0}
+.home-product-window{max-width:100vw}
+.home-product-card{min-width:0}
+.stats-grid{align-items:stretch}
+.stat{min-width:0}
+.footer-grid>*{min-width:0}
+@media(max-width:1100px){
+  .site-header .nav-links{gap:17px!important}
+  .site-header .nav-links>a{font-size:.72rem!important;letter-spacing:.10em!important}
+  .site-header .brand-copy strong{font-size:1rem!important}
+}
+@media(max-width:980px){
+  .hero-immersive{padding-top:54px;padding-bottom:64px}
+  .home-products-head{align-items:flex-start;flex-direction:column;gap:12px}
+  .stats-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stat:nth-child(2){border-right:0}
+}
+@media(max-width:900px){
+  .hero-grid{gap:20px!important}
+  .hero-copy{text-align:left}
+  .hero-actions{justify-content:flex-start}
+  .hero-note{justify-content:flex-start}
+  .hero-logo-wrap{margin-inline:auto;width:100%}
+}
+@media(max-width:700px){
+  .container{width:min(100% - 28px,1240px)}
+  .hero-immersive{padding-top:36px;padding-bottom:52px}
+  .hero-copy{padding-top:8px!important}
+  .hero-actions{gap:9px}
+  .hero-actions .btn{width:100%}
+  .home-social{padding:26px 0}
+  .stats-grid{grid-template-columns:1fr}
+  .stat{border-right:0!important;border-bottom:1px solid rgba(255,255,255,.08)}
+  .stat:last-child{border-bottom:0}
+  .cowrie-row{gap:8px}
+  .cowrie-caption{padding-inline:8px;line-height:1.5}
+  .footer-grid{grid-template-columns:1fr!important;gap:24px!important}
+}
+@media(max-width:430px){
+  .site-header .brand-copy strong{font-size:.76rem!important;letter-spacing:.08em!important}
+  .site-header .brand-mark{flex:0 0 40px!important;width:40px!important;height:40px!important}
+  .site-header .menu-btn{flex:0 0 42px!important}
+  .hero-logo-direct{width:min(92vw,360px)!important}
+}
