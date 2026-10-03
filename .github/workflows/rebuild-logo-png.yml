@@ -1,0 +1,34 @@
+name: Rebuild uploaded PNG logo
+
+on:
+  push:
+    branches: [logo-png-update]
+    paths:
+      - '.logo-upload/READY'
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild-logo:
+    if: github.event.head_commit.message != 'Rebuild uploaded PNG logo'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Rebuild PNG from uploaded chunks
+        run: |
+          set -euo pipefail
+          cat .logo-upload/part-* > /tmp/logo.b64
+          base64 -d /tmp/logo.b64 > assets/isese-ponbele-logo.png
+          file assets/isese-ponbele-logo.png
+          test -s assets/isese-ponbele-logo.png
+      - name: Commit rebuilt PNG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf .logo-upload
+          git add assets/isese-ponbele-logo.png .logo-upload
+          git commit -m "Rebuild uploaded PNG logo"
+          git push origin HEAD:logo-png-update
