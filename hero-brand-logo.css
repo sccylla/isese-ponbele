@@ -30,10 +30,11 @@
   transform:none!important;
   pointer-events:none!important;
   z-index:20!important;
-  background:url('/assets/isese-loader-approved.svg?v=20261003-hero-fallback-v4') center/contain no-repeat!important;
+  background:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-new-brand-v1') center/contain no-repeat!important;
 }
 .hero-immersive .hero-logo-wrap .hero-logo-direct{
   display:block!important;
+  content:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-new-brand-v1')!important;
   width:100%!important;
   height:100%!important;
   max-width:none!important;
