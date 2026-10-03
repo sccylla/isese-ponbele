@@ -1,0 +1,56 @@
+/* Minimal site-wide branding only. Preserve the approved site layout and design. */
+:root{--ip-current-logo:url('/assets/isese-ponbele-uploaded-logo.webp?v=20261003-brand-current-v1')}
+
+/* Header/footer brand mark */
+body .brand-mark{
+  position:relative!important;
+  overflow:hidden!important;
+  background:transparent!important;
+  border-color:rgba(201,152,77,.28)!important;
+}
+body .brand-mark>span{display:none!important}
+body .brand-mark::before{display:none!important;content:none!important}
+body .brand-mark::after{
+  content:''!important;
+  position:absolute!important;
+  inset:0!important;
+  display:block!important;
+  background:var(--ip-current-logo) center/cover no-repeat!important;
+}
+
+/* Loading screen */
+body .site-loader .loader-mark{
+  background:var(--ip-current-logo) center/contain no-repeat!important;
+  color:transparent!important;
+  font-size:0!important;
+}
+
+/* Existing logo images, including the homepage hero */
+body img[src*="isese-ponbele-logo"]{
+  content:url('/assets/isese-ponbele-uploaded-logo.webp?v=20261003-brand-current-v1')!important;
+}
+
+/* Story/about/seal brand surfaces */
+body .story-symbol{
+  background:var(--ip-current-logo) center/contain no-repeat!important;
+  color:transparent!important;
+  font-size:0!important;
+}
+body .seal{
+  color:transparent!important;
+  font-size:0!important;
+  background:var(--ip-current-logo) center/cover no-repeat!important;
+}
+body .seal::after{display:none!important;content:none!important}
+
+/* Keep the hero's ORIGINAL layout. Only make its existing image show the uploaded logo. */
+body .hero-immersive .hero-logo-wrap{
+  opacity:1!important;
+  visibility:visible!important;
+}
+body .hero-immersive .hero-logo-wrap .hero-logo-direct{
+  display:block!important;
+  opacity:1!important;
+  visibility:visible!important;
+  object-fit:contain!important;
+}
