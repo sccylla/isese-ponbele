@@ -1,6 +1,8 @@
-/* Stable site-wide header — single responsive system */
-body{padding-top:0!important}
+/* Stable site-wide header — permanently fixed on scroll */
+html{scroll-padding-top:90px}
+body{padding-top:78px!important}
 
+/* Ticker remains part of the page and scrolls away beneath the fixed header. */
 .top-ticker{
   position:relative!important;
   top:auto!important;
@@ -12,10 +14,10 @@ body{padding-top:0!important}
 }
 
 .site-header{
-  position:sticky!important;
+  position:fixed!important;
   top:0!important;
-  left:auto!important;
-  right:auto!important;
+  left:0!important;
+  right:0!important;
   transform:none!important;
   z-index:9998!important;
   width:100%!important;
@@ -31,9 +33,9 @@ body{padding-top:0!important}
 }
 .site-header.scrolled{
   top:0!important;
-  background:rgba(249,243,232,.99)!important;
+  background:rgba(249,243,232,.995)!important;
   border-bottom-color:rgba(121,78,34,.20)!important;
-  box-shadow:0 10px 30px rgba(28,18,9,.12)!important;
+  box-shadow:0 10px 30px rgba(28,18,9,.14)!important;
 }
 .site-header:after{display:none!important;content:none!important}
 .site-header:before{
@@ -119,7 +121,7 @@ body{padding-top:0!important}
 }
 .site-header .menu-btn{display:none!important}
 
-/* Sticky header remains in document flow, so no artificial gap is needed. */
+/* Body padding reserves the fixed header footprint, so main content needs no extra offset. */
 body>.site-header+main{padding-top:0!important}
 
 @media(max-width:1120px){
@@ -132,6 +134,8 @@ body>.site-header+main{padding-top:0!important}
 
 /* Collapse before the navigation can become cramped. */
 @media(max-width:960px){
+  html{scroll-padding-top:80px}
+  body{padding-top:68px!important}
   .site-header .nav{
     width:calc(100% - 28px)!important;
     height:68px!important;
@@ -206,6 +210,8 @@ body>.site-header+main{padding-top:0!important}
 }
 
 @media(max-width:540px){
+  html{scroll-padding-top:76px}
+  body{padding-top:64px!important}
   .top-ticker{height:30px!important}
   .site-header .nav{width:calc(100% - 20px)!important;height:64px!important}
   .site-header .brand{gap:8px!important}
