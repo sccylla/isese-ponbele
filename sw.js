@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v15-restored-design-logo';
+const CACHE_NAME = 'isese-ponbele-app-v12-new-logo';
 const CORE = [
   '/',
   '/index.html',
@@ -8,13 +8,12 @@ const CORE = [
   '/dictionary.html',
   '/contact.html',
   '/store.html',
-  '/about.html',
   '/script.js',
   '/site-main.js',
   '/styles.css',
-  '/brand-current.css',
-  '/floating-header-clean.css',
-  '/assets/isese-ponbele-uploaded-logo.webp'
+  '/hero-clean-v6.css',
+  '/assets/isese-home-hero-art.webp',
+  '/assets/isese-ponbele-logo-20261003.svg'
 ];
 
 self.addEventListener('install', event => {

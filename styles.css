@@ -19,10 +19,106 @@
 @import url('hero-image-v7.css?v=20261002-real-v7');
 @import url('hero-image-v9.css?v=20261002-v9');
 @import url('hero-inline-v10.css?v=20261002-embedded-emblem-v12');
-@import url('loader-premium.css?v=20261003-approved-loader-v4');
+@import url('loader-premium.css?v=20261003-new-brand-v5');
 @import url('homepage-final-fix.css?v=20261003-home-format-v1');
+@import url('hero-brand-logo.css?v=20261003-new-brand-v5');
 @import url('floating-header-clean.css?v=20261003-stylized-scroll-v11');
-@import url('brand-current.css?v=20261003-brand-current-v1');
 
 /* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
 section.section-paper:has(.category-grid){display:none!important;}
+
+/* FINAL BRAND OVERRIDE — keep the design, force the approved new logo everywhere. */
+:root{--ip-current-logo:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-final-brand-v6')}
+
+/* Header/brand marks on every page */
+body .site-header .brand-mark,
+body .brand-mark{
+  background:transparent!important;
+  border:0!important;
+  box-shadow:none!important;
+  overflow:visible!important;
+}
+body .site-header .brand-mark>span,
+body .brand-mark>span{display:none!important}
+body .site-header .brand-mark::before,
+body .brand-mark::before{display:none!important;content:none!important}
+body .site-header .brand-mark::after,
+body .brand-mark::after{
+  content:''!important;
+  display:block!important;
+  width:100%!important;
+  height:100%!important;
+  background:var(--ip-current-logo) center/contain no-repeat!important;
+}
+
+/* Loader */
+body .site-loader .loader-mark{
+  background:var(--ip-current-logo) center/contain no-repeat!important;
+  color:transparent!important;
+  font-size:0!important;
+}
+
+/* Footer / seal / story brand elements */
+body .seal::after,
+body .story-symbol{
+  background-image:var(--ip-current-logo)!important;
+  background-position:center!important;
+  background-size:contain!important;
+  background-repeat:no-repeat!important;
+}
+
+/* Any legacy logo IMG anywhere on the site */
+body img[src*="isese-ponbele-logo"]{
+  content:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-final-brand-v6')!important;
+}
+
+/* Homepage hero: stronger than every old hide/layout rule. */
+body .hero-immersive .hero-grid .hero-logo-wrap,
+body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap{
+  display:block!important;
+  position:absolute!important;
+  top:clamp(24px,3.5vw,46px)!important;
+  right:clamp(20px,4vw,58px)!important;
+  width:clamp(110px,11vw,165px)!important;
+  height:clamp(110px,11vw,165px)!important;
+  min-width:0!important;
+  min-height:0!important;
+  margin:0!important;
+  padding:0!important;
+  opacity:1!important;
+  visibility:visible!important;
+  pointer-events:none!important;
+  z-index:30!important;
+  background:var(--ip-current-logo) center/contain no-repeat!important;
+}
+body .hero-immersive .hero-grid .hero-logo-wrap .hero-logo-direct,
+body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap .hero-logo-direct{
+  display:block!important;
+  content:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-final-brand-v6')!important;
+  width:100%!important;
+  height:100%!important;
+  max-width:none!important;
+  max-height:none!important;
+  object-fit:contain!important;
+  opacity:1!important;
+  visibility:visible!important;
+}
+
+@media(max-width:820px){
+  body .hero-immersive .hero-grid .hero-logo-wrap,
+  body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap{
+    top:18px!important;
+    right:16px!important;
+    width:100px!important;
+    height:100px!important;
+  }
+}
+@media(max-width:620px){
+  body .hero-immersive .hero-grid .hero-logo-wrap,
+  body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap{
+    top:12px!important;
+    right:12px!important;
+    width:78px!important;
+    height:78px!important;
+  }
+}
