@@ -1,5 +1,5 @@
 /* Isese Ponbele brand + polished homepage layout */
-:root{--isese-exact-logo:url('/assets/isese-loader-approved.svg?v=20261003-exact-brand-v2')}
+:root{--isese-exact-logo:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-new-brand-v1')}
 .brand{overflow:visible!important}
 .brand-mark{position:relative!important;width:72px!important;height:72px!important;min-width:72px!important;min-height:72px!important;overflow:visible!important;border:0!important;border-radius:0!important;background:transparent!important;box-shadow:none!important;display:grid!important;place-items:center!important}
 .brand-mark:before,.brand-mark:after{display:none!important;content:none!important}
@@ -8,6 +8,7 @@
 .loader-mark{width:min(280px,58vw)!important;height:min(280px,58vw)!important;overflow:visible!important;border:0!important;border-radius:0!important;background:var(--isese-exact-logo) center/contain no-repeat!important;font-size:0!important;color:transparent!important;box-shadow:none!important}
 .story-symbol{width:min(420px,80%)!important;height:auto!important;aspect-ratio:1/1!important;overflow:visible!important;border:0!important;border-radius:0!important;background:var(--isese-exact-logo) center/contain no-repeat!important;font-size:0!important;color:transparent!important;box-shadow:none!important}
 .story-symbol:before,.story-symbol:after{display:none!important;content:none!important}
+img[src*="isese-ponbele-logo"]{content:url('/assets/isese-ponbele-logo-20261003.svg?v=20261003-new-brand-v1')!important}
 
 /* Site-wide logo consistency — preserve each existing component's size and layout. */
 .seal{
