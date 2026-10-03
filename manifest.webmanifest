@@ -7,22 +7,22 @@
   "scope": "/",
   "display": "standalone",
   "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
-  "background_color": "#12100d",
-  "theme_color": "#12100d",
+  "background_color": "#17110d",
+  "theme_color": "#17110d",
   "orientation": "any",
   "lang": "en",
   "categories": ["education", "lifestyle", "books"],
   "icons": [
     {
-      "src": "/assets/isese-ponbele-logo.png?v=20261002-full-image",
+      "src": "/assets/isese-ponbele-uploaded-logo.webp?v=20261003-redesign-v1",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "any"
     },
     {
-      "src": "/assets/isese-ponbele-logo.png?v=20261002-full-image",
+      "src": "/assets/isese-ponbele-uploaded-logo.webp?v=20261003-redesign-v1",
       "sizes": "512x512",
-      "type": "image/png",
+      "type": "image/webp",
       "purpose": "maskable"
     }
   ],
