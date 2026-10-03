@@ -19,3 +19,6 @@
 @import url('hero-image-v7.css?v=20261002-real-v7');
 @import url('hero-image-v9.css?v=20261002-v9');
 @import url('hero-inline-v10.css?v=20261002-embedded-emblem-v12');
+
+/* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
+section.section-paper:has(.category-grid){display:none!important;}
