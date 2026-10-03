@@ -1,5 +1,5 @@
 /* Isese Ponbele brand + polished homepage layout */
-:root{--isese-exact-logo:url('/assets/isese-ponbele-logo.png?v=20261002-home-clean')}
+:root{--isese-exact-logo:url('/assets/isese-loader-approved.svg?v=20261003-exact-brand-v2')}
 .brand{overflow:visible!important}
 .brand-mark{position:relative!important;width:72px!important;height:72px!important;min-width:72px!important;min-height:72px!important;overflow:visible!important;border:0!important;border-radius:0!important;background:transparent!important;box-shadow:none!important;display:grid!important;place-items:center!important}
 .brand-mark:before,.brand-mark:after{display:none!important;content:none!important}
