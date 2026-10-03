@@ -9,6 +9,21 @@
 .story-symbol{width:min(420px,80%)!important;height:auto!important;aspect-ratio:1/1!important;overflow:visible!important;border:0!important;border-radius:0!important;background:var(--isese-exact-logo) center/contain no-repeat!important;font-size:0!important;color:transparent!important;box-shadow:none!important}
 .story-symbol:before,.story-symbol:after{display:none!important;content:none!important}
 
+/* Site-wide logo consistency — preserve each existing component's size and layout. */
+.seal{
+  position:relative!important;
+  color:transparent!important;
+  font-size:0!important;
+}
+.seal::after{
+  content:''!important;
+  position:absolute!important;
+  inset:10%!important;
+  display:block!important;
+  background:var(--isese-exact-logo) center/contain no-repeat!important;
+  pointer-events:none!important;
+}
+
 /* Premium homepage hero — no hero image */
 body.homepage-clean-hero .hero-immersive{
   min-height:clamp(620px,78vh,820px)!important;
