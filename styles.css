@@ -1,4 +1,4 @@
-@import url('css-1.css');
+@import url('css-1.css?v=20261003-sticky-repair-v1');
 @import url('css-2.css');
 @import url('css-3.css');
 @import url('css-4.css');
@@ -21,7 +21,7 @@
 @import url('hero-inline-v10.css?v=20261002-embedded-emblem-v12');
 @import url('loader-premium.css?v=20261003-approved-loader-v4');
 @import url('homepage-final-fix.css?v=20261003-home-format-v1');
-@import url('floating-header-clean.css?v=20261003-fixed-header-v6');
+@import url('floating-header-clean.css?v=20261003-sticky-repair-v7');
 
 /* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
 section.section-paper:has(.category-grid){display:none!important;}
