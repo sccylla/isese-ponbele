@@ -1,4 +1,5 @@
 /* Premium site-wide loading experience */
+/* loader asset refresh v3 */
 .site-loader{
   position:fixed!important;
   inset:0!important;
@@ -20,7 +21,7 @@
 .site-loader:after{content:'';position:absolute;left:0;right:0;top:50%;height:1px;background:linear-gradient(90deg,transparent,rgba(219,161,73,.12),transparent);box-shadow:0 -34vh 0 rgba(219,161,73,.035),0 34vh 0 rgba(219,161,73,.035);pointer-events:none}
 .loader-inner{position:relative!important;z-index:2!important;width:min(90vw,520px)!important;min-width:0!important;padding:34px 28px 30px!important;text-align:center!important}
 .loader-inner:before{content:'';position:absolute;left:50%;top:44%;width:min(76vw,360px);aspect-ratio:1;transform:translate(-50%,-50%);border-radius:50%;background:radial-gradient(circle,rgba(223,167,77,.12) 0 28%,transparent 29%),repeating-conic-gradient(from 0deg,rgba(223,167,77,.18) 0 1deg,transparent 1deg 14deg),radial-gradient(circle,transparent 0 57%,rgba(223,167,77,.20) 57% 57.8%,transparent 58% 71%,rgba(223,167,77,.08) 71% 71.6%,transparent 72%);opacity:.72;filter:drop-shadow(0 22px 50px rgba(0,0,0,.35));animation:loaderHalo 8s linear infinite;pointer-events:none}
-.loader-mark{position:relative!important;z-index:2!important;width:min(68vw,300px)!important;height:auto!important;aspect-ratio:1!important;margin:0 auto 22px!important;border:0!important;border-radius:0!important;display:block!important;font-size:0!important;color:transparent!important;background:url('/assets/isese-ponbele-logo.png?v=20261003-loader-fix-v2') center/contain no-repeat!important;filter:drop-shadow(0 18px 34px rgba(0,0,0,.44)) drop-shadow(0 0 22px rgba(220,159,68,.16));animation:loaderEmblemFloat 3.4s ease-in-out infinite!important}
+.loader-mark{position:relative!important;z-index:2!important;width:min(68vw,300px)!important;height:auto!important;aspect-ratio:1!important;margin:0 auto 22px!important;border:0!important;border-radius:0!important;display:block!important;font-size:0!important;color:transparent!important;background:url('/assets/isese-ponbele-logo.png?v=20261003-loader-fix-v3') center/contain no-repeat!important;filter:drop-shadow(0 18px 34px rgba(0,0,0,.44)) drop-shadow(0 0 22px rgba(220,159,68,.16));animation:loaderEmblemFloat 3.4s ease-in-out infinite!important}
 .loader-mark:before,.loader-mark:after{display:none!important;content:none!important}
 .loader-text{position:relative!important;z-index:3!important;margin:0 0 18px!important;min-height:46px!important;font-size:0!important;letter-spacing:0!important;color:transparent!important;text-transform:none!important}
 .loader-text:before{content:'ISESE PONBELE';display:block;font-family:'Cormorant Garamond','Times New Roman',serif;font-size:clamp(1.35rem,3vw,1.8rem);line-height:1;letter-spacing:.16em;color:#e7b157;font-weight:700;text-shadow:0 6px 20px rgba(0,0,0,.32)}
