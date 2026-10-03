@@ -1,7 +1,7 @@
-/* Homepage header: preserve the approved original appearance exactly; JS only pins it when it reaches the top. */
-body.home-sticky-header{padding-top:0!important}
+/* Approved Isese Ponbele header appearance. Only the scroll position changes. */
+body{padding-top:0!important}
 
-body.home-sticky-header>.top-ticker{
+.top-ticker{
   position:relative!important;
   top:auto!important;
   left:auto!important;
@@ -11,8 +11,8 @@ body.home-sticky-header>.top-ticker{
   z-index:1!important;
 }
 
-/* Normal state: identical placement/appearance to the version the user approved. */
-body.home-sticky-header>.site-header{
+/* At the top of the page: keep the exact approved header layout. */
+body>.site-header{
   position:relative!important;
   top:auto!important;
   left:auto!important;
@@ -30,13 +30,9 @@ body.home-sticky-header>.site-header{
   box-shadow:none!important;
   transition:background .35s var(--ease),box-shadow .35s var(--ease)!important;
 }
-body.home-sticky-header>.site-header.scrolled{
-  background:rgba(243,237,223,.96)!important;
-  box-shadow:0 12px 45px rgba(20,15,8,.08)!important;
-}
 
-/* Runtime-pinned state: same dimensions and appearance, only position changes. */
-body.home-sticky-header>.site-header.is-pinned{
+/* site-main.js already adds .scrolled. Pin the SAME header at that point. */
+body>.site-header.scrolled{
   position:fixed!important;
   top:0!important;
   left:0!important;
@@ -44,9 +40,11 @@ body.home-sticky-header>.site-header.is-pinned{
   width:100%!important;
   margin:0!important;
   transform:none!important;
+  background:rgba(243,237,223,.96)!important;
+  box-shadow:0 12px 45px rgba(20,15,8,.08)!important;
 }
 
-body.home-sticky-header>.site-header .nav{
+body>.site-header .nav{
   width:min(1240px,calc(100% - 48px))!important;
   max-width:1240px!important;
   height:82px!important;
@@ -54,25 +52,23 @@ body.home-sticky-header>.site-header .nav{
   padding:0!important;
 }
 
-body.home-sticky-header>.site-header-spacer{
-  display:block!important;
-  width:100%!important;
-  height:0;
-  margin:0!important;
-  padding:0!important;
-  border:0!important;
+/* Replace the header's lost document-flow height only while it is fixed. */
+body:has(>.site-header.scrolled)>main{
+  padding-top:82px!important;
+}
+body:not(:has(>.site-header.scrolled))>main{
+  padding-top:0!important;
 }
 
-body.home-sticky-header main{padding-top:0!important}
-
 @media(max-width:820px){
-  body.home-sticky-header>.site-header .nav{
+  body>.site-header .nav{
     width:min(100% - 28px,1240px)!important;
     height:72px!important;
   }
+  body:has(>.site-header.scrolled)>main{padding-top:72px!important}
 }
 
 @media(max-width:600px){
-  body.home-sticky-header>.top-ticker{height:30px!important}
-  body.home-sticky-header>.site-header .nav{width:min(100% - 22px,1240px)!important}
+  .top-ticker{height:30px!important}
+  body>.site-header .nav{width:min(100% - 22px,1240px)!important}
 }
