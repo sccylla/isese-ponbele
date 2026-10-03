@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v13-redesign-uploaded-logo';
+const CACHE_NAME = 'isese-ponbele-app-v14-major-redesign-v2';
 const CORE = [
   '/',
   '/index.html',
@@ -12,7 +12,7 @@ const CORE = [
   '/script.js',
   '/site-main.js',
   '/styles.css',
-  '/site-redesign-v1.css',
+  '/site-redesign-v2.css',
   '/assets/isese-ponbele-uploaded-logo.webp'
 ];
 
