@@ -19,8 +19,9 @@
 @import url('hero-image-v7.css?v=20261002-real-v7');
 @import url('hero-image-v9.css?v=20261002-v9');
 @import url('hero-inline-v10.css?v=20261002-embedded-emblem-v12');
-@import url('loader-premium.css?v=20261003-loader-fix-v2');
-@import url('floating-header-clean.css?v=20261003-fixed-v3-verified');
+@import url('loader-premium.css?v=20261003-approved-loader-v4');
+@import url('floating-header-clean.css?v=20261003-fixed-v4-final');
+@import url('homepage-final-fix.css?v=20261003-home-format-v1');
 
 /* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
 section.section-paper:has(.category-grid){display:none!important;}
