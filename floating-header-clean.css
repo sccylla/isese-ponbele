@@ -40,9 +40,30 @@ body>.site-header.scrolled{
   width:100%!important;
   margin:0!important;
   transform:none!important;
-  background:rgba(243,237,223,.96)!important;
-  box-shadow:0 12px 45px rgba(20,15,8,.08)!important;
+  background:#f3eddf!important;
+  color:#17140f!important;
+  border-bottom:1px solid rgba(16,13,9,.14)!important;
+  box-shadow:0 12px 45px rgba(20,15,8,.10)!important;
+  -webkit-backdrop-filter:none!important;
+  backdrop-filter:none!important;
 }
+
+/* Lock all sticky-state text to high-contrast colours so theme rules cannot wash it out. */
+body>.site-header.scrolled .brand,
+body>.site-header.scrolled .brand-copy,
+body>.site-header.scrolled .brand-copy strong,
+body>.site-header.scrolled .nav-links>a:not(.nav-cta),
+body>.site-header.scrolled .menu-btn{
+  color:#17140f!important;
+}
+body>.site-header.scrolled .brand-copy small{color:#6f675b!important}
+body>.site-header.scrolled .nav-links>a:not(.nav-cta):after{background:#9b672d!important}
+body>.site-header.scrolled .nav-cta{
+  background:#17140f!important;
+  color:#fff!important;
+  border-color:#17140f!important;
+}
+body>.site-header.scrolled .menu-btn{background:rgba(23,20,15,.06)!important}
 
 body>.site-header .nav{
   width:min(1240px,calc(100% - 48px))!important;
@@ -66,6 +87,11 @@ body:not(:has(>.site-header.scrolled))>main{
     height:72px!important;
   }
   body:has(>.site-header.scrolled)>main{padding-top:72px!important}
+  body>.site-header.scrolled .nav-links{
+    background:#f3eddf!important;
+    color:#17140f!important;
+  }
+  body>.site-header.scrolled .nav-links>a:not(.nav-cta){color:#17140f!important}
 }
 
 @media(max-width:600px){
