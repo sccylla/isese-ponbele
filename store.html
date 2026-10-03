@@ -25,11 +25,11 @@
   <div class="product-body"><div class="product-brand">IP Herbs Elixir</div><span class="product-tag">Herbal wellness</span><h3 class="product-title">Infection Crusher</h3><div class="product-price">₦10,000</div><p class="product-copy">A traditional herbal wellness preparation from IP Herbs Elixir, presented for customers seeking a plant-based support product.</p><ul class="product-points"><li>Herbal liquid preparation</li><li>Traditional wellness use</li><li>Direct order and product guidance available</li></ul><div class="product-actions"><a class="btn btn-primary" href="https://wa.me/2347047604452?text=Hello%20Isese%20Ponbele%2C%20I%20want%20to%20order%20Infection%20Crusher%20for%20%E2%82%A610%2C000." target="_blank" rel="noopener">Order on WhatsApp</a></div></div>
 </article>
 <article class="product-card reveal" data-delay="1">
-  <div class="product-media"><img src="assets/store-gorilla-max.webp" alt="IP Herbs Elixir Gorilla Max herbal wellness product" loading="lazy"/></div>
+  <div class="product-media"><img id="storeGorillaImage" alt="IP Herbs Elixir Gorilla Max herbal wellness product"/></div>
   <div class="product-body"><div class="product-brand">IP Herbs Elixir</div><span class="product-tag">Men's vitality</span><h3 class="product-title">Gorilla Max</h3><div class="product-price">₦10,000</div><p class="product-copy">A men's traditional herbal vitality blend made from herbs and roots and marketed for energy, stamina and confidence.</p><ul class="product-points"><li>Herbs-and-roots formulation</li><li>Men's vitality and wellness category</li><li>Direct product guidance available before ordering</li></ul><div class="product-actions"><a class="btn btn-primary" href="https://wa.me/2347047604452?text=Hello%20Isese%20Ponbele%2C%20I%20want%20to%20order%20Gorilla%20Max%20for%20%E2%82%A610%2C000." target="_blank" rel="noopener">Order on WhatsApp</a></div></div>
 </article>
 <article class="product-card reveal" data-delay="2">
-  <div class="product-media"><img src="assets/store-pile-elixir.webp" alt="IP Herbs Elixir Pile Elixir Combo" loading="lazy"/></div>
+  <div class="product-media"><img id="storePileImage" alt="IP Herbs Elixir Pile Elixir Combo"/></div>
   <div class="product-body"><div class="product-brand">IP Herbs Elixir</div><span class="product-tag">Digestive comfort</span><h3 class="product-title">Pile Elixir Combo</h3><div class="product-price">₦8,000</div><p class="product-copy">An Agbo + Agunmu traditional herbal combo from IP Herbs Elixir, presented for digestive and rectal comfort support.</p><ul class="product-points"><li>Liquid herbal elixir with accompanying herbal powder</li><li>Agbo + Agunmu combination</li><li>Order directly for current availability</li></ul><div class="product-actions"><a class="btn btn-primary" href="https://wa.me/2347047604452?text=Hello%20Isese%20Ponbele%2C%20I%20want%20to%20order%20Pile%20Elixir%20Combo%20for%20%E2%82%A68%2C000." target="_blank" rel="noopener">Order on WhatsApp</a></div></div>
 </article>
 </div>
@@ -38,4 +38,20 @@
 </main>
 <footer class="footer"><div class="container"><div class="footer-grid"><div class="footer-brand"><a class="brand" href="index.html"><span class="brand-mark"><span>IP</span></span><span class="brand-copy"><strong style="color:#fff">ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></span></a><p>A cultural house for Yoruba traditional knowledge, leaves, amulet works, selected products and language reference.</p></div><div><h4>Main sections</h4><a href="catalogue.html">Ogun Charms</a><a href="herbs.html">Leaves Documentary</a><a href="amulets.html">Amulet Works</a></div><div><h4>Explore</h4><a href="store.html">Store</a><a href="dictionary.html">Yoruba Dictionary</a><a href="about.html">About</a></div><div><h4>Private</h4><a href="contact.html">Consultation</a><button aria-label="Back to top" class="back-top">↑</button></div></div><div class="footer-bottom"><span>© 2026 Isese Ponbele. All rights reserved.</span><span>Ogun • Leaves • Amulets • Store • Dictionary</span></div></div></footer>
 <script src="script.js"></script>
+<script src="assets/store-g2-a.js"></script>
+<script src="assets/store-g2-b.js"></script>
+<script src="assets/store-g2-c.js"></script>
+<script src="assets/store-p3-a.js"></script>
+<script src="assets/store-p3-b.js"></script>
+<script src="assets/store-p3-c.js"></script>
+<script>
+(() => {
+  const gorilla = document.getElementById('storeGorillaImage');
+  const pile = document.getElementById('storePileImage');
+  if (gorilla && window.__g2) gorilla.src = 'data:image/webp;base64,' + window.__g2;
+  if (pile && window.__p3x) pile.src = 'data:image/webp;base64,' + window.__p3x;
+  window.__g2 = '';
+  window.__p3x = '';
+})();
+</script>
 </body></html>
