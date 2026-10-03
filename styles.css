@@ -21,6 +21,7 @@
 @import url('hero-inline-v10.css?v=20261002-embedded-emblem-v12');
 @import url('loader-premium.css?v=20261003-loader-fix-v2');
 @import url('floating-header.css?v=20261003-floating-v3-sticky');
+@import url('floating-header-v4.css?v=20261003-anchored-v4');
 
 /* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
 section.section-paper:has(.category-grid){display:none!important;}
