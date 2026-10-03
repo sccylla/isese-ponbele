@@ -1,7 +1,7 @@
-/* Header recovery: keep the original Isese Ponbele header appearance and only fix the sticky behavior. */
-html,body{overflow-x:clip!important}
-body{padding-top:0!important;overflow-y:visible!important}
+/* Preserve the original Isese Ponbele header appearance; only its scroll behaviour is fixed. */
+body{padding-top:0!important}
 
+/* The ticker remains a normal part of the document and scrolls away. */
 .top-ticker{
   position:relative!important;
   top:auto!important;
@@ -12,11 +12,13 @@ body{padding-top:0!important;overflow-y:visible!important}
   z-index:1!important;
 }
 
+/* Fixed instead of sticky: this cannot scroll away. At page top it occupies the exact place
+   the original header occupied beneath the 34px ticker. */
 body>.site-header{
-  position:sticky!important;
-  top:0!important;
-  left:auto!important;
-  right:auto!important;
+  position:fixed!important;
+  top:34px!important;
+  left:0!important;
+  right:0!important;
   transform:none!important;
   z-index:9998!important;
   width:100%!important;
@@ -28,14 +30,17 @@ body>.site-header{
   -webkit-backdrop-filter:blur(18px)!important;
   backdrop-filter:blur(18px)!important;
   box-shadow:none!important;
-  transition:.35s var(--ease)!important;
+  transition:top .28s var(--ease),background .35s var(--ease),box-shadow .35s var(--ease)!important;
 }
+
+/* Once the ticker starts leaving the viewport, lock the header to the top edge. */
 body>.site-header.scrolled{
   top:0!important;
   background:rgba(243,237,223,.96)!important;
   box-shadow:0 12px 45px rgba(20,15,8,.08)!important;
 }
 
+/* Preserve the original dimensions and spacing. */
 body>.site-header .nav{
   width:min(1240px,calc(100% - 48px))!important;
   max-width:1240px!important;
@@ -44,17 +49,21 @@ body>.site-header .nav{
   padding:0!important;
 }
 
-/* Do not create an artificial gap; sticky stays in document flow. */
-body>.site-header+main{padding-top:0!important}
+/* Because fixed elements leave document flow, reserve exactly the original header footprint. */
+body>.site-header+main{padding-top:82px!important}
 
 @media(max-width:820px){
   body>.site-header .nav{
     width:min(100% - 28px,1240px)!important;
     height:72px!important;
   }
+  body>.site-header+main{padding-top:72px!important}
 }
 
 @media(max-width:600px){
   .top-ticker{height:30px!important}
+  body>.site-header{top:30px!important}
+  body>.site-header.scrolled{top:0!important}
   body>.site-header .nav{width:min(100% - 22px,1240px)!important}
+  body>.site-header+main{padding-top:72px!important}
 }
