@@ -1,4 +1,4 @@
-@import url('css-1.css?v=20261003-core-v2');
+@import url('css-1.css?v=20261003-sticky-repair-v1');
 @import url('css-2.css');
 @import url('css-3.css');
 @import url('css-4.css');
@@ -8,11 +8,21 @@
 @import url('logo.css');
 @import url('cursor.css');
 @import url('typography.css');
+@import url('brand-logo-update.css?v=20261003-new-brand-v5');
 @import url('archive-polish.css?v=20261002-compact-v2');
 @import url('leaves-rich.css?v=20261002-rich-leaves-v1');
-@import url('loader-premium.css?v=20261003-loader-core-v2');
-@import url('homepage-final-fix.css?v=20261003-home-format-v2');
-@import url('site-redesign-v2.css?v=20261003-major-redesign-v2');
+@import url('traditional-hero.css?v=20261002-exact-v4');
+@import url('hero-match-v2.css?v=20261002-match-v2');
+@import url('hero-fix-v3.css?v=20261002-fix-v3');
+@import url('hero-final-v4.css?v=20261002-final-v4');
+@import url('hero-clean-v6.css?v=20261002-clean-v6');
+@import url('hero-image-v7.css?v=20261002-real-v7');
+@import url('hero-image-v9.css?v=20261002-v9');
+@import url('hero-inline-v10.css?v=20261002-embedded-emblem-v12');
+@import url('loader-premium.css?v=20261003-approved-loader-v4');
+@import url('homepage-final-fix.css?v=20261003-home-format-v1');
+@import url('floating-header-clean.css?v=20261003-stylized-scroll-v11');
+@import url('brand-current.css?v=20261003-brand-current-v1');
 
-/* Preserve the previously requested homepage cleanup. */
+/* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
 section.section-paper:has(.category-grid){display:none!important;}
