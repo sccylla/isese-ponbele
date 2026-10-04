@@ -1,0 +1,468 @@
+/* Traditional Yoruba visual system for the Orisa directory and documentary pages */
+:root{
+  --ori-night:#100b08;
+  --ori-wood:#2c160d;
+  --ori-wood-2:#4a2715;
+  --ori-clay:#7a351d;
+  --ori-brass:#d7a64c;
+  --ori-brass-soft:#e8c77e;
+  --ori-indigo:#10283b;
+  --ori-indigo-2:#173b54;
+  --ori-paper:#ead7ae;
+  --ori-paper-2:#f4e7ca;
+  --ori-leaf:#263d2c;
+  --ori-line:rgba(222,176,92,.34);
+}
+
+body.traditional-orisa-page{
+  background:var(--ori-night)!important;
+}
+body.traditional-orisa-page main{
+  position:relative;
+  overflow:hidden;
+}
+body.traditional-orisa-page main:before{
+  content:"";
+  position:fixed;
+  inset:0;
+  pointer-events:none;
+  opacity:.035;
+  z-index:20;
+  background-image:
+    radial-gradient(circle at 20% 20%,#fff 0 1px,transparent 1px),
+    radial-gradient(circle at 80% 70%,#fff 0 1px,transparent 1px);
+  background-size:22px 22px,29px 29px;
+  mix-blend-mode:screen;
+}
+
+/* ceremonial top border */
+.orisa-shrine-gate{
+  position:relative;
+  height:18px;
+  background:
+    linear-gradient(90deg,transparent 0 2%,var(--ori-brass) 2% 4%,transparent 4% 6%) 0 0/72px 100%,
+    linear-gradient(180deg,#5c2a15,#2a140d);
+  border-top:1px solid rgba(233,195,124,.45);
+  border-bottom:1px solid rgba(233,195,124,.35);
+  box-shadow:0 7px 20px rgba(0,0,0,.28);
+}
+.orisa-shrine-gate:after{
+  content:"ÌBÁ  •  ÀṢẸ  •  ÌWÀ  •  ÌṢẸ̀ṢE";
+  position:absolute;
+  left:50%;top:50%;
+  transform:translate(-50%,-50%);
+  padding:0 14px;
+  background:#2a140d;
+  color:#e8c77e;
+  font-size:.52rem;
+  font-weight:900;
+  letter-spacing:.2em;
+  white-space:nowrap;
+}
+
+/* DIRECTORY HERO */
+body.traditional-orisa-page .doc-hero{
+  padding:104px 0 92px!important;
+  background:
+    radial-gradient(circle at 76% 40%,rgba(215,166,76,.18),transparent 24%),
+    linear-gradient(135deg,rgba(16,40,59,.96),rgba(18,12,8,.98) 52%,rgba(73,34,17,.97))!important;
+  border-bottom:1px solid var(--ori-line);
+}
+body.traditional-orisa-page .doc-hero:before{
+  opacity:.23!important;
+  background-image:
+    linear-gradient(45deg,transparent 43%,rgba(232,199,126,.16) 44% 47%,transparent 48%),
+    linear-gradient(-45deg,transparent 43%,rgba(232,199,126,.12) 44% 47%,transparent 48%)!important;
+  background-size:54px 54px!important;
+}
+body.traditional-orisa-page .doc-hero:after{
+  content:"";
+  position:absolute;
+  inset:18px;
+  border:1px solid rgba(229,188,108,.17);
+  pointer-events:none;
+}
+body.traditional-orisa-page .doc-hero-grid{
+  grid-template-columns:minmax(0,1.12fr) minmax(320px,.68fr)!important;
+  gap:72px!important;
+}
+body.traditional-orisa-page .doc-eyebrow{
+  color:var(--ori-brass-soft)!important;
+  letter-spacing:.19em!important;
+}
+body.traditional-orisa-page .doc-hero h1{
+  color:#f6e6c3!important;
+  text-shadow:0 18px 50px rgba(0,0,0,.48)!important;
+}
+body.traditional-orisa-page .doc-hero h1 em{
+  color:var(--ori-brass)!important;
+}
+body.traditional-orisa-page .doc-hero p{
+  color:#d7c4a1!important;
+  max-width:760px!important;
+}
+
+/* turn the logo box into an Opon-Ifa / shrine-disc inspired focal frame */
+body.traditional-orisa-page .doc-hero-art{
+  min-height:470px!important;
+  border:0!important;
+  border-radius:50%!important;
+  background:
+    radial-gradient(circle,#24130b 0 43%,#74401e 44% 47%,#1b0f0a 48% 56%,#b17835 57% 59%,#23130c 60% 100%)!important;
+  box-shadow:0 34px 80px rgba(0,0,0,.48),inset 0 0 0 12px rgba(15,8,5,.55)!important;
+  aspect-ratio:1;
+}
+body.traditional-orisa-page .doc-hero-art:before{
+  inset:9%!important;
+  border-radius:50%!important;
+  border:2px dotted rgba(232,199,126,.35)!important;
+}
+body.traditional-orisa-page .doc-hero-art:after{
+  content:"";
+  position:absolute;
+  inset:3%;
+  border-radius:50%;
+  background:repeating-conic-gradient(from 8deg,transparent 0 13deg,rgba(229,188,108,.16) 13deg 16deg,transparent 16deg 30deg);
+  pointer-events:none;
+}
+body.traditional-orisa-page .doc-hero-art .seal-large{
+  width:61%!important;
+  filter:drop-shadow(0 18px 30px rgba(0,0,0,.58))!important;
+}
+
+/* carved sacred-word band */
+body.traditional-orisa-page .doc-band{
+  padding:22px 0!important;
+  background:
+    linear-gradient(90deg,rgba(215,166,76,.07) 1px,transparent 1px) 0 0/32px 100%,
+    linear-gradient(180deg,#3e2012,#1b0f0a)!important;
+  border-color:rgba(215,166,76,.32)!important;
+  box-shadow:inset 0 7px 16px rgba(0,0,0,.22);
+}
+body.traditional-orisa-page .doc-band-inner span{
+  padding:7px 10px;
+  border:1px solid rgba(218,169,82,.18);
+  border-radius:999px;
+  background:rgba(10,7,5,.22);
+}
+
+/* directory parchment */
+body.traditional-orisa-page .doc-section.paper{
+  background:
+    linear-gradient(90deg,rgba(111,64,28,.035) 1px,transparent 1px) 0 0/24px 24px,
+    linear-gradient(rgba(111,64,28,.025) 1px,transparent 1px) 0 0/24px 24px,
+    linear-gradient(180deg,#f0dfbd,#e7cf9e)!important;
+}
+body.traditional-orisa-page .doc-section.paper:before{
+  content:"";
+  position:absolute;
+  left:0;right:0;top:0;height:12px;
+  background:repeating-linear-gradient(90deg,#5b2c16 0 18px,#d2a04d 18px 24px,#18394e 24px 42px,#d2a04d 42px 48px);
+  opacity:.95;
+}
+body.traditional-orisa-page .doc-head h2{
+  color:#321b10!important;
+}
+body.traditional-orisa-page .orisa-archive-note{
+  border:2px solid rgba(92,48,20,.18)!important;
+  border-left:7px solid #773519!important;
+  border-radius:3px 18px 18px 3px!important;
+  background:linear-gradient(135deg,rgba(255,250,236,.75),rgba(183,121,51,.1))!important;
+  box-shadow:0 16px 34px rgba(78,45,20,.08)!important;
+}
+
+/* carved card system */
+body.traditional-orisa-page .orisa-grid{
+  gap:24px!important;
+}
+body.traditional-orisa-page .orisa-directory-card{
+  position:relative;
+  border:8px solid #3a1c10!important;
+  border-radius:5px!important;
+  background:#e9d2a5!important;
+  box-shadow:
+    0 22px 40px rgba(74,39,17,.16),
+    inset 0 0 0 2px #a76b2e,
+    inset 0 0 0 5px #25120b!important;
+  transform:none!important;
+}
+body.traditional-orisa-page .orisa-directory-card:before,
+body.traditional-orisa-page .orisa-directory-card:after{
+  content:"";
+  position:absolute;
+  z-index:3;
+  top:10px;
+  width:16px;height:16px;
+  border-radius:50%;
+  background:radial-gradient(circle at 38% 38%,#fff8df 0 22%,#d9bd84 23% 55%,#6c4827 56% 62%,#eee0bd 63% 100%);
+  box-shadow:0 0 0 2px rgba(50,26,13,.45);
+}
+body.traditional-orisa-page .orisa-directory-card:before{left:10px}
+body.traditional-orisa-page .orisa-directory-card:after{right:10px}
+body.traditional-orisa-page .orisa-directory-card .orisa-photo{
+  height:270px!important;
+  margin:8px 8px 0;
+  border:1px solid rgba(230,194,125,.32);
+  outline:5px solid #1b0f0a;
+  outline-offset:-6px;
+}
+body.traditional-orisa-page .orisa-directory-card .orisa-photo:after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(180deg,transparent 42%,rgba(23,13,8,.32));
+}
+body.traditional-orisa-page .orisa-directory-card .orisa-card-copy{
+  position:relative;
+  padding:24px 22px 24px!important;
+  background:
+    linear-gradient(90deg,rgba(82,45,20,.035) 1px,transparent 1px) 0 0/17px 17px,
+    #edd9b1;
+}
+body.traditional-orisa-page .orisa-directory-card .orisa-card-copy:before{
+  content:"ÌBÁ";
+  position:absolute;
+  right:18px;top:18px;
+  color:rgba(104,59,24,.24);
+  font:900 .65rem/1 Georgia,serif;
+  letter-spacing:.2em;
+}
+body.traditional-orisa-page .orisa-directory-card h3{
+  font-size:2rem!important;
+  color:#28150d!important;
+}
+body.traditional-orisa-page .orisa-domain-row span{
+  border-radius:2px!important;
+  background:#2b170e!important;
+  border:1px solid rgba(219,174,91,.32);
+}
+body.traditional-orisa-page .orisa-directory-card .learn{
+  color:#6d3518!important;
+  letter-spacing:.05em;
+  text-transform:uppercase;
+  font-size:.68rem!important;
+}
+
+/* dark explanatory section */
+body.traditional-orisa-page .doc-section.dark{
+  background:
+    radial-gradient(circle at 12% 30%,rgba(32,72,82,.18),transparent 30%),
+    linear-gradient(135deg,#100c09,#24150e 62%,#102838)!important;
+}
+body.traditional-orisa-page .doc-icon-card{
+  border-radius:3px!important;
+  border:1px solid rgba(222,176,92,.27)!important;
+  background:linear-gradient(145deg,rgba(74,36,18,.72),rgba(16,12,9,.88))!important;
+  box-shadow:inset 0 0 0 4px rgba(216,166,76,.04);
+}
+
+/* INDIVIDUAL DOCUMENTARY HERO */
+body.traditional-orisa-page .orisa-detail-hero{
+  padding:100px 0 84px!important;
+  background:
+    radial-gradient(circle at 18% 42%,rgba(16,54,74,.42),transparent 28%),
+    radial-gradient(circle at 84% 16%,rgba(182,100,40,.27),transparent 26%),
+    linear-gradient(128deg,#0d171e,#17100c 48%,#402113)!important;
+  border-bottom:12px solid #3b1d10;
+  box-shadow:inset 0 -3px 0 #bd7d35;
+}
+body.traditional-orisa-page .orisa-detail-hero:before{
+  opacity:.23!important;
+  background-image:
+    linear-gradient(45deg,transparent 46%,rgba(231,190,112,.16) 47% 49%,transparent 50%),
+    linear-gradient(-45deg,transparent 46%,rgba(231,190,112,.10) 47% 49%,transparent 50%)!important;
+  background-size:62px 62px!important;
+}
+body.traditional-orisa-page .orisa-detail-hero-grid{
+  grid-template-columns:minmax(340px,.86fr) minmax(0,1.14fr)!important;
+  gap:64px!important;
+}
+body.traditional-orisa-page .orisa-detail-copy{
+  order:2;
+  position:relative;
+  padding:28px 0 28px 22px;
+  border-left:3px solid var(--ori-brass);
+}
+body.traditional-orisa-page .orisa-detail-copy:before{
+  content:"ÀṢẸ";
+  display:block;
+  margin-bottom:16px;
+  color:#d6a44b;
+  font-size:.62rem;
+  font-weight:900;
+  letter-spacing:.32em;
+}
+body.traditional-orisa-page .orisa-detail-copy h1{
+  color:#f6e4bf!important;
+  text-shadow:0 18px 44px rgba(0,0,0,.52);
+}
+body.traditional-orisa-page .orisa-classification{
+  color:#efc773!important;
+}
+body.traditional-orisa-page .orisa-lede{
+  color:#d7c5a7!important;
+}
+body.traditional-orisa-page .orisa-detail-figure{
+  order:1;
+  position:relative;
+  border-radius:4px!important;
+  border:12px solid #32180e!important;
+  outline:2px solid #b87832;
+  outline-offset:-7px;
+  box-shadow:0 34px 72px rgba(0,0,0,.45)!important;
+}
+body.traditional-orisa-page .orisa-detail-figure:before,
+body.traditional-orisa-page .orisa-detail-figure:after{
+  content:"";
+  position:absolute;
+  z-index:4;
+  top:12px;
+  width:18px;height:18px;
+  border-radius:50%;
+  background:radial-gradient(circle,#f6e6bf 0 28%,#bc8e51 29% 59%,#5a361e 60% 68%,#e9d7ad 69% 100%);
+}
+body.traditional-orisa-page .orisa-detail-figure:before{left:12px}
+body.traditional-orisa-page .orisa-detail-figure:after{right:12px}
+body.traditional-orisa-page .orisa-detail-figure img{
+  height:560px!important;
+  filter:saturate(.9) contrast(1.04) sepia(.05);
+}
+body.traditional-orisa-page .orisa-detail-figure figcaption{
+  background:#21120b;
+  color:#ccb58e!important;
+}
+
+/* ritual band below each hero */
+.orisa-ancestral-band{
+  background:
+    repeating-linear-gradient(90deg,#1a3142 0 32px,#d0a151 32px 36px,#5a2c17 36px 68px,#d0a151 68px 72px);
+  color:#f3e1bb;
+  padding:16px 0;
+  border-bottom:1px solid rgba(225,181,102,.35);
+  box-shadow:inset 0 7px 16px rgba(0,0,0,.22);
+}
+.orisa-ancestral-band .doc-shell{
+  display:flex;
+  justify-content:center;
+  gap:26px;
+  flex-wrap:wrap;
+}
+.orisa-ancestral-band span{
+  padding:5px 10px;
+  background:rgba(18,11,7,.72);
+  border:1px solid rgba(236,200,132,.24);
+  font-size:.62rem;
+  font-weight:900;
+  letter-spacing:.16em;
+  text-transform:uppercase;
+}
+
+/* documentary body like old manuscript / shrine record */
+body.traditional-orisa-page .orisa-detail-body{
+  background:
+    radial-gradient(circle at 13% 8%,rgba(121,68,31,.08),transparent 18%),
+    radial-gradient(circle at 82% 32%,rgba(16,57,73,.06),transparent 22%),
+    linear-gradient(90deg,rgba(111,64,28,.035) 1px,transparent 1px) 0 0/26px 26px,
+    var(--ori-paper)!important;
+  padding-top:84px!important;
+}
+body.traditional-orisa-page .orisa-detail-layout{
+  grid-template-columns:270px minmax(0,1fr)!important;
+  gap:56px!important;
+}
+body.traditional-orisa-page .orisa-detail-toc{
+  border-radius:3px!important;
+  padding:22px!important;
+  background:
+    linear-gradient(90deg,rgba(229,188,108,.05) 1px,transparent 1px) 0 0/14px 14px,
+    linear-gradient(145deg,#472413,#1d100a)!important;
+  border:7px solid #28140c!important;
+  outline:1px solid #b77631;
+  box-shadow:0 18px 36px rgba(70,36,16,.18);
+}
+body.traditional-orisa-page .orisa-detail-toc:before{
+  content:"ILÉ ÌMỌ̀";
+  display:block;
+  margin-bottom:12px;
+  color:#b98746;
+  font-size:.56rem;
+  font-weight:900;
+  letter-spacing:.22em;
+}
+body.traditional-orisa-page .orisa-detail-toc a{
+  color:#d5c19b!important;
+}
+body.traditional-orisa-page .orisa-documentary-note{
+  border:0!important;
+  border-top:4px double #7f431e!important;
+  border-bottom:4px double #7f431e!important;
+  background:rgba(255,248,229,.38)!important;
+  padding:22px 26px!important;
+  font-family:Georgia,'Times New Roman',serif;
+  font-style:italic;
+  color:#5e432f!important;
+}
+body.traditional-orisa-page .orisa-detail-article section{
+  position:relative;
+  margin-bottom:74px!important;
+  padding:30px 34px 34px;
+  border:1px solid rgba(95,49,21,.16);
+  border-top:6px solid #6a3218;
+  background:rgba(248,237,212,.5);
+  box-shadow:0 14px 34px rgba(82,45,21,.06);
+}
+body.traditional-orisa-page .orisa-detail-article section:before{
+  content:"";
+  position:absolute;
+  top:-6px;right:18px;
+  width:74px;height:6px;
+  background:repeating-linear-gradient(90deg,#d0a151 0 9px,#173b54 9px 18px,#7b351c 18px 27px);
+}
+body.traditional-orisa-page .orisa-detail-article h2{
+  color:#342014!important;
+  margin-top:8px!important;
+}
+body.traditional-orisa-page .orisa-detail-article p{
+  color:#5d4938!important;
+}
+body.traditional-orisa-page .orisa-visual-study figure{
+  border-radius:3px!important;
+  border:8px solid #3a1c10!important;
+  outline:1px solid #a66c2e;
+  background:#201109!important;
+}
+body.traditional-orisa-page .representation-tags span{
+  border-radius:2px!important;
+  background:#2d180e!important;
+}
+body.traditional-orisa-page .orisa-reference-list li{
+  border-radius:2px!important;
+  border-left:5px solid #7a371b!important;
+  background:rgba(255,250,237,.55)!important;
+}
+body.traditional-orisa-page .orisa-next-prev a{
+  border-radius:2px!important;
+  border:6px solid #2a150c;
+  outline:1px solid #b87832;
+  background:linear-gradient(145deg,#432211,#1d100a)!important;
+}
+
+@media(max-width:980px){
+  body.traditional-orisa-page .doc-hero-grid,
+  body.traditional-orisa-page .orisa-detail-hero-grid,
+  body.traditional-orisa-page .orisa-detail-layout{grid-template-columns:1fr!important}
+  body.traditional-orisa-page .doc-hero-art{width:min(540px,88vw);margin:0 auto}
+  body.traditional-orisa-page .orisa-detail-copy{order:1;border-left:0;border-top:3px solid var(--ori-brass);padding:24px 0 0}
+  body.traditional-orisa-page .orisa-detail-figure{order:2;width:min(680px,100%)}
+}
+@media(max-width:640px){
+  .orisa-shrine-gate:after{font-size:.45rem;letter-spacing:.12em}
+  body.traditional-orisa-page .doc-hero{padding:78px 0 66px!important}
+  body.traditional-orisa-page .doc-hero-art{min-height:auto!important}
+  body.traditional-orisa-page .orisa-directory-card .orisa-photo{height:240px!important}
+  body.traditional-orisa-page .orisa-detail-hero{padding:72px 0 58px!important}
+  body.traditional-orisa-page .orisa-detail-figure img{height:420px!important}
+  body.traditional-orisa-page .orisa-detail-article section{padding:24px 20px 26px}
+  .orisa-ancestral-band .doc-shell{gap:8px}
+  .orisa-ancestral-band span{font-size:.54rem}
+}
