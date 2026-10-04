@@ -1,6 +1,7 @@
 (() => {
   const DATA = window.ISESE_ORISA_DATA || [];
   const LONG = window.ISESE_ORISA_LONGFORM || {};
+  const DEEP = window.ISESE_ORISA_DEEP || {};
   const bySlug = Object.fromEntries(DATA.map(x => [x.slug, x]));
   const escape = s => String(s ?? '').replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
   const hrefFor = o => o.dedicated || `orisa-documentary.html?id=${encodeURIComponent(o.slug)}`;
@@ -49,6 +50,7 @@
   }
 
   const lf = LONG[o.slug] || {};
+  const deep = DEEP[o.slug] || {};
   document.title = `${o.name} — Isese Ponbele Òrìṣà Documentary`;
   const index = DATA.indexOf(o);
   const next = DATA[(index + 1) % DATA.length];
@@ -66,6 +68,7 @@
           <p class="orisa-lede">${escape(o.short)}</p>
           <div class="orisa-domain-row large">${o.domains.map(d => `<span>${escape(d)}</span>`).join('')}</div>
           <div class="orisa-detail-actions"><a class="btn btn-primary" href="#documentary">Begin documentary ↓</a><a class="btn btn-ghost" href="orisas.html">All Òrìṣà</a></div>
+          <div class="documentary-length" id="documentaryLength">Long-form documentary • 12 chapters</div>
         </div>
         <figure class="orisa-detail-figure">
           <img src="${o.image}" alt="${escape(o.name)} — documented cultural representation" referrerpolicy="no-referrer"/>
@@ -104,30 +107,35 @@
             <h2>Who is ${escape(o.name)}?</h2>
             ${paragraphs(o.overview)}
             ${paragraphs(lf.names)}
+            ${paragraphs(deep.identity)}
           </section>
 
           <section id="oral" data-chapter="02">
-            <div class="doc-eyebrow">02 • Àlọ́, itan & oral memory</div>
+            <div class="doc-eyebrow">02 • Àlọ́, ìtàn & oral memory</div>
             <h2>Oral traditions and sacred narratives.</h2>
             ${paragraphs(lf.oral)}
+            ${paragraphs(deep.oral)}
           </section>
 
           <section id="meaning" data-chapter="03">
             <div class="doc-eyebrow">03 • Ìtumọ̀ • Cultural and religious meaning</div>
             <h2>What the tradition expresses.</h2>
             ${paragraphs(o.character)}
+            ${paragraphs(deep.worldview)}
           </section>
 
           <section id="worship" data-chapter="04">
             <div class="doc-eyebrow">04 • Ìjọsìn • Worship, priesthood & devotional life</div>
             <h2>How the tradition is maintained.</h2>
             ${paragraphs(lf.worship)}
+            ${paragraphs(deep.institutions)}
           </section>
 
           <section id="representation" data-chapter="05">
             <div class="doc-eyebrow">05 • Àwòrán • Material culture & representation</div>
             <h2>Shrines, sacred objects and visual language.</h2>
             ${paragraphs(o.material)}
+            ${paragraphs(deep.arts)}
             <div class="orisa-visual-study">
               <figure><img src="${o.image}" alt="${escape(o.name)} cultural representation — full view" loading="lazy" referrerpolicy="no-referrer"/><figcaption>Primary documented cultural representation.</figcaption></figure>
               <figure class="detail-crop"><img src="${o.image}" alt="${escape(o.name)} cultural representation — detail view" loading="lazy" referrerpolicy="no-referrer"/><figcaption>Detail study of the same documented object, monument or sacred setting.</figcaption></figure>
@@ -139,42 +147,50 @@
             <div class="doc-eyebrow">06 • Ibi mímọ́ • Sacred geography</div>
             <h2>Place, landscape and community.</h2>
             ${paragraphs(o.geography)}
+            ${paragraphs(deep.place)}
           </section>
 
           <section id="festivals" data-chapter="07">
             <div class="doc-eyebrow">07 • Ayẹyẹ • Festivals & public life</div>
             <h2>Public ceremony and community memory.</h2>
             ${paragraphs(lf.festivals)}
+            ${paragraphs(deep.festivals)}
           </section>
 
           <section id="history" data-chapter="08">
             <div class="doc-eyebrow">08 • Ìtàn • Historical development</div>
             <h2>How the documentary record changed over time.</h2>
             ${paragraphs(lf.history)}
+            ${paragraphs(deep.history)}
           </section>
 
           <section id="variation" data-chapter="09">
             <div class="doc-eyebrow">09 • Ìdílé • Lineage & regional variation</div>
             <h2>There is no single universal local version.</h2>
             ${paragraphs(o.variation)}
+            ${paragraphs(deep.variation)}
           </section>
 
           <section id="diaspora" data-chapter="10">
             <div class="doc-eyebrow">10 • Àgbáyé • Diaspora & contemporary life</div>
             <h2>Tradition across the Atlantic and the modern world.</h2>
             ${paragraphs(lf.diaspora)}
+            ${paragraphs(deep.contemporary)}
           </section>
 
           <section id="misconceptions" data-chapter="11">
             <div class="doc-eyebrow">11 • Ìtúmọ̀ tó yẹ • Misconceptions & cautions</div>
             <h2>What should not be oversimplified.</h2>
             ${paragraphs(lf.misconceptions)}
+            ${paragraphs(deep.cautions)}
           </section>
 
           <section id="references" data-chapter="12">
-            <div class="doc-eyebrow">12 • Àwọn ìtọ́kasí • References</div>
-            <h2>Selected documentary sources.</h2>
+            <div class="doc-eyebrow">12 • Àwọn ìtọ́kasí • References & further reading</div>
+            <h2>Documentary sources and research direction.</h2>
+            ${paragraphs(deep.sources)}
             <ul class="orisa-reference-list">${refs}</ul>
+            <div class="orisa-documentary-note"><strong>Source practice:</strong> Museum records document specific objects; UNESCO and heritage records document recognized cultural sites and practices; academic studies interpret history and oral traditions; local priestly and family lineages preserve knowledge that may not appear in print. They should be read together rather than treated as interchangeable evidence.</div>
           </section>
 
           <nav class="orisa-next-prev" aria-label="More Orisa documentaries">
@@ -184,4 +200,11 @@
         </article>
       </div>
     </section>`;
+
+  const article = root.querySelector('.orisa-detail-article');
+  const length = root.querySelector('#documentaryLength');
+  if (article && length) {
+    const words = article.textContent.trim().split(/\s+/).filter(Boolean).length;
+    length.textContent = `${words.toLocaleString()} words • 12 chapters • references`;
+  }
 })();
