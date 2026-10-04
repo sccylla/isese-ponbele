@@ -24,13 +24,10 @@
 @import url('hero-brand-logo.css?v=20261003-new-brand-v5');
 @import url('floating-header-clean.css?v=20261003-stylized-scroll-v11');
 
-/* Homepage cleanup: remove the Explore Isese Ponbele / five main sections card block. */
 section.section-paper:has(.category-grid){display:none!important;}
 
-/* PNG-only brand source — use the uploaded PNG directly everywhere. */
-:root{--ip-current-logo:url('/assets/isese-ponbele-logo.png?v=20261003-png-v1')}
+:root{--ip-current-logo:url('/assets/isese-ponbele-logo.png?v=20261004-uploaded-png-v2')}
 
-/* Header/brand marks on every page */
 body .site-header .brand-mark,
 body .brand-mark{
   background:transparent!important;
@@ -51,14 +48,12 @@ body .brand-mark::after{
   background:var(--ip-current-logo) center/contain no-repeat!important;
 }
 
-/* Loader */
 body .site-loader .loader-mark{
   background:var(--ip-current-logo) center/contain no-repeat!important;
   color:transparent!important;
   font-size:0!important;
 }
 
-/* Footer / seal / story brand elements */
 body .seal::after,
 body .story-symbol{
   background-image:var(--ip-current-logo)!important;
@@ -67,19 +62,8 @@ body .story-symbol{
   background-repeat:no-repeat!important;
 }
 
-/* Any legacy logo IMG anywhere on the site */
 body img[src*="isese-ponbele-logo"]{
-  content:url('/assets/isese-ponbele-logo.png?v=20261003-png-v1')!important;
-}
-
-/* Homepage hero: use the same PNG source instead of SVG/WebP. */
-body.homepage-clean-hero .hero-grid::after,
-body.homepage-clean-hero .hero-grid:after{
-  background-color:#2a160d!important;
-  background-image:url('/assets/isese-ponbele-logo.png?v=20261003-png-v1')!important;
-  background-position:center!important;
-  background-size:contain!important;
-  background-repeat:no-repeat!important;
+  content:url('/assets/isese-ponbele-logo.png?v=20261004-uploaded-png-v2')!important;
 }
 
 body .hero-immersive .hero-grid .hero-logo-wrap,
@@ -103,7 +87,7 @@ body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap{
 body .hero-immersive .hero-grid .hero-logo-wrap .hero-logo-direct,
 body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap .hero-logo-direct{
   display:block!important;
-  content:url('/assets/isese-ponbele-logo.png?v=20261003-png-v1')!important;
+  content:url('/assets/isese-ponbele-logo.png?v=20261004-uploaded-png-v2')!important;
   width:100%!important;
   height:100%!important;
   max-width:none!important;
