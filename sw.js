@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v13-png-logo';
+const CACHE_NAME = 'isese-ponbele-app-v15-uploaded-png-logo';
 const CORE = [
   '/',
   '/index.html',
