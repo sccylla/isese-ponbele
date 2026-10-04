@@ -24,6 +24,7 @@
 @import url('hero-brand-logo.css?v=20261003-new-brand-v5');
 @import url('floating-header-clean.css?v=20261003-stylized-scroll-v11');
 @import url('isese-cultural-rich.css?v=20261004-cultural-v1');
+@import url('documentary.css?v=20261004-doc-v1');
 
 section.section-paper:has(.category-grid){display:none!important;}
 
