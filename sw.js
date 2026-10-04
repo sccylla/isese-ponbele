@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v16-orisa-full-documentary';
+const CACHE_NAME = 'isese-ponbele-app-v17-deep-orisa-documentaries';
 const CORE = [
   '/',
   '/index.html',
@@ -19,6 +19,9 @@ const CORE = [
   '/orisa-longform-1.js',
   '/orisa-longform-2.js',
   '/orisa-longform-3.js',
+  '/orisa-deep-1.js',
+  '/orisa-deep-2.js',
+  '/orisa-deep-3.js',
   '/orisa-traditional.css',
   '/orisa-clean.css',
   '/assets/isese-ponbele-logo.png'
