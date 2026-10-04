@@ -1,7 +1,9 @@
-const CACHE_NAME = 'isese-ponbele-app-v15-uploaded-png-logo';
+const CACHE_NAME = 'isese-ponbele-app-v16-orisa-full-documentary';
 const CORE = [
   '/',
   '/index.html',
+  '/orisas.html',
+  '/orisa-documentary.html',
   '/catalogue.html',
   '/herbs.html',
   '/amulets.html',
@@ -12,6 +14,13 @@ const CORE = [
   '/site-main.js',
   '/styles.css',
   '/hero-clean-v6.css',
+  '/orisa-data.js',
+  '/orisa-render.js',
+  '/orisa-longform-1.js',
+  '/orisa-longform-2.js',
+  '/orisa-longform-3.js',
+  '/orisa-traditional.css',
+  '/orisa-clean.css',
   '/assets/isese-ponbele-logo.png'
 ];
 
