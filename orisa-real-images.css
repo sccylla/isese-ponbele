@@ -1,0 +1,144 @@
+/* Real documentary photographs for the Orisa cards.
+   Sources are documented cultural photographs/artifacts from Wikimedia Commons.
+   The photographs represent shrines, ritual objects, festival manifestations or cultural monuments — not literal photographic portraits of the Orisa. */
+
+/* Dedicated Orisa documentary page: turn the old glyph circle into a real-photo panel. */
+.orisa-card{
+  min-height:505px!important;
+  padding-bottom:58px!important;
+  overflow:hidden!important;
+}
+.orisa-card .orisa-symbol{
+  width:calc(100% + 44px)!important;
+  height:205px!important;
+  margin:-22px -22px 20px!important;
+  border-radius:18px 18px 0 0!important;
+  border:0!important;
+  box-shadow:none!important;
+  background-size:cover!important;
+  background-position:center!important;
+  background-repeat:no-repeat!important;
+  font-size:0!important;
+  position:relative!important;
+}
+.orisa-card .orisa-symbol::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:linear-gradient(180deg,rgba(10,7,5,.02) 35%,rgba(24,14,9,.42) 100%);
+  pointer-events:none;
+}
+
+/* 1 Òrúnmìlà — photographed Opon Ifa. */
+.orisa-grid .orisa-card:nth-child(1) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Opon%20Ifa%20%28Ifa%20Tray%29.jpg')!important;
+}
+/* 2 Èṣù — photographed Èṣù staff. */
+.orisa-grid .orisa-card:nth-child(2) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Esu%20staff.jpg')!important;
+}
+/* 3 Ògún — photographed Ògún shrine. */
+.orisa-grid .orisa-card:nth-child(3) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Ogun%20shrine.jpg')!important;
+}
+/* 4 Ọ̀ṣun — real shrine/offering scene at the Osun-Osogbo Sacred Grove. */
+.orisa-grid .orisa-card:nth-child(4) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Osun%20Osogbo%202026%20%28Sacred%20Shrine%20%26%20Offerings%29.jpg')!important;
+}
+/* 5 Ṣàngó — museum photograph of a Yoruba Shango staff. */
+.orisa-grid .orisa-card:nth-child(5) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Yoruba%20Shango.jpg')!important;
+}
+/* 6 Ọbàtálá — photographed historic Ọbàtálá shrine. */
+.orisa-grid .orisa-card:nth-child(6) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Ancient%20Obatala%20Shrine.jpg')!important;
+}
+/* 7 Yemọja — real festival manifestation in Oyo, Nigeria. */
+.orisa-grid .orisa-card:nth-child(7) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Yemoja%20Nigeria.jpg')!important;
+  background-position:center 24%!important;
+}
+/* 8 Ọya — photographed Ọya Shrine in Irra, Kwara State. */
+.orisa-grid .orisa-card:nth-child(8) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Oya%20Shrine%20in%20Oya%20Grove%2C%20Irra%2C%20Kwara%20State%2C%20Nigeria%2001.jpg')!important;
+}
+/* 9 Ọ̀sányìn — photographed Osanyin staff. */
+.orisa-grid .orisa-card:nth-child(9) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Osanyin%20Staff.jpg')!important;
+  background-position:center 30%!important;
+}
+/* 10 Olókun — real Ori Olokun cultural monument in Ile-Ife. */
+.orisa-grid .orisa-card:nth-child(10) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Ori%20Olokun%20Sculpture%2002.jpg')!important;
+}
+/* 11 Òrìṣà Oko — documented Yoruba staff and sheath for Orisha Oko. */
+.orisa-grid .orisa-card:nth-child(11) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Staff%20and%20sheath%20for%20Orisha%20Oko%2C%20Yoruba%20peoples%2C%20Oyo%20region%2C%20Irawo%20village%2C%20Nigeria%2C%20Late%2019th%20to%20early%2020th%20century%2C%20Staff%20iron%2C%20wood%20%282923635450%29.jpg')!important;
+  background-position:center 22%!important;
+}
+/* 12 Erinlẹ̀ — documented museum sculpture of Inlè-Ibualama / Erinlè. */
+.orisa-grid .orisa-card:nth-child(12) .orisa-symbol{
+  background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Ibualama.jpg')!important;
+  background-position:center 20%!important;
+}
+
+/* Homepage: the same real imagery replaces the symbolic glyph tiles. */
+.home-orisa-icons{
+  grid-template-columns:repeat(5,minmax(0,1fr))!important;
+  gap:10px!important;
+}
+.home-orisa-icon{
+  position:relative!important;
+  min-height:138px!important;
+  overflow:hidden!important;
+  padding:0!important;
+  border-radius:14px!important;
+  background-size:cover!important;
+  background-position:center!important;
+  background-repeat:no-repeat!important;
+  font-size:0!important;
+  display:block!important;
+  box-shadow:0 12px 24px rgba(0,0,0,.2)!important;
+}
+.home-orisa-icon::after{
+  content:"";
+  position:absolute;
+  inset:0;
+  z-index:1;
+  background:linear-gradient(180deg,rgba(8,6,5,.02) 26%,rgba(8,6,5,.88) 100%);
+}
+.home-orisa-icon small{
+  position:absolute!important;
+  z-index:2!important;
+  left:7px!important;
+  right:7px!important;
+  bottom:9px!important;
+  display:block!important;
+  margin:0!important;
+  text-align:center!important;
+  color:#fff0d2!important;
+  font-size:.72rem!important;
+  font-weight:900!important;
+  letter-spacing:.02em!important;
+  text-shadow:0 2px 10px rgba(0,0,0,.8)!important;
+}
+.home-orisa-icons .home-orisa-icon:nth-child(1){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Opon%20Ifa%20%28Ifa%20Tray%29.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(2){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Esu%20staff.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(3){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Ogun%20shrine.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(4){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Osun%20Osogbo%202026%20%28Sacred%20Shrine%20%26%20Offerings%29.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(5){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Yoruba%20Shango.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(6){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Ancient%20Obatala%20Shrine.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(7){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Yemoja%20Nigeria.jpg')!important;background-position:center 22%!important}
+.home-orisa-icons .home-orisa-icon:nth-child(8){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Oya%20Shrine%20in%20Oya%20Grove%2C%20Irra%2C%20Kwara%20State%2C%20Nigeria%2001.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(9){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Osanyin%20Staff.jpg')!important}
+.home-orisa-icons .home-orisa-icon:nth-child(10){background-image:url('https://commons.wikimedia.org/wiki/Special:Redirect/file/Ori%20Olokun%20Sculpture%2002.jpg')!important}
+
+@media(max-width:980px){
+  .home-orisa-icons{grid-template-columns:repeat(3,minmax(0,1fr))!important}
+}
+@media(max-width:640px){
+  .home-orisa-icons{grid-template-columns:repeat(2,minmax(0,1fr))!important}
+  .home-orisa-icon{min-height:150px!important}
+  .orisa-card{min-height:485px!important}
+  .orisa-card .orisa-symbol{height:220px!important}
+}
