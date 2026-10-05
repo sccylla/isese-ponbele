@@ -1,0 +1,332 @@
+/* Homepage responsive polish — 2026-10-05
+   Keeps the approved header untouched. Limits the homepage Orisa preview to two entries
+   and gives the homepage a cleaner, deliberate mobile composition. */
+
+/* Homepage Orisa teaser: exactly two real-photo previews. */
+.home-sacred-section .home-orisa-icons{
+  grid-template-columns:repeat(2,minmax(0,1fr))!important;
+  gap:14px!important;
+  max-width:620px!important;
+  margin:24px 0 22px!important;
+}
+.home-sacred-section .home-orisa-icons .home-orisa-icon:nth-child(n+3){
+  display:none!important;
+}
+.home-sacred-section .home-orisa-icons::before,
+.home-sacred-section .home-orisa-icons::after{
+  display:none!important;
+  content:none!important;
+}
+.home-sacred-section .home-orisa-icon{
+  min-height:210px!important;
+  border-radius:12px!important;
+  border:1px solid rgba(213,169,87,.20)!important;
+  box-shadow:0 12px 28px rgba(0,0,0,.18)!important;
+}
+.home-sacred-section .home-orisa-icon small{
+  left:14px!important;
+  right:14px!important;
+  bottom:13px!important;
+  text-align:left!important;
+  font-family:Georgia,'Times New Roman',serif!important;
+  font-size:.9rem!important;
+  letter-spacing:.01em!important;
+}
+.home-sacred-section .home-orisa-panel{
+  padding:30px!important;
+}
+.home-sacred-section .home-orisa-panel>p{
+  max-width:60ch!important;
+  color:#c8b89c!important;
+}
+
+/* Make the cultural homepage feature feel intentional rather than crowded. */
+.home-sacred-section{
+  background:linear-gradient(120deg,#15100c 0%,#23160f 55%,#101b22 100%)!important;
+}
+.home-sacred-section::before{
+  opacity:.07!important;
+}
+.home-sacred-section .home-sacred-grid{
+  gap:22px!important;
+}
+.home-sacred-section .home-orisa-panel,
+.home-sacred-section .home-iyami-panel{
+  border-radius:16px!important;
+  border-color:rgba(217,172,89,.20)!important;
+  box-shadow:0 20px 50px rgba(0,0,0,.16)!important;
+}
+
+/* Homepage mobile reset. Header intentionally excluded. */
+@media(max-width:760px){
+  body .container{
+    width:calc(100% - 28px)!important;
+  }
+
+  /* Hero: compact, balanced, no floating tiny logo in the corner. */
+  body .hero-immersive{
+    min-height:0!important;
+    padding:34px 0 42px!important;
+    overflow:hidden!important;
+  }
+  body .hero-immersive .hero-grid,
+  body.homepage-clean-hero .hero-immersive .hero-grid{
+    display:flex!important;
+    flex-direction:column!important;
+    gap:18px!important;
+    min-height:0!important;
+  }
+  body .hero-immersive .hero-grid .hero-logo-wrap,
+  body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap{
+    position:relative!important;
+    inset:auto!important;
+    order:-1!important;
+    align-self:flex-end!important;
+    width:92px!important;
+    height:92px!important;
+    min-height:0!important;
+    margin:0 2px -4px 0!important;
+  }
+  body .hero-immersive .hero-copy{
+    width:100%!important;
+    max-width:none!important;
+    padding:0!important;
+  }
+  body .hero-immersive .eyebrow{
+    margin-bottom:12px!important;
+    font-size:.66rem!important;
+    line-height:1.45!important;
+    letter-spacing:.12em!important;
+  }
+  body .hero-immersive .display{
+    max-width:9.5ch!important;
+    margin:0 0 15px!important;
+    font-size:clamp(2.65rem,13vw,4rem)!important;
+    line-height:.91!important;
+    letter-spacing:-.05em!important;
+  }
+  body .hero-immersive .hero-copy>p{
+    max-width:34rem!important;
+    margin:0!important;
+    font-size:.94rem!important;
+    line-height:1.67!important;
+  }
+  body .hero-immersive .hero-actions{
+    display:grid!important;
+    grid-template-columns:1fr!important;
+    gap:9px!important;
+    margin-top:22px!important;
+  }
+  body .hero-immersive .hero-actions .btn{
+    width:100%!important;
+    min-height:49px!important;
+    padding:0 16px!important;
+    border-radius:9px!important;
+    font-size:.82rem!important;
+  }
+  body .hero-immersive .hero-note{
+    margin-top:17px!important;
+    gap:8px!important;
+    font-size:.68rem!important;
+    line-height:1.45!important;
+  }
+
+  /* Sacred preview: one clean story at a time. */
+  body .home-sacred-section{
+    padding:48px 0 52px!important;
+    background:#17110d!important;
+  }
+  body .home-sacred-section::before{
+    display:none!important;
+  }
+  body .home-sacred-head{
+    display:block!important;
+    margin-bottom:20px!important;
+  }
+  body .home-sacred-head h2{
+    margin:0!important;
+    font-size:clamp(2.1rem,10vw,3rem)!important;
+    line-height:.96!important;
+    letter-spacing:-.035em!important;
+  }
+  body .home-sacred-head>p{
+    margin:12px 0 0!important;
+    max-width:34rem!important;
+    font-size:.9rem!important;
+    line-height:1.6!important;
+  }
+  body .home-sacred-grid{
+    display:grid!important;
+    grid-template-columns:1fr!important;
+    gap:14px!important;
+  }
+  body .home-orisa-panel{
+    min-height:0!important;
+    padding:20px!important;
+    border-radius:12px!important;
+  }
+  body .home-orisa-panel h3{
+    margin:7px 0 10px!important;
+    font-size:1.72rem!important;
+    line-height:1.03!important;
+  }
+  body .home-orisa-panel>p{
+    margin:0!important;
+    font-size:.88rem!important;
+    line-height:1.58!important;
+  }
+  body .home-sacred-section .home-orisa-icons{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    gap:9px!important;
+    margin:18px 0!important;
+  }
+  body .home-sacred-section .home-orisa-icon{
+    min-height:165px!important;
+    border-radius:9px!important;
+    box-shadow:0 8px 22px rgba(0,0,0,.16)!important;
+  }
+  body .home-sacred-section .home-orisa-icon small{
+    left:10px!important;
+    right:10px!important;
+    bottom:10px!important;
+    font-size:.8rem!important;
+  }
+  body .home-sacred-actions{
+    display:block!important;
+    margin-top:16px!important;
+  }
+  body .home-sacred-actions .btn{
+    width:100%!important;
+    min-height:48px!important;
+    border-radius:8px!important;
+    padding:0 15px!important;
+    font-size:.8rem!important;
+  }
+  body .home-iyami-panel{
+    min-height:390px!important;
+    border-radius:12px!important;
+  }
+  body .home-iyami-panel .copy{
+    left:18px!important;
+    right:18px!important;
+    bottom:18px!important;
+  }
+  body .home-iyami-panel h3{
+    margin:5px 0 9px!important;
+    font-size:2rem!important;
+  }
+  body .home-iyami-panel p{
+    margin:0!important;
+    font-size:.88rem!important;
+    line-height:1.55!important;
+  }
+
+  /* Social links: compact and consistent. */
+  body .home-social{
+    padding:38px 0!important;
+  }
+  body .home-social-inner{
+    display:grid!important;
+    grid-template-columns:1fr!important;
+    gap:20px!important;
+  }
+  body .home-social h2{
+    font-size:2rem!important;
+    line-height:1!important;
+  }
+  body .home-social p{
+    font-size:.88rem!important;
+    line-height:1.55!important;
+  }
+  body .home-social-links{
+    display:grid!important;
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+    gap:8px!important;
+  }
+  body .home-social-btn{
+    min-width:0!important;
+    min-height:54px!important;
+    padding:10px 12px!important;
+    border-radius:9px!important;
+    font-size:.74rem!important;
+    line-height:1.25!important;
+    box-shadow:none!important;
+  }
+
+  /* Oogun preview: denser mobile archive presentation. */
+  body .ogun-preview-section{
+    padding:42px 0 46px!important;
+  }
+  body .ogun-preview-section .home-preview-head{
+    align-items:center!important;
+    margin-bottom:16px!important;
+    padding-bottom:12px!important;
+  }
+  body .ogun-preview-section .home-preview-head::after{
+    min-height:25px!important;
+    padding:0 7px!important;
+    font-size:.54rem!important;
+  }
+  body .preview-grid-ogun{
+    gap:9px!important;
+  }
+  body .ogun-preview-card{
+    grid-template-columns:minmax(0,1fr) 30px!important;
+    padding:18px 15px 17px 19px!important;
+    border-radius:7px!important;
+    column-gap:10px!important;
+  }
+  body .ogun-preview-card h3{
+    font-size:1.25rem!important;
+    line-height:1.05!important;
+  }
+  body .ogun-preview-card p{
+    font-size:.82rem!important;
+    line-height:1.48!important;
+  }
+  body .ogun-preview-card::after{
+    width:30px!important;
+    height:30px!important;
+    font-size:.76rem!important;
+  }
+
+  /* Generic homepage preview sections should stack cleanly rather than squeeze columns. */
+  body .home-preview-section{
+    padding-left:0!important;
+    padding-right:0!important;
+  }
+  body .home-preview-section .home-preview-head{
+    grid-template-columns:1fr!important;
+  }
+  body .preview-grid-ewe,
+  body .preview-grid-dictionary,
+  body .home-preview-grid{
+    grid-template-columns:1fr!important;
+  }
+}
+
+@media(max-width:430px){
+  body .container{width:calc(100% - 22px)!important}
+  body .hero-immersive{padding-top:28px!important}
+  body .hero-immersive .hero-grid .hero-logo-wrap,
+  body.homepage-clean-hero .hero-immersive .hero-grid .hero-logo-wrap{
+    width:80px!important;
+    height:80px!important;
+  }
+  body .home-sacred-section .home-orisa-icons{
+    grid-template-columns:1fr!important;
+  }
+  body .home-sacred-section .home-orisa-icon{
+    min-height:205px!important;
+  }
+  body .home-social-links{
+    grid-template-columns:1fr!important;
+  }
+  body .ogun-preview-section .home-preview-head{
+    flex-direction:row!important;
+    align-items:center!important;
+  }
+  body .ogun-preview-section .home-preview-head::after{
+    margin-left:auto!important;
+  }
+}
