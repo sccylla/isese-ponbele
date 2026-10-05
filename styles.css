@@ -29,7 +29,7 @@
 @import url('site-professional-cleanup.css?v=20261005-clean-v2');
 @import url('ogun-preview-refine.css?v=20261005-preview-v1');
 @import url('site-clarity.css?v=20261005-clarity-v1');
-@import url('homepage-responsive-polish.css?v=20261005-home-mobile-v1');
+@import url('homepage-responsive-polish.css?v=20261005-home-mobile-v2');
 
 section.section-paper:has(.category-grid){display:none!important;}
 
