@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v19-header-restore-oogun-preview';
+const CACHE_NAME = 'isese-ponbele-app-v19-oogun-preview-refine';
 const CORE = [
   '/',
   '/index.html',
@@ -14,6 +14,7 @@ const CORE = [
   '/site-main.js',
   '/styles.css',
   '/site-professional-cleanup.css',
+  '/ogun-preview-refine.css',
   '/hero-clean-v6.css',
   '/orisa-data.js',
   '/orisa-render.js',
