@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v18-professional-cleanup';
+const CACHE_NAME = 'isese-ponbele-app-v19-header-restore-oogun-preview';
 const CORE = [
   '/',
   '/index.html',
