@@ -1,0 +1,65 @@
+/* Site clarity pass — 2026-10-05
+   Removes global haze/noise while leaving the approved header untouched. */
+
+/* The fixed noise and woven overlays were softening text and photos across the site. */
+body .grain{
+  display:none!important;
+}
+body::after{
+  display:none!important;
+  content:none!important;
+}
+
+/* Keep the page canvas warm but crisp. */
+html{
+  background:#efe4d1!important;
+}
+body{
+  background:#f6efe3!important;
+  background-image:none!important;
+}
+
+/* Oogun preview: remove the hazy radial wash and use a clean archive-paper surface. */
+body .ogun-preview-section{
+  background:#f6efe3!important;
+}
+body .ogun-preview-section::before{
+  opacity:.07!important;
+  background-image:
+    linear-gradient(45deg,transparent 48%,rgba(16,43,58,.16) 49%,rgba(16,43,58,.16) 51%,transparent 52%),
+    linear-gradient(-45deg,transparent 48%,rgba(143,77,47,.12) 49%,rgba(143,77,47,.12) 51%,transparent 52%)!important;
+  background-size:38px 38px!important;
+  mask-image:linear-gradient(to bottom,rgba(0,0,0,.26),transparent 42%)!important;
+  -webkit-mask-image:linear-gradient(to bottom,rgba(0,0,0,.26),transparent 42%)!important;
+}
+
+/* Sharpen common content surfaces without introducing glow. */
+body .ogun-preview-card,
+body .entry-card,
+body .herb-card,
+body .amulet-card,
+body .dictionary-card,
+body .knowledge-card,
+body .store-card,
+body .contact-card,
+body .form-card{
+  filter:none!important;
+  backdrop-filter:none!important;
+  -webkit-backdrop-filter:none!important;
+}
+
+/* Images should render cleanly without inherited blur effects. */
+body main img,
+body .doc-photo img,
+body .orisa-photo,
+body .orisa-card img{
+  filter:none!important;
+  -webkit-filter:none!important;
+}
+
+@media(max-width:760px){
+  body .ogun-preview-section::before{
+    opacity:.045!important;
+    background-size:34px 34px!important;
+  }
+}
