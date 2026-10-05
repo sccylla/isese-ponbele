@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v17-deep-orisa-documentaries';
+const CACHE_NAME = 'isese-ponbele-app-v18-professional-cleanup';
 const CORE = [
   '/',
   '/index.html',
@@ -13,6 +13,7 @@ const CORE = [
   '/script.js',
   '/site-main.js',
   '/styles.css',
+  '/site-professional-cleanup.css',
   '/hero-clean-v6.css',
   '/orisa-data.js',
   '/orisa-render.js',
