@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v21-home-mobile-polish';
+const CACHE_NAME = 'isese-ponbele-app-v22-home-mobile-correction';
 const CORE = [
   '/',
   '/index.html',
