@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v20-site-clarity';
+const CACHE_NAME = 'isese-ponbele-app-v21-home-mobile-polish';
 const CORE = [
   '/',
   '/index.html',
@@ -16,6 +16,7 @@ const CORE = [
   '/site-professional-cleanup.css',
   '/ogun-preview-refine.css',
   '/site-clarity.css',
+  '/homepage-responsive-polish.css',
   '/hero-clean-v6.css',
   '/orisa-data.js',
   '/orisa-render.js',
