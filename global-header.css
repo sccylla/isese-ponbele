@@ -1,23 +1,23 @@
 /* Isese Ponbele — Global Header v1
    One consistent header for every page. */
 :root{
-  --ip-head-bg:#1b0c03;
-  --ip-head-bg-2:#2f190b;
-  --ip-head-gold:#ca9651;
-  --ip-head-gold-2:#e6b96e;
-  --ip-head-ivory:#f4e6ca;
-  --ip-head-muted:#b9a98f;
+  --ip-head-bg:#211611;
+  --ip-head-bg-2:#2d1f18;
+  --ip-head-gold:#b98a52;
+  --ip-head-gold-2:#dcc094;
+  --ip-head-ivory:#f5e9d6;
+  --ip-head-muted:#c7b59b;
   --ip-head-line:rgba(232,198,132,.20);
 }
 body > .site-header,.site-header{
   position:sticky!important;top:0!important;z-index:9999!important;width:100%!important;margin:0!important;padding:0!important;
-  background:linear-gradient(110deg,var(--ip-head-bg) 0%,#2f190b 56%,#482f14 100%)!important;
+  background:linear-gradient(110deg,#211611 0%,#2d1f18 62%,#3d2a21 100%)!important;
   border:0!important;border-bottom:1px solid var(--ip-head-line)!important;border-radius:0!important;
   box-shadow:0 8px 28px rgba(5,11,15,.18)!important;backdrop-filter:none!important;-webkit-backdrop-filter:none!important;transform:none!important;
 }
 .site-header::before{
   content:''!important;position:absolute!important;left:0!important;right:0!important;bottom:0!important;height:2px!important;pointer-events:none!important;
-  background:linear-gradient(90deg,#482f14 0%,var(--ip-head-gold) 28%,#815025 52%,var(--ip-head-gold) 76%,#482f14 100%)!important;opacity:.9!important;
+  background:linear-gradient(90deg,#5a3d2e 0%,#b98a52 30%,#8a5a45 52%,#b98a52 74%,#5a3d2e 100%)!important;opacity:.9!important;
 }
 .site-header::after{display:none!important;content:none!important}
 .site-header .nav{
@@ -93,7 +93,7 @@ body > .site-header,.site-header{
   .site-header .nav-links{
     position:absolute!important;top:calc(100% + 9px)!important;left:0!important;right:0!important;z-index:10001!important;display:none!important;
     grid-template-columns:repeat(2,minmax(0,1fr))!important;align-items:stretch!important;gap:5px!important;max-height:calc(100vh - 100px)!important;overflow:auto!important;
-    padding:11px!important;border:1px solid rgba(232,198,132,.19)!important;border-radius:9px!important;background:#241207!important;
+    padding:11px!important;border:1px solid rgba(232,198,132,.19)!important;border-radius:9px!important;background:#2d1f18!important;
     box-shadow:0 24px 60px rgba(4,10,14,.34)!important;
   }
   .site-header .nav-links.open{display:grid!important}
