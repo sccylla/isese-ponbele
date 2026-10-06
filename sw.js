@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v23-heritage-home';
+const CACHE_NAME = 'isese-ponbele-app-v24-home-layout-v3';
 const CORE = [
   '/',
   '/index.html',
