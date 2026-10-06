@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v22-home-mobile-correction';
+const CACHE_NAME = 'isese-ponbele-app-v23-heritage-home';
 const CORE = [
   '/',
   '/index.html',
@@ -16,7 +16,7 @@ const CORE = [
   '/site-professional-cleanup.css',
   '/ogun-preview-refine.css',
   '/site-clarity.css',
-  '/homepage-responsive-polish.css',
+  '/homepage-heritage-2026.css',
   '/hero-clean-v6.css',
   '/orisa-data.js',
   '/orisa-render.js',
@@ -28,7 +28,8 @@ const CORE = [
   '/orisa-deep-3.js',
   '/orisa-traditional.css',
   '/orisa-clean.css',
-  '/assets/isese-ponbele-logo.png'
+  '/assets/isese-ponbele-logo.png',
+  '/assets/isese-ponbele-emblem-2026.webp'
 ];
 
 self.addEventListener('install', event => {
