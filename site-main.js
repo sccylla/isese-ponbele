@@ -205,33 +205,67 @@
 
   // Iwure ti Oni — daily homepage blessing
   const isHome = /(^|\/)index\.html$/.test(location.pathname) || location.pathname === '/' || location.pathname.endsWith('/isese-ponbele/');
-  if(isHome){
+  if(isHome && !document.querySelector('.iwure-overlay')){
     const iwure = [
-      {yo:'Ki Ori wa gbe wa. Ki ona wa la. Ki ire gbogbo maa ba wa rin loni. Ase.',en:'May our Ori uphold us. May our paths open. May every form of goodness walk with us today.'},
-      {yo:'Ki a ji si ire, ki a rin si ire, ki a si pada si ile pelu ire. Ase.',en:'May we wake into goodness, walk in goodness, and return home carrying goodness.'},
-      {yo:'Ki owo wa ma di ofo. Ki ise wa ni eso. Ki aanu ati oju rere maa tele wa. Ase.',en:'May our hands never be empty. May our work bear fruit. May mercy and favourable regard follow us.'},
-      {yo:'Ki alaafia gbe inu ile wa. Ki ibi jina si wa. Ki ayo ati ilera maa kun ojo wa. Ase.',en:'May peace live in our homes. May harm remain far from us. May joy and wellbeing fill our day.'},
-      {yo:'Ki Ori rere dari wa si ibi ti ire wa wa. Ki a ma se asise ona. Ki a ri opin rere. Ase.',en:'May good Ori guide us toward where our blessings are. May we not lose our way. May our matters end well.'},
-      {yo:'Ki ona owo, ona ise ati ona aanu si fun wa. Ki ohun rere ti a n wa maa wa wa. Ase.',en:'May the roads of prosperity, work and mercy open for us. May the good things we seek also seek us.'},
-      {yo:'Ki agbara wa ma dinku. Ki ogbon wa ma su. Ki a ni suuru, igboya ati ase lati pari ohun rere. Ase.',en:'May our strength not diminish. May wisdom not fail us. May we have patience, courage and authority to complete good things.'}
+      {yo:'Kí Orí wa gbé wa. Kí ọ̀nà wa là. Kí ire gbogbo máa bá wa rìn lónìí. Àṣẹ.',en:'May our Ori uphold us. May our paths open. May every form of goodness walk with us today.'},
+      {yo:'Kí a jí sí ire, kí a rìn sí ire, kí a sì padà sí ilé pẹ̀lú ire. Àṣẹ.',en:'May we wake into goodness, walk in goodness, and return home carrying goodness.'},
+      {yo:'Kí ọwọ́ wa má di òfo. Kí iṣẹ́ wa ní èso. Kí àánú àti ojú rere máa tẹ̀lé wa. Àṣẹ.',en:'May our hands never be empty. May our work bear fruit. May mercy and favourable regard follow us.'},
+      {yo:'Kí àlàáfíà gbé inú ilé wa. Kí ibi jìnà sí wa. Kí ayọ̀ àti ìlera máa kún ọjọ́ wa. Àṣẹ.',en:'May peace live in our homes. May harm remain far from us. May joy and wellbeing fill our day.'},
+      {yo:'Kí Orí rere darí wa sí ibi tí ire wa wà. Kí a má ṣe àṣìṣe ọ̀nà. Kí a rí òpin rere. Àṣẹ.',en:'May good Ori guide us toward where our blessings are. May we not lose our way. May our matters end well.'},
+      {yo:'Kí ọ̀nà owó, ọ̀nà iṣẹ́ àti ọ̀nà àánú ṣí fún wa. Kí ohun rere tí a ń wá máa wá wa. Àṣẹ.',en:'May the roads of prosperity, work and mercy open for us. May the good things we seek also seek us.'},
+      {yo:'Kí agbára wa má dínkù. Kí ọgbọ́n wa má ṣù. Kí a ní sùúrù, ìgboyà àti àṣẹ láti parí ohun rere. Àṣẹ.',en:'May our strength not diminish. May wisdom not fail us. May we have patience, courage and authority to complete good things.'}
     ];
     const now=new Date();
-    const start=new Date(now.getFullYear(),0,0);
-    const day=Math.floor((now-start)/86400000);
+    const startOfYear=new Date(now.getFullYear(),0,0);
+    const day=Math.floor((now-startOfYear)/86400000);
     const b=iwure[day % iwure.length];
     const overlay=document.createElement('div');
     overlay.className='iwure-overlay';
     overlay.setAttribute('role','dialog');
     overlay.setAttribute('aria-modal','true');
-    overlay.setAttribute('aria-label','Iwure ti Oni');
-    overlay.innerHTML=`<div class="iwure-card"><button class="iwure-x" aria-label="Close daily blessing">×</button><div class="iwure-content"><div class="iwure-cowries" aria-hidden="true"><span style="--r:-18deg"></span><span style="--r:11deg"></span><span style="--r:-7deg"></span><span style="--r:19deg"></span><span style="--r:-13deg"></span></div><div class="iwure-kicker">Isese Ponbele • Daily blessing</div><h2 class="iwure-title">Iwure ti Oni</h2><p class="iwure-yoruba">${b.yo}</p><p class="iwure-english">${b.en}</p><div class="iwure-date">${now.toLocaleDateString(undefined,{weekday:'long',day:'numeric',month:'long',year:'numeric'})}</div><button class="iwure-close">Ase • Enter the house</button></div></div>`;
+    overlay.setAttribute('aria-labelledby','iwureTitle');
+    overlay.setAttribute('aria-describedby','iwureText');
+    overlay.innerHTML=`<div class="iwure-card" tabindex="-1">
+      <button class="iwure-x" type="button" aria-label="Close daily blessing">×</button>
+      <div class="iwure-content">
+        <div class="iwure-emblem" aria-hidden="true"></div>
+        <div class="iwure-kicker">Isese Ponbele • Iwure of the day</div>
+        <h2 class="iwure-title" id="iwureTitle">Ìwúre Tí Òní</h2>
+        <div class="iwure-rule" aria-hidden="true"><span></span></div>
+        <p class="iwure-yoruba" id="iwureText">${b.yo}</p>
+        <p class="iwure-english">${b.en}</p>
+        <div class="iwure-date">${now.toLocaleDateString(undefined,{weekday:'long',day:'numeric',month:'long',year:'numeric'})}</div>
+        <button class="iwure-close" type="button">Àṣẹ • Enter the house</button>
+      </div>
+    </div>`;
     document.body.appendChild(overlay);
-    const closeIwure=()=>{overlay.classList.remove('open');setTimeout(()=>overlay.remove(),450)};
+    const card=overlay.querySelector('.iwure-card');
+    const previousFocus=document.activeElement;
+    const closeIwure=()=>{
+      overlay.classList.remove('open');
+      document.body.classList.remove('iwure-open');
+      setTimeout(()=>{
+        overlay.remove();
+        if(previousFocus && typeof previousFocus.focus==='function') previousFocus.focus({preventScroll:true});
+      },300);
+    };
     overlay.querySelector('.iwure-x')?.addEventListener('click',closeIwure);
     overlay.querySelector('.iwure-close')?.addEventListener('click',closeIwure);
     overlay.addEventListener('click',e=>{if(e.target===overlay)closeIwure()});
     addEventListener('keydown',e=>{if(e.key==='Escape'&&overlay.isConnected)closeIwure()});
-    setTimeout(()=>overlay.classList.add('open'),1150);
+    const openIwure=()=>{
+      if(!overlay.isConnected) return;
+      document.body.classList.add('iwure-open');
+      requestAnimationFrame(()=>requestAnimationFrame(()=>{
+        overlay.classList.add('open');
+        setTimeout(()=>card?.focus({preventScroll:true}),220);
+      }));
+    };
+    if(document.body.classList.contains('loading')){
+      setTimeout(openIwure,700);
+    }else{
+      setTimeout(openIwure,450);
+    }
   }
 
   // Back top
