@@ -29,11 +29,11 @@
 @import url('site-professional-cleanup.css?v=20261005-clean-v2');
 @import url('ogun-preview-refine.css?v=20261005-preview-v1');
 @import url('site-clarity.css?v=20261005-clarity-v1');
-@import url('homepage-responsive-polish.css?v=20261005-home-mobile-v2');
+@import url('homepage-heritage-2026.css?v=20261006-heritage-v1');
 
 section.section-paper:has(.category-grid){display:none!important;}
 
-:root{--ip-current-logo:url('/assets/isese-ponbele-logo.png?v=20261004-uploaded-png-v2')}
+:root{--ip-current-logo:url('/assets/isese-ponbele-emblem-2026.webp')}
 
 body .site-header .brand-mark,
 body .brand-mark{
