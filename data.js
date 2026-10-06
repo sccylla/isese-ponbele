@@ -310,11 +310,11 @@ window.ISESE_DATA = {
     {term:"Olókun",meaning:"Sacred power associated with deep water, wealth and mystery.",context:"Yoruba and Edo traditions should be distinguished carefully.",related:["Water","Òrìṣà"]}
   ],
   products: [
-    {name:"Yoruba Knowledge Journal",cat:"Books & Study",price:"Price on request",desc:"A premium notebook concept for recording study notes, oríkì, terminology and field observations.",accent:"journal"},
-    {name:"Èdè Yorùbá Reference Cards",cat:"Educational Resources",price:"Price on request",desc:"Compact study cards designed for Yoruba cultural and language terminology.",accent:"cards"},
-    {name:"Ewé Field Notes Set",cat:"Educational Resources",price:"Price on request",desc:"A study-focused field-notes concept for recording Yoruba plant names and botanical identifications.",accent:"leaves"},
-    {name:"Heritage Brass Bookmark",cat:"Traditional Craft",price:"Price on request",desc:"A refined cultural accessory inspired by bronze and brass visual language.",accent:"brass"},
-    {name:"Adìrẹ Knowledge Wrap",cat:"Cultural Materials",price:"Price on request",desc:"A textile-led cultural product concept designed around restrained Yoruba pattern language.",accent:"textile"},
-    {name:"Isese Ponbele Reading Pack",cat:"Books & Study",price:"Price on request",desc:"A curated reading-pack format for educational materials and documentary notes.",accent:"pack"}
+    {name:"Books & Study Materials",cat:"Books & Study",price:"Browse collection",desc:"Reading materials, study notes and educational publications for Yoruba culture, language and traditional knowledge."},
+    {name:"Cultural Materials",cat:"Cultural Materials",price:"Browse collection",desc:"Selected cultural objects and materials presented with clear context, provenance and intended use."},
+    {name:"Ewé & Botanical Study",cat:"Educational Resources",price:"Browse collection",desc:"Reference materials for Yoruba plant names, botanical identification and responsible cultural study."},
+    {name:"Traditional Craft",cat:"Traditional Craft",price:"Browse collection",desc:"Craft-led pieces inspired by documented Yoruba material culture, presented without invented sacred symbolism."},
+    {name:"Language Resources",cat:"Educational Resources",price:"Browse collection",desc:"Tools for studying Yoruba vocabulary, terminology, pronunciation and cultural context."},
+    {name:"Isese Ponbele Publications",cat:"Books & Study",price:"Browse collection",desc:"House publications and documentary resources produced for cultural education and reference."}
   ]
 };
