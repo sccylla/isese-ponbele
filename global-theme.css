@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600..900&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+/* Isese Ponbele — Global Art Direction v1
+   Unified Yoruba-inspired palette + expressive editorial typography. */
+:root{
+  --ip-indigo-950:#0b1d27;
+  --ip-indigo-900:#102a38;
+  --ip-indigo-800:#173c4f;
+  --ip-indigo-700:#24566d;
+  --ip-bronze-700:#9b6034;
+  --ip-bronze-600:#b9783d;
+  --ip-bronze-500:#cf9b50;
+  --ip-bronze-400:#e2bb77;
+  --ip-clay-700:#733b27;
+  --ip-clay-600:#925038;
+  --ip-clay-500:#ad6645;
+  --ip-palm-800:#243a2a;
+  --ip-palm-700:#31503a;
+  --ip-palm-600:#477052;
+  --ip-ivory-100:#fffaf1;
+  --ip-ivory-150:#fbf4e8;
+  --ip-ivory-200:#f5ead8;
+  --ip-ivory-300:#ead9bd;
+  --ip-ink-950:#1b140f;
+  --ip-ink-800:#33261d;
+  --ip-ink-600:#6f6053;
+  --ip-line:rgba(78,55,36,.14);
+  --ip-line-dark:rgba(231,193,124,.17);
+  --ip-shadow:0 18px 42px rgba(50,33,20,.09);
+  --ip-shadow-deep:0 22px 54px rgba(5,13,18,.22);
+  --font-display:'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-body:'Manrope', Arial, Helvetica, sans-serif;
+
+  /* Header adopts the same palette. */
+  --ip-head-bg:var(--ip-indigo-950);
+  --ip-head-bg-2:var(--ip-indigo-900);
+  --ip-head-gold:var(--ip-bronze-500);
+  --ip-head-gold-2:var(--ip-bronze-400);
+  --ip-head-ivory:#f6e8ce;
+  --ip-head-muted:#c5b394;
+  --ip-head-line:rgba(226,187,119,.20);
+}
+
+html{background:var(--ip-ivory-200)}
+body{
+  background:var(--ip-ivory-150)!important;
+  color:var(--ip-ink-950)!important;
+  font-family:var(--font-body)!important;
+  font-weight:500;
+  text-rendering:optimizeLegibility;
+  -webkit-font-smoothing:antialiased;
+}
+body,button,input,select,textarea{font-family:var(--font-body)!important}
+::selection{background:var(--ip-bronze-400);color:var(--ip-indigo-950)}
+.scroll-progress{background:linear-gradient(90deg,var(--ip-clay-500),var(--ip-bronze-400),var(--ip-palm-600))!important}
+
+/* Expressive editorial typography */
+h1,h2,h3,h4,h5,h6,
+.display,.section-title,.doc-head h2,.doc-hero h1,.page-hero h1,
+.shop-hero h1,.orisa-premium-hero h1,.orisa-documentary-hero h1,
+.category-card h3,.knowledge-article h2,.modal-card h2,
+.ip-home-hero h1,.ip-home-section-head h2,.ip-home-closing h2{
+  font-family:var(--font-display)!important;
+  font-variation-settings:'SOFT' 60,'WONK' 1;
+  letter-spacing:-.035em;
+}
+h1,.display,.page-hero h1,.doc-hero h1,.shop-hero h1,.orisa-premium-hero h1{
+  font-weight:800!important;
+}
+h2,.section-title,.doc-head h2{font-weight:760!important}
+h3,h4{font-weight:700!important}
+p,li,small,label,input,select,textarea,button,a{font-family:var(--font-body)!important}
+.kicker,.doc-eyebrow,.ip-kicker,.shop-kicker,.label,.breadcrumbs,.hero-badge,.dictionary-tag,.shop-card-brand{
+  font-family:var(--font-body)!important;
+  font-weight:800!important;
+  letter-spacing:.12em!important;
+}
+
+/* Core surfaces */
+.section-paper,.section-cream,.catalogue,.doc-section.paper,
+.dictionary-wrap,.contact-wrap,.ip-home-ewe,.ip-home-knowledge{
+  background:var(--ip-ivory-150)!important;
+}
+.section-dark,.doc-section.dark,.home-sacred-section,.ip-home-sacred{
+  background:
+    radial-gradient(circle at 85% 5%,rgba(207,155,80,.09),transparent 26%),
+    linear-gradient(135deg,var(--ip-indigo-950),#121b1c 62%,#2b1d15)!important;
+  color:#f2e3c8!important;
+}
+.section-title,.section-head h2,.dictionary-wrap h2,.contact-wrap h2,
+.catalogue-head h2,.ip-home-section-head h2{
+  color:var(--ip-indigo-900)!important;
+}
+.section-copy,.page-copy,.article-copy,.doc-article p,.knowledge-article p,
+.contact-aside p,.dictionary-entry p,.shop-card-copy{
+  color:var(--ip-ink-600)!important;
+}
+
+/* Page heroes */
+.page-hero,.doc-hero,.shop-hero,.orisa-premium-hero,.orisa-documentary-hero{
+  background:
+    radial-gradient(circle at 76% 22%,rgba(207,155,80,.18),transparent 26%),
+    radial-gradient(circle at 5% 10%,rgba(146,80,56,.16),transparent 24%),
+    linear-gradient(128deg,var(--ip-indigo-950) 0%,var(--ip-indigo-900) 56%,#3a2519 100%)!important;
+  color:#f6e8cc!important;
+  border-color:var(--ip-line-dark)!important;
+}
+.page-hero h1,.doc-hero h1,.shop-hero h1,.orisa-premium-hero h1,.orisa-documentary-hero h1{
+  color:#f7e6c5!important;
+}
+.page-hero .breadcrumbs,.breadcrumbs a,.doc-eyebrow,.shop-kicker,.orisa-premium-kicker{
+  color:var(--ip-bronze-400)!important;
+}
+.hero-badge,.doc-chip,.orisa-domain-row span,.orisa-premium-meta span{
+  background:rgba(255,255,255,.045)!important;
+  border-color:rgba(226,187,119,.22)!important;
+  color:#e8d3ad!important;
+  border-radius:999px!important;
+}
+
+/* Buttons */
+.btn,.ip-btn,.shop-order,.ogun-lock-submit{
+  font-family:var(--font-body)!important;
+  font-weight:800!important;
+  letter-spacing:.02em!important;
+}
+.btn-primary,.ip-btn-gold,.nav-cta,.shop-order,.ogun-lock-submit{
+  background:linear-gradient(135deg,var(--ip-bronze-400),var(--ip-bronze-600))!important;
+  border-color:#e9c98c!important;
+  color:#21150e!important;
+  box-shadow:none!important;
+}
+.btn-dark,.ip-btn-dark{
+  background:var(--ip-indigo-900)!important;
+  border-color:var(--ip-indigo-700)!important;
+  color:#f4e4c8!important;
+}
+.btn-light,.btn-ghost,.ip-btn-outline{
+  border-color:rgba(207,155,80,.30)!important;
+}
+.btn:hover,.ip-btn:hover,.shop-order:hover,.ogun-lock-submit:hover{
+  filter:brightness(1.045);
+}
+
+/* Cards and content blocks */
+.category-card,.value-card,.concept,.dictionary-entry,.herb-card,.leaf-entry,
+.shop-card,.contact-item,.choice,.toc-card,.doc-icon-card,.doc-ref,
+.orisa-card,.orisa-principle,.archive-tab,.modal-card,.ogun-lock-card{
+  border-color:var(--ip-line)!important;
+  box-shadow:var(--ip-shadow)!important;
+}
+.category-card,.value-card,.concept,.dictionary-entry,.herb-card,.leaf-entry,
+.shop-card,.contact-item,.choice,.toc-card,.doc-icon-card,.doc-ref,.modal-card,
+.ogun-lock-card{
+  background:var(--ip-ivory-100)!important;
+}
+.category-card h3,.value-card h3,.concept h3,.dictionary-entry h3,.herb-card h3,
+.leaf-entry h3,.shop-card-title,.contact-item strong,.doc-icon-card h3,.orisa-card h3{
+  color:var(--ip-indigo-900)!important;
+}
+.category-card .glyph,.story-symbol,.seal,.mark,.ogun-lock-icon{
+  color:var(--ip-bronze-600)!important;
+  border-color:rgba(185,120,61,.34)!important;
+}
+.category-card .label,.leaf-common,.shop-card-brand,.dictionary-tag,.certainty,
+.explore,.photo-credit,.leaf-credit{
+  color:var(--ip-clay-600)!important;
+}
+
+/* Forms + controls */
+input,select,textarea,.search-box,.shop-search,.dictionary-search,
+.filter-panel,.herb-controls,.catalogue-toolbar{
+  border-color:var(--ip-line)!important;
+}
+input,select,textarea{
+  background:#fffdf7!important;
+  color:var(--ip-ink-950)!important;
+}
+input:focus,select:focus,textarea:focus{
+  outline:none!important;
+  border-color:var(--ip-bronze-500)!important;
+  box-shadow:0 0 0 3px rgba(207,155,80,.12)!important;
+}
+.choice:hover,.choice.selected,.category-chip.active,.dictionary-filter.active,.archive-tab.active{
+  border-color:var(--ip-bronze-500)!important;
+  background:#f8edda!important;
+  color:var(--ip-indigo-900)!important;
+}
+
+/* Catalogue / dictionary / leaves */
+.filter-panel,.dictionary-filters,.alphabet,.category-chips{
+  background:#f1e5d2!important;
+}
+.result-row,.leaf-meta,.archive-meta{
+  color:var(--ip-ink-600)!important;
+}
+.entry-card,.dictionary-entry,.leaf-entry{
+  border-radius:10px!important;
+}
+.dictionary-entry strong,.leaf-content h3{font-family:var(--font-display)!important}
+
+/* Store */
+.shop-hero{border-bottom:1px solid var(--ip-line-dark)!important}
+.shop-card-media{background:#eadcc6!important}
+.shop-card-price{color:var(--ip-clay-600)!important;font-weight:800!important}
+.shop-service{background:var(--ip-palm-800)!important;color:#efe2c9!important}
+
+/* Documentary + Òrìṣà */
+.doc-toc,.orisa-documentary-toc{
+  background:#efe2cf!important;
+  border-color:var(--ip-line)!important;
+}
+.doc-toc a,.orisa-documentary-toc a{color:var(--ip-indigo-800)!important}
+.doc-toc a.active,.orisa-documentary-toc a.active{color:var(--ip-clay-600)!important}
+.doc-callout,.doc-note,.reference-note{
+  border-color:rgba(207,155,80,.28)!important;
+  background:#f6ead6!important;
+}
+.orisa-premium-directory,.orisa-documentary-body{
+  background:var(--ip-ivory-150)!important;
+}
+.orisa-card{
+  background:#fffaf1!important;
+  border-radius:12px!important;
+  overflow:hidden;
+}
+.orisa-card small{color:var(--ip-clay-600)!important}
+.orisa-card .learn{color:var(--ip-bronze-700)!important;font-weight:800!important}
+.orisa-premium-principles{
+  background:linear-gradient(135deg,var(--ip-indigo-900),#1e2e27)!important;
+}
+
+/* Lock screen */
+.ogun-lock-screen{
+  background:
+    radial-gradient(circle at 50% 15%,rgba(207,155,80,.14),transparent 30%),
+    linear-gradient(135deg,var(--ip-indigo-950),#151b19 58%,#342117)!important;
+}
+.ogun-lock-card{background:#fff9ef!important}
+.ogun-private-pill{background:#efe0c5!important;color:var(--ip-clay-700)!important}
+
+/* Footer */
+.footer{
+  background:linear-gradient(135deg,#091821,var(--ip-indigo-950) 60%,#211a13)!important;
+  border-top:1px solid rgba(226,187,119,.18)!important;
+  color:#d9c7a7!important;
+}
+.footer h4{color:var(--ip-bronze-400)!important;font-family:var(--font-body)!important;letter-spacing:.1em!important}
+.footer a{color:#d8c9b1!important}
+.footer a:hover{color:#f2c979!important}
+.footer-bottom{border-color:rgba(226,187,119,.13)!important;color:#9f917b!important}
+
+/* Homepage palette reconciliation */
+body.homepage-heritage-v3{
+  --ip-indigo:var(--ip-indigo-900)!important;
+  --ip-indigo-2:var(--ip-indigo-800)!important;
+  --ip-clay:var(--ip-clay-700)!important;
+  --ip-clay-2:var(--ip-clay-500)!important;
+  --ip-brass:var(--ip-bronze-500)!important;
+  --ip-brass-light:var(--ip-bronze-400)!important;
+  --ip-ivory:var(--ip-ivory-150)!important;
+  --ip-paper:var(--ip-ivory-100)!important;
+  --ip-palm:var(--ip-palm-800)!important;
+  --ip-muted:var(--ip-ink-600)!important;
+}
+body.homepage-heritage-v3 .ip-home-hero h1,
+body.homepage-heritage-v3 .ip-home-section-head h2,
+body.homepage-heritage-v3 .ip-home-closing h2,
+body.homepage-heritage-v3 .ip-home-consultation-inner h2,
+body.homepage-heritage-v3 .ip-oogun-grid h3,
+body.homepage-heritage-v3 .ip-ewe-card strong,
+body.homepage-heritage-v3 .ip-knowledge-grid h3{
+  font-family:var(--font-display)!important;
+}
+body.homepage-heritage-v3 .ip-home-path-grid strong{
+  font-family:var(--font-display)!important;
+  font-weight:700!important;
+}
+
+/* Header typography harmony */
+.site-header .brand-copy strong{
+  font-family:var(--font-display)!important;
+  font-weight:800!important;
+  letter-spacing:.025em!important;
+}
+.site-header .brand-copy small,
+.site-header .nav-links>a,
+.site-header .menu-label{
+  font-family:var(--font-body)!important;
+}
+
+/* Subtle funky typographic character without hurting readability */
+.section-title::first-letter,
+.ip-home-section-head h2::first-letter,
+.doc-head h2::first-letter{
+  color:var(--ip-clay-600);
+}
+.page-hero h1 em,.display em,.ip-home-hero h1 em{
+  color:var(--ip-bronze-400)!important;
+}
+
+/* Remove visual haze; keep the system crisp */
+.grain{opacity:.018!important;mix-blend-mode:multiply!important}
+.card,.category-card,.shop-card,.dictionary-entry,.herb-card,.orisa-card{
+  backdrop-filter:none!important;
+  -webkit-backdrop-filter:none!important;
+}
+
+@media(max-width:760px){
+  h1,.display,.page-hero h1,.doc-hero h1,.shop-hero h1,.orisa-premium-hero h1{
+    letter-spacing:-.045em!important;
+  }
+  .section-title,.ip-home-section-head h2{letter-spacing:-.04em!important}
+}
