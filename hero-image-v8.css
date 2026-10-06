@@ -1,3 +1,0 @@
-/* Guaranteed visible hero artwork. Uses SVG fallback first so the panel can never be blank. */
-body.homepage-clean-hero .brand-mark{background:transparent url('/hero-art-fallback.svg?v=20261002-v8') center/contain no-repeat!important}
-body.homepage-clean-hero .hero-grid:after{background-color:#2a160d!important;background-image:url('/hero-art-fallback.svg?v=20261002-v8')!important;background-position:center!important;background-size:contain!important;background-repeat:no-repeat!important}
