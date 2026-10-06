@@ -42,10 +42,31 @@
 @media(max-width:900px){.catalogue-layout{grid-template-columns:1fr!important}.filter-panel{position:relative!important;top:auto!important}.filter-group{max-height:390px;overflow:auto}}
 @media(max-width:560px){.ogun-lock-card{padding:30px 20px 26px;border-radius:22px}.ogun-lock-screen{padding:36px 14px}.ogun-session-bar{right:10px;bottom:10px}}
 </style>
+  <link href="global-header.css?v=20261006-global-header-v1" rel="stylesheet"/>
 </head><body class="ogun-locked">
 <div class="site-loader"><div class="loader-inner"><div class="loader-mark">IP</div><div class="loader-text">Opening the archive</div><div class="loader-line"><span></span></div></div></div><div class="scroll-progress"></div><div class="grain"></div><div class="cursor-dot"></div><div class="cursor-ring"></div>
 <div class="top-ticker"><div class="ticker-track"><span>Ogun / Nigerian Yoruba Traditional Charms</span><span>Private archive</span><span>Purpose categories</span><span>Protected access</span><span>Isese Ponbele</span><span>Ogun / Nigerian Yoruba Traditional Charms</span><span>Private archive</span><span>Purpose categories</span><span>Protected access</span><span>Isese Ponbele</span></div></div>
-<header class="site-header"><div class="container nav"><a class="brand" href="index.html"><span class="brand-mark"><span>IP</span></span><span class="brand-copy"><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></span></a><button class="menu-btn" aria-label="Toggle menu">☰</button><nav class="nav-links"><a href="index.html">Home</a><a class="active" href="catalogue.html">🔒 Ogun Charms</a><a href="herbs.html">Leaves</a><a href="amulets.html">Amulet Works</a><a href="store.html">Store</a><a href="dictionary.html">Dictionary</a><a class="nav-cta" href="contact.html">Consultation</a></nav></div></header>
+<header class="site-header" data-site-header>
+  <div class="container nav">
+    <a class="brand" href="index.html" aria-label="Isese Ponbele home">
+      <span class="brand-mark" aria-hidden="true"><span>IP</span></span>
+      <span class="brand-copy"><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></span>
+    </a>
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="siteNavigation" aria-label="Open navigation">
+      <span class="menu-icon" aria-hidden="true"><i></i><i></i><i></i></span><span class="menu-label">Menu</span>
+    </button>
+    <nav class="nav-links" id="siteNavigation" aria-label="Primary navigation">
+      <a href="index.html">Home</a>
+      <a href="orisas.html">Òrìṣà</a>
+      <a href="iyami-aje.html">Ìyámi Àjẹ́</a>
+      <a class="active" href="catalogue.html" aria-current="page">Ogun Charms</a>
+      <a href="herbs.html">Leaves</a>
+      <a href="store.html">Store</a>
+      <a href="dictionary.html">Dictionary</a>
+      <a class="nav-cta" href="contact.html">Consultation</a>
+    </nav>
+  </div>
+</header>
 <section class="ogun-lock-screen" id="ogunLock" aria-labelledby="ogunLockTitle"><div class="ogun-lock-card"><div class="ogun-lock-icon">🔐</div><div class="ogun-private-pill">PRIVATE OOGUN ARCHIVE</div><div class="ogun-lock-kicker">Protected traditional knowledge</div><h1 id="ogunLockTitle">Enter your access password.</h1><p>The Oogun archive is restricted. Enter an active Isese Ponbele access password to open the collection.</p><form class="ogun-lock-form" id="ogunLockForm"><label for="ogunPassword">Access password</label><div class="ogun-password-wrap"><input id="ogunPassword" type="password" autocomplete="current-password" autocapitalize="none" spellcheck="false" placeholder="Enter password" required><button type="button" id="toggleOgunPassword" aria-label="Show password">◉</button></div><label class="ogun-lock-options"><input type="checkbox" id="rememberOgun" checked> Remember access on this device until the password expires</label><button class="ogun-lock-submit" id="ogunUnlockBtn" type="submit">Unlock Ogun Archive</button></form><div class="ogun-lock-error" id="ogunLockError" role="alert"></div><p class="ogun-lock-note">Access passwords are issued by Isese Ponbele and may expire automatically.</p></div></section>
 <main class="ogun-protected"><section class="page-hero page-hero-photo page-hero-catalogue"><div class="container reveal"><div class="breadcrumbs">Home / Ogun / Nigerian Yoruba Traditional Charms</div><h1>OGUN /<br>NIGERIAN YORUBA<br>TRADITIONAL CHARMS.</h1><p>Each Oogun from the uploaded archive is kept as an independent entry and classified by its stated purpose. Use the category filters or search to move through the collection.</p><div class="hero-badge-row"><span class="hero-badge">🔓 Private archive</span><span class="hero-badge">220 entries imported</span><span class="hero-badge">15 purpose categories</span><span class="hero-badge">Source-based archive</span></div></div></section>
 <section class="section section-paper"><div class="container"><div class="oogun-source-note reveal"><strong>Archive note:</strong> The uploaded document remains unchanged. Its original numbering is preserved, including missing source numbers and the duplicated number 118.</div><div class="catalogue-layout"><aside class="filter-panel reveal"><h3>Categories</h3><div class="filter-group"><div class="filter-label">Purpose</div><div id="oogunFilters"></div></div></aside><div class="catalogue-main"><div class="catalogue-toolbar reveal"><div class="search-box"><input id="catalogueSearch" type="search" placeholder="Search Oogun title, meaning or category…"><span class="search-icon">⌕</span></div><div class="view-toggle"><button class="active" data-view="grid" aria-label="Grid view">▦</button><button data-view="list" aria-label="List view">☷</button></div></div><div class="result-row reveal"><span id="resultCount">Loading entries…</span><span>Click any Oogun to open its individual record</span></div><div class="entry-grid" id="entryGrid"></div><div class="empty-state">No Oogun entries match your search.</div></div></div></div></section></main>
@@ -130,4 +151,5 @@
 
   if (window.OgunAccess.hasAccess()) loadArchive();
 })();
-</script></body></html>
+</script><script src="site-main.js?v=20261006-global-header-v1"></script>
+</body></html>

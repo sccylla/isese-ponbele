@@ -11,20 +11,27 @@
 <link href="orisa-expanded.css?v=20261004-expanded-orisa-v2" rel="stylesheet"/>
 <link href="orisa-traditional.css?v=20261004-yoruba-house-v3" rel="stylesheet"/>
 <link href="orisa-clean.css?v=20261004-clean-v1" rel="stylesheet"/>
+  <link href="global-header.css?v=20261006-global-header-v1" rel="stylesheet"/>
 </head>
 <body class="doc-page orisa-traditional-page">
 <div class="site-loader"><div class="loader-inner"><div class="loader-mark">IP</div><div class="loader-text">Opening Isese Ponbele</div><div class="loader-line"><span></span></div></div></div>
 <div class="scroll-progress"></div>
-<header class="site-header orisa-clean-header">
+<header class="site-header" data-site-header>
   <div class="container nav">
-    <a class="brand" href="index.html"><span class="brand-mark"><span>IP</span></span><span class="brand-copy"><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></span></a>
-    <button aria-expanded="false" aria-label="Toggle menu" class="menu-btn">☰</button>
-    <nav class="nav-links">
+    <a class="brand" href="index.html" aria-label="Isese Ponbele home">
+      <span class="brand-mark" aria-hidden="true"><span>IP</span></span>
+      <span class="brand-copy"><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></span>
+    </a>
+    <button class="menu-btn" type="button" aria-expanded="false" aria-controls="siteNavigation" aria-label="Open navigation">
+      <span class="menu-icon" aria-hidden="true"><i></i><i></i><i></i></span><span class="menu-label">Menu</span>
+    </button>
+    <nav class="nav-links" id="siteNavigation" aria-label="Primary navigation">
       <a href="index.html">Home</a>
-      <a class="active" href="orisas.html">Òrìṣà</a>
+      <a class="active" href="orisas.html" aria-current="page">Òrìṣà</a>
       <a href="iyami-aje.html">Ìyámi Àjẹ́</a>
-      <a href="knowledge.html">Knowledge</a>
+      <a href="catalogue.html">Ogun Charms</a>
       <a href="herbs.html">Leaves</a>
+      <a href="store.html">Store</a>
       <a href="dictionary.html">Dictionary</a>
       <a class="nav-cta" href="contact.html">Consultation</a>
     </nav>

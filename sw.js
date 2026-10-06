@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v24-home-layout-v3';
+const CACHE_NAME = 'isese-ponbele-app-v25-global-header';
 const CORE = [
   '/',
   '/index.html',
@@ -13,6 +13,7 @@ const CORE = [
   '/script.js',
   '/site-main.js',
   '/styles.css',
+  '/global-header.css',
   '/site-professional-cleanup.css',
   '/ogun-preview-refine.css',
   '/site-clarity.css',
