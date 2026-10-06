@@ -409,3 +409,41 @@ body{
     background:linear-gradient(180deg,#140905 0%,transparent 24%,transparent 74%,rgba(20,9,5,.66));
   }
 }
+
+
+/* LOGO VISIBILITY PASS */
+.site-header .brand{gap:14px}
+.site-header .brand img{
+  width:74px;
+  height:74px;
+  flex:0 0 74px;
+  padding:0;
+  border:0;
+  border-radius:0;
+  background:transparent;
+  box-shadow:none;
+  filter:drop-shadow(0 7px 13px rgba(0,0,0,.42));
+}
+.site-header .brand-copy strong{font-size:1.18rem}
+.hero-main-logo{
+  width:148px;
+  margin:0 0 16px;
+  padding:8px;
+  border:1px solid rgba(242,200,117,.42);
+  border-radius:14px;
+  background:rgba(8,3,1,.38);
+  box-shadow:0 16px 36px rgba(0,0,0,.28), inset 0 0 28px rgba(216,162,74,.05);
+}
+.hero-main-logo img{width:100%;height:auto;object-fit:contain}
+.hero-seal{width:190px;height:190px}
+.footer-brand img{width:82px;height:82px;object-fit:contain}
+
+@media(max-width:900px){
+  .site-header .brand img{width:58px;height:58px;flex-basis:58px}
+  .hero-main-logo{width:126px}
+}
+@media(max-width:620px){
+  .site-header .brand img{width:52px;height:52px;flex-basis:52px}
+  .hero-main-logo{width:118px;margin-bottom:14px}
+  .hero-seal{width:124px;height:124px}
+}
