@@ -85,7 +85,7 @@
   addFooterCredit();
 
   const main = document.createElement('script');
-  main.src = 'site-main.js?v=20261002-prefooter-favicon';
+  main.src = 'site-main.js?v=20261006-iwure-v1';
   main.async = false;
   document.head.appendChild(main);
 })();
