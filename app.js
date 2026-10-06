@@ -43,18 +43,13 @@
     root.innerHTML=DATA.products.slice(0,3).map(p=>productCard(p)).join('');
   }
 
-  function productMark(p){
-    const map={journal:'ÀṢÀ',cards:'ÈDÈ',leaves:'EWÉ',brass:'IP',textile:'ADÌRẸ',pack:'ÌMỌ̀'};
-    return map[p.accent] || 'IP';
-  }
   function productCard(p){
     return `<article class="product-card">
-      <div class="product-visual" data-mark="${esc(productMark(p))}" aria-hidden="true"></div>
       <div class="product-body">
         <small>${esc(p.cat)}</small>
         <h3>${esc(p.name)}</h3>
         <p>${esc(p.desc)}</p>
-        <div class="product-meta"><strong>${esc(p.price)}</strong><a class="text-link" href="store.html">View product</a></div>
+        <div class="product-meta"><strong>${esc(p.price)}</strong><a class="text-link" href="store.html">Open store</a></div>
       </div>
     </article>`;
   }
@@ -183,11 +178,10 @@
     const draw=()=>{
       const rows=DATA.products.filter(p=>cat==='All'||p.cat===cat);
       root.innerHTML=rows.map(p=>`<article class="store-card">
-        <div class="product-visual" data-mark="${esc(productMark(p))}" aria-hidden="true"></div>
         <div class="product-body">
           <small>${esc(p.cat)}</small><h3>${esc(p.name)}</h3><p>${esc(p.desc)}</p>
           <div class="product-meta"><strong>${esc(p.price)}</strong></div>
-          <a class="btn btn-dark" href="consultation.html?subject=${encodeURIComponent('Store enquiry: '+p.name)}">Enquire about product</a>
+          <a class="btn btn-dark" href="consultation.html?subject=${encodeURIComponent('Store enquiry: '+p.name)}">Enquire about this category</a>
         </div>
       </article>`).join('');
     };
