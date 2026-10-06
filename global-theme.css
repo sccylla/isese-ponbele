@@ -3,20 +3,20 @@
 /* Isese Ponbele — Global Art Direction v1
    Unified Yoruba-inspired palette + expressive editorial typography. */
 :root{
-  --ip-indigo-950:#0b1d27;
-  --ip-indigo-900:#102a38;
-  --ip-indigo-800:#173c4f;
-  --ip-indigo-700:#24566d;
-  --ip-bronze-700:#9b6034;
-  --ip-bronze-600:#b9783d;
-  --ip-bronze-500:#cf9b50;
-  --ip-bronze-400:#e2bb77;
-  --ip-clay-700:#733b27;
-  --ip-clay-600:#925038;
-  --ip-clay-500:#ad6645;
-  --ip-palm-800:#243a2a;
-  --ip-palm-700:#31503a;
-  --ip-palm-600:#477052;
+  --ip-indigo-950:#1b0c03;
+  --ip-indigo-900:#2f190b;
+  --ip-indigo-800:#482f14;
+  --ip-indigo-700:#694824;
+  --ip-bronze-700:#815025;
+  --ip-bronze-600:#a9753d;
+  --ip-bronze-500:#ca9651;
+  --ip-bronze-400:#e6b96e;
+  --ip-clay-700:#5a2d16;
+  --ip-clay-600:#7f4f27;
+  --ip-clay-500:#9c6232;
+  --ip-palm-800:#4a351d;
+  --ip-palm-700:#614625;
+  --ip-palm-600:#7a5a31;
   --ip-ivory-100:#fffaf1;
   --ip-ivory-150:#fbf4e8;
   --ip-ivory-200:#f5ead8;
@@ -25,9 +25,9 @@
   --ip-ink-800:#33261d;
   --ip-ink-600:#6f6053;
   --ip-line:rgba(78,55,36,.14);
-  --ip-line-dark:rgba(231,193,124,.17);
+  --ip-line-dark:rgba(230,185,110,.18);
   --ip-shadow:0 18px 42px rgba(50,33,20,.09);
-  --ip-shadow-deep:0 22px 54px rgba(5,13,18,.22);
+  --ip-shadow-deep:0 22px 54px rgba(35,17,5,.22);
   --font-display:'Fraunces', Georgia, 'Times New Roman', serif;
   --font-body:'Manrope', Arial, Helvetica, sans-serif;
 
@@ -311,4 +311,53 @@ body.homepage-heritage-v3 .ip-home-path-grid strong{
     letter-spacing:-.045em!important;
   }
   .section-title,.ip-home-section-head h2{letter-spacing:-.04em!important}
+}
+
+
+/* Brand brown direction — sampled from the Isese Ponbele bronze emblem. */
+:root{
+  --ip-brand-brown-950:#1b0c03;
+  --ip-brand-brown-900:#2f190b;
+  --ip-brand-brown-800:#482f14;
+  --ip-brand-brown-700:#694824;
+  --ip-brand-brown-600:#815025;
+  --ip-brand-bronze:#ca9651;
+  --ip-brand-gold:#e6b96e;
+  --ip-head-bg:var(--ip-brand-brown-950);
+  --ip-head-bg-2:var(--ip-brand-brown-900);
+}
+.site-header{
+  background:linear-gradient(110deg,#1b0c03 0%,#2f190b 52%,#482f14 100%)!important;
+}
+.site-header::before{
+  background:linear-gradient(90deg,#482f14 0%,#ca9651 28%,#815025 52%,#ca9651 76%,#482f14 100%)!important;
+}
+.page-hero,.doc-hero,.shop-hero,.orisa-premium-hero,.orisa-documentary-hero{
+  background:
+    radial-gradient(circle at 76% 22%,rgba(202,150,81,.20),transparent 27%),
+    radial-gradient(circle at 6% 8%,rgba(129,80,37,.20),transparent 25%),
+    linear-gradient(128deg,#1b0c03 0%,#2f190b 56%,#482f14 100%)!important;
+}
+.section-dark,.doc-section.dark,.home-sacred-section,.ip-home-sacred{
+  background:
+    radial-gradient(circle at 85% 5%,rgba(202,150,81,.10),transparent 26%),
+    linear-gradient(135deg,#1b0c03,#2f190b 62%,#482f14)!important;
+}
+body.homepage-heritage-v3 .ip-home-hero{
+  background:
+    radial-gradient(circle at 78% 26%,rgba(202,150,81,.22),transparent 27%),
+    radial-gradient(circle at 4% 10%,rgba(105,72,36,.28),transparent 25%),
+    linear-gradient(128deg,#1b0c03 0%,#2f190b 52%,#482f14 100%)!important;
+}
+body.homepage-heritage-v3 .ip-home-heritage-band,
+body.homepage-heritage-v3 .footer,
+.footer{
+  background:linear-gradient(135deg,#170a02,#2a160a 58%,#3f2913)!important;
+}
+body.homepage-heritage-v3 .ip-btn-dark,.btn-dark,.ip-btn-dark{
+  background:#482f14!important;
+  border-color:#694824!important;
+}
+.shop-service,.orisa-premium-principles{
+  background:linear-gradient(135deg,#2f190b,#482f14)!important;
 }

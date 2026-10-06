@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v26-global-art-direction';
+const CACHE_NAME = 'isese-ponbele-app-v27-brand-brown';
 const CORE = [
   '/',
   '/index.html',
