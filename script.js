@@ -24,49 +24,9 @@
     const isHome = path === '/' || path.endsWith('/index.html') || path.endsWith('index.html');
     if (!isHome) return;
 
-    document.body.classList.add('homepage-heritage-v2');
-    document.body.classList.remove('homepage-clean-hero');
-
+    document.body.classList.add('homepage-heritage-v3');
+    document.body.classList.remove('homepage-clean-hero','homepage-heritage-v2');
     document.getElementById('homeArchivePreviews')?.remove();
-
-    const anchor = document.querySelector('.ip-sacred-feature') || document.querySelector('.hero-immersive');
-    if (!anchor) return;
-
-    const previewWrap = document.createElement('div');
-    previewWrap.id = 'homeArchivePreviews';
-    previewWrap.innerHTML = `
-      <section class="home-preview-section ogun-preview-section">
-        <div class="container">
-          <div class="home-preview-head">
-            <div><div class="kicker">Oogun archive • preview</div><h2>Selected traditional workings.</h2></div>
-            <p>A focused preview from the larger Yoruba Oogun collection. Open the archive for the complete indexed catalogue.</p>
-          </div>
-          <div class="preview-grid-ogun">
-            <a class="ogun-preview-card" href="catalogue.html"><h3>ISEGUN AROKA</h3><p>Victory and overcoming gossip, hostility or opposition.</p></a>
-            <a class="ogun-preview-card" href="catalogue.html"><h3>ARISOYIN</h3><p>Traditional preparation associated with being spoken of favourably while absent.</p></a>
-            <a class="ogun-preview-card" href="catalogue.html"><h3>IMU IRINAJO DARA</h3><p>Safe travelling and making a journey go well.</p></a>
-            <a class="ogun-preview-card" href="catalogue.html"><h3>ISAN GBESE</h3><p>Traditional working connected with release from debt and repayment.</p></a>
-            <a class="ogun-preview-card" href="catalogue.html"><h3>OOGUN KOSOFO</h3><p>Traditional preparation associated with preventing loss.</p></a>
-            <a class="ogun-preview-card" href="catalogue.html"><h3>IKUJENJO</h3><p>Protective archive entry traditionally associated with warding off death.</p></a>
-          </div>
-          <div class="home-preview-actions"><a class="btn" href="catalogue.html">Enter the complete Oogun archive →</a></div>
-        </div>
-      </section>
-      <section class="home-preview-section ewe-preview-section">
-        <div class="container">
-          <div class="home-preview-head">
-            <div><div class="kicker">Ewé documentary • field notes</div><h2>Leaves, names and botanical memory.</h2></div>
-            <p>Three visual entries from the wider leaves documentary, pairing Yoruba names with common and botanical identifications.</p>
-          </div>
-          <div class="preview-grid-ewe">
-            <a class="ewe-preview-card" href="herbs.html"><div class="ewe-preview-photo"><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Starr_071024-8809_Kalanchoe_crenata.jpg?width=1100" alt="Odundun - Kalanchoe crenata leaves"></div><div class="ewe-preview-body"><h3>Odundun</h3><div class="common">Never-die / Kalanchoe</div><div class="botanical">Kalanchoe crenata (Andrews) Haw.</div><p>A fleshy-leaved succulent with rounded to crenate leaf margins.</p></div></a>
-            <a class="ewe-preview-card" href="herbs.html"><div class="ewe-preview-photo"><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Vernonia_amygdalina_plant.jpg?width=1100" alt="Ewuro bitter leaf plant"></div><div class="ewe-preview-body"><h3>Ewuro</h3><div class="common">Bitter leaf</div><div class="botanical">Gymnanthemum amygdalinum</div><p>A familiar bitter-leaf shrub widely documented across tropical Africa.</p></div></a>
-            <a class="ewe-preview-card" href="herbs.html"><div class="ewe-preview-photo"><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Milicia_excelsa_%28iroko%29_Moraceae.jpg?width=1100" alt="Iroko tree Milicia excelsa"></div><div class="ewe-preview-body"><h3>Iroko</h3><div class="common">African iroko</div><div class="botanical">Milicia excelsa (Welw.) C.C.Berg</div><p>A major tropical African tree in the mulberry family.</p></div></a>
-          </div>
-          <div class="home-preview-actions"><a class="btn" href="herbs.html">Open the Leaves Documentary →</a></div>
-        </div>
-      </section>`;
-    anchor.insertAdjacentElement('afterend', previewWrap);
   };
 
   const polishPrefooter = () => {
