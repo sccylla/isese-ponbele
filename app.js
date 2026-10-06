@@ -227,6 +227,35 @@
     });
   }
 
+  // Homepage horizontal carousels
+  $('[data-carousel]').forEach(carousel => {
+    const track = $('.rich-card-track', carousel);
+    const prev = $('.carousel-arrow.prev', carousel);
+    const next = $('.carousel-arrow.next', carousel);
+    const move = dir => {
+      if(!track) return;
+      const card = $('.rich-product-card', track);
+      const amount = card ? card.getBoundingClientRect().width + 12 : Math.max(260, track.clientWidth * .7);
+      track.scrollBy({left: amount * dir, behavior:'smooth'});
+    };
+    prev?.addEventListener('click', () => move(-1));
+    next?.addEventListener('click', () => move(1));
+  });
+
+  // Lightweight newsletter interaction
+  $('.subscribe-form').forEach(form => {
+    form.addEventListener('submit', e => {
+      e.preventDefault();
+      const button = $('button', form);
+      const input = $('input[type="email"]', form);
+      if(!input?.value.trim()) return;
+      const old = button?.textContent;
+      if(button) button.textContent = 'Subscribed ✓';
+      form.classList.add('submitted');
+      setTimeout(() => { if(button) button.textContent = old || 'Subscribe →'; }, 2200);
+    });
+  });
+
   renderHomeProducts();
   renderOrisaDirectory();
   renderOrisaDocumentary();
