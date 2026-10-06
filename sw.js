@@ -1,4 +1,4 @@
-const CACHE_NAME = 'isese-ponbele-app-v28-unified-system';
+const CACHE_NAME = 'isese-ponbele-app-v29-iwure-fix';
 const CORE = [
   '/',
   '/index.html',
