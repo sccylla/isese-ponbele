@@ -94,7 +94,7 @@
     renderLocked();
   }
 
-  const manager=document.querySelector("#access-manager-root");
+  const manager=document.querySelector("#access-manager-root")||document.querySelector("#access-generator-form");
   if(manager){
     const scope=document.querySelector("#access-scope");
     if(scope) scope.innerHTML='<option value="all">All protected Oogun documents</option>'+C.map(x=>`<option value="${esc(x.id)}">${esc(x.title)} (#${esc(x.number)})</option>`).join("");
