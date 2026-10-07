@@ -26,6 +26,16 @@ jobs:
           mkdir -p motionforge-android-build
           cat motionforge-build/chunk*.b64 | base64 -d > /tmp/motionforge-project.tar.gz
           tar -xzf /tmp/motionforge-project.tar.gz -C motionforge-android-build
+          python - <<'PY'
+          from pathlib import Path
+          p = Path("motionforge-android-build/app/src/main/java/com/motionforge/ai/MainActivity.kt")
+          s = p.read_text()
+          marker = "import androidx.activity.ComponentActivity\n"
+          needed = "import androidx.activity.compose.setContent\n"
+          if needed not in s:
+              s = s.replace(marker, marker + needed)
+          p.write_text(s)
+          PY
       - name: Build installable debug APK
         working-directory: motionforge-android-build
         run: gradle --no-daemon :app:assembleDebug
