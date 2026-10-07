@@ -1118,3 +1118,90 @@ body{
   .seo-topic-grid a{min-height:0;padding:15px}
   .seo-topic-grid strong{font-size:1.12rem}
 }
+
+
+/* =========================================================
+   DESKTOP HERO RIGHT-PANEL REFINEMENT — 2026-10-07
+   ========================================================= */
+@media(min-width:901px){
+  .reference-home .hero-reference-grid{
+    grid-template-columns:minmax(460px,.96fr) minmax(480px,1.04fr);
+    min-height:520px;
+  }
+
+  .reference-home .hero-brand-panel{
+    min-height:520px;
+    position:relative;
+    display:grid;
+    place-items:center;
+    overflow:hidden;
+    border-left:1px solid rgba(232,190,103,.11);
+    background:
+      radial-gradient(circle at 50% 46%,rgba(216,162,74,.10),transparent 31%),
+      linear-gradient(145deg,rgba(66,31,13,.13),transparent 55%),
+      #100704;
+  }
+
+  .reference-home .hero-brand-panel::before{
+    content:'';
+    position:absolute;
+    inset:0;
+    background:
+      linear-gradient(45deg,transparent 48%,rgba(232,190,103,.022) 49%,rgba(232,190,103,.022) 51%,transparent 52%),
+      linear-gradient(-45deg,transparent 48%,rgba(232,190,103,.022) 49%,rgba(232,190,103,.022) 51%,transparent 52%);
+    background-size:48px 48px;
+    opacity:.72;
+  }
+
+  .reference-home .hero-brand-panel::after{
+    content:'';
+    position:absolute;
+    width:min(430px,72%);
+    aspect-ratio:1;
+    border-radius:50%;
+    border:1px solid rgba(242,200,117,.08);
+    box-shadow:
+      0 0 0 18px rgba(216,162,74,.012),
+      0 0 54px rgba(216,162,74,.055);
+    pointer-events:none;
+  }
+
+  .reference-home .hero-brand-mark{
+    position:relative;
+    z-index:2;
+    width:min(360px,60%);
+    aspect-ratio:1;
+    display:grid;
+    place-items:center;
+    border-radius:50%;
+    filter:drop-shadow(0 22px 34px rgba(0,0,0,.34));
+  }
+
+  .reference-home .hero-brand-mark img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    border-radius:50%;
+    transform:none;
+    border:1px solid rgba(242,200,117,.22);
+    box-shadow:
+      0 0 0 5px rgba(232,190,103,.025),
+      0 16px 34px rgba(0,0,0,.26);
+  }
+
+  .reference-home .hero-brand-mark::before{
+    content:'';
+    position:absolute;
+    inset:-8%;
+    z-index:-1;
+    border-radius:50%;
+    background:radial-gradient(circle,rgba(232,190,103,.11),rgba(232,190,103,.025) 44%,transparent 70%);
+    filter:blur(14px);
+  }
+}
+
+@media(min-width:1180px){
+  .reference-home .hero-brand-mark{
+    width:min(370px,58%);
+  }
+}
