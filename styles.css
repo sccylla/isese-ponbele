@@ -936,3 +936,163 @@ body{
   .site-footer.rich-footer .footer-col a{font-size:.63rem}
   .site-footer.rich-footer .footer-brand img{width:56px;height:56px}
 }
+
+
+/* =========================================================
+   MOBILE HOMEPAGE CLEANUP — 2026-10-07
+   ========================================================= */
+@media(max-width:700px){
+  /* Hide the category band completely on phones */
+  .reference-home .category-band{
+    display:none!important;
+  }
+
+  /* Keep the mobile header compact */
+  .reference-home .site-header{
+    position:sticky;
+    top:0;
+  }
+  .reference-home .nav{
+    min-height:68px;
+    gap:10px;
+  }
+  .reference-home .site-header .brand{
+    gap:9px;
+    max-width:calc(100% - 66px);
+  }
+  .reference-home .site-header .brand img{
+    width:42px;
+    height:42px;
+    flex-basis:42px;
+  }
+  .reference-home .site-header .brand-copy strong{
+    font-size:.88rem;
+    line-height:1;
+  }
+  .reference-home .site-header .brand-copy small{
+    display:none;
+  }
+  .reference-home .menu-btn{
+    width:46px;
+    height:46px;
+    flex:0 0 46px;
+    border-radius:8px;
+  }
+
+  /* Hero becomes one clean information block */
+  .reference-home .hero-reference{
+    min-height:0;
+    background:
+      radial-gradient(circle at 12% 8%,rgba(216,162,74,.09),transparent 30%),
+      linear-gradient(155deg,#160904 0%,#0c0402 100%);
+  }
+  .reference-home .hero-reference::before{
+    opacity:.45;
+    background:
+      linear-gradient(90deg,rgba(232,190,103,.022) 1px,transparent 1px),
+      linear-gradient(rgba(232,190,103,.022) 1px,transparent 1px);
+    background-size:28px 28px;
+  }
+  .reference-home .hero-reference-grid{
+    display:block;
+    min-height:0;
+  }
+  .reference-home .hero-reference-copy{
+    padding:28px 4px 30px;
+  }
+  .reference-home .hero-reference-copy::before,
+  .reference-home .hero-reference-copy::after{
+    display:none;
+  }
+  .reference-home .hero-kicker{
+    margin:0 0 8px;
+    font-size:.50rem;
+    letter-spacing:.17em;
+    white-space:normal;
+  }
+  .reference-home .hero-reference h1{
+    max-width:100%;
+    margin:0;
+    font-size:clamp(3rem,14.5vw,4.15rem);
+    line-height:.84;
+    letter-spacing:-.042em;
+  }
+  .reference-home .hero-lead{
+    max-width:100%;
+    margin-top:15px;
+    font-size:.93rem;
+    line-height:1.48;
+    color:#e6d5bb;
+  }
+  .reference-home .hero-actions{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:9px;
+    margin-top:20px;
+  }
+  .reference-home .hero-actions .btn{
+    width:100%;
+    min-height:48px;
+    padding:0 10px;
+    font-size:.65rem;
+    white-space:nowrap;
+  }
+
+  /* Do not repeat the large logo underneath the hero on mobile */
+  .reference-home .hero-brand-panel{
+    display:none!important;
+  }
+
+  /* Compact benefit strip below the hero */
+  .reference-home .hero-values{
+    box-shadow:none;
+    border-top:1px solid rgba(232,190,103,.17);
+  }
+  .reference-home .hero-values-grid{
+    grid-template-columns:1fr 1fr;
+  }
+  .reference-home .value-item{
+    min-height:72px;
+    padding:10px 8px;
+    gap:7px;
+  }
+  .reference-home .value-item:nth-child(2n){
+    border-right:0;
+  }
+  .reference-home .value-icon{
+    width:31px;
+    height:31px;
+    flex-basis:31px;
+  }
+  .reference-home .value-icon svg{
+    width:26px;
+    height:26px;
+  }
+  .reference-home .value-item strong{
+    font-size:.54rem;
+    line-height:1.25;
+  }
+  .reference-home .value-item small{
+    margin-top:2px;
+    font-size:.45rem;
+    line-height:1.25;
+  }
+}
+
+@media(max-width:390px){
+  .reference-home .hero-reference-copy{
+    padding:24px 2px 26px;
+  }
+  .reference-home .hero-reference h1{
+    font-size:clamp(2.8rem,14.2vw,3.55rem);
+  }
+  .reference-home .hero-lead{
+    font-size:.88rem;
+  }
+  .reference-home .hero-actions{
+    grid-template-columns:1fr;
+  }
+  .reference-home .hero-actions .btn{
+    min-height:46px;
+  }
+}
