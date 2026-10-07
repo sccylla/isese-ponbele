@@ -193,13 +193,15 @@
   function renderDictionary(){
     const root=$('#dictionary-list'); if(!root) return;
     const q=$('#dictionary-search');
-    const count=$('#dictionary-count');
     const alphabet=$('#alphabet');
     const categoryRoot=$('#dictionary-category-filters');
     const more=$('#dictionary-load-more');
+    const status=$('#dictionary-status');
+    const randomBtn=$('#dictionary-random');
+
     let letter='';
     let category='All';
-    let visible=80;
+    let visible=60;
 
     const strip=v=>String(v??'')
       .normalize('NFD')
@@ -214,16 +216,22 @@
       String(a.term).localeCompare(String(b.term),'yo')
     );
 
-    const letters=[...new Set(rowsAll.map(x=>strip(x.term).charAt(0).toUpperCase()).filter(Boolean))].sort();
+    const letterOrder=['A','B','D','E','F','G','H','I','J','K','L','M','N','O','P','R','S','T','U','W','Y'];
+    const presentLetters=new Set(rowsAll.map(x=>strip(x.term).charAt(0).toUpperCase()).filter(Boolean));
+    const letters=letterOrder.filter(x=>presentLetters.has(x));
     if(alphabet) alphabet.innerHTML=['All',...letters].map(l=>`<button type="button" data-letter="${l==='All'?'':l}" class="${l==='All'?'active':''}">${l}</button>`).join('');
 
-    const preferred=['General Yoruba','Ìṣẹ̀ṣe & Ifá','Culture & Society','Slang & Colloquial'];
+    const preferred=['General Yoruba','Ìṣẹ̀ṣe & Ifá','Culture & Society','Names & Places','Slang & Colloquial'];
     const present=[...new Set(rowsAll.map(x=>x.category||'General Yoruba'))];
     const cats=['All',...preferred.filter(x=>present.includes(x)),...present.filter(x=>!preferred.includes(x))];
-    if(categoryRoot) categoryRoot.innerHTML=cats.map((c,i)=>`<button class="chip ${i===0?'active':''}" type="button" data-category="${esc(c)}">${esc(c)}</button>`).join('');
+    if(categoryRoot) categoryRoot.innerHTML=cats.map((c,i)=>`<button class="dictionary-category-btn ${i===0?'active':''}" type="button" data-category="${esc(c)}">${esc(c)}</button>`).join('');
 
-    const params=new URLSearchParams(location.search);
-    const urlQ=params.get('q'); if(q&&urlQ)q.value=urlQ;
+    const urlQ=new URLSearchParams(location.search).get('q'); if(q&&urlQ) q.value=urlQ;
+
+    const cleanPos=p=>{
+      const map={n:'noun',v:'verb',adj:'adjective',adv:'adverb',pron:'pronoun',num:'number',excl:'exclamation',name:'name'};
+      return map[p]||p||'';
+    };
 
     const draw=()=>{
       const query=strip((q?.value||'').trim());
@@ -231,52 +239,73 @@
         const termNorm=strip(x.term);
         const letterOk=!letter||termNorm.startsWith(letter.toLowerCase());
         const catOk=category==='All'||(x.category||'General Yoruba')===category;
-        const hay=strip([
-          x.term,x.meaning,x.context,x.category,x.partOfSpeech,
-          ...(x.related||[]),...(x.aliases||[])
-        ].join(' '));
-        const qOk=!query||hay.includes(query);
-        return letterOk&&catOk&&qOk;
+        const hay=strip([x.term,x.meaning,x.context,x.category,x.partOfSpeech,...(x.related||[]),...(x.aliases||[])].join(' '));
+        return letterOk&&catOk&&(!query||hay.includes(query));
       });
 
-      if(count) count.textContent=`${rows.length.toLocaleString()} ${rows.length===1?'entry':'entries'}`;
+      if(status){
+        if(query) status.textContent='Search results';
+        else if(category!=='All') status.textContent=category;
+        else if(letter) status.textContent='Words beginning with '+letter;
+        else status.textContent='Browse all words';
+      }
+
       const shown=rows.slice(0,visible);
-      root.innerHTML=shown.length?shown.map(x=>`<article class="dictionary-entry">
-        <div class="dictionary-entry-top">
+      root.innerHTML=shown.length?shown.map(x=>`<article class="dictionary-entry dictionary-row">
+        <div class="dictionary-word-column">
           <h3>${esc(x.term)}</h3>
-          <div class="dictionary-entry-badges">
-            <span>${esc(x.category||'General Yoruba')}</span>
-            ${x.partOfSpeech?`<span class="pos-badge">${esc(x.partOfSpeech)}</span>`:''}
-          </div>
+          ${x.partOfSpeech?`<span class="dictionary-pos">${esc(cleanPos(x.partOfSpeech))}</span>`:''}
+          <span class="dictionary-category-label">${esc(x.category||'General Yoruba')}</span>
         </div>
-        ${x.aliases?.length?`<p class="dictionary-aliases">Also written/said: ${x.aliases.map(esc).join(', ')}</p>`:''}
-        <p class="meaning">${esc(x.meaning)}</p>
-        <p>${esc(x.context||'')}</p>
-        ${x.related?.length?`<div class="related">${x.related.map(r=>`<span>${esc(r)}</span>`).join('')}</div>`:''}
-      </article>`).join(''):`<div class="empty-state">No dictionary entry matches this search.</div>`;
+        <div class="dictionary-definition-column">
+          <p class="meaning">${esc(x.meaning)}</p>
+          ${x.context?`<p class="dictionary-context">${esc(x.context)}</p>`:''}
+          ${x.aliases?.length?`<p class="dictionary-variants"><strong>Variants:</strong> ${x.aliases.map(esc).join(' · ')}</p>`:''}
+          ${x.related?.length?`<div class="related dictionary-related">${x.related.map(r=>`<button type="button" data-related="${esc(r)}">${esc(r)}</button>`).join('')}</div>`:''}
+        </div>
+      </article>`).join(''):`<div class="empty-state dictionary-empty"><strong>No matching word found.</strong><span>Try a plain spelling without tone marks or search an English meaning.</span></div>`;
 
       if(more){
         more.hidden=shown.length>=rows.length;
-        more.textContent=`Load more words (${Math.max(0,rows.length-shown.length).toLocaleString()} remaining)`;
+        more.textContent='Load more words';
       }
     };
 
-    q?.addEventListener('input',()=>{visible=80;draw()});
+    q?.addEventListener('input',()=>{visible=60;draw()});
     alphabet?.addEventListener('click',e=>{
       const b=e.target.closest('button');if(!b)return;
       letter=b.dataset.letter||'';
-      visible=80;
+      visible=60;
       $$('button',alphabet).forEach(x=>x.classList.toggle('active',x===b));
       draw();
+      root.scrollIntoView({behavior:'smooth',block:'start'});
     });
     categoryRoot?.addEventListener('click',e=>{
       const b=e.target.closest('[data-category]');if(!b)return;
       category=b.dataset.category||'All';
-      visible=80;
+      visible=60;
       $$('[data-category]',categoryRoot).forEach(x=>x.classList.toggle('active',x===b));
       draw();
     });
-    more?.addEventListener('click',()=>{visible+=80;draw()});
+    root.addEventListener('click',e=>{
+      const b=e.target.closest('[data-related]');if(!b||!q)return;
+      q.value=b.dataset.related||'';
+      letter=''; category='All'; visible=60;
+      $$('button',alphabet).forEach((x,i)=>x.classList.toggle('active',i===0));
+      $$('[data-category]',categoryRoot).forEach((x,i)=>x.classList.toggle('active',i===0));
+      draw();
+      q.focus();
+      scrollTo({top:q.getBoundingClientRect().top+scrollY-100,behavior:'smooth'});
+    });
+    randomBtn?.addEventListener('click',()=>{
+      if(!rowsAll.length||!q)return;
+      const x=rowsAll[Math.floor(Math.random()*rowsAll.length)];
+      q.value=x.term;
+      letter=''; category='All'; visible=60;
+      draw();
+      q.focus();
+    });
+    more?.addEventListener('click',()=>{visible+=60;draw()});
     draw();
   }
 
