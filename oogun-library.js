@@ -19,6 +19,7 @@
       const q=(search?.value||"").toLowerCase().trim();
       const rows=C.filter(x=>!q||[x.title,x.subtitle,x.sourceName,x.preview].join(" ").toLowerCase().includes(q));
       const shown=expanded||q?rows:rows.slice(0,12);
+      home.classList.toggle("show-all",expanded||!!q);
       home.innerHTML=shown.map(card).join("");
       if(more){
         more.hidden=!!q||rows.length<=12;
