@@ -40,7 +40,7 @@
 
   function renderFeaturedProducts(){
     const track=$('#featured-products-track');
-    if(!track) return;
+    if(!track || track.children.length) return;
     const products=DATA.products.slice(0,3);
     track.innerHTML=products.map((p,i)=>`<article class="rich-product-card ${i===1?'featured-product':''}">
       <div class="rich-card-image product-photo"><img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}"></div>
