@@ -302,7 +302,7 @@
   });
 
   // Lightweight newsletter interaction
-  $('.subscribe-form').forEach(form => {
+  $$('.subscribe-form').forEach(form => {
     form.addEventListener('submit', e => {
       e.preventDefault();
       const button = $('button', form);
