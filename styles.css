@@ -694,3 +694,106 @@ body{
   .reference-home .hero-reference-art{min-height:275px}
   .reference-home .hero-reference-copy::after{top:22px;width:64px}
 }
+
+
+/* =========================================================
+   HERO BRAND PANEL — logo replaces Opon Ifa photograph
+   ========================================================= */
+.reference-home .hero-reference-grid{
+  grid-template-columns:minmax(430px,.94fr) minmax(500px,1.06fr);
+}
+.reference-home .hero-reference-copy{
+  padding-top:34px;
+  padding-bottom:34px;
+}
+.reference-home .hero-reference-copy::after{
+  top:20px;
+}
+.reference-home .hero-brand-panel{
+  position:relative;
+  min-height:520px;
+  display:grid;
+  place-items:center;
+  overflow:hidden;
+  border-left:1px solid rgba(232,190,103,.14);
+  background:
+    radial-gradient(circle at 50% 47%,rgba(216,162,74,.15),transparent 34%),
+    linear-gradient(135deg,rgba(67,33,15,.20),transparent 48%),
+    #100704;
+}
+.reference-home .hero-brand-panel::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  z-index:0;
+  background:
+    linear-gradient(45deg,transparent 46%,rgba(232,190,103,.035) 47%,rgba(232,190,103,.035) 49%,transparent 50%),
+    linear-gradient(-45deg,transparent 46%,rgba(232,190,103,.035) 47%,rgba(232,190,103,.035) 49%,transparent 50%);
+  background-size:46px 46px;
+  opacity:.85;
+}
+.reference-home .hero-brand-panel::after{
+  content:'';
+  position:absolute;
+  width:72%;
+  aspect-ratio:1;
+  border:1px solid rgba(242,200,117,.10);
+  border-radius:50%;
+  box-shadow:
+    0 0 0 22px rgba(216,162,74,.018),
+    0 0 0 46px rgba(216,162,74,.012);
+  pointer-events:none;
+}
+.reference-home .hero-brand-mark{
+  position:relative;
+  z-index:2;
+  width:min(430px,72%);
+  aspect-ratio:1;
+  display:grid;
+  place-items:center;
+  border-radius:50%;
+  filter:drop-shadow(0 24px 44px rgba(0,0,0,.38));
+}
+.reference-home .hero-brand-mark img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  border-radius:50%;
+  transform:scale(.96);
+}
+.reference-home .hero-brand-mark::before{
+  content:'';
+  position:absolute;
+  inset:-5%;
+  z-index:-1;
+  border-radius:50%;
+  background:radial-gradient(circle,rgba(232,190,103,.18),rgba(232,190,103,.03) 48%,transparent 72%);
+  filter:blur(12px);
+}
+.reference-home .hero-main-logo{display:none!important}
+.reference-home .hero-reference-art>img,
+.reference-home .hero-art-overlay{display:none!important}
+
+@media(max-width:1080px){
+  .reference-home .hero-reference-grid{
+    grid-template-columns:minmax(390px,.92fr) minmax(0,1.08fr);
+  }
+  .reference-home .hero-brand-mark{width:min(390px,72%)}
+}
+@media(max-width:900px){
+  .reference-home .hero-reference-grid{grid-template-columns:1fr}
+  .reference-home .hero-brand-panel{
+    min-height:330px;
+    margin-inline:-14px;
+    border-left:0;
+    border-top:1px solid rgba(232,190,103,.14);
+  }
+  .reference-home .hero-brand-mark{width:min(260px,58vw)}
+  .reference-home .hero-brand-panel::after{width:55%}
+}
+@media(max-width:620px){
+  .reference-home .hero-reference-copy{padding-top:24px}
+  .reference-home .hero-brand-panel{min-height:260px}
+  .reference-home .hero-brand-mark{width:min(210px,62vw)}
+  .reference-home .hero-brand-panel::after{width:64%}
+}
