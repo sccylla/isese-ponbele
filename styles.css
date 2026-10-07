@@ -1096,3 +1096,25 @@ body{
     min-height:46px;
   }
 }
+
+
+/* =========================================================
+   SEO CONTENT HUB / CORNERSTONE PAGES
+   ========================================================= */
+.seo-entry-points{padding:34px 0 38px;background:#ead8bd;border-top:1px solid rgba(78,51,28,.12);border-bottom:1px solid rgba(78,51,28,.15)}
+.seo-topic-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.seo-topic-grid a{display:grid;gap:5px;min-height:110px;padding:18px;border:1px solid #d6bd96;border-radius:8px;background:#fff6e7;text-decoration:none;box-shadow:0 8px 20px rgba(52,28,12,.06);transition:.2s ease}
+.seo-topic-grid a:hover{transform:translateY(-2px);border-color:#c68b3b;box-shadow:0 14px 28px rgba(52,28,12,.10)}
+.seo-topic-grid strong{font-family:var(--display);font-size:1.25rem;line-height:1.05;color:#351b0d}
+.seo-topic-grid span{color:#76614d;font-size:.69rem;line-height:1.5}
+.seo-home-grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+.seo-article a:not(.btn){color:#8a5728;text-decoration-thickness:1px;text-underline-offset:3px}
+.seo-article .reference-list a{font-weight:700}
+.seo-article h2{scroll-margin-top:100px}
+@media(max-width:900px){.seo-home-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:620px){
+  .seo-entry-points{padding:24px 0 26px}
+  .seo-topic-grid,.seo-home-grid{grid-template-columns:1fr}
+  .seo-topic-grid a{min-height:0;padding:15px}
+  .seo-topic-grid strong{font-size:1.12rem}
+}
