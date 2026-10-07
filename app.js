@@ -71,7 +71,45 @@
     const id=new URLSearchParams(location.search).get('id') || 'orunmila';
     const o=DATA.orisas.find(x=>x.slug===id) || DATA.orisas[0];
     if(!o) return;
-    document.title=`${o.name} — Isese Ponbele`;
+    const seoTitle=`${o.name}: Yoruba Òrìṣà Guide | Isese Ponbele`;
+    const seoDescription=String(o.lead||'').slice(0,160);
+    const canonicalUrl=`https://isese-ponbele.vercel.app/orisa.html?id=${encodeURIComponent(o.slug)}`;
+    const seoImage=o.image||'https://isese-ponbele.vercel.app/assets/isese-ponbele-logo-polished.webp';
+    document.title=seoTitle;
+    const setMeta=(selector,attrs)=>{
+      let el=document.head.querySelector(selector);
+      if(!el){el=document.createElement('meta');document.head.appendChild(el);}
+      Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));
+      return el;
+    };
+    setMeta('meta[name="description"]',{name:'description',content:seoDescription});
+    setMeta('meta[property="og:type"]',{property:'og:type',content:'article'});
+    setMeta('meta[property="og:site_name"]',{property:'og:site_name',content:'Isese Ponbele'});
+    setMeta('meta[property="og:title"]',{property:'og:title',content:seoTitle});
+    setMeta('meta[property="og:description"]',{property:'og:description',content:seoDescription});
+    setMeta('meta[property="og:url"]',{property:'og:url',content:canonicalUrl});
+    setMeta('meta[property="og:image"]',{property:'og:image',content:seoImage});
+    setMeta('meta[name="twitter:card"]',{name:'twitter:card',content:'summary_large_image'});
+    setMeta('meta[name="twitter:title"]',{name:'twitter:title',content:seoTitle});
+    setMeta('meta[name="twitter:description"]',{name:'twitter:description',content:seoDescription});
+    setMeta('meta[name="twitter:image"]',{name:'twitter:image',content:seoImage});
+    let canonical=document.head.querySelector('link[rel="canonical"]');
+    if(!canonical){canonical=document.createElement('link');canonical.rel='canonical';document.head.appendChild(canonical);}
+    canonical.href=canonicalUrl;
+    let ld=document.head.querySelector('#orisa-seo-jsonld');
+    if(!ld){ld=document.createElement('script');ld.type='application/ld+json';ld.id='orisa-seo-jsonld';document.head.appendChild(ld);}
+    ld.textContent=JSON.stringify({
+      '@context':'https://schema.org',
+      '@type':'Article',
+      headline:`${o.name}: Yoruba Òrìṣà Guide`,
+      description:seoDescription,
+      url:canonicalUrl,
+      image:seoImage,
+      mainEntityOfPage:canonicalUrl,
+      publisher:{'@type':'Organization',name:'Isese Ponbele',url:'https://isese-ponbele.vercel.app/',logo:{'@type':'ImageObject',url:'https://isese-ponbele.vercel.app/assets/isese-ponbele-logo-polished.webp'}},
+      inLanguage:'en',
+      about:['Yoruba culture','Òrìṣà','Ìṣẹ̀ṣe',o.name]
+    });
     const media = o.image ? `<figure class="doc-media"><img src="${esc(o.image)}" alt="Documented Yoruba cultural representation associated with ${esc(o.name)}" referrerpolicy="no-referrer"><figcaption>Documented cultural image used as context; not presented as a literal photograph of the Òrìṣà.</figcaption></figure>` : '';
     const sections=[
       ['identity','Identity & worldview',`<p class="lead-paragraph">${esc(o.lead)}</p>${o.overview.map(p=>`<p>${esc(p)}</p>`).join('')}`],
