@@ -797,3 +797,142 @@ body{
   .reference-home .hero-brand-mark{width:min(210px,62vw)}
   .reference-home .hero-brand-panel::after{width:64%}
 }
+
+
+/* =========================================================
+   MOBILE FOOTER REFINEMENT — compact premium layout
+   ========================================================= */
+@media(max-width:700px){
+  .site-footer.rich-footer{
+    position:relative;
+    padding:24px 0 14px;
+    background:
+      radial-gradient(circle at 50% -10%,rgba(216,162,74,.12),transparent 34%),
+      linear-gradient(180deg,#120704 0%,#0b0402 100%);
+    border-top:1px solid rgba(235,193,122,.30);
+  }
+  .site-footer.rich-footer::before{
+    content:'';
+    position:absolute;
+    top:0;
+    left:50%;
+    width:92px;
+    height:1px;
+    transform:translateX(-50%);
+    background:linear-gradient(90deg,transparent,#d8a24a,transparent);
+  }
+  .site-footer.rich-footer .container{
+    width:calc(100% - 32px);
+    max-width:520px;
+  }
+  .site-footer.rich-footer .footer-grid{
+    display:grid!important;
+    grid-template-columns:1fr 1fr!important;
+    gap:0 22px!important;
+    align-items:start;
+  }
+  .site-footer.rich-footer .footer-grid>div{
+    min-width:0;
+    padding:0;
+    border:0;
+  }
+  .site-footer.rich-footer .footer-grid>div:first-child{
+    grid-column:1/-1!important;
+    display:grid;
+    justify-items:center;
+    text-align:center;
+    padding:4px 0 20px!important;
+    margin-bottom:18px;
+    border-bottom:1px solid rgba(235,193,122,.13);
+  }
+  .site-footer.rich-footer .footer-brand{
+    display:grid;
+    justify-items:center;
+    gap:8px;
+    min-width:0;
+  }
+  .site-footer.rich-footer .footer-brand img{
+    width:62px;
+    height:62px;
+    flex:none;
+    object-fit:cover;
+    border-radius:50%;
+    border:1px solid rgba(235,193,122,.38);
+    box-shadow:0 9px 22px rgba(0,0,0,.28);
+  }
+  .site-footer.rich-footer .footer-brand>div{
+    display:grid;
+    justify-items:center;
+    gap:3px;
+  }
+  .site-footer.rich-footer .footer-brand strong{
+    font-size:1rem;
+    line-height:1.05;
+    letter-spacing:.035em;
+    white-space:normal;
+  }
+  .site-footer.rich-footer .footer-brand small{
+    max-width:250px;
+    font-size:.46rem;
+    line-height:1.4;
+    letter-spacing:.09em;
+    white-space:normal;
+  }
+  .site-footer.rich-footer .footer-copy{
+    max-width:320px;
+    margin:9px auto 0;
+    font-size:.66rem;
+    line-height:1.55;
+    color:#a99577;
+  }
+  .site-footer.rich-footer .footer-col{
+    padding:0!important;
+  }
+  .site-footer.rich-footer .footer-col h4{
+    margin:0 0 8px;
+    color:#d7a24b;
+    font-size:.60rem;
+    letter-spacing:.11em;
+    text-transform:uppercase;
+  }
+  .site-footer.rich-footer .footer-col a{
+    display:block;
+    padding:5px 0;
+    color:#dac9aa;
+    font-size:.66rem;
+    line-height:1.35;
+    text-decoration:none;
+    overflow-wrap:anywhere;
+  }
+  .site-footer.rich-footer .footer-col a:hover{
+    color:#f1c773;
+  }
+  .site-footer.rich-footer .footer-motto{
+    display:none!important;
+  }
+  .site-footer.rich-footer .footer-bottom{
+    display:flex!important;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:5px;
+    margin-top:20px;
+    padding-top:13px;
+    border-top:1px solid rgba(235,193,122,.13);
+    text-align:center;
+    font-size:.50rem;
+    line-height:1.45;
+    color:#8f7b61;
+  }
+  .site-footer.rich-footer .footer-bottom span:last-child{
+    color:#b39870;
+    letter-spacing:.035em;
+  }
+}
+
+@media(max-width:390px){
+  .site-footer.rich-footer .container{width:calc(100% - 24px)}
+  .site-footer.rich-footer .footer-grid{gap:0 14px!important}
+  .site-footer.rich-footer .footer-col a{font-size:.63rem}
+  .site-footer.rich-footer .footer-brand img{width:56px;height:56px}
+}
