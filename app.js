@@ -315,6 +315,32 @@
     });
   });
 
+  function initSocialLinks(){
+    const links=[
+      {label:'TikTok',mark:'TT',href:'https://www.tiktok.com/@iseseponbele',rel:'me noopener'},
+      {label:'Facebook',mark:'f',href:'https://www.facebook.com/iseseponbele',rel:'me noopener'},
+      {label:'YouTube',mark:'▶',href:'https://www.youtube.com/@iseseponbele',rel:'me noopener'},
+      {label:'WhatsApp',mark:'WA',href:'https://wa.me/2347047604452',rel:'noopener'}
+    ];
+
+    const footerCopy=$('.footer-copy');
+    if(footerCopy && !document.querySelector('.footer-socials')){
+      const row=document.createElement('div');
+      row.className='footer-socials';
+      row.setAttribute('aria-label','Isese Ponbele social media');
+      row.innerHTML=links.map(x=>`<a href="${x.href}" target="_blank" rel="${x.rel}" aria-label="Isese Ponbele on ${x.label}"><span class="social-mark">${x.mark}</span><b>${x.label}</b></a>`).join('');
+      footerCopy.insertAdjacentElement('afterend',row);
+    }
+
+    if(!document.querySelector('.social-dock')){
+      const dock=document.createElement('nav');
+      dock.className='social-dock';
+      dock.setAttribute('aria-label','Follow Isese Ponbele');
+      dock.innerHTML=links.map(x=>`<a href="${x.href}" target="_blank" rel="${x.rel}" aria-label="${x.label}"><span>${x.mark}</span><b>${x.label}</b></a>`).join('');
+      document.body.appendChild(dock);
+    }
+  }
+
   function initMotionSystem(){
     const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
     document.documentElement.classList.add('motion-ready');
@@ -448,5 +474,6 @@
   renderStore();
   homeDictionary();
   consultation();
+  initSocialLinks();
   initMotionSystem();
 })();
