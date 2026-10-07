@@ -1881,3 +1881,69 @@ body{
   .motion-item{opacity:1!important;transform:none!important;filter:none!important}
   .site-scroll-progress{display:none}
 }
+
+
+/* =========================================================
+   HEADER TEXT VISIBILITY BOOST — 2026-10-07
+   ========================================================= */
+.site-header .brand-copy strong{
+  color:#f1c66f!important;
+  font-size:1.08rem;
+  font-weight:800;
+  letter-spacing:.045em;
+  text-shadow:0 1px 0 rgba(0,0,0,.45),0 0 10px rgba(216,162,74,.10);
+}
+.site-header .brand-copy small{
+  color:#d6b17c!important;
+  font-size:.49rem;
+  font-weight:700;
+  letter-spacing:.105em;
+  opacity:1!important;
+}
+.site-header .nav-links a{
+  color:#ead8ba!important;
+  font-size:.68rem;
+  font-weight:700;
+  letter-spacing:.015em;
+  text-shadow:0 1px 0 rgba(0,0,0,.45);
+}
+.site-header .nav-links a:hover{
+  color:#ffd984!important;
+}
+.site-header .nav-links a.active,
+.site-header .nav-links a[aria-current="page"]{
+  color:#f5c565!important;
+  font-weight:800;
+}
+.site-header .consult-link{
+  color:#2b1709!important;
+  background:linear-gradient(180deg,#efc36c,#dba248)!important;
+  font-weight:900!important;
+}
+.site-header .search-toggle{
+  color:#f0c36b!important;
+  opacity:1!important;
+}
+@media(max-width:900px){
+  .site-header .brand-copy strong{
+    font-size:.96rem;
+  }
+  .site-header .brand-copy small{
+    display:block!important;
+    font-size:.42rem;
+    color:#cba36d!important;
+  }
+  .site-header .nav-links a{
+    font-size:.82rem;
+    color:#f0dec2!important;
+  }
+}
+@media(max-width:520px){
+  .site-header .brand-copy strong{
+    font-size:.88rem;
+  }
+  .site-header .brand-copy small{
+    font-size:.38rem;
+    letter-spacing:.085em;
+  }
+}
