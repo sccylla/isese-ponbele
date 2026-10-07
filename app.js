@@ -38,6 +38,23 @@
 
   const esc = v => String(v ?? '').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 
+  function renderFeaturedProducts(){
+    const track=$('#featured-products-track');
+    if(!track) return;
+    const products=DATA.products.slice(0,3);
+    track.innerHTML=products.map((p,i)=>`<article class="rich-product-card ${i===1?'featured-product':''}">
+      <div class="rich-card-image product-photo"><img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}"></div>
+      <div class="rich-card-body">
+        <span class="badge ${i===1?'badge-green':''}">${esc(p.brand||'PRODUCT')}</span>
+        <h3>${esc(p.name)}</h3>
+        <p>${esc(p.desc)}</p>
+        <a class="featured-order-link" href="${esc(p.orderUrl||'store.html')}" target="_blank" rel="noopener"><strong>${esc(p.price)}</strong><span>Order on WhatsApp →</span></a>
+      </div>
+    </article>`).join('');
+    const dots=$('#featured-products-dots');
+    if(dots) dots.innerHTML=products.map((_,i)=>`<i class="${i===0?'active':''}"></i>`).join('');
+  }
+
   function renderHomeProducts(){
     const root=$('#home-products'); if(!root) return;
     root.innerHTML=DATA.products.slice(0,3).map(p=>productCard(p)).join('');
@@ -215,11 +232,15 @@
     let cat='All';
     const draw=()=>{
       const rows=DATA.products.filter(p=>cat==='All'||p.cat===cat);
-      root.innerHTML=rows.map(p=>`<article class="store-card">
+      root.innerHTML=rows.map(p=>`<article class="store-card real-product-card">
+        <div class="store-product-image"><img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}"></div>
         <div class="product-body">
-          <small>${esc(p.cat)}</small><h3>${esc(p.name)}</h3><p>${esc(p.desc)}</p>
-          <div class="product-meta"><strong>${esc(p.price)}</strong></div>
-          <a class="btn btn-dark" href="consultation.html?subject=${encodeURIComponent('Store enquiry: '+p.name)}">Enquire about this category</a>
+          <small>${esc(p.brand||p.cat)}</small><h3>${esc(p.name)}</h3><p>${esc(p.desc)}</p>
+          <div class="product-meta"><strong>${esc(p.price)}</strong><span>${esc(p.cat)}</span></div>
+          <div class="store-product-actions">
+            <a class="btn btn-gold" href="${esc(p.orderUrl||'#')}" target="_blank" rel="noopener">Order on WhatsApp</a>
+            <a class="btn btn-dark-outline" href="consultation.html?subject=${encodeURIComponent('Store enquiry: '+p.name)}">Enquire</a>
+          </div>
         </div>
       </article>`).join('');
     };
@@ -294,6 +315,7 @@
     });
   });
 
+  renderFeaturedProducts();
   renderHomeProducts();
   renderOrisaDirectory();
   renderOrisaDocumentary();
