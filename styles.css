@@ -2070,3 +2070,99 @@ body{
   }
   .footer-socials a{justify-content:flex-start}
 }
+
+
+/* =========================================================
+   EXPANDED YORUBA DICTIONARY — 2026-10-07
+   ========================================================= */
+.dictionary-filter-label{
+  margin:16px 0 7px;
+  color:#7d6044;
+  font-size:.52rem;
+  font-weight:900;
+  letter-spacing:.10em;
+  text-transform:uppercase;
+}
+.dictionary-category-filters{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+}
+.dictionary-category-filters .chip{
+  padding:7px 9px;
+  border:1px solid #d6bd96;
+  border-radius:999px;
+  background:#fff7e8;
+  color:#5e422b;
+  font-size:.55rem;
+  font-weight:800;
+  cursor:pointer;
+}
+.dictionary-category-filters .chip.active{
+  border-color:#3e2110;
+  background:#2a1309;
+  color:#efbd62;
+}
+.dictionary-entry{
+  transition:transform .2s ease,border-color .2s ease,box-shadow .2s ease;
+}
+.dictionary-entry:hover{
+  transform:translateY(-2px);
+  border-color:#c89550;
+  box-shadow:0 10px 22px rgba(62,35,18,.07);
+}
+.dictionary-entry-top{
+  display:flex;
+  align-items:flex-start;
+  justify-content:space-between;
+  gap:12px;
+}
+.dictionary-entry-top h3{margin-right:auto}
+.dictionary-entry-badges{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:flex-end;
+  gap:5px;
+}
+.dictionary-entry-badges span{
+  padding:4px 7px;
+  border-radius:999px;
+  background:#efe0c7;
+  color:#765130;
+  font-size:.48rem;
+  font-weight:800;
+  white-space:nowrap;
+}
+.dictionary-entry-badges .pos-badge{
+  background:#2c160b;
+  color:#e9b55f;
+  text-transform:uppercase;
+}
+.dictionary-aliases{
+  margin:4px 0 7px!important;
+  color:#9b6a34!important;
+  font-size:.58rem!important;
+  font-style:italic;
+}
+.dictionary-more-wrap{
+  display:flex;
+  justify-content:center;
+  margin-top:18px;
+}
+.dictionary-more-wrap button[hidden]{display:none}
+.dictionary-source-note{
+  margin-top:24px;
+  padding:14px 16px;
+  border-left:3px solid #c58a3d;
+  background:#efe0c8;
+  color:#6e5945;
+  font-size:.61rem;
+  line-height:1.55;
+}
+.dictionary-source-note strong{color:#3e2514}
+@media(max-width:700px){
+  .dictionary-entry-top{display:block}
+  .dictionary-entry-badges{justify-content:flex-start;margin:7px 0}
+  .dictionary-category-filters{gap:5px}
+  .dictionary-category-filters .chip{font-size:.51rem;padding:6px 8px}
+}
