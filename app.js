@@ -253,7 +253,7 @@
       const shown=rows.slice(0,visible);
       root.innerHTML=shown.length?shown.map(x=>`<article class="dictionary-entry dictionary-row">
         <div class="dictionary-word-column">
-          <h3>${esc(x.term)}</h3>
+          <h3><a class="dictionary-word-link" href="/word/${esc(x.slug||'')}">${esc(x.term)}</a></h3>
           ${x.partOfSpeech?`<span class="dictionary-pos">${esc(cleanPos(x.partOfSpeech))}</span>`:''}
           <span class="dictionary-category-label">${esc(x.category||'General Yoruba')}</span>
         </div>

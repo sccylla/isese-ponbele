@@ -276,7 +276,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "a"
     },
     {
       "term": "a dupe",
@@ -286,7 +287,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "a-dupe"
     },
     {
       "term": "a o ki n dupe ara eni",
@@ -298,7 +300,8 @@ window.ISESE_DATA = {
         "a o ki n dupe ara eni!"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "a-o-ki-n-dupe-ara-eni"
     },
     {
       "term": "aa",
@@ -308,7 +311,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "abbrev",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aa"
     },
     {
       "term": "Aadota",
@@ -319,7 +323,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "aadọta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aadota"
     },
     {
       "term": "aafa",
@@ -329,7 +334,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aafa"
     },
     {
       "term": "Aafin",
@@ -341,7 +347,8 @@ window.ISESE_DATA = {
         "Ade",
         "Olori"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "aafin"
     },
     {
       "term": "aago",
@@ -351,7 +358,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aago"
     },
     {
       "term": "aajin",
@@ -361,7 +369,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aajin"
     },
     {
       "term": "aajo",
@@ -371,7 +380,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aajo"
     },
     {
       "term": "aake",
@@ -381,7 +391,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aake"
     },
     {
       "term": "aala",
@@ -391,7 +402,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aala"
     },
     {
       "term": "aamu",
@@ -401,7 +413,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aamu"
     },
     {
       "term": "aanu",
@@ -411,7 +424,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aanu"
     },
     {
       "term": "Aapon",
@@ -422,7 +436,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aapọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aapon"
     },
     {
       "term": "Aare Ona Kakanfo",
@@ -433,7 +448,8 @@ window.ISESE_DATA = {
         "Oyo",
         "Akinkanju"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "aare-ona-kakanfo"
     },
     {
       "term": "Aare-ona-kakanfo",
@@ -443,7 +459,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aare-ona-kakanfo-1uj169"
     },
     {
       "term": "Aaro",
@@ -454,7 +471,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "aaro",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aaro"
     },
     {
       "term": "aaro ki i gbona kale",
@@ -464,7 +482,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aaro-ki-i-gbona-kale"
     },
     {
       "term": "aarun-un",
@@ -474,7 +493,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aarun-un"
     },
     {
       "term": "aasaa-ita",
@@ -484,7 +504,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aasaa-ita"
     },
     {
       "term": "aasiki",
@@ -494,7 +515,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aasiki"
     },
     {
       "term": "aasikiriimu",
@@ -504,7 +526,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aasikiriimu"
     },
     {
       "term": "Aawe",
@@ -515,7 +538,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aawẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aawe"
     },
     {
       "term": "aaya",
@@ -525,7 +549,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aaya"
     },
     {
       "term": "aayan",
@@ -535,7 +560,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aayan"
     },
     {
       "term": "aayo",
@@ -545,7 +571,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aayo"
     },
     {
       "term": "aba",
@@ -555,7 +582,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aba"
     },
     {
       "term": "aba-ipile",
@@ -565,7 +593,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aba-ipile"
     },
     {
       "term": "Abajo",
@@ -576,7 +605,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "abajọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abajo"
     },
     {
       "term": "abakoosi",
@@ -586,7 +616,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abakoosi"
     },
     {
       "term": "abbl.",
@@ -596,7 +627,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abbl"
     },
     {
       "term": "Abe",
@@ -607,7 +639,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abe"
     },
     {
       "term": "Abebe",
@@ -618,7 +651,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abẹbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abebe"
     },
     {
       "term": "Abeke",
@@ -629,7 +663,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abẹkẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abeke"
     },
     {
       "term": "Abela",
@@ -640,7 +675,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abẹla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abela"
     },
     {
       "term": "Abeni",
@@ -650,7 +686,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abeni"
     },
     {
       "term": "Abeokuta",
@@ -660,7 +697,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abeokuta"
     },
     {
       "term": "Abere",
@@ -671,7 +709,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abere"
     },
     {
       "term": "Abete",
@@ -682,7 +721,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abẹtẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abete"
     },
     {
       "term": "abetele",
@@ -692,7 +732,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abetele"
     },
     {
       "term": "abeti aja",
@@ -702,7 +743,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abeti-aja"
     },
     {
       "term": "abeya-kan-naa-lopo",
@@ -712,7 +754,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abeya-kan-naa-lopo"
     },
     {
       "term": "abi",
@@ -724,7 +767,8 @@ window.ISESE_DATA = {
         "tabi"
       ],
       "partOfSpeech": "conj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abi"
     },
     {
       "term": "Abi?",
@@ -734,7 +778,8 @@ window.ISESE_DATA = {
       "related": [
         "Se?"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "abi-5cykxe"
     },
     {
       "term": "abidi",
@@ -744,7 +789,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abidi"
     },
     {
       "term": "abigbeyin",
@@ -754,7 +800,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abigbeyin"
     },
     {
       "term": "Abiiko",
@@ -765,7 +812,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abiikọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abiiko"
     },
     {
       "term": "Abike",
@@ -775,7 +823,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abike"
     },
     {
       "term": "Abiku",
@@ -787,7 +836,8 @@ window.ISESE_DATA = {
         "Aye",
         "Orun"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "abiku"
     },
     {
       "term": "abileko",
@@ -797,7 +847,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abileko"
     },
     {
       "term": "Abimbola",
@@ -807,7 +858,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abimbola"
     },
     {
       "term": "Abiodun",
@@ -817,7 +869,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abiodun"
     },
     {
       "term": "abiya",
@@ -827,7 +880,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abiya"
     },
     {
       "term": "abiyamo",
@@ -837,7 +891,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abiyamo"
     },
     {
       "term": "Abiye",
@@ -848,7 +903,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abiyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abiye"
     },
     {
       "term": "abo",
@@ -858,7 +914,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abo"
     },
     {
       "term": "abobo",
@@ -868,7 +925,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abobo"
     },
     {
       "term": "Abode",
@@ -879,7 +937,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "abọde",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "abode"
     },
     {
       "term": "abogibope",
@@ -889,7 +948,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abogibope"
     },
     {
       "term": "aboorunyi",
@@ -899,7 +959,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aboorunyi"
     },
     {
       "term": "aborisa",
@@ -909,7 +970,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aborisa"
     },
     {
       "term": "aboru aboye abosise",
@@ -919,7 +981,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aboru-aboye-abosise"
     },
     {
       "term": "aboyun",
@@ -929,7 +992,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aboyun"
     },
     {
       "term": "abuda",
@@ -939,7 +1003,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abuda"
     },
     {
       "term": "Abuja",
@@ -949,7 +1014,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abuja"
     },
     {
       "term": "abuke",
@@ -959,7 +1025,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abuke"
     },
     {
       "term": "aburada",
@@ -969,7 +1036,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aburada"
     },
     {
       "term": "Aburahamu",
@@ -979,7 +1047,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aburahamu"
     },
     {
       "term": "Aburo",
@@ -989,7 +1058,8 @@ window.ISESE_DATA = {
       "related": [
         "Egbon"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "aburo"
     },
     {
       "term": "abuubutan",
@@ -999,7 +1069,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abuubutan"
     },
     {
       "term": "abuubutan abuke",
@@ -1009,7 +1080,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "abuubutan-abuke"
     },
     {
       "term": "acho",
@@ -1019,7 +1091,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "acho"
     },
     {
       "term": "ada",
@@ -1029,7 +1102,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ada"
     },
     {
       "term": "adaba",
@@ -1039,7 +1113,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adaba"
     },
     {
       "term": "adabalukofi",
@@ -1049,7 +1124,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adabalukofi"
     },
     {
       "term": "adado",
@@ -1059,7 +1135,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adado"
     },
     {
       "term": "adagba",
@@ -1069,7 +1146,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adagba"
     },
     {
       "term": "adagun",
@@ -1079,7 +1157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adagun"
     },
     {
       "term": "adahunse",
@@ -1089,7 +1168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adahunse"
     },
     {
       "term": "adan",
@@ -1099,7 +1179,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adan"
     },
     {
       "term": "adanida",
@@ -1109,7 +1190,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adanida"
     },
     {
       "term": "Ade",
@@ -1120,7 +1202,8 @@ window.ISESE_DATA = {
         "Oba",
         "Aafin"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ade"
     },
     {
       "term": "Adedire",
@@ -1130,7 +1213,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adedire"
     },
     {
       "term": "Adedure",
@@ -1140,7 +1224,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adedure"
     },
     {
       "term": "Adeike",
@@ -1151,7 +1236,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "adeikẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "adeike"
     },
     {
       "term": "adele",
@@ -1161,7 +1247,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adele"
     },
     {
       "term": "aderupoko",
@@ -1171,7 +1258,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aderupoko"
     },
     {
       "term": "Adeyemi",
@@ -1181,7 +1269,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adeyemi"
     },
     {
       "term": "Adie",
@@ -1192,7 +1281,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "adiẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "adie"
     },
     {
       "term": "adiitu",
@@ -1202,7 +1292,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adiitu"
     },
     {
       "term": "adin",
@@ -1212,7 +1303,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adin"
     },
     {
       "term": "adinumasoro",
@@ -1222,7 +1314,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adinumasoro"
     },
     {
       "term": "Adire",
@@ -1233,7 +1326,8 @@ window.ISESE_DATA = {
         "Aso oke",
         "Asa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "adire"
     },
     {
       "term": "adiresi",
@@ -1243,7 +1337,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adiresi"
     },
     {
       "term": "aditi",
@@ -1253,7 +1348,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aditi"
     },
     {
       "term": "Ado",
@@ -1263,7 +1359,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ado"
     },
     {
       "term": "Ado Ekiti",
@@ -1273,7 +1370,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ado-ekiti"
     },
     {
       "term": "Adodo",
@@ -1284,7 +1382,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "adọdọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "adodo"
     },
     {
       "term": "adogan",
@@ -1294,7 +1393,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adogan"
     },
     {
       "term": "adua",
@@ -1304,7 +1404,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adua"
     },
     {
       "term": "Adubi",
@@ -1314,7 +1415,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adubi"
     },
     {
       "term": "adugbo",
@@ -1324,7 +1426,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adugbo"
     },
     {
       "term": "adumaadan",
@@ -1334,7 +1437,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adumaadan"
     },
     {
       "term": "adun",
@@ -1344,7 +1448,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adun"
     },
     {
       "term": "adunmadeekee",
@@ -1354,7 +1459,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adunmadeekee"
     },
     {
       "term": "Adunni",
@@ -1364,7 +1470,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "adunni"
     },
     {
       "term": "Adura",
@@ -1375,7 +1482,8 @@ window.ISESE_DATA = {
         "Iwure",
         "Ase"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "adura"
     },
     {
       "term": "afadurajagun",
@@ -1385,7 +1493,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afadurajagun"
     },
     {
       "term": "afara",
@@ -1395,7 +1504,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afara"
     },
     {
       "term": "afara oyin",
@@ -1405,7 +1515,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afara-oyin"
     },
     {
       "term": "afayafa",
@@ -1415,7 +1526,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afayafa"
     },
     {
       "term": "Afeeri",
@@ -1426,7 +1538,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "afẹẹri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "afeeri"
     },
     {
       "term": "Afefe",
@@ -1437,7 +1550,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "afẹfẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "afefe"
     },
     {
       "term": "afemojumo",
@@ -1447,7 +1561,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afemojumo"
     },
     {
       "term": "aferemojo",
@@ -1459,7 +1574,8 @@ window.ISESE_DATA = {
         "afeimojo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aferemojo"
     },
     {
       "term": "afikun",
@@ -1469,7 +1585,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afikun"
     },
     {
       "term": "afinihan",
@@ -1479,7 +1596,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afinihan"
     },
     {
       "term": "afinju",
@@ -1489,7 +1607,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afinju"
     },
     {
       "term": "Afoju",
@@ -1500,7 +1619,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "afọju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "afoju"
     },
     {
       "term": "afojusun",
@@ -1510,7 +1630,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afojusun"
     },
     {
       "term": "Afomo",
@@ -1521,7 +1642,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "afomọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "afomo"
     },
     {
       "term": "afomo aarin",
@@ -1531,7 +1653,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afomo-aarin"
     },
     {
       "term": "afomo ibere",
@@ -1541,7 +1664,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afomo-ibere"
     },
     {
       "term": "afomo ipari",
@@ -1551,7 +1675,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afomo-ipari"
     },
     {
       "term": "afomolomu",
@@ -1561,7 +1686,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afomolomu"
     },
     {
       "term": "Afon",
@@ -1572,7 +1698,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "afọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "afon"
     },
     {
       "term": "afonifoji",
@@ -1582,7 +1709,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afonifoji"
     },
     {
       "term": "afopina",
@@ -1592,7 +1720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afopina"
     },
     {
       "term": "afowofa",
@@ -1602,7 +1731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afowofa"
     },
     {
       "term": "Afrika",
@@ -1614,7 +1744,8 @@ window.ISESE_DATA = {
         "Afirika"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "afrika"
     },
     {
       "term": "aga",
@@ -1624,7 +1755,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aga"
     },
     {
       "term": "agabangebe",
@@ -1636,7 +1768,8 @@ window.ISESE_DATA = {
         "agabagebe"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agabangebe"
     },
     {
       "term": "agada",
@@ -1646,7 +1779,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agada"
     },
     {
       "term": "agadagodo",
@@ -1656,7 +1790,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agadagodo"
     },
     {
       "term": "agaga",
@@ -1666,7 +1801,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agaga"
     },
     {
       "term": "agalamasa",
@@ -1679,7 +1815,8 @@ window.ISESE_DATA = {
         "akalamosa"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agalamasa"
     },
     {
       "term": "Agale",
@@ -1690,7 +1827,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agale"
     },
     {
       "term": "agan",
@@ -1700,7 +1838,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agan"
     },
     {
       "term": "Aganju",
@@ -1710,7 +1849,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aganju"
     },
     {
       "term": "aganran",
@@ -1720,7 +1860,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aganran"
     },
     {
       "term": "aganrandi",
@@ -1730,7 +1871,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aganrandi"
     },
     {
       "term": "Agba",
@@ -1742,7 +1884,8 @@ window.ISESE_DATA = {
         "Baba",
         "Iya"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "agba"
     },
     {
       "term": "Agbaakin",
@@ -1752,7 +1895,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbaakin"
     },
     {
       "term": "agbaboolu",
@@ -1762,7 +1906,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbaboolu"
     },
     {
       "term": "agbada",
@@ -1772,7 +1917,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbada"
     },
     {
       "term": "agbado",
@@ -1782,7 +1928,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbado"
     },
     {
       "term": "agbado o le ta",
@@ -1795,7 +1942,8 @@ window.ISESE_DATA = {
         "bi agbada o ba gbona"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbado-o-le-ta"
     },
     {
       "term": "agbagba",
@@ -1805,7 +1953,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbagba"
     },
     {
       "term": "Agbajo",
@@ -1816,7 +1965,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbajọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbajo"
     },
     {
       "term": "agbako",
@@ -1826,7 +1976,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbako"
     },
     {
       "term": "agbakuroju",
@@ -1836,7 +1987,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbakuroju"
     },
     {
       "term": "agbala",
@@ -1846,7 +1998,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbala"
     },
     {
       "term": "Agbale",
@@ -1857,7 +2010,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbale"
     },
     {
       "term": "agban",
@@ -1867,7 +2021,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agban"
     },
     {
       "term": "agbanilagbatan",
@@ -1877,7 +2032,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbanilagbatan"
     },
     {
       "term": "agbanrere",
@@ -1889,7 +2045,8 @@ window.ISESE_DATA = {
         "agbamurere"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbanrere"
     },
     {
       "term": "Agbara",
@@ -1900,7 +2057,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "agbara",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbara"
     },
     {
       "term": "agbara ya soobu",
@@ -1910,7 +2068,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbara-ya-soobu"
     },
     {
       "term": "agbari",
@@ -1920,7 +2079,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbari"
     },
     {
       "term": "agbawo",
@@ -1930,7 +2090,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbawo"
     },
     {
       "term": "agbaye",
@@ -1940,7 +2101,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbaye"
     },
     {
       "term": "agbayun",
@@ -1952,7 +2114,8 @@ window.ISESE_DATA = {
         "agbayunkun"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbayun"
     },
     {
       "term": "Agbe",
@@ -1962,7 +2125,8 @@ window.ISESE_DATA = {
       "related": [
         "Ogbin"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "agbe"
     },
     {
       "term": "Agbebo",
@@ -1973,7 +2137,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbebọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbebo"
     },
     {
       "term": "Agbede",
@@ -1984,7 +2149,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbẹdẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbede"
     },
     {
       "term": "Agbedo",
@@ -1995,7 +2161,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "agbẹdọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbedo"
     },
     {
       "term": "Agbedu",
@@ -2006,7 +2173,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbẹdu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbedu"
     },
     {
       "term": "agbegilere",
@@ -2016,7 +2184,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbegilere"
     },
     {
       "term": "agbejoro",
@@ -2026,7 +2195,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbejoro"
     },
     {
       "term": "agbelebuu",
@@ -2036,7 +2206,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbelebuu"
     },
     {
       "term": "agbigbo",
@@ -2046,7 +2217,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbigbo"
     },
     {
       "term": "agbinrin",
@@ -2056,7 +2228,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbinrin"
     },
     {
       "term": "Agbo",
@@ -2068,7 +2241,8 @@ window.ISESE_DATA = {
         "Iwosan",
         "Onisegun"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "agbo"
     },
     {
       "term": "Agboje",
@@ -2079,7 +2253,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbojẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agboje"
     },
     {
       "term": "Agbon",
@@ -2090,7 +2265,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agbon"
     },
     {
       "term": "Agbonniregun",
@@ -2102,7 +2278,8 @@ window.ISESE_DATA = {
         "Agbonmiregun"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbonniregun"
     },
     {
       "term": "agbonrin",
@@ -2114,7 +2291,8 @@ window.ISESE_DATA = {
         "agborin"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agbonrin"
     },
     {
       "term": "age",
@@ -2124,7 +2302,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "age"
     },
     {
       "term": "Agemo",
@@ -2135,7 +2314,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agẹmọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agemo"
     },
     {
       "term": "Agere",
@@ -2146,7 +2326,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "agere"
     },
     {
       "term": "Agere Ifa",
@@ -2158,7 +2339,8 @@ window.ISESE_DATA = {
         "Ifa",
         "Opon Ifa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "agere-ifa"
     },
     {
       "term": "aghan",
@@ -2168,7 +2350,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aghan"
     },
     {
       "term": "agho",
@@ -2178,7 +2361,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agho"
     },
     {
       "term": "aghofen",
@@ -2188,7 +2372,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aghofen"
     },
     {
       "term": "agidi",
@@ -2198,7 +2383,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agidi"
     },
     {
       "term": "agidigbo",
@@ -2208,7 +2394,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agidigbo"
     },
     {
       "term": "agiliti",
@@ -2220,7 +2407,8 @@ window.ISESE_DATA = {
         "agilinti"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agiliti"
     },
     {
       "term": "agira",
@@ -2230,7 +2418,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agira"
     },
     {
       "term": "agiriiki",
@@ -2240,7 +2429,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agiriiki"
     },
     {
       "term": "Ago",
@@ -2251,7 +2441,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ago"
     },
     {
       "term": "ago!",
@@ -2263,7 +2454,8 @@ window.ISESE_DATA = {
         "ago"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ago-1r86a3"
     },
     {
       "term": "agodongbo",
@@ -2273,7 +2465,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agodongbo"
     },
     {
       "term": "agogo",
@@ -2285,7 +2478,8 @@ window.ISESE_DATA = {
         "aago"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agogo"
     },
     {
       "term": "Aguala",
@@ -2295,7 +2489,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aguala"
     },
     {
       "term": "Aguda",
@@ -2305,7 +2500,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aguda"
     },
     {
       "term": "agunfon",
@@ -2315,7 +2511,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agunfon"
     },
     {
       "term": "aguntan",
@@ -2327,7 +2524,8 @@ window.ISESE_DATA = {
         "agutan"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aguntan"
     },
     {
       "term": "Agura",
@@ -2337,7 +2535,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "agura"
     },
     {
       "term": "aguten",
@@ -2347,7 +2546,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aguten"
     },
     {
       "term": "Aguton",
@@ -2358,7 +2558,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "agụtọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aguton"
     },
     {
       "term": "aha",
@@ -2368,7 +2569,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aha"
     },
     {
       "term": "ahaya",
@@ -2378,7 +2580,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ahaya"
     },
     {
       "term": "ahaya ibon",
@@ -2388,7 +2591,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ahaya-ibon"
     },
     {
       "term": "Ahon",
@@ -2399,7 +2603,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ahọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ahon"
     },
     {
       "term": "ahun",
@@ -2409,7 +2614,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ahun"
     },
     {
       "term": "Ahunso",
@@ -2420,7 +2626,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ahunṣọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ahunso"
     },
     {
       "term": "aibikita",
@@ -2430,7 +2637,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aibikita"
     },
     {
       "term": "aifo",
@@ -2440,7 +2648,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aifo"
     },
     {
       "term": "Aigbagbo",
@@ -2451,7 +2660,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aigbagbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aigbagbo"
     },
     {
       "term": "aigbe",
@@ -2461,7 +2671,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aigbe"
     },
     {
       "term": "aika",
@@ -2471,7 +2682,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aika"
     },
     {
       "term": "ainiteelorun",
@@ -2481,7 +2693,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ainiteelorun"
     },
     {
       "term": "ainon",
@@ -2491,7 +2704,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ainon"
     },
     {
       "term": "aio",
@@ -2501,7 +2715,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aio"
     },
     {
       "term": "airigbeeya",
@@ -2511,7 +2726,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "airigbeeya"
     },
     {
       "term": "airilegbe",
@@ -2521,7 +2737,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "airilegbe"
     },
     {
       "term": "airisese",
@@ -2531,7 +2748,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "airisese"
     },
     {
       "term": "airo",
@@ -2541,7 +2759,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "airo"
     },
     {
       "term": "airomobi",
@@ -2551,7 +2770,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "airomobi"
     },
     {
       "term": "airoorunsun",
@@ -2561,7 +2781,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "airoorunsun"
     },
     {
       "term": "aisan",
@@ -2571,7 +2792,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aisan"
     },
     {
       "term": "Aisaya",
@@ -2581,7 +2803,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aisaya"
     },
     {
       "term": "aisi-nle ekun, aja n gbo",
@@ -2594,7 +2817,8 @@ window.ISESE_DATA = {
         "aja n gbo"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aisi-nle-ekun-aja-n-gbo"
     },
     {
       "term": "aisikiriimu",
@@ -2604,7 +2828,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aisikiriimu"
     },
     {
       "term": "aiye",
@@ -2616,7 +2841,8 @@ window.ISESE_DATA = {
         "aye"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aiye"
     },
     {
       "term": "aja",
@@ -2626,7 +2852,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aja"
     },
     {
       "term": "aja ki i roro ko so ojule meji",
@@ -2636,7 +2863,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aja-ki-i-roro-ko-so-ojule-meji"
     },
     {
       "term": "aja osupa",
@@ -2646,7 +2874,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aja-osupa"
     },
     {
       "term": "ajaga",
@@ -2656,7 +2885,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajaga"
     },
     {
       "term": "Ajaja",
@@ -2666,7 +2896,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajaja"
     },
     {
       "term": "ajako",
@@ -2676,7 +2907,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajako"
     },
     {
       "term": "Ajala",
@@ -2686,7 +2918,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajala"
     },
     {
       "term": "Ajalemogun",
@@ -2696,7 +2929,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajalemogun"
     },
     {
       "term": "Ajalorun",
@@ -2706,7 +2940,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajalorun"
     },
     {
       "term": "ajanaka",
@@ -2716,7 +2951,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajanaka"
     },
     {
       "term": "ajanaku",
@@ -2726,7 +2962,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajanaku"
     },
     {
       "term": "ajao",
@@ -2736,7 +2973,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajao"
     },
     {
       "term": "Ajapada",
@@ -2746,7 +2984,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajapada"
     },
     {
       "term": "Ajari",
@@ -2756,7 +2995,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajari"
     },
     {
       "term": "Ajase",
@@ -2766,7 +3006,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajase"
     },
     {
       "term": "Ajayi",
@@ -2776,7 +3017,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajayi"
     },
     {
       "term": "Aje",
@@ -2788,7 +3030,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "aje"
     },
     {
       "term": "ajebo",
@@ -2798,7 +3041,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajebo"
     },
     {
       "term": "ajebota",
@@ -2808,7 +3052,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajebota"
     },
     {
       "term": "Ajebu",
@@ -2819,7 +3064,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajẹbu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajebu"
     },
     {
       "term": "ajeji",
@@ -2829,7 +3075,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajeji"
     },
     {
       "term": "Ajeku",
@@ -2840,7 +3087,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajẹku",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajeku"
     },
     {
       "term": "Ajele",
@@ -2851,7 +3099,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajẹlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajele"
     },
     {
       "term": "Ajentina",
@@ -2861,7 +3110,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajentina"
     },
     {
       "term": "ajepako",
@@ -2871,7 +3121,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajepako"
     },
     {
       "term": "ajereke",
@@ -2881,7 +3132,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajereke"
     },
     {
       "term": "Ajero",
@@ -2891,7 +3143,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajero"
     },
     {
       "term": "ajibete",
@@ -2901,7 +3154,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajibete"
     },
     {
       "term": "ajijen",
@@ -2911,7 +3165,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajijen"
     },
     {
       "term": "Ajike",
@@ -2921,7 +3176,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajike"
     },
     {
       "term": "Ajile",
@@ -2932,7 +3188,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajilẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajile"
     },
     {
       "term": "ajimefun",
@@ -2942,7 +3199,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajimefun"
     },
     {
       "term": "ajinjin",
@@ -2952,7 +3210,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajinjin"
     },
     {
       "term": "Ajo",
@@ -2963,7 +3222,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajo"
     },
     {
       "term": "Ajode",
@@ -2974,7 +3234,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọdẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajode"
     },
     {
       "term": "Ajodi",
@@ -2985,7 +3246,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọdi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajodi"
     },
     {
       "term": "Ajodun",
@@ -2996,7 +3258,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọdun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajodun"
     },
     {
       "term": "Ajogun",
@@ -3006,7 +3269,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajogun"
     },
     {
       "term": "Ajoke",
@@ -3016,7 +3280,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajoke"
     },
     {
       "term": "ajola",
@@ -3026,7 +3291,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajola"
     },
     {
       "term": "Ajorin",
@@ -3037,7 +3303,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọrin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajorin"
     },
     {
       "term": "ajosepo",
@@ -3047,7 +3314,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajosepo"
     },
     {
       "term": "Ajoso",
@@ -3058,7 +3326,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọsọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajoso"
     },
     {
       "term": "Ajoyo",
@@ -3069,7 +3338,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ajọyọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ajoyo"
     },
     {
       "term": "ajule orun",
@@ -3079,7 +3349,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ajule-orun"
     },
     {
       "term": "aka",
@@ -3089,7 +3360,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aka"
     },
     {
       "term": "aka-oro",
@@ -3099,7 +3371,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aka-oro"
     },
     {
       "term": "akaa",
@@ -3109,7 +3382,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akaa"
     },
     {
       "term": "akaba",
@@ -3119,7 +3393,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akaba"
     },
     {
       "term": "akaka",
@@ -3129,7 +3404,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akaka"
     },
     {
       "term": "akala",
@@ -3139,7 +3415,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akala"
     },
     {
       "term": "Akamara",
@@ -3149,7 +3426,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akamara"
     },
     {
       "term": "akan",
@@ -3159,7 +3437,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akan"
     },
     {
       "term": "Akanke",
@@ -3169,7 +3448,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akanke"
     },
     {
       "term": "akanlo ede",
@@ -3179,7 +3459,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akanlo-ede"
     },
     {
       "term": "akara",
@@ -3189,7 +3470,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akara"
     },
     {
       "term": "akara oyinbo",
@@ -3199,7 +3481,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akara-oyinbo"
     },
     {
       "term": "Akarigbo",
@@ -3209,7 +3492,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akarigbo"
     },
     {
       "term": "Akaso",
@@ -3220,7 +3504,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akasọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akaso"
     },
     {
       "term": "akata",
@@ -3230,7 +3515,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akata"
     },
     {
       "term": "akatanpo",
@@ -3240,7 +3526,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akatanpo"
     },
     {
       "term": "akaye",
@@ -3250,7 +3537,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akaye"
     },
     {
       "term": "Ake",
@@ -3261,7 +3549,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ake"
     },
     {
       "term": "akeekee",
@@ -3271,7 +3560,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akeekee"
     },
     {
       "term": "akeke",
@@ -3281,7 +3571,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akeke"
     },
     {
       "term": "Akekoo",
@@ -3292,7 +3583,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akẹkọọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akekoo"
     },
     {
       "term": "Akeku",
@@ -3303,7 +3595,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akẹku",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akeku"
     },
     {
       "term": "Aken",
@@ -3314,7 +3607,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aken"
     },
     {
       "term": "akere",
@@ -3324,7 +3618,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akere"
     },
     {
       "term": "Akete",
@@ -3335,7 +3630,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akẹtẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akete"
     },
     {
       "term": "Akewi",
@@ -3346,7 +3642,8 @@ window.ISESE_DATA = {
         "Oriki",
         "Owe"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "akewi"
     },
     {
       "term": "akiika!",
@@ -3358,7 +3655,8 @@ window.ISESE_DATA = {
         "akiika"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akiika"
     },
     {
       "term": "akika",
@@ -3368,7 +3666,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akika"
     },
     {
       "term": "akikaragba",
@@ -3378,7 +3677,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akikaragba"
     },
     {
       "term": "akike",
@@ -3388,7 +3688,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akike"
     },
     {
       "term": "akin",
@@ -3398,7 +3699,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akin"
     },
     {
       "term": "Akiniku",
@@ -3408,7 +3710,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akiniku"
     },
     {
       "term": "Akinkanju",
@@ -3418,7 +3721,8 @@ window.ISESE_DATA = {
       "related": [
         "Oriki"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "akinkanju"
     },
     {
       "term": "Akire",
@@ -3428,7 +3732,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akire"
     },
     {
       "term": "Akirun",
@@ -3438,7 +3743,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akirun"
     },
     {
       "term": "akiteso",
@@ -3448,7 +3754,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akiteso"
     },
     {
       "term": "Ako",
@@ -3459,7 +3766,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ako"
     },
     {
       "term": "ako efu",
@@ -3469,7 +3777,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ako-efu"
     },
     {
       "term": "akoba",
@@ -3479,7 +3788,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akoba"
     },
     {
       "term": "Akobi",
@@ -3490,7 +3800,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akọbi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akobi"
     },
     {
       "term": "akobuloogu",
@@ -3500,7 +3811,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akobuloogu"
     },
     {
       "term": "akogirisi",
@@ -3510,7 +3822,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akogirisi"
     },
     {
       "term": "Akoigba",
@@ -3521,7 +3834,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akọigba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akoigba"
     },
     {
       "term": "Akojo",
@@ -3532,7 +3846,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akojọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akojo"
     },
     {
       "term": "akojo oruko-iwe",
@@ -3542,7 +3857,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akojo-oruko-iwe"
     },
     {
       "term": "Akoko",
@@ -3552,7 +3868,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akoko"
     },
     {
       "term": "akoleta",
@@ -3562,7 +3879,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akoleta"
     },
     {
       "term": "Akoni",
@@ -3573,7 +3891,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akọni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akoni"
     },
     {
       "term": "Akoole",
@@ -3584,7 +3903,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akọọlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akoole"
     },
     {
       "term": "akoro",
@@ -3594,7 +3914,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akoro"
     },
     {
       "term": "Akose",
@@ -3605,7 +3926,8 @@ window.ISESE_DATA = {
         "Oogun",
         "Ewe"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "akose"
     },
     {
       "term": "Akosejaye",
@@ -3615,7 +3937,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akosejaye"
     },
     {
       "term": "Akoto",
@@ -3626,7 +3949,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akọtọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akoto"
     },
     {
       "term": "Akuko",
@@ -3637,7 +3961,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akukọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akuko"
     },
     {
       "term": "Akunlegba",
@@ -3649,7 +3974,8 @@ window.ISESE_DATA = {
         "Ori",
         "Akunleyan"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "akunlegba"
     },
     {
       "term": "Akunlepin",
@@ -3661,7 +3987,8 @@ window.ISESE_DATA = {
         "Ipin",
         "Ori"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "akunlepin"
     },
     {
       "term": "Akunleyan",
@@ -3674,7 +4001,8 @@ window.ISESE_DATA = {
         "Akunlegba",
         "Akunlepin"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "akunleyan"
     },
     {
       "term": "akunwosile",
@@ -3684,7 +4012,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akunwosile"
     },
     {
       "term": "akunyungba",
@@ -3694,7 +4023,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akunyungba"
     },
     {
       "term": "Akure",
@@ -3704,7 +4034,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akure"
     },
     {
       "term": "Akuro",
@@ -3715,7 +4046,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akurọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akuro"
     },
     {
       "term": "akurun",
@@ -3725,7 +4057,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "akurun"
     },
     {
       "term": "Akusee",
@@ -3736,7 +4069,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "akuṣẹẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "akusee"
     },
     {
       "term": "ala",
@@ -3746,7 +4080,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ala"
     },
     {
       "term": "alaaanu",
@@ -3756,7 +4091,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaaanu"
     },
     {
       "term": "Alaadi",
@@ -3766,7 +4102,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaadi"
     },
     {
       "term": "Alaafia",
@@ -3777,7 +4114,8 @@ window.ISESE_DATA = {
         "Ibukun",
         "Iwure"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "alaafia"
     },
     {
       "term": "Alaafin",
@@ -3789,7 +4127,8 @@ window.ISESE_DATA = {
         "Aafin",
         "Oyo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "alaafin"
     },
     {
       "term": "Alaale",
@@ -3800,7 +4139,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "alaalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "alaale"
     },
     {
       "term": "alaamu",
@@ -3810,7 +4150,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaamu"
     },
     {
       "term": "Alaaye",
@@ -3820,7 +4161,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaaye"
     },
     {
       "term": "Alaba",
@@ -3830,7 +4172,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaba"
     },
     {
       "term": "alabaasisepo",
@@ -3840,7 +4183,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alabaasisepo"
     },
     {
       "term": "alabasta",
@@ -3852,7 +4196,8 @@ window.ISESE_DATA = {
         "alabasita"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alabasta"
     },
     {
       "term": "Alabi",
@@ -3862,7 +4207,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alabi"
     },
     {
       "term": "alade",
@@ -3872,7 +4218,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alade"
     },
     {
       "term": "aladije",
@@ -3882,7 +4229,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aladije"
     },
     {
       "term": "aladuugbo",
@@ -3892,7 +4240,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aladuugbo"
     },
     {
       "term": "alagabagebe",
@@ -3902,7 +4251,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagabagebe"
     },
     {
       "term": "alagabangebe",
@@ -3912,7 +4262,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagabangebe"
     },
     {
       "term": "alagba",
@@ -3922,7 +4273,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagba"
     },
     {
       "term": "alagbada ina",
@@ -3932,7 +4284,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagbada-ina"
     },
     {
       "term": "Alagbede",
@@ -3943,7 +4296,8 @@ window.ISESE_DATA = {
         "Ogun",
         "Iron"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "alagbede"
     },
     {
       "term": "alagbeeka",
@@ -3953,7 +4307,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagbeeka"
     },
     {
       "term": "alageere",
@@ -3963,7 +4318,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alageere"
     },
     {
       "term": "alagidi",
@@ -3973,7 +4329,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagidi"
     },
     {
       "term": "alagoogo",
@@ -3983,7 +4340,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alagoogo"
     },
     {
       "term": "alailowaya",
@@ -3993,7 +4351,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alailowaya"
     },
     {
       "term": "alaini",
@@ -4003,7 +4362,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaini"
     },
     {
       "term": "alakalaa",
@@ -4013,7 +4373,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alakalaa"
     },
     {
       "term": "alakara",
@@ -4023,7 +4384,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alakara"
     },
     {
       "term": "Alake",
@@ -4033,7 +4395,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alake"
     },
     {
       "term": "Alaketu",
@@ -4043,7 +4406,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaketu"
     },
     {
       "term": "alakooso ile-ikawe ile-iwe",
@@ -4053,7 +4417,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alakooso-ile-ikawe-ile-iwe"
     },
     {
       "term": "Alale",
@@ -4064,7 +4429,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "alalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "alale"
     },
     {
       "term": "alalupayida",
@@ -4074,7 +4440,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alalupayida"
     },
     {
       "term": "Alamisi",
@@ -4084,7 +4451,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alamisi"
     },
     {
       "term": "Alamo",
@@ -4095,7 +4463,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "alamọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "alamo"
     },
     {
       "term": "alangba",
@@ -4105,7 +4474,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alangba"
     },
     {
       "term": "alantakun",
@@ -4115,7 +4485,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alantakun"
     },
     {
       "term": "alapaandede",
@@ -4125,7 +4496,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alapaandede"
     },
     {
       "term": "alapaandede-pupa",
@@ -4135,7 +4507,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alapaandede-pupa"
     },
     {
       "term": "Alapinni",
@@ -4145,7 +4518,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alapinni"
     },
     {
       "term": "Alara",
@@ -4155,7 +4529,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alara"
     },
     {
       "term": "alarabara",
@@ -4165,7 +4540,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alarabara"
     },
     {
       "term": "Alaruba",
@@ -4175,7 +4551,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaruba"
     },
     {
       "term": "alase",
@@ -4185,7 +4562,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alase"
     },
     {
       "term": "alasere",
@@ -4195,7 +4573,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alasere"
     },
     {
       "term": "alatagba",
@@ -4205,7 +4584,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alatagba"
     },
     {
       "term": "alawada",
@@ -4215,7 +4595,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alawada"
     },
     {
       "term": "Alaye",
@@ -4225,7 +4606,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alaye"
     },
     {
       "term": "Ale",
@@ -4236,7 +4618,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ale",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ale"
     },
     {
       "term": "Alede",
@@ -4247,7 +4630,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "alẹde",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "alede"
     },
     {
       "term": "aleebu",
@@ -4257,7 +4641,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aleebu"
     },
     {
       "term": "aleebu ara",
@@ -4267,7 +4652,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aleebu-ara"
     },
     {
       "term": "aleefa",
@@ -4277,7 +4663,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aleefa"
     },
     {
       "term": "alegba",
@@ -4287,7 +4674,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alegba"
     },
     {
       "term": "alegun",
@@ -4297,7 +4685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alegun"
     },
     {
       "term": "alejo",
@@ -4307,7 +4696,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alejo"
     },
     {
       "term": "alepa",
@@ -4317,7 +4707,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alepa"
     },
     {
       "term": "Alepata",
@@ -4327,7 +4718,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alepata"
     },
     {
       "term": "Alibenia",
@@ -4337,7 +4729,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alibenia"
     },
     {
       "term": "alifabeeti",
@@ -4347,7 +4740,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alifabeeti"
     },
     {
       "term": "alikama",
@@ -4357,7 +4751,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alikama"
     },
     {
       "term": "alimoyi",
@@ -4367,7 +4762,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alimoyi"
     },
     {
       "term": "Alo",
@@ -4378,7 +4774,8 @@ window.ISESE_DATA = {
         "Owe",
         "Asa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "alo"
     },
     {
       "term": "aloe",
@@ -4388,7 +4785,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aloe"
     },
     {
       "term": "aloju",
@@ -4398,7 +4796,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aloju"
     },
     {
       "term": "aloku",
@@ -4408,7 +4807,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aloku"
     },
     {
       "term": "alubarika",
@@ -4418,7 +4818,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alubarika"
     },
     {
       "term": "alubasa",
@@ -4428,7 +4829,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alubasa"
     },
     {
       "term": "alubosa",
@@ -4438,7 +4840,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alubosa"
     },
     {
       "term": "alufaa",
@@ -4448,7 +4851,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alufaa"
     },
     {
       "term": "alugbagba",
@@ -4458,7 +4862,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alugbagba"
     },
     {
       "term": "alujonnu",
@@ -4468,7 +4873,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alujonnu"
     },
     {
       "term": "alukawani",
@@ -4478,7 +4884,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alukawani"
     },
     {
       "term": "alukenbu",
@@ -4488,7 +4895,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alukenbu"
     },
     {
       "term": "alukiamo",
@@ -4498,7 +4906,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alukiamo"
     },
     {
       "term": "aluko",
@@ -4508,7 +4917,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aluko"
     },
     {
       "term": "alumogaji",
@@ -4518,7 +4928,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alumogaji"
     },
     {
       "term": "alumokoroyi",
@@ -4528,7 +4939,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alumokoroyi"
     },
     {
       "term": "alumoni",
@@ -4538,7 +4950,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alumoni"
     },
     {
       "term": "alupayida",
@@ -4548,7 +4961,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alupayida"
     },
     {
       "term": "alupipi",
@@ -4558,7 +4972,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alupipi"
     },
     {
       "term": "alupupu",
@@ -4568,7 +4983,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "alupupu"
     },
     {
       "term": "aluwala",
@@ -4578,7 +4994,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aluwala"
     },
     {
       "term": "amala",
@@ -4588,7 +5005,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amala"
     },
     {
       "term": "Amawomaro",
@@ -4598,7 +5016,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amawomaro"
     },
     {
       "term": "Amenia",
@@ -4608,7 +5027,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amenia"
     },
     {
       "term": "Amerika",
@@ -4618,7 +5038,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amerika"
     },
     {
       "term": "ami faagun",
@@ -4628,7 +5049,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-faagun"
     },
     {
       "term": "ami ohun",
@@ -4638,7 +5060,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-ohun"
     },
     {
       "term": "ami ohun aarin",
@@ -4648,7 +5071,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-ohun-aarin"
     },
     {
       "term": "ami ohun eleyoorodo",
@@ -4658,7 +5082,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-ohun-eleyoorodo"
     },
     {
       "term": "ami ohun eleyooroke",
@@ -4668,7 +5093,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-ohun-eleyooroke"
     },
     {
       "term": "ami ohun isale",
@@ -4678,7 +5104,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-ohun-isale"
     },
     {
       "term": "ami ohun oke",
@@ -4688,7 +5115,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ami-ohun-oke"
     },
     {
       "term": "Amo",
@@ -4699,7 +5127,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "amọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "amo"
     },
     {
       "term": "amodi",
@@ -4709,7 +5138,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amodi"
     },
     {
       "term": "amojuto ile-ikawe",
@@ -4719,7 +5149,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amojuto-ile-ikawe"
     },
     {
       "term": "amotekun",
@@ -4729,7 +5160,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amotekun"
     },
     {
       "term": "amuga",
@@ -4739,7 +5171,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amuga"
     },
     {
       "term": "amuku",
@@ -4749,7 +5182,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amuku"
     },
     {
       "term": "amulu",
@@ -4759,7 +5193,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amulu"
     },
     {
       "term": "amunisin",
@@ -4769,7 +5204,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amunisin"
     },
     {
       "term": "amure",
@@ -4779,7 +5215,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "amure"
     },
     {
       "term": "an",
@@ -4789,7 +5226,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "an"
     },
     {
       "term": "Ana",
@@ -4800,7 +5238,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ana",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ana"
     },
     {
       "term": "anabi",
@@ -4810,7 +5249,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anabi"
     },
     {
       "term": "Anago",
@@ -4820,7 +5260,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anago"
     },
     {
       "term": "Anamo",
@@ -4831,7 +5272,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "anamọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "anamo"
     },
     {
       "term": "Andora",
@@ -4841,7 +5283,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "andora"
     },
     {
       "term": "anfaani",
@@ -4851,7 +5294,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anfaani"
     },
     {
       "term": "Angola",
@@ -4861,7 +5305,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "angola"
     },
     {
       "term": "ani-ani",
@@ -4873,7 +5318,8 @@ window.ISESE_DATA = {
         "aniani"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ani-ani"
     },
     {
       "term": "anikangbiju",
@@ -4883,7 +5329,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anikangbiju"
     },
     {
       "term": "Anike",
@@ -4893,7 +5340,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anike"
     },
     {
       "term": "aniyan",
@@ -4903,7 +5351,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aniyan"
     },
     {
       "term": "ankali",
@@ -4913,7 +5362,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ankali"
     },
     {
       "term": "ankuri",
@@ -4923,7 +5373,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ankuri"
     },
     {
       "term": "Anlugbua",
@@ -4933,7 +5384,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anlugbua"
     },
     {
       "term": "anti",
@@ -4943,7 +5395,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anti"
     },
     {
       "term": "Anupe",
@@ -4953,7 +5406,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "anupe"
     },
     {
       "term": "Ao",
@@ -4963,7 +5417,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ao"
     },
     {
       "term": "Aofin",
@@ -4974,7 +5429,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aọfịn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aofin"
     },
     {
       "term": "aogo",
@@ -4984,7 +5440,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aogo"
     },
     {
       "term": "aon",
@@ -4994,7 +5451,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aon"
     },
     {
       "term": "apa",
@@ -5004,7 +5462,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apa"
     },
     {
       "term": "apaadi",
@@ -5014,7 +5473,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apaadi"
     },
     {
       "term": "apala",
@@ -5024,7 +5484,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apala"
     },
     {
       "term": "apari",
@@ -5034,7 +5495,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apari"
     },
     {
       "term": "aparo",
@@ -5044,7 +5506,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aparo"
     },
     {
       "term": "apatamaja",
@@ -5054,7 +5517,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apatamaja"
     },
     {
       "term": "apeere",
@@ -5064,7 +5528,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apeere"
     },
     {
       "term": "Apeja",
@@ -5075,7 +5540,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "apẹja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "apeja"
     },
     {
       "term": "Apeje",
@@ -5086,7 +5552,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "apejẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "apeje"
     },
     {
       "term": "Apeke",
@@ -5096,7 +5563,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apeke"
     },
     {
       "term": "Apere",
@@ -5107,7 +5575,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "apẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "apere"
     },
     {
       "term": "Apetebi",
@@ -5117,7 +5586,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apetebi"
     },
     {
       "term": "Apetumodu",
@@ -5127,7 +5597,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apetumodu"
     },
     {
       "term": "apetunpe",
@@ -5137,7 +5608,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apetunpe"
     },
     {
       "term": "apiiri",
@@ -5147,7 +5619,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apiiri"
     },
     {
       "term": "apileko",
@@ -5157,7 +5630,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apileko"
     },
     {
       "term": "apo",
@@ -5167,7 +5641,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apo"
     },
     {
       "term": "apo orooro",
@@ -5177,7 +5652,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apo-orooro"
     },
     {
       "term": "apola",
@@ -5187,7 +5663,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apola"
     },
     {
       "term": "Apon",
@@ -5198,7 +5675,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "apọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "apon"
     },
     {
       "term": "Aponle",
@@ -5209,7 +5687,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "apọnle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aponle"
     },
     {
       "term": "apoowe",
@@ -5219,7 +5698,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apoowe"
     },
     {
       "term": "apopona",
@@ -5229,7 +5709,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apopona"
     },
     {
       "term": "apoporo",
@@ -5239,7 +5720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apoporo"
     },
     {
       "term": "aporo",
@@ -5249,7 +5731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aporo"
     },
     {
       "term": "apoti",
@@ -5259,7 +5742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "apoti"
     },
     {
       "term": "Apoto",
@@ -5270,7 +5754,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "apotọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "apoto"
     },
     {
       "term": "ara",
@@ -5280,7 +5765,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ara"
     },
     {
       "term": "araalu",
@@ -5290,7 +5776,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "araalu"
     },
     {
       "term": "Araaro",
@@ -5301,7 +5788,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "araarọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "araaro"
     },
     {
       "term": "araba",
@@ -5311,7 +5799,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "araba"
     },
     {
       "term": "aragbayamuya",
@@ -5321,7 +5810,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aragbayamuya"
     },
     {
       "term": "Aragberi",
@@ -5331,7 +5821,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aragberi"
     },
     {
       "term": "Aragbiji",
@@ -5341,7 +5832,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aragbiji"
     },
     {
       "term": "aran",
@@ -5351,7 +5843,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aran"
     },
     {
       "term": "Aranso",
@@ -5362,7 +5855,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aranṣọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aranso"
     },
     {
       "term": "Aremo",
@@ -5373,7 +5867,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "arẹmọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aremo"
     },
     {
       "term": "arere",
@@ -5383,7 +5878,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arere"
     },
     {
       "term": "aridunnu",
@@ -5393,7 +5889,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aridunnu"
     },
     {
       "term": "arifin",
@@ -5403,7 +5900,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arifin"
     },
     {
       "term": "Arike",
@@ -5413,7 +5911,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arike"
     },
     {
       "term": "Aringiya",
@@ -5423,7 +5922,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aringiya"
     },
     {
       "term": "arinurode",
@@ -5433,7 +5933,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arinurode"
     },
     {
       "term": "ariro",
@@ -5443,7 +5944,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ariro"
     },
     {
       "term": "ariwa",
@@ -5453,7 +5955,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ariwa"
     },
     {
       "term": "ariwo",
@@ -5463,7 +5966,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ariwo"
     },
     {
       "term": "ariya",
@@ -5473,7 +5977,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ariya"
     },
     {
       "term": "Aro",
@@ -5484,7 +5989,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "arọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aro"
     },
     {
       "term": "arobo",
@@ -5494,7 +6000,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arobo"
     },
     {
       "term": "Aroko",
@@ -5505,7 +6012,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "arokọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aroko"
     },
     {
       "term": "aromodomo",
@@ -5515,7 +6023,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aromodomo"
     },
     {
       "term": "Aron",
@@ -5526,7 +6035,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "arọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aron"
     },
     {
       "term": "Aroni",
@@ -5537,7 +6047,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "arọni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aroni"
     },
     {
       "term": "arooroda",
@@ -5547,7 +6058,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arooroda"
     },
     {
       "term": "arugbo",
@@ -5557,7 +6069,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arugbo"
     },
     {
       "term": "Arugbon",
@@ -5568,7 +6081,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "arugbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "arugbon"
     },
     {
       "term": "arun",
@@ -5578,7 +6092,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun"
     },
     {
       "term": "arun abegeeja",
@@ -5588,7 +6103,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-abegeeja"
     },
     {
       "term": "arun amo",
@@ -5598,7 +6114,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-amo"
     },
     {
       "term": "arun awu",
@@ -5608,7 +6125,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-awu"
     },
     {
       "term": "arun gaga",
@@ -5618,7 +6136,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-gaga"
     },
     {
       "term": "arun gbajumo",
@@ -5628,7 +6147,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-gbajumo"
     },
     {
       "term": "arun jakute",
@@ -5638,7 +6158,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-jakute"
     },
     {
       "term": "arun kogboogun",
@@ -5648,7 +6169,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-kogboogun"
     },
     {
       "term": "arun korikori",
@@ -5658,7 +6180,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-korikori"
     },
     {
       "term": "arun medowu",
@@ -5668,7 +6191,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-medowu"
     },
     {
       "term": "arun romolaparomolese",
@@ -5678,7 +6202,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-romolaparomolese"
     },
     {
       "term": "arun sun-unrun-sun-unrun",
@@ -5688,7 +6213,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arun-sun-unrun-sun-unrun"
     },
     {
       "term": "arundinlaaadota",
@@ -5698,7 +6224,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arundinlaaadota"
     },
     {
       "term": "arundinlogbon",
@@ -5708,7 +6235,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arundinlogbon"
     },
     {
       "term": "arundinlogoji",
@@ -5718,7 +6246,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arundinlogoji"
     },
     {
       "term": "arundinlogota",
@@ -5728,7 +6257,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arundinlogota"
     },
     {
       "term": "arundinlogun",
@@ -5738,7 +6268,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arundinlogun"
     },
     {
       "term": "arungbo",
@@ -5748,7 +6279,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "arungbo"
     },
     {
       "term": "Asa",
@@ -5760,7 +6292,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "asa"
     },
     {
       "term": "Asabuta",
@@ -5770,7 +6303,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asabuta"
     },
     {
       "term": "Asadi",
@@ -5781,7 +6315,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣadi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asadi"
     },
     {
       "term": "Asake",
@@ -5791,7 +6326,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asake"
     },
     {
       "term": "Asale",
@@ -5802,7 +6338,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asale"
     },
     {
       "term": "Asamu",
@@ -5812,7 +6349,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asamu"
     },
     {
       "term": "asanwewe",
@@ -5822,7 +6360,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asanwewe"
     },
     {
       "term": "Asaro",
@@ -5833,7 +6372,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣaro",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asaro"
     },
     {
       "term": "Ase",
@@ -5845,7 +6385,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ase"
     },
     {
       "term": "asegbefabo",
@@ -5855,7 +6396,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asegbefabo"
     },
     {
       "term": "asen",
@@ -5865,7 +6407,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asen"
     },
     {
       "term": "Asese",
@@ -5876,7 +6419,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣẹṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asese"
     },
     {
       "term": "Asewo",
@@ -5887,7 +6431,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣẹwo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asewo"
     },
     {
       "term": "Aseyin",
@@ -5897,7 +6442,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aseyin"
     },
     {
       "term": "asia",
@@ -5907,7 +6453,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asia"
     },
     {
       "term": "Asigba",
@@ -5918,7 +6465,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣigba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asigba"
     },
     {
       "term": "Asigbe",
@@ -5929,7 +6477,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣigbe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asigbe"
     },
     {
       "term": "asin",
@@ -5939,7 +6488,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asin"
     },
     {
       "term": "Asipa",
@@ -5949,7 +6499,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asipa"
     },
     {
       "term": "Asiri",
@@ -5960,7 +6511,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣiri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asiri"
     },
     {
       "term": "Asiwaju",
@@ -5970,7 +6522,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asiwaju"
     },
     {
       "term": "Aso",
@@ -5981,7 +6534,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "aso",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "aso"
     },
     {
       "term": "aso ofi",
@@ -5991,7 +6545,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aso-ofi"
     },
     {
       "term": "Aso oke",
@@ -6002,7 +6557,8 @@ window.ISESE_DATA = {
         "Adire",
         "Gele"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "aso-oke"
     },
     {
       "term": "aso-ebi",
@@ -6012,7 +6568,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aso-ebi"
     },
     {
       "term": "Asole",
@@ -6023,7 +6580,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "aṣọle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asole"
     },
     {
       "term": "Asoso",
@@ -6034,7 +6592,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "asọsọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "asoso"
     },
     {
       "term": "asun",
@@ -6044,7 +6603,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asun"
     },
     {
       "term": "asunta",
@@ -6054,7 +6614,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "asunta"
     },
     {
       "term": "ata",
@@ -6064,7 +6625,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ata"
     },
     {
       "term": "ata tatase",
@@ -6074,7 +6636,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ata-tatase"
     },
     {
       "term": "ataare",
@@ -6084,7 +6647,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ataare"
     },
     {
       "term": "ataju",
@@ -6094,7 +6658,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ataju"
     },
     {
       "term": "Atalaata",
@@ -6104,7 +6669,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atalaata"
     },
     {
       "term": "Atale",
@@ -6115,7 +6681,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atale"
     },
     {
       "term": "atamatase",
@@ -6125,7 +6692,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atamatase"
     },
     {
       "term": "Atanda",
@@ -6135,7 +6703,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atanda"
     },
     {
       "term": "atannigbonnini",
@@ -6145,7 +6714,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atannigbonnini"
     },
     {
       "term": "atanpako",
@@ -6157,7 +6727,8 @@ window.ISESE_DATA = {
         "atampako"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atanpako"
     },
     {
       "term": "Ataoja",
@@ -6167,7 +6738,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ataoja"
     },
     {
       "term": "atari",
@@ -6177,7 +6749,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atari"
     },
     {
       "term": "atawe",
@@ -6187,7 +6760,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atawe"
     },
     {
       "term": "Ategun",
@@ -6198,7 +6772,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atẹgun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ategun"
     },
     {
       "term": "atejise",
@@ -6208,7 +6783,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atejise"
     },
     {
       "term": "ateleo",
@@ -6218,7 +6794,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ateleo"
     },
     {
       "term": "atelewo",
@@ -6228,7 +6805,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atelewo"
     },
     {
       "term": "ati",
@@ -6238,7 +6816,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ati"
     },
     {
       "term": "atiala",
@@ -6248,7 +6827,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atiala"
     },
     {
       "term": "atibaba",
@@ -6258,7 +6838,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atibaba"
     },
     {
       "term": "Atijo",
@@ -6269,7 +6850,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atijọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atijo"
     },
     {
       "term": "atike",
@@ -6279,7 +6861,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atike"
     },
     {
       "term": "atike-ola",
@@ -6289,7 +6872,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atike-ola"
     },
     {
       "term": "atimole",
@@ -6299,7 +6883,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atimole"
     },
     {
       "term": "Atini",
@@ -6309,7 +6894,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atini"
     },
     {
       "term": "Atinuke",
@@ -6319,7 +6905,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atinuke"
     },
     {
       "term": "atioro",
@@ -6329,7 +6916,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atioro"
     },
     {
       "term": "atipo",
@@ -6339,7 +6927,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atipo"
     },
     {
       "term": "Ato",
@@ -6350,7 +6939,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ato"
     },
     {
       "term": "Atogbe",
@@ -6361,7 +6951,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atọgbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atogbe"
     },
     {
       "term": "Atoka",
@@ -6372,7 +6963,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atọka",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atoka"
     },
     {
       "term": "Atoole",
@@ -6383,7 +6975,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atọọle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atoole"
     },
     {
       "term": "atorin",
@@ -6393,7 +6986,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atorin"
     },
     {
       "term": "Atosi",
@@ -6404,7 +6998,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atọsi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atosi"
     },
     {
       "term": "Atoto",
@@ -6415,7 +7010,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "atọtọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "atoto"
     },
     {
       "term": "atumo-ede",
@@ -6425,7 +7021,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atumo-ede"
     },
     {
       "term": "atunyewo",
@@ -6435,7 +7032,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atunyewo"
     },
     {
       "term": "atupa",
@@ -6445,7 +7043,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "atupa"
     },
     {
       "term": "awa",
@@ -6455,7 +7054,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awa"
     },
     {
       "term": "awada",
@@ -6465,7 +7065,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awada"
     },
     {
       "term": "awe",
@@ -6475,7 +7076,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awe"
     },
     {
       "term": "Awen",
@@ -6486,7 +7088,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "awẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "awen"
     },
     {
       "term": "awere",
@@ -6496,7 +7099,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awere"
     },
     {
       "term": "Awise",
@@ -6507,7 +7111,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "awiṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "awise"
     },
     {
       "term": "Awo",
@@ -6518,7 +7123,8 @@ window.ISESE_DATA = {
         "Ifa",
         "Babalawo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "awo"
     },
     {
       "term": "awodi",
@@ -6528,7 +7134,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awodi"
     },
     {
       "term": "awodi apeja",
@@ -6538,7 +7145,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awodi-apeja"
     },
     {
       "term": "Awofi",
@@ -6549,7 +7157,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "awọfi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "awofi"
     },
     {
       "term": "awoko",
@@ -6559,7 +7168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awoko"
     },
     {
       "term": "Awon",
@@ -6570,7 +7180,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "awọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "awon"
     },
     {
       "term": "Awon Iya",
@@ -6582,7 +7193,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "awon-iya"
     },
     {
       "term": "aworan",
@@ -6592,7 +7204,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aworan"
     },
     {
       "term": "Awori",
@@ -6602,7 +7215,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awori"
     },
     {
       "term": "aworo",
@@ -6612,7 +7226,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aworo"
     },
     {
       "term": "awosanma",
@@ -6622,7 +7237,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awosanma"
     },
     {
       "term": "Awujale",
@@ -6632,7 +7248,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awujale"
     },
     {
       "term": "Awuje",
@@ -6643,7 +7260,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "awujẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "awuje"
     },
     {
       "term": "Awusa",
@@ -6653,7 +7271,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awusa"
     },
     {
       "term": "awuyewuye",
@@ -6663,7 +7282,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "awuyewuye"
     },
     {
       "term": "aya",
@@ -6673,7 +7293,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aya"
     },
     {
       "term": "Ayaba",
@@ -6684,7 +7305,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ayaba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayaba"
     },
     {
       "term": "ayafoto",
@@ -6694,7 +7316,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayafoto"
     },
     {
       "term": "Ayan",
@@ -6704,7 +7327,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayan"
     },
     {
       "term": "Ayanfe",
@@ -6715,7 +7339,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ayanfẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayanfe"
     },
     {
       "term": "Ayangalu",
@@ -6725,7 +7350,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayangalu"
     },
     {
       "term": "Ayangburen",
@@ -6735,7 +7361,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayangburen"
     },
     {
       "term": "Ayanmo",
@@ -6747,7 +7374,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayanmo"
     },
     {
       "term": "Aye",
@@ -6759,7 +7387,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "aye"
     },
     {
       "term": "ayegbe",
@@ -6769,7 +7398,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayegbe"
     },
     {
       "term": "ayekooto",
@@ -6779,7 +7409,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayekooto"
     },
     {
       "term": "Ayelala",
@@ -6789,7 +7420,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayelala"
     },
     {
       "term": "Ayere",
@@ -6800,7 +7432,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ayerẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayere"
     },
     {
       "term": "Ayeye",
@@ -6811,7 +7444,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ayẹyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayeye"
     },
     {
       "term": "ayikule",
@@ -6821,7 +7455,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayikule"
     },
     {
       "term": "ayinrin",
@@ -6831,7 +7466,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayinrin"
     },
     {
       "term": "ayipada oju-ojo",
@@ -6841,7 +7477,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayipada-oju-ojo"
     },
     {
       "term": "Ayiyon",
@@ -6852,7 +7489,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ayiyọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayiyon"
     },
     {
       "term": "Ayo",
@@ -6863,7 +7501,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ayo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ayo"
     },
     {
       "term": "ayo olopon",
@@ -6873,7 +7512,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayo-olopon"
     },
     {
       "term": "ayoporo",
@@ -6883,7 +7523,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayoporo"
     },
     {
       "term": "ayu",
@@ -6893,7 +7534,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayu"
     },
     {
       "term": "ayun",
@@ -6903,7 +7545,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ayun"
     },
     {
       "term": "aza",
@@ -6913,7 +7556,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "aza"
     },
     {
       "term": "B",
@@ -6923,7 +7567,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "b"
     },
     {
       "term": "ba",
@@ -6933,7 +7578,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ba"
     },
     {
       "term": "ba ese soro",
@@ -6943,7 +7589,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ba-ese-soro"
     },
     {
       "term": "ba je",
@@ -6953,7 +7600,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ba-je"
     },
     {
       "term": "Baale",
@@ -6964,7 +7612,8 @@ window.ISESE_DATA = {
         "Oba",
         "Ilu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "baale"
     },
     {
       "term": "baali",
@@ -6974,7 +7623,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baali"
     },
     {
       "term": "baaluu",
@@ -6984,7 +7634,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baaluu"
     },
     {
       "term": "baara",
@@ -6994,7 +7645,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baara"
     },
     {
       "term": "Baayanni",
@@ -7004,7 +7656,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baayanni"
     },
     {
       "term": "Baba",
@@ -7015,7 +7668,8 @@ window.ISESE_DATA = {
         "Iya",
         "Agba"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "baba"
     },
     {
       "term": "baba baba",
@@ -7025,7 +7679,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baba-baba"
     },
     {
       "term": "baba iya",
@@ -7035,7 +7690,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baba-iya"
     },
     {
       "term": "babaganran",
@@ -7045,7 +7701,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "babaganran"
     },
     {
       "term": "Babalawo",
@@ -7057,7 +7714,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "babalawo"
     },
     {
       "term": "Babalorisa",
@@ -7068,7 +7726,8 @@ window.ISESE_DATA = {
         "Orisa",
         "Iyalorisa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "babalorisa"
     },
     {
       "term": "Babiloni",
@@ -7078,7 +7737,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "babiloni"
     },
     {
       "term": "bairo",
@@ -7088,7 +7748,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bairo"
     },
     {
       "term": "Bake",
@@ -7099,7 +7760,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bakẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bake"
     },
     {
       "term": "balaga",
@@ -7109,7 +7771,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "balaga"
     },
     {
       "term": "Bale",
@@ -7120,7 +7783,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "balẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bale"
     },
     {
       "term": "Balogun",
@@ -7130,7 +7794,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "balogun"
     },
     {
       "term": "bandeeji",
@@ -7140,7 +7805,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bandeeji"
     },
     {
       "term": "baoloji",
@@ -7150,7 +7816,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "baoloji"
     },
     {
       "term": "Bara",
@@ -7160,7 +7827,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bara"
     },
     {
       "term": "barafin",
@@ -7170,7 +7838,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "barafin"
     },
     {
       "term": "barafo",
@@ -7180,7 +7849,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "barafo"
     },
     {
       "term": "barawo",
@@ -7190,7 +7860,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "barawo"
     },
     {
       "term": "bareke",
@@ -7200,7 +7871,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bareke"
     },
     {
       "term": "Bariba",
@@ -7210,7 +7882,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bariba"
     },
     {
       "term": "barika!",
@@ -7222,7 +7895,8 @@ window.ISESE_DATA = {
         "barika"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "barika"
     },
     {
       "term": "Baseje",
@@ -7233,7 +7907,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "basejẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "baseje"
     },
     {
       "term": "Basorun",
@@ -7243,7 +7918,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "basorun"
     },
     {
       "term": "Bata",
@@ -7254,7 +7930,8 @@ window.ISESE_DATA = {
         "Sango",
         "Onilu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "bata"
     },
     {
       "term": "bayii",
@@ -7264,7 +7941,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bayii"
     },
     {
       "term": "Be",
@@ -7275,7 +7953,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "bẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "be"
     },
     {
       "term": "beba",
@@ -7285,7 +7964,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "beba"
     },
     {
       "term": "Bee",
@@ -7296,7 +7976,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "bẹẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bee"
     },
     {
       "term": "Bee ni",
@@ -7306,7 +7987,8 @@ window.ISESE_DATA = {
       "related": [
         "Rara"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "bee-ni"
     },
     {
       "term": "Beere",
@@ -7317,7 +7999,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bẹẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "beere"
     },
     {
       "term": "Beleje",
@@ -7328,7 +8011,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bẹlẹjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "beleje"
     },
     {
       "term": "Belu",
@@ -7338,7 +8022,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "belu"
     },
     {
       "term": "belu-belu",
@@ -7348,7 +8033,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "belu-belu"
     },
     {
       "term": "Bene",
@@ -7358,7 +8044,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bene"
     },
     {
       "term": "bentiroo",
@@ -7368,7 +8055,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bentiroo"
     },
     {
       "term": "Bere",
@@ -7379,7 +8067,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "bẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bere"
     },
     {
       "term": "Beri",
@@ -7390,7 +8079,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bẹri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "beri"
     },
     {
       "term": "Beru",
@@ -7401,7 +8091,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "bẹru",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "beru"
     },
     {
       "term": "bi",
@@ -7411,7 +8102,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bi"
     },
     {
       "term": "bi ina ba jo loko",
@@ -7424,7 +8116,8 @@ window.ISESE_DATA = {
         "majala a fo wa sile"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bi-ina-ba-jo-loko"
     },
     {
       "term": "bi ina ba jo loko, majala a sofofo",
@@ -7437,7 +8130,8 @@ window.ISESE_DATA = {
         "majala a sofofo"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bi-ina-ba-jo-loko-majala-a-sofofo"
     },
     {
       "term": "BI-EE",
@@ -7447,7 +8141,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bi-ee"
     },
     {
       "term": "BI-EEDI",
@@ -7457,7 +8152,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bi-eedi"
     },
     {
       "term": "Bibeli",
@@ -7467,7 +8163,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bibeli"
     },
     {
       "term": "bijawara bi ekun",
@@ -7477,7 +8174,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bijawara-bi-ekun"
     },
     {
       "term": "bikita",
@@ -7487,7 +8185,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bikita"
     },
     {
       "term": "bilala",
@@ -7497,7 +8196,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bilala"
     },
     {
       "term": "Bilisi",
@@ -7507,7 +8207,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bilisi"
     },
     {
       "term": "Birasili",
@@ -7517,7 +8218,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "birasili"
     },
     {
       "term": "birikila",
@@ -7527,7 +8229,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "birikila"
     },
     {
       "term": "Biro",
@@ -7538,7 +8241,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "birọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "biro"
     },
     {
       "term": "bisikiiti",
@@ -7548,7 +8252,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bisikiiti"
     },
     {
       "term": "Bo",
@@ -7559,7 +8264,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "bọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bo"
     },
     {
       "term": "Bobo",
@@ -7570,7 +8276,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bọbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bobo"
     },
     {
       "term": "bode",
@@ -7580,7 +8287,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bode"
     },
     {
       "term": "Bodi",
@@ -7591,7 +8299,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "bọdi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bodi"
     },
     {
       "term": "Bogeria",
@@ -7601,7 +8310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bogeria"
     },
     {
       "term": "bojuboju",
@@ -7611,7 +8321,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bojuboju"
     },
     {
       "term": "Bokina Faso",
@@ -7621,7 +8332,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bokina-faso"
     },
     {
       "term": "Bokoto",
@@ -7632,7 +8344,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bọkọtọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bokoto"
     },
     {
       "term": "Bolifia",
@@ -7642,7 +8355,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bolifia"
     },
     {
       "term": "Bon",
@@ -7653,7 +8367,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "bọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bon"
     },
     {
       "term": "Boolu",
@@ -7664,7 +8379,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bọọlu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "boolu"
     },
     {
       "term": "bora",
@@ -7674,7 +8390,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bora"
     },
     {
       "term": "Bosede",
@@ -7684,7 +8401,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bosede"
     },
     {
       "term": "bosikoro",
@@ -7694,7 +8412,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bosikoro"
     },
     {
       "term": "Bota",
@@ -7705,7 +8424,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bọta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "bota"
     },
     {
       "term": "Boti",
@@ -7716,7 +8436,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "bọti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "boti"
     },
     {
       "term": "boya",
@@ -7726,7 +8447,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "boya"
     },
     {
       "term": "buaya",
@@ -7736,7 +8458,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "buaya"
     },
     {
       "term": "buba",
@@ -7746,7 +8469,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "buba"
     },
     {
       "term": "buburu",
@@ -7756,7 +8480,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "buburu"
     },
     {
       "term": "buka",
@@ -7766,7 +8491,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "buka"
     },
     {
       "term": "bukata",
@@ -7776,7 +8502,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bukata"
     },
     {
       "term": "bulausi",
@@ -7786,7 +8513,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bulausi"
     },
     {
       "term": "buloogu",
@@ -7796,7 +8524,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "buloogu"
     },
     {
       "term": "bun",
@@ -7806,7 +8535,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bun"
     },
     {
       "term": "bura",
@@ -7816,7 +8546,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "bura"
     },
     {
       "term": "Buredi",
@@ -7827,7 +8558,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "burẹdi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "buredi"
     },
     {
       "term": "Burewa",
@@ -7838,7 +8570,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "burẹwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "burewa"
     },
     {
       "term": "Buroda",
@@ -7849,7 +8582,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "burọda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "buroda"
     },
     {
       "term": "Burundi",
@@ -7859,7 +8593,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "burundi"
     },
     {
       "term": "buuru",
@@ -7869,7 +8604,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "buuru"
     },
     {
       "term": "D",
@@ -7879,7 +8615,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "d"
     },
     {
       "term": "da",
@@ -7889,7 +8626,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "da"
     },
     {
       "term": "daadaa",
@@ -7899,7 +8637,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "daadaa"
     },
     {
       "term": "dabaara",
@@ -7909,7 +8648,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dabaara"
     },
     {
       "term": "dabira",
@@ -7919,7 +8659,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dabira"
     },
     {
       "term": "Dada",
@@ -7929,7 +8670,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dada"
     },
     {
       "term": "dafa",
@@ -7939,7 +8681,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dafa"
     },
     {
       "term": "dagba",
@@ -7949,7 +8692,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dagba"
     },
     {
       "term": "Dagbure",
@@ -7959,7 +8703,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dagbure"
     },
     {
       "term": "Dahomi",
@@ -7969,7 +8714,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dahomi"
     },
     {
       "term": "daji",
@@ -7979,7 +8725,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "daji"
     },
     {
       "term": "daju",
@@ -7989,7 +8736,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "daju"
     },
     {
       "term": "dakun!",
@@ -8001,7 +8749,8 @@ window.ISESE_DATA = {
         "dakun"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dakun"
     },
     {
       "term": "dan",
@@ -8011,7 +8760,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dan"
     },
     {
       "term": "dana",
@@ -8021,7 +8771,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dana"
     },
     {
       "term": "dandogo",
@@ -8031,7 +8782,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dandogo"
     },
     {
       "term": "danpara",
@@ -8041,7 +8793,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "danpara"
     },
     {
       "term": "dansaaki",
@@ -8051,7 +8804,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dansaaki"
     },
     {
       "term": "dansiki",
@@ -8061,7 +8815,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dansiki"
     },
     {
       "term": "darandaran",
@@ -8071,7 +8826,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "darandaran"
     },
     {
       "term": "dawa",
@@ -8081,7 +8837,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dawa"
     },
     {
       "term": "dawati",
@@ -8091,7 +8848,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dawati"
     },
     {
       "term": "De",
@@ -8102,7 +8860,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "de"
     },
     {
       "term": "dedere",
@@ -8112,7 +8871,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dedere"
     },
     {
       "term": "dederekun",
@@ -8122,7 +8882,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dederekun"
     },
     {
       "term": "dedodedo",
@@ -8132,7 +8893,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dedodedo"
     },
     {
       "term": "Deji",
@@ -8142,7 +8904,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "deji"
     },
     {
       "term": "Den",
@@ -8153,7 +8916,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "den"
     },
     {
       "term": "di",
@@ -8163,7 +8927,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "di"
     },
     {
       "term": "di endi lopin sinima",
@@ -8173,7 +8938,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "di-endi-lopin-sinima"
     },
     {
       "term": "Die",
@@ -8184,7 +8950,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "diẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "die"
     },
     {
       "term": "difa",
@@ -8194,7 +8961,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "difa"
     },
     {
       "term": "digbolu",
@@ -8204,7 +8972,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "digbolu"
     },
     {
       "term": "digbolugi",
@@ -8214,7 +8983,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "digbolugi"
     },
     {
       "term": "digi",
@@ -8224,7 +8994,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "digi"
     },
     {
       "term": "digo",
@@ -8234,7 +9005,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "digo"
     },
     {
       "term": "dii-eeni-ee",
@@ -8244,7 +9016,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dii-eeni-ee"
     },
     {
       "term": "dilali",
@@ -8254,7 +9027,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dilali"
     },
     {
       "term": "din",
@@ -8264,7 +9038,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "din"
     },
     {
       "term": "dindinrin",
@@ -8274,7 +9049,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dindinrin"
     },
     {
       "term": "dinku",
@@ -8284,7 +9060,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dinku"
     },
     {
       "term": "Dipeta",
@@ -8295,7 +9072,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dipẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "dipeta"
     },
     {
       "term": "diragoni",
@@ -8305,7 +9083,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "diragoni"
     },
     {
       "term": "disai",
@@ -8315,7 +9094,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "disai"
     },
     {
       "term": "Disu",
@@ -8325,7 +9105,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "disu"
     },
     {
       "term": "Diutaronomi",
@@ -8335,7 +9116,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "diutaronomi"
     },
     {
       "term": "Do",
@@ -8346,7 +9128,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "do"
     },
     {
       "term": "Dobale",
@@ -8357,7 +9140,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dọbalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "dobale"
     },
     {
       "term": "dodo",
@@ -8367,7 +9151,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dodo"
     },
     {
       "term": "dokita",
@@ -8377,7 +9162,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dokita"
     },
     {
       "term": "dokita eyin",
@@ -8387,7 +9173,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dokita-eyin"
     },
     {
       "term": "dokita isatunto eyin",
@@ -8397,7 +9184,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dokita-isatunto-eyin"
     },
     {
       "term": "Dola",
@@ -8408,7 +9196,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "dọla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "dola"
     },
     {
       "term": "dooje",
@@ -8418,7 +9207,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dooje"
     },
     {
       "term": "Doti",
@@ -8429,7 +9219,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dọti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "doti"
     },
     {
       "term": "doti bi elede",
@@ -8439,7 +9230,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "doti-bi-elede"
     },
     {
       "term": "du",
@@ -8449,7 +9241,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "du"
     },
     {
       "term": "Dubule",
@@ -8460,7 +9253,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "dubulẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "dubule"
     },
     {
       "term": "Dudu",
@@ -8471,7 +9265,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "dudu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "dudu"
     },
     {
       "term": "dukia",
@@ -8481,7 +9276,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dukia"
     },
     {
       "term": "Dun",
@@ -8492,7 +9288,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "dun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "dun"
     },
     {
       "term": "dun bi oyin",
@@ -8502,7 +9299,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dun-bi-oyin"
     },
     {
       "term": "dunaadura",
@@ -8512,7 +9310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dunaadura"
     },
     {
       "term": "dunbu",
@@ -8524,7 +9323,8 @@ window.ISESE_DATA = {
         "dumbu"
       ],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "dunbu"
     },
     {
       "term": "Dundun",
@@ -8535,7 +9335,8 @@ window.ISESE_DATA = {
         "Gangan",
         "Onilu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "dundun"
     },
     {
       "term": "duniyan",
@@ -8545,7 +9346,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "duniyan"
     },
     {
       "term": "duo",
@@ -8555,7 +9357,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "duo"
     },
     {
       "term": "Duoosi",
@@ -8566,7 +9369,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "duọọsi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "duoosi"
     },
     {
       "term": "duro",
@@ -8576,7 +9380,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "duro"
     },
     {
       "term": "duuru",
@@ -8586,7 +9391,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "duuru"
     },
     {
       "term": "E",
@@ -8596,7 +9402,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "e"
     },
     {
       "term": "E joo",
@@ -8606,7 +9413,8 @@ window.ISESE_DATA = {
       "related": [
         "Jare"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "e-joo"
     },
     {
       "term": "E ku ise",
@@ -8616,7 +9424,8 @@ window.ISESE_DATA = {
       "related": [
         "E ku ojo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "e-ku-ise"
     },
     {
       "term": "E ku ojo",
@@ -8626,7 +9435,8 @@ window.ISESE_DATA = {
       "related": [
         "E ku ise"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "e-ku-ojo"
     },
     {
       "term": "E se",
@@ -8636,7 +9446,8 @@ window.ISESE_DATA = {
       "related": [
         "E joo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "e-se"
     },
     {
       "term": "e seun",
@@ -8646,7 +9457,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "e-seun"
     },
     {
       "term": "Eba",
@@ -8657,7 +9469,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eba"
     },
     {
       "term": "Ebafin",
@@ -8668,7 +9481,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "ẹbafin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebafin"
     },
     {
       "term": "Ebekon",
@@ -8679,7 +9493,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbẹkọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebekon"
     },
     {
       "term": "Ebi",
@@ -8690,7 +9505,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebi"
     },
     {
       "term": "ebi n pa mi",
@@ -8700,7 +9516,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ebi-n-pa-mi"
     },
     {
       "term": "Ebibi",
@@ -8710,7 +9527,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ebibi"
     },
     {
       "term": "ebibo",
@@ -8720,7 +9538,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ebibo"
     },
     {
       "term": "ebiripo",
@@ -8730,7 +9549,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ebiripo"
     },
     {
       "term": "Ebiti",
@@ -8741,7 +9561,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbiti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebiti"
     },
     {
       "term": "Ebo",
@@ -8753,7 +9574,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebo"
     },
     {
       "term": "Ebogu",
@@ -8764,7 +9586,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbọgu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebogu"
     },
     {
       "term": "Ebora",
@@ -8775,7 +9598,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbọra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebora"
     },
     {
       "term": "Ebu",
@@ -8786,7 +9610,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebu"
     },
     {
       "term": "Ebun",
@@ -8797,7 +9622,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹbun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ebun"
     },
     {
       "term": "Eburu",
@@ -8808,7 +9634,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹburu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eburu"
     },
     {
       "term": "eburumbu",
@@ -8818,7 +9645,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eburumbu"
     },
     {
       "term": "ebute",
@@ -8828,7 +9656,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ebute"
     },
     {
       "term": "Eda",
@@ -8839,7 +9668,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eda"
     },
     {
       "term": "eda oye-oro",
@@ -8849,7 +9679,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eda-oye-oro"
     },
     {
       "term": "ede",
@@ -8859,7 +9690,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ede"
     },
     {
       "term": "ede aiyede",
@@ -8869,7 +9701,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ede-aiyede"
     },
     {
       "term": "Ede Yoruba",
@@ -8881,7 +9714,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ede-yoruba"
     },
     {
       "term": "edekoyede",
@@ -8891,7 +9725,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "edekoyede"
     },
     {
       "term": "edidu",
@@ -8901,7 +9736,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "edidu"
     },
     {
       "term": "edidun",
@@ -8911,7 +9747,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "edidun"
     },
     {
       "term": "Edinwo",
@@ -8922,7 +9759,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹdinwo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "edinwo"
     },
     {
       "term": "edio",
@@ -8932,7 +9770,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "edio"
     },
     {
       "term": "Edo",
@@ -8943,7 +9782,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹdọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "edo"
     },
     {
       "term": "edoforo",
@@ -8953,7 +9793,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "edoforo"
     },
     {
       "term": "Edon",
@@ -8964,7 +9805,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹdọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "edon"
     },
     {
       "term": "Edun",
@@ -8975,7 +9817,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹdun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "edun"
     },
     {
       "term": "edun arinle",
@@ -8985,7 +9828,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "edun-arinle"
     },
     {
       "term": "Eduwe",
@@ -8996,7 +9840,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹduwẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eduwe"
     },
     {
       "term": "eebu",
@@ -9006,7 +9851,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eebu"
     },
     {
       "term": "eedi",
@@ -9016,7 +9862,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eedi"
     },
     {
       "term": "eedu",
@@ -9026,7 +9873,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eedu"
     },
     {
       "term": "Eefa",
@@ -9037,7 +9885,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹẹfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eefa"
     },
     {
       "term": "eefin",
@@ -9047,7 +9896,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eefin"
     },
     {
       "term": "Eegbon",
@@ -9058,7 +9908,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "eegbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eegbon"
     },
     {
       "term": "eegun paari",
@@ -9068,7 +9919,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eegun-paari"
     },
     {
       "term": "eeje",
@@ -9078,7 +9930,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eeje"
     },
     {
       "term": "eeji",
@@ -9088,7 +9941,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eeji"
     },
     {
       "term": "Eejo",
@@ -9099,7 +9953,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹẹjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eejo"
     },
     {
       "term": "Eekan",
@@ -9110,7 +9965,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹẹkan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eekan"
     },
     {
       "term": "eekenna",
@@ -9120,7 +9976,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eekenna"
     },
     {
       "term": "eeku",
@@ -9130,7 +9987,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eeku"
     },
     {
       "term": "eemarun-un",
@@ -9140,7 +9998,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eemarun-un"
     },
     {
       "term": "Eemefa",
@@ -9151,7 +10010,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "ẹẹmẹfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eemefa"
     },
     {
       "term": "Eemeje",
@@ -9162,7 +10022,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "ẹẹmeje",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eemeje"
     },
     {
       "term": "Eemeji",
@@ -9173,7 +10034,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "ẹẹmeji",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eemeji"
     },
     {
       "term": "Eemejo",
@@ -9184,7 +10046,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "ẹẹmẹjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eemejo"
     },
     {
       "term": "eemerin",
@@ -9194,7 +10057,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eemerin"
     },
     {
       "term": "eemesan-an",
@@ -9204,7 +10068,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eemesan-an"
     },
     {
       "term": "Eemeta",
@@ -9215,7 +10080,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "ẹẹmẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eemeta"
     },
     {
       "term": "eemewaa",
@@ -9225,7 +10091,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eemewaa"
     },
     {
       "term": "eeo",
@@ -9237,7 +10104,8 @@ window.ISESE_DATA = {
         "eeo!"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eeo"
     },
     {
       "term": "eepa",
@@ -9249,7 +10117,8 @@ window.ISESE_DATA = {
         "eepa!"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eepa"
     },
     {
       "term": "eepinni",
@@ -9259,7 +10128,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eepinni"
     },
     {
       "term": "Eera",
@@ -9270,7 +10140,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹẹra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eera"
     },
     {
       "term": "Eerin",
@@ -9281,7 +10152,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹẹrin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eerin"
     },
     {
       "term": "eesan-an",
@@ -9291,7 +10163,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eesan-an"
     },
     {
       "term": "Eeta",
@@ -9302,7 +10175,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eeta"
     },
     {
       "term": "eetu",
@@ -9312,7 +10186,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eetu"
     },
     {
       "term": "Eewaa",
@@ -9323,7 +10198,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹẹwaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eewaa"
     },
     {
       "term": "Eewo",
@@ -9334,7 +10210,8 @@ window.ISESE_DATA = {
         "Ofin",
         "Asa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "eewo"
     },
     {
       "term": "Eeyan",
@@ -9345,7 +10222,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "eeyan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eeyan"
     },
     {
       "term": "eeyi",
@@ -9355,7 +10233,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eeyi"
     },
     {
       "term": "Eeyo",
@@ -9366,7 +10245,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹẹyọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eeyo"
     },
     {
       "term": "Efa",
@@ -9377,7 +10257,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "efa"
     },
     {
       "term": "efinrin",
@@ -9387,7 +10268,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "efinrin"
     },
     {
       "term": "Efo",
@@ -9398,7 +10280,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹfọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "efo"
     },
     {
       "term": "Efon",
@@ -9409,7 +10292,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹfọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "efon"
     },
     {
       "term": "Efonha",
@@ -9420,7 +10304,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹfọnha",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "efonha"
     },
     {
       "term": "Efun",
@@ -9431,7 +10316,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹfun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "efun"
     },
     {
       "term": "Efuufu",
@@ -9442,7 +10328,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹfuufu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "efuufu"
     },
     {
       "term": "Ega",
@@ -9453,7 +10340,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹga",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ega"
     },
     {
       "term": "Egba",
@@ -9464,7 +10352,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egba"
     },
     {
       "term": "Egbaa",
@@ -9475,7 +10364,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹgbaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egbaa"
     },
     {
       "term": "Egbado",
@@ -9485,7 +10375,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egbado"
     },
     {
       "term": "Egbe",
@@ -9497,7 +10388,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "egbe"
     },
     {
       "term": "Egbeegbe",
@@ -9508,7 +10400,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgbẹẹgbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egbeegbe"
     },
     {
       "term": "Egben",
@@ -9519,7 +10412,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgbẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egben"
     },
     {
       "term": "Egbeno",
@@ -9530,7 +10424,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgbẹnọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egbeno"
     },
     {
       "term": "Egberun",
@@ -9541,7 +10436,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹgbẹrun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egberun"
     },
     {
       "term": "egbigbo",
@@ -9551,7 +10447,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egbigbo"
     },
     {
       "term": "Egbin",
@@ -9562,7 +10459,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgbin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egbin"
     },
     {
       "term": "egbogbo",
@@ -9572,7 +10470,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egbogbo"
     },
     {
       "term": "Egbon",
@@ -9583,7 +10482,8 @@ window.ISESE_DATA = {
         "Aburo",
         "Agba"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "egbon"
     },
     {
       "term": "egboogi",
@@ -9593,7 +10493,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egboogi"
     },
     {
       "term": "Ege",
@@ -9604,7 +10505,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ege"
     },
     {
       "term": "ege irole",
@@ -9614,7 +10516,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ege-irole"
     },
     {
       "term": "egede",
@@ -9624,7 +10527,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egede"
     },
     {
       "term": "Eghen",
@@ -9635,7 +10539,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "ẹghẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eghen"
     },
     {
       "term": "eghigho",
@@ -9645,7 +10550,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eghigho"
     },
     {
       "term": "egho",
@@ -9655,7 +10561,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egho"
     },
     {
       "term": "eghoro",
@@ -9665,7 +10572,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eghoro"
     },
     {
       "term": "Egigun",
@@ -9675,7 +10583,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egigun"
     },
     {
       "term": "egin",
@@ -9685,7 +10594,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egin"
     },
     {
       "term": "Egun",
@@ -9695,7 +10605,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egun"
     },
     {
       "term": "Egungun",
@@ -9706,7 +10617,8 @@ window.ISESE_DATA = {
         "Asa",
         "Oriki"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "egungun"
     },
     {
       "term": "Egunje",
@@ -9717,7 +10629,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgunjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egunje"
     },
     {
       "term": "egunyeye",
@@ -9727,7 +10640,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egunyeye"
     },
     {
       "term": "egure",
@@ -9737,7 +10651,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egure"
     },
     {
       "term": "eguru",
@@ -9747,7 +10662,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eguru"
     },
     {
       "term": "Egusi",
@@ -9758,7 +10674,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹgusi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "egusi"
     },
     {
       "term": "egwa",
@@ -9768,7 +10685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "egwa"
     },
     {
       "term": "Ehihen",
@@ -9779,7 +10697,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ehihẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ehihen"
     },
     {
       "term": "Ehiko",
@@ -9790,7 +10709,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ehikọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ehiko"
     },
     {
       "term": "ehoro",
@@ -9800,7 +10720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ehoro"
     },
     {
       "term": "Eigho",
@@ -9811,7 +10732,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "eighọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eigho"
     },
     {
       "term": "Eije",
@@ -9822,7 +10744,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "eijẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eije"
     },
     {
       "term": "Eja",
@@ -9833,7 +10756,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eja"
     },
     {
       "term": "eja alaran-an",
@@ -9843,7 +10767,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-alaran-an"
     },
     {
       "term": "eja apatamaja",
@@ -9855,7 +10780,8 @@ window.ISESE_DATA = {
         "apatamaja"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-apatamaja"
     },
     {
       "term": "eja aro",
@@ -9865,7 +10791,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-aro"
     },
     {
       "term": "eja onida",
@@ -9875,7 +10802,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-onida"
     },
     {
       "term": "eja onirungbon",
@@ -9885,7 +10813,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-onirungbon"
     },
     {
       "term": "eja osan",
@@ -9895,7 +10824,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-osan"
     },
     {
       "term": "eja sawa",
@@ -9905,7 +10835,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eja-sawa"
     },
     {
       "term": "Eje",
@@ -9916,7 +10847,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eje"
     },
     {
       "term": "eje riru",
@@ -9926,7 +10858,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eje-riru"
     },
     {
       "term": "eji",
@@ -9936,7 +10869,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eji"
     },
     {
       "term": "Eji Ogbe",
@@ -9946,7 +10880,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eji-ogbe"
     },
     {
       "term": "ejide",
@@ -9956,7 +10891,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejide"
     },
     {
       "term": "ejidinlaaadota",
@@ -9966,7 +10902,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejidinlaaadota"
     },
     {
       "term": "ejidinlogbon",
@@ -9976,7 +10913,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejidinlogbon"
     },
     {
       "term": "ejidinlogoji",
@@ -9986,7 +10924,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejidinlogoji"
     },
     {
       "term": "ejidinlogota",
@@ -9996,7 +10935,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejidinlogota"
     },
     {
       "term": "ejidinlogun",
@@ -10006,7 +10946,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejidinlogun"
     },
     {
       "term": "Ejigbo",
@@ -10016,7 +10957,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejigbo"
     },
     {
       "term": "ejije",
@@ -10026,7 +10968,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejije"
     },
     {
       "term": "ejika",
@@ -10036,7 +10979,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejika"
     },
     {
       "term": "ejila",
@@ -10046,7 +10990,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejila"
     },
     {
       "term": "ejilelaaadota",
@@ -10056,7 +11001,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejilelaaadota"
     },
     {
       "term": "ejilelogbon",
@@ -10066,7 +11012,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejilelogbon"
     },
     {
       "term": "ejilelogoji",
@@ -10076,7 +11023,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejilelogoji"
     },
     {
       "term": "ejilelogun",
@@ -10086,7 +11034,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejilelogun"
     },
     {
       "term": "Ejire",
@@ -10097,7 +11046,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ejirẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ejire"
     },
     {
       "term": "Ejo",
@@ -10108,7 +11058,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ejo"
     },
     {
       "term": "ejo abewere",
@@ -10118,7 +11069,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-abewere"
     },
     {
       "term": "ejo abirusoro",
@@ -10128,7 +11080,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-abirusoro"
     },
     {
       "term": "ejo monamona",
@@ -10138,7 +11091,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-monamona"
     },
     {
       "term": "ejo oka",
@@ -10148,7 +11102,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-oka"
     },
     {
       "term": "ejo paramole",
@@ -10158,7 +11113,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-paramole"
     },
     {
       "term": "ejo sebe",
@@ -10168,7 +11124,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-sebe"
     },
     {
       "term": "ejo-inu",
@@ -10178,7 +11135,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ejo-inu"
     },
     {
       "term": "Ejoji",
@@ -10189,7 +11147,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹjoji",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ejoji"
     },
     {
       "term": "Eka",
@@ -10200,7 +11159,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹka",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eka"
     },
     {
       "term": "eka ede",
@@ -10210,7 +11170,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eka-ede"
     },
     {
       "term": "Eke",
@@ -10221,7 +11182,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹkẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eke"
     },
     {
       "term": "ekeegbe",
@@ -10231,7 +11193,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekeegbe"
     },
     {
       "term": "ekeji",
@@ -10241,7 +11204,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekeji"
     },
     {
       "term": "ekikanna",
@@ -10251,7 +11215,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekikanna"
     },
     {
       "term": "ekiki",
@@ -10261,7 +11226,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekiki"
     },
     {
       "term": "Ekikun",
@@ -10272,7 +11238,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹkịkụn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ekikun"
     },
     {
       "term": "Ekiri",
@@ -10283,7 +11250,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹkiri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ekiri"
     },
     {
       "term": "Ekisodu",
@@ -10293,7 +11261,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekisodu"
     },
     {
       "term": "Ekiti",
@@ -10303,7 +11272,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekiti"
     },
     {
       "term": "Ekiti-Parapo",
@@ -10313,7 +11283,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekiti-parapo"
     },
     {
       "term": "Eko",
@@ -10324,7 +11295,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "eko",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eko"
     },
     {
       "term": "eko arun-ara",
@@ -10334,7 +11306,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eko-arun-ara"
     },
     {
       "term": "eko ile",
@@ -10344,7 +11317,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eko-ile"
     },
     {
       "term": "ekoide",
@@ -10354,7 +11328,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekoide"
     },
     {
       "term": "ekolo",
@@ -10364,7 +11339,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekolo"
     },
     {
       "term": "Eku",
@@ -10375,7 +11351,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹku",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eku"
     },
     {
       "term": "Ekue",
@@ -10386,7 +11363,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹkuẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ekue"
     },
     {
       "term": "ekulu",
@@ -10396,7 +11374,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekulu"
     },
     {
       "term": "Ekun",
@@ -10407,7 +11386,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹkun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ekun"
     },
     {
       "term": "ekun-iyawo",
@@ -10419,7 +11399,8 @@ window.ISESE_DATA = {
         "ekun iyawo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekun-iyawo"
     },
     {
       "term": "ekura",
@@ -10429,7 +11410,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekura"
     },
     {
       "term": "Ekure",
@@ -10440,7 +11422,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹkurẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ekure"
     },
     {
       "term": "ekuru",
@@ -10450,7 +11433,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekuru"
     },
     {
       "term": "ekute",
@@ -10460,7 +11444,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekute"
     },
     {
       "term": "ekutu",
@@ -10470,7 +11455,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ekutu"
     },
     {
       "term": "Ela",
@@ -10481,7 +11467,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ela"
     },
     {
       "term": "Eledaa",
@@ -10492,7 +11479,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹdaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eledaa"
     },
     {
       "term": "Elede",
@@ -10503,7 +11491,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹdẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elede"
     },
     {
       "term": "elede meji",
@@ -10513,7 +11502,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elede-meji"
     },
     {
       "term": "Eledua",
@@ -10525,7 +11515,8 @@ window.ISESE_DATA = {
         "Eleduwa"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eledua"
     },
     {
       "term": "Eledumare",
@@ -10535,7 +11526,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eledumare"
     },
     {
       "term": "elegbede",
@@ -10545,7 +11537,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elegbede"
     },
     {
       "term": "elegede",
@@ -10555,7 +11548,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elegede"
     },
     {
       "term": "elegee ara",
@@ -10565,7 +11559,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elegee-ara"
     },
     {
       "term": "Elegosi",
@@ -10575,7 +11570,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elegosi"
     },
     {
       "term": "Eleha",
@@ -10586,7 +11582,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹha",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eleha"
     },
     {
       "term": "Eleja",
@@ -10597,7 +11594,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eleja"
     },
     {
       "term": "Elejigbo",
@@ -10607,7 +11605,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elejigbo"
     },
     {
       "term": "Elekole",
@@ -10617,7 +11616,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elekole"
     },
     {
       "term": "Eleluu",
@@ -10628,7 +11628,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹluu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eleluu"
     },
     {
       "term": "Elemu",
@@ -10639,7 +11640,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹmu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elemu"
     },
     {
       "term": "Elemure",
@@ -10649,7 +11651,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elemure"
     },
     {
       "term": "elenu iru",
@@ -10659,7 +11662,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elenu-iru"
     },
     {
       "term": "Elepa",
@@ -10670,7 +11674,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹpa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elepa"
     },
     {
       "term": "elerindodo",
@@ -10680,7 +11685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elerindodo"
     },
     {
       "term": "Eleruku",
@@ -10690,7 +11696,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eleruku"
     },
     {
       "term": "Eleruuwa",
@@ -10700,7 +11707,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eleruuwa"
     },
     {
       "term": "Elesu",
@@ -10711,7 +11719,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "eleṣu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elesu"
     },
     {
       "term": "Elewon",
@@ -10722,7 +11731,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlẹwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elewon"
     },
     {
       "term": "eleyameya",
@@ -10732,7 +11742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eleyameya"
     },
     {
       "term": "eleyinju aanu",
@@ -10742,7 +11753,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eleyinju-aanu"
     },
     {
       "term": "Elija",
@@ -10752,7 +11764,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elija"
     },
     {
       "term": "Elila",
@@ -10763,7 +11776,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlịla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elila"
     },
     {
       "term": "Eliri",
@@ -10774,7 +11788,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹliri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eliri"
     },
     {
       "term": "Elomii",
@@ -10785,7 +11800,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlomii",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elomii"
     },
     {
       "term": "Elu",
@@ -10796,7 +11812,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹlu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elu"
     },
     {
       "term": "Elubo",
@@ -10807,7 +11824,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "elubọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "elubo"
     },
     {
       "term": "eluju",
@@ -10817,7 +11835,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eluju"
     },
     {
       "term": "elulu",
@@ -10827,7 +11846,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "elulu"
     },
     {
       "term": "Emi",
@@ -10839,7 +11859,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "emi"
     },
     {
       "term": "Emilale",
@@ -10849,7 +11870,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "emilale"
     },
     {
       "term": "emimi",
@@ -10859,7 +11881,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "emimi"
     },
     {
       "term": "emo",
@@ -10869,7 +11892,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "emo"
     },
     {
       "term": "Emu",
@@ -10880,7 +11904,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹmu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "emu"
     },
     {
       "term": "Emudo",
@@ -10891,7 +11916,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹmudo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "emudo"
     },
     {
       "term": "Emue",
@@ -10902,7 +11928,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹmụẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "emue"
     },
     {
       "term": "Emuren",
@@ -10913,7 +11940,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "emurẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "emuren"
     },
     {
       "term": "En",
@@ -10924,7 +11952,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "ẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "en"
     },
     {
       "term": "Ena",
@@ -10935,7 +11964,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹna",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ena"
     },
     {
       "term": "Eni",
@@ -10946,7 +11976,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eni"
     },
     {
       "term": "eni ti okan mi yan",
@@ -10956,7 +11987,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eni-ti-okan-mi-yan"
     },
     {
       "term": "enia",
@@ -10968,7 +12000,8 @@ window.ISESE_DATA = {
         "eniyan"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "enia"
     },
     {
       "term": "enikeni",
@@ -10978,7 +12011,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "enikeni"
     },
     {
       "term": "Eninu",
@@ -10989,7 +12023,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹnịnụ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eninu"
     },
     {
       "term": "enjinia",
@@ -10999,7 +12034,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "enjinia"
     },
     {
       "term": "Enu",
@@ -11010,7 +12046,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "enu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "enu"
     },
     {
       "term": "eon",
@@ -11020,7 +12057,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eon"
     },
     {
       "term": "Epa",
@@ -11031,7 +12069,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹpa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "epa"
     },
     {
       "term": "epa roro",
@@ -11041,7 +12080,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "epa-roro"
     },
     {
       "term": "epe la fi n wo epe san",
@@ -11051,7 +12091,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "epe-la-fi-n-wo-epe-san"
     },
     {
       "term": "Epeyo",
@@ -11062,7 +12103,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹpẹyọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "epeyo"
     },
     {
       "term": "epipa",
@@ -11072,7 +12114,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "epipa"
     },
     {
       "term": "Epiya",
@@ -11083,7 +12126,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹpiya",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "epiya"
     },
     {
       "term": "Epo",
@@ -11093,7 +12137,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "epo"
     },
     {
       "term": "epo pupa",
@@ -11103,7 +12148,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "epo-pupa"
     },
     {
       "term": "epo robi",
@@ -11113,7 +12159,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "epo-robi"
     },
     {
       "term": "Epon",
@@ -11124,7 +12171,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹpọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "epon"
     },
     {
       "term": "Eran",
@@ -11135,7 +12183,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹran",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eran"
     },
     {
       "term": "Eranko",
@@ -11146,7 +12195,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹranko",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eranko"
     },
     {
       "term": "eranko ayase",
@@ -11156,7 +12206,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eranko-ayase"
     },
     {
       "term": "Eranmi",
@@ -11167,7 +12218,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹranmi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eranmi"
     },
     {
       "term": "ere",
@@ -11177,7 +12229,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ere"
     },
     {
       "term": "Ere Ibeji",
@@ -11187,7 +12240,8 @@ window.ISESE_DATA = {
       "related": [
         "Ibeji"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ere-ibeji"
     },
     {
       "term": "ere idaraya",
@@ -11197,7 +12251,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ere-idaraya"
     },
     {
       "term": "ere osupa",
@@ -11209,7 +12264,8 @@ window.ISESE_DATA = {
         "eresupa"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ere-osupa"
     },
     {
       "term": "Ereja",
@@ -11220,7 +12276,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹrẹja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ereja"
     },
     {
       "term": "Ereke",
@@ -11231,7 +12288,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹrẹkẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ereke"
     },
     {
       "term": "erekusu",
@@ -11241,7 +12299,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erekusu"
     },
     {
       "term": "Erele",
@@ -11251,7 +12310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erele"
     },
     {
       "term": "Erena",
@@ -11261,7 +12321,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erena"
     },
     {
       "term": "Erewon",
@@ -11272,7 +12333,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹrẹwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "erewon"
     },
     {
       "term": "Eri",
@@ -11283,7 +12345,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eri"
     },
     {
       "term": "erigi",
@@ -11293,7 +12356,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erigi"
     },
     {
       "term": "Eriko",
@@ -11304,7 +12368,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "erikọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eriko"
     },
     {
       "term": "Erin",
@@ -11315,7 +12380,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹrin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "erin"
     },
     {
       "term": "erin keekee",
@@ -11325,7 +12391,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erin-keekee"
     },
     {
       "term": "erin kk",
@@ -11335,7 +12402,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erin-kk"
     },
     {
       "term": "erindinlaaadota",
@@ -11345,7 +12413,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erindinlaaadota"
     },
     {
       "term": "erindinlogbon",
@@ -11355,7 +12424,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erindinlogbon"
     },
     {
       "term": "erindinlogoji",
@@ -11365,7 +12435,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erindinlogoji"
     },
     {
       "term": "erindinlogota",
@@ -11375,7 +12446,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erindinlogota"
     },
     {
       "term": "erindinlogun",
@@ -11385,7 +12457,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erindinlogun"
     },
     {
       "term": "Erinla",
@@ -11396,7 +12469,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹrinla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "erinla"
     },
     {
       "term": "Erinle",
@@ -11406,7 +12480,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinle"
     },
     {
       "term": "erinlelaaadota",
@@ -11416,7 +12491,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinlelaaadota"
     },
     {
       "term": "erinlelogbon",
@@ -11426,7 +12502,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinlelogbon"
     },
     {
       "term": "erinlelogoji",
@@ -11436,7 +12513,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinlelogoji"
     },
     {
       "term": "erinlelogun",
@@ -11446,7 +12524,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinlelogun"
     },
     {
       "term": "erinmi",
@@ -11456,7 +12535,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinmi"
     },
     {
       "term": "erinmilokun",
@@ -11466,7 +12546,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinmilokun"
     },
     {
       "term": "erinpin-eluju",
@@ -11476,7 +12557,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erinpin-eluju"
     },
     {
       "term": "eriru",
@@ -11486,7 +12568,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eriru"
     },
     {
       "term": "erirun",
@@ -11496,7 +12579,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erirun"
     },
     {
       "term": "eriwo yaa!",
@@ -11508,7 +12592,8 @@ window.ISESE_DATA = {
         "eriwo yaa"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eriwo-yaa"
     },
     {
       "term": "Ero",
@@ -11519,7 +12604,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ero"
     },
     {
       "term": "ero agbaworanyo",
@@ -11529,7 +12615,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-agbaworanyo"
     },
     {
       "term": "ero agbeniroke",
@@ -11539,7 +12626,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-agbeniroke"
     },
     {
       "term": "ero amohunmaworan",
@@ -11549,7 +12637,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-amohunmaworan"
     },
     {
       "term": "ero amohuntutu",
@@ -11559,7 +12648,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-amohuntutu"
     },
     {
       "term": "ero amuletutu",
@@ -11569,7 +12659,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-amuletutu"
     },
     {
       "term": "ero amunawa",
@@ -11579,7 +12670,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-amunawa"
     },
     {
       "term": "ero amunawa alefuufu",
@@ -11589,7 +12681,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-amunawa-alefuufu"
     },
     {
       "term": "ero amunimi",
@@ -11599,7 +12692,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-amunimi"
     },
     {
       "term": "ero asoromagbesi",
@@ -11609,7 +12703,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-asoromagbesi"
     },
     {
       "term": "ero ayarabiasa",
@@ -11619,7 +12714,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-ayarabiasa"
     },
     {
       "term": "ero ayaworan",
@@ -11631,7 +12727,8 @@ window.ISESE_DATA = {
         "ero-ayaworan"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-ayaworan"
     },
     {
       "term": "ero gbohungbohun",
@@ -11641,7 +12738,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-gbohungbohun"
     },
     {
       "term": "ero ibanisoro",
@@ -11651,7 +12749,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-ibanisoro"
     },
     {
       "term": "ero ifobo",
@@ -11661,7 +12760,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-ifobo"
     },
     {
       "term": "ero ifoso",
@@ -11671,7 +12771,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-ifoso"
     },
     {
       "term": "ero ilonkan",
@@ -11681,7 +12782,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-ilonkan"
     },
     {
       "term": "ero iranso",
@@ -11691,7 +12793,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-iranso"
     },
     {
       "term": "ero isawari",
@@ -11701,7 +12804,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-isawari"
     },
     {
       "term": "ero isiro",
@@ -11711,7 +12815,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-isiro"
     },
     {
       "term": "ero itewe",
@@ -11721,7 +12826,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ero-itewe"
     },
     {
       "term": "eroja",
@@ -11731,7 +12837,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eroja"
     },
     {
       "term": "erongba",
@@ -11741,7 +12848,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erongba"
     },
     {
       "term": "Eru",
@@ -11752,7 +12860,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹru",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eru"
     },
     {
       "term": "erukuku",
@@ -11762,7 +12871,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "erukuku"
     },
     {
       "term": "Erun",
@@ -11773,7 +12883,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹrun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "erun"
     },
     {
       "term": "Esa",
@@ -11784,7 +12895,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹsa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "esa"
     },
     {
       "term": "Esan",
@@ -11795,7 +12907,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹsan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "esan"
     },
     {
       "term": "Ese",
@@ -11806,7 +12919,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ese"
     },
     {
       "term": "ese-adie",
@@ -11816,7 +12930,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ese-adie"
     },
     {
       "term": "Esi",
@@ -11827,7 +12942,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "eṣi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "esi"
     },
     {
       "term": "Esia",
@@ -11837,7 +12953,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esia"
     },
     {
       "term": "Esin",
@@ -11848,7 +12965,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹṣin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "esin"
     },
     {
       "term": "Esin Adimula",
@@ -11858,7 +12976,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esin-adimula"
     },
     {
       "term": "Esinmirin",
@@ -11868,7 +12987,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esinmirin"
     },
     {
       "term": "esinsin",
@@ -11878,7 +12998,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esinsin"
     },
     {
       "term": "eso",
@@ -11888,7 +13009,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eso"
     },
     {
       "term": "eso ajara",
@@ -11898,7 +13020,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eso-ajara"
     },
     {
       "term": "Esu",
@@ -11910,7 +13033,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "esu"
     },
     {
       "term": "Esu Laalu",
@@ -11920,7 +13044,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esu-laalu"
     },
     {
       "term": "esuro",
@@ -11930,7 +13055,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esuro"
     },
     {
       "term": "esuru",
@@ -11940,7 +13066,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esuru"
     },
     {
       "term": "esuu",
@@ -11950,7 +13077,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "esuu"
     },
     {
       "term": "Eta",
@@ -11961,7 +13089,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eta"
     },
     {
       "term": "etadinlaaadota",
@@ -11971,7 +13100,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etadinlaaadota"
     },
     {
       "term": "etadinlogbon",
@@ -11981,7 +13111,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etadinlogbon"
     },
     {
       "term": "etadinlogoji",
@@ -11991,7 +13122,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etadinlogoji"
     },
     {
       "term": "etadinlogota",
@@ -12001,7 +13133,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etadinlogota"
     },
     {
       "term": "etadinlogun",
@@ -12011,7 +13144,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etadinlogun"
     },
     {
       "term": "Etala",
@@ -12022,7 +13156,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹtala",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "etala"
     },
     {
       "term": "etalelaaadota",
@@ -12032,7 +13167,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etalelaaadota"
     },
     {
       "term": "etalelogbon",
@@ -12042,7 +13178,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etalelogbon"
     },
     {
       "term": "etalelogoji",
@@ -12052,7 +13189,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etalelogoji"
     },
     {
       "term": "etalelogun",
@@ -12062,7 +13200,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etalelogun"
     },
     {
       "term": "Ete",
@@ -12073,7 +13212,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹtẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ete"
     },
     {
       "term": "eteeti",
@@ -12083,7 +13223,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eteeti"
     },
     {
       "term": "Eti",
@@ -12094,7 +13235,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "eti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eti"
     },
     {
       "term": "eti-ologbo",
@@ -12104,7 +13246,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eti-ologbo"
     },
     {
       "term": "etitan",
@@ -12114,7 +13257,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etitan"
     },
     {
       "term": "etitu",
@@ -12124,7 +13268,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "etitu"
     },
     {
       "term": "eto omoniyan",
@@ -12134,7 +13279,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eto-omoniyan"
     },
     {
       "term": "eto saye dokan",
@@ -12144,7 +13290,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eto-saye-dokan"
     },
     {
       "term": "Etu",
@@ -12155,7 +13302,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹtu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "etu"
     },
     {
       "term": "Etupa",
@@ -12166,7 +13314,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹtụpa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "etupa"
     },
     {
       "term": "Etutu",
@@ -12177,7 +13326,8 @@ window.ISESE_DATA = {
         "Ebo",
         "Alaafia"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "etutu"
     },
     {
       "term": "eu",
@@ -12187,7 +13337,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eu"
     },
     {
       "term": "Eun",
@@ -12198,7 +13349,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eun"
     },
     {
       "term": "Eura",
@@ -12209,7 +13361,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹụra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eura"
     },
     {
       "term": "Eure",
@@ -12220,7 +13373,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "eurẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eure"
     },
     {
       "term": "Ewa",
@@ -12231,7 +13385,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ẹwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewa"
     },
     {
       "term": "Ewadun",
@@ -12242,7 +13397,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹwadun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewadun"
     },
     {
       "term": "Ewe",
@@ -12254,7 +13410,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewe"
     },
     {
       "term": "Ewebe",
@@ -12265,7 +13422,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ewebẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewebe"
     },
     {
       "term": "ewedo",
@@ -12275,7 +13433,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ewedo"
     },
     {
       "term": "ewedu",
@@ -12285,7 +13444,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ewedu"
     },
     {
       "term": "eweko",
@@ -12295,7 +13455,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eweko"
     },
     {
       "term": "Ewelere",
@@ -12305,7 +13466,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ewelere"
     },
     {
       "term": "Ewen",
@@ -12316,7 +13478,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "ẹwẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewen"
     },
     {
       "term": "Ewi",
@@ -12326,7 +13489,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ewi"
     },
     {
       "term": "Ewiri",
@@ -12337,7 +13501,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹwiri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewiri"
     },
     {
       "term": "Ewon",
@@ -12348,7 +13513,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewon"
     },
     {
       "term": "Ewu",
@@ -12359,7 +13525,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹwu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewu"
     },
     {
       "term": "ewura",
@@ -12369,7 +13536,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ewura"
     },
     {
       "term": "Ewure",
@@ -12380,7 +13548,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ewurẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewure"
     },
     {
       "term": "Ewuro",
@@ -12391,7 +13560,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ewuro",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ewuro"
     },
     {
       "term": "Eyawo",
@@ -12402,7 +13572,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyawo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyawo"
     },
     {
       "term": "Eye",
@@ -12413,7 +13584,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "eye",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eye"
     },
     {
       "term": "eye aganran",
@@ -12423,7 +13595,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eye-aganran"
     },
     {
       "term": "eye akoko",
@@ -12433,7 +13606,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eye-akoko"
     },
     {
       "term": "eye Sango",
@@ -12443,7 +13617,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eye-sango"
     },
     {
       "term": "eye-oba",
@@ -12453,7 +13628,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eye-oba"
     },
     {
       "term": "eye-oge",
@@ -12463,7 +13639,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eye-oge"
     },
     {
       "term": "eye-opeere",
@@ -12473,7 +13650,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eye-opeere"
     },
     {
       "term": "Eyele",
@@ -12484,7 +13662,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyẹle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyele"
     },
     {
       "term": "eyeye",
@@ -12494,7 +13673,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eyeye"
     },
     {
       "term": "eyi",
@@ -12504,7 +13684,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eyi"
     },
     {
       "term": "Eyin",
@@ -12515,7 +13696,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyin"
     },
     {
       "term": "eyin erin",
@@ -12525,7 +13707,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eyin-erin"
     },
     {
       "term": "eyin ogan",
@@ -12535,7 +13718,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eyin-ogan"
     },
     {
       "term": "eyinjija",
@@ -12545,7 +13729,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "eyinjija"
     },
     {
       "term": "Eyinju",
@@ -12556,7 +13741,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyinju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyinju"
     },
     {
       "term": "Eyo",
@@ -12567,7 +13753,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyo"
     },
     {
       "term": "Eyolo",
@@ -12578,7 +13765,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyọlọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyolo"
     },
     {
       "term": "Eyun",
@@ -12589,7 +13777,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyun"
     },
     {
       "term": "Eyunbo",
@@ -12600,7 +13789,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ẹyunbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "eyunbo"
     },
     {
       "term": "F",
@@ -12610,7 +13800,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "f"
     },
     {
       "term": "fa",
@@ -12620,7 +13811,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fa"
     },
     {
       "term": "faaji",
@@ -12630,7 +13822,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "faaji"
     },
     {
       "term": "faara",
@@ -12640,7 +13833,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "faara"
     },
     {
       "term": "faari",
@@ -12650,7 +13844,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "faari"
     },
     {
       "term": "fada",
@@ -12660,7 +13855,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fada"
     },
     {
       "term": "fadaka",
@@ -12670,7 +13866,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fadaka"
     },
     {
       "term": "fajuro",
@@ -12680,7 +13877,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fajuro"
     },
     {
       "term": "famu",
@@ -12690,7 +13888,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "famu"
     },
     {
       "term": "fanadiomu",
@@ -12700,7 +13899,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fanadiomu"
     },
     {
       "term": "fanimora",
@@ -12710,7 +13910,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fanimora"
     },
     {
       "term": "Faranse",
@@ -12720,7 +13921,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "faranse"
     },
     {
       "term": "farao",
@@ -12730,7 +13932,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "farao"
     },
     {
       "term": "Faweli",
@@ -12741,7 +13944,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "fawẹli",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "faweli"
     },
     {
       "term": "Fayawo",
@@ -12752,7 +13956,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "fayawọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fayawo"
     },
     {
       "term": "Fe",
@@ -12763,7 +13968,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "fẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fe"
     },
     {
       "term": "feeli",
@@ -12773,7 +13979,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "feeli"
     },
     {
       "term": "Fenesuela",
@@ -12783,7 +13990,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fenesuela"
     },
     {
       "term": "Feran",
@@ -12794,7 +14002,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "fẹran",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "feran"
     },
     {
       "term": "fere",
@@ -12804,7 +14013,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fere"
     },
     {
       "term": "ferese",
@@ -12814,7 +14024,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ferese"
     },
     {
       "term": "fi",
@@ -12824,7 +14035,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fi"
     },
     {
       "term": "fidio",
@@ -12834,7 +14046,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fidio"
     },
     {
       "term": "figagbaga",
@@ -12844,7 +14057,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "figagbaga"
     },
     {
       "term": "fiku",
@@ -12854,7 +14068,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fiku"
     },
     {
       "term": "Fila",
@@ -12864,7 +14079,8 @@ window.ISESE_DATA = {
       "related": [
         "Aso oke"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "fila"
     },
     {
       "term": "file saso bora",
@@ -12874,7 +14090,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "file-saso-bora"
     },
     {
       "term": "fipamunijagun",
@@ -12884,7 +14101,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fipamunijagun"
     },
     {
       "term": "fisiisi",
@@ -12894,7 +14112,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fisiisi"
     },
     {
       "term": "fitila",
@@ -12904,7 +14123,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fitila"
     },
     {
       "term": "fitina",
@@ -12914,7 +14134,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fitina"
     },
     {
       "term": "Fo",
@@ -12925,7 +14146,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "fọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fo"
     },
     {
       "term": "fo leti",
@@ -12935,7 +14157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fo-leti"
     },
     {
       "term": "Fofo",
@@ -12946,7 +14169,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "fọfọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fofo"
     },
     {
       "term": "Fon",
@@ -12957,7 +14181,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "fọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fon"
     },
     {
       "term": "Fonfon",
@@ -12968,7 +14193,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "fọnfọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fonfon"
     },
     {
       "term": "fonoloji",
@@ -12978,7 +14204,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fonoloji"
     },
     {
       "term": "foonu",
@@ -12988,7 +14215,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "foonu"
     },
     {
       "term": "fori gbale",
@@ -12998,7 +14226,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fori-gbale"
     },
     {
       "term": "fori jale agbon",
@@ -13008,7 +14237,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fori-jale-agbon"
     },
     {
       "term": "forikori",
@@ -13018,7 +14248,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "forikori"
     },
     {
       "term": "foro wa lenu wo",
@@ -13028,7 +14259,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "foro-wa-lenu-wo"
     },
     {
       "term": "foro wa oro wo lenu",
@@ -13038,7 +14270,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "foro-wa-oro-wo-lenu"
     },
     {
       "term": "Foto",
@@ -13049,7 +14282,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "fọto",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "foto"
     },
     {
       "term": "fotosintesi",
@@ -13059,7 +14293,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fotosintesi"
     },
     {
       "term": "fu",
@@ -13069,7 +14304,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fu"
     },
     {
       "term": "Fulani",
@@ -13079,7 +14315,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fulani"
     },
     {
       "term": "fun",
@@ -13089,7 +14326,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fun"
     },
     {
       "term": "Funfun",
@@ -13100,7 +14338,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "funfun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "funfun"
     },
     {
       "term": "funsaari",
@@ -13110,7 +14349,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "funsaari"
     },
     {
       "term": "fura",
@@ -13120,7 +14360,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "fura"
     },
     {
       "term": "Furo",
@@ -13131,7 +14372,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "furọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "furo"
     },
     {
       "term": "Fuye",
@@ -13142,7 +14384,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "fuyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "fuye"
     },
     {
       "term": "G",
@@ -13152,7 +14395,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "g"
     },
     {
       "term": "ga",
@@ -13162,7 +14406,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ga"
     },
     {
       "term": "ga bi omiran",
@@ -13172,7 +14417,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ga-bi-omiran"
     },
     {
       "term": "ga bi ope",
@@ -13182,7 +14428,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ga-bi-ope"
     },
     {
       "term": "gaari",
@@ -13192,7 +14439,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gaari"
     },
     {
       "term": "gabasi",
@@ -13202,7 +14450,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gabasi"
     },
     {
       "term": "gadagbagadagba",
@@ -13212,7 +14461,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gadagbagadagba"
     },
     {
       "term": "gafara",
@@ -13222,7 +14472,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gafara"
     },
     {
       "term": "Gambari",
@@ -13232,7 +14483,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gambari"
     },
     {
       "term": "Gambia",
@@ -13242,7 +14494,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gambia"
     },
     {
       "term": "gan",
@@ -13252,7 +14505,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gan"
     },
     {
       "term": "Gana",
@@ -13262,7 +14516,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gana"
     },
     {
       "term": "Ganbia",
@@ -13272,7 +14527,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ganbia"
     },
     {
       "term": "Gangan",
@@ -13283,7 +14539,8 @@ window.ISESE_DATA = {
         "Dundun",
         "Onilu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "gangan"
     },
     {
       "term": "garawa",
@@ -13293,7 +14550,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "garawa"
     },
     {
       "term": "gari",
@@ -13303,7 +14561,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gari"
     },
     {
       "term": "GB",
@@ -13313,7 +14572,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gb"
     },
     {
       "term": "gba",
@@ -13323,7 +14583,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gba"
     },
     {
       "term": "gbaatuu",
@@ -13333,7 +14594,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbaatuu"
     },
     {
       "term": "Gbaawe",
@@ -13344,7 +14606,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbaawẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbaawe"
     },
     {
       "term": "gbadun",
@@ -13354,7 +14617,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbadun"
     },
     {
       "term": "gbadura",
@@ -13364,7 +14628,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbadura"
     },
     {
       "term": "Gbagbe",
@@ -13375,7 +14640,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "gbagbe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbagbe"
     },
     {
       "term": "Gbagbo",
@@ -13386,7 +14652,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbagbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbagbo"
     },
     {
       "term": "gbaguuda",
@@ -13396,7 +14663,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbaguuda"
     },
     {
       "term": "Gbajumo",
@@ -13407,7 +14675,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbajumọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbajumo"
     },
     {
       "term": "gbalaja",
@@ -13417,7 +14686,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbalaja"
     },
     {
       "term": "Gbale",
@@ -13428,7 +14698,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbale"
     },
     {
       "term": "gbalegbale",
@@ -13438,7 +14709,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbalegbale"
     },
     {
       "term": "gbana je",
@@ -13448,7 +14720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbana-je"
     },
     {
       "term": "gbanjo",
@@ -13458,7 +14731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbanjo"
     },
     {
       "term": "gbaradi",
@@ -13468,7 +14742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbaradi"
     },
     {
       "term": "Gbe",
@@ -13479,7 +14754,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbe"
     },
     {
       "term": "gbeborun",
@@ -13489,7 +14765,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbeborun"
     },
     {
       "term": "Gbede",
@@ -13499,7 +14776,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbede"
     },
     {
       "term": "gbedegbeyo",
@@ -13509,7 +14787,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbedegbeyo"
     },
     {
       "term": "Gbedu",
@@ -13520,7 +14799,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbẹdu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbedu"
     },
     {
       "term": "gbeegun",
@@ -13530,7 +14810,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbeegun"
     },
     {
       "term": "Gbefe",
@@ -13541,7 +14822,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbẹfẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbefe"
     },
     {
       "term": "Gbegbere",
@@ -13552,7 +14834,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbẹgbẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbegbere"
     },
     {
       "term": "Gbegiri",
@@ -13563,7 +14846,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbẹgiri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbegiri"
     },
     {
       "term": "gbeja",
@@ -13573,7 +14857,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbeja"
     },
     {
       "term": "Gben",
@@ -13584,7 +14869,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gben"
     },
     {
       "term": "gbenagbena",
@@ -13594,7 +14880,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbenagbena"
     },
     {
       "term": "Gbera",
@@ -13604,7 +14891,8 @@ window.ISESE_DATA = {
       "related": [
         "O ya"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "gbera"
     },
     {
       "term": "gbera ga",
@@ -13614,7 +14902,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbera-ga"
     },
     {
       "term": "Gberebi",
@@ -13625,7 +14914,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbẹrẹbi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gberebi"
     },
     {
       "term": "gberefuutu",
@@ -13635,7 +14925,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gberefuutu"
     },
     {
       "term": "Gberun",
@@ -13646,7 +14937,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbẹrun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gberun"
     },
     {
       "term": "gbese le",
@@ -13656,7 +14948,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbese-le"
     },
     {
       "term": "gbi",
@@ -13666,7 +14959,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbi"
     },
     {
       "term": "gbigba",
@@ -13676,7 +14970,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbigba"
     },
     {
       "term": "gbin",
@@ -13686,7 +14981,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbin"
     },
     {
       "term": "gbiyanju",
@@ -13696,7 +14992,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbiyanju"
     },
     {
       "term": "Gbo",
@@ -13707,7 +15004,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbo"
     },
     {
       "term": "Gbodo",
@@ -13718,7 +15016,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbọdọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbodo"
     },
     {
       "term": "gbofungbofun",
@@ -13728,7 +15027,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbofungbofun"
     },
     {
       "term": "Gbogbe",
@@ -13739,7 +15039,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbọgbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbogbe"
     },
     {
       "term": "gbogbo",
@@ -13749,7 +15050,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbogbo"
     },
     {
       "term": "gbokan le",
@@ -13759,7 +15061,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbokan-le"
     },
     {
       "term": "gbolohun",
@@ -13769,7 +15072,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbolohun"
     },
     {
       "term": "gbomogbomo",
@@ -13779,7 +15083,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbomogbomo"
     },
     {
       "term": "Gbon",
@@ -13790,7 +15095,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbon"
     },
     {
       "term": "gbon mi re",
@@ -13802,7 +15108,8 @@ window.ISESE_DATA = {
         "gbon mi re!"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbon-mi-re"
     },
     {
       "term": "Gbongan",
@@ -13813,7 +15120,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbọngan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbongan"
     },
     {
       "term": "gbongbo",
@@ -13823,7 +15131,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gbongbo"
     },
     {
       "term": "Gbonre",
@@ -13834,7 +15143,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbọnre",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbonre"
     },
     {
       "term": "gborin",
@@ -13844,7 +15154,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gborin"
     },
     {
       "term": "Gboro",
@@ -13855,7 +15166,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gbọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gboro"
     },
     {
       "term": "Gbounje",
@@ -13866,7 +15178,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gbọunjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gbounje"
     },
     {
       "term": "Ge",
@@ -13877,7 +15190,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ge"
     },
     {
       "term": "Gedu",
@@ -13888,7 +15202,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gẹdu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gedu"
     },
     {
       "term": "Geesi",
@@ -13898,7 +15213,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "geesi"
     },
     {
       "term": "gege",
@@ -13908,7 +15224,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gege"
     },
     {
       "term": "Gele",
@@ -13918,7 +15235,8 @@ window.ISESE_DATA = {
       "related": [
         "Aso oke"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "gele"
     },
     {
       "term": "Gelede",
@@ -13929,7 +15247,8 @@ window.ISESE_DATA = {
         "Awon Iya",
         "Aje"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "gelede"
     },
     {
       "term": "ghan",
@@ -13939,7 +15258,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ghan"
     },
     {
       "term": "gho",
@@ -13949,7 +15269,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gho"
     },
     {
       "term": "Ghon",
@@ -13960,7 +15281,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ghọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ghon"
     },
     {
       "term": "ghun",
@@ -13970,7 +15292,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ghun"
     },
     {
       "term": "gi",
@@ -13980,7 +15303,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gi"
     },
     {
       "term": "gidi-gidi",
@@ -13990,7 +15314,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gidi-gidi"
     },
     {
       "term": "Gigise",
@@ -14001,7 +15326,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gigisẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gigise"
     },
     {
       "term": "gin",
@@ -14011,7 +15337,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gin"
     },
     {
       "term": "Gini",
@@ -14021,7 +15348,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gini"
     },
     {
       "term": "Gini-Bisau",
@@ -14031,7 +15359,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gini-bisau"
     },
     {
       "term": "giraamu",
@@ -14041,7 +15370,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "giraamu"
     },
     {
       "term": "Giriisi",
@@ -14051,7 +15381,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "giriisi"
     },
     {
       "term": "girimokai",
@@ -14063,7 +15394,8 @@ window.ISESE_DATA = {
         "girimokayi"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "girimokai"
     },
     {
       "term": "Go",
@@ -14074,7 +15406,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "go"
     },
     {
       "term": "Gobi",
@@ -14085,7 +15418,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gọbi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gobi"
     },
     {
       "term": "godogbodo",
@@ -14095,7 +15429,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "godogbodo"
     },
     {
       "term": "Gogo",
@@ -14106,7 +15441,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gọgọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gogo"
     },
     {
       "term": "gogongo",
@@ -14116,7 +15452,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gogongo"
     },
     {
       "term": "goje",
@@ -14126,7 +15463,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "goje"
     },
     {
       "term": "goli",
@@ -14136,7 +15474,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "goli"
     },
     {
       "term": "golofun",
@@ -14146,7 +15485,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "golofun"
     },
     {
       "term": "golomiso",
@@ -14156,7 +15496,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "golomiso"
     },
     {
       "term": "Golugo",
@@ -14167,7 +15508,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gọlugọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "golugo"
     },
     {
       "term": "Gombo",
@@ -14178,7 +15520,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gọmbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gombo"
     },
     {
       "term": "gomina",
@@ -14188,7 +15531,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gomina"
     },
     {
       "term": "Gon",
@@ -14199,7 +15543,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gon"
     },
     {
       "term": "Gonko",
@@ -14210,7 +15555,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "gọnko",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gonko"
     },
     {
       "term": "goobe",
@@ -14220,7 +15566,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "goobe"
     },
     {
       "term": "Gota",
@@ -14231,7 +15578,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "gọta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "gota"
     },
     {
       "term": "gudugudu",
@@ -14241,7 +15589,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gudugudu"
     },
     {
       "term": "guguru",
@@ -14251,7 +15600,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "guguru"
     },
     {
       "term": "gulukoosi",
@@ -14261,7 +15611,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gulukoosi"
     },
     {
       "term": "gun",
@@ -14271,7 +15622,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gun"
     },
     {
       "term": "gunugun",
@@ -14281,7 +15633,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gunugun"
     },
     {
       "term": "guusu",
@@ -14291,7 +15644,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "guusu"
     },
     {
       "term": "Guusu Afirika",
@@ -14301,7 +15655,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "guusu-afirika"
     },
     {
       "term": "gwe",
@@ -14311,7 +15666,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "gwe"
     },
     {
       "term": "H",
@@ -14321,7 +15677,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "h"
     },
     {
       "term": "ha",
@@ -14333,7 +15690,8 @@ window.ISESE_DATA = {
         "ha!"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ha"
     },
     {
       "term": "Habakuku",
@@ -14343,7 +15701,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "habakuku"
     },
     {
       "term": "halaka",
@@ -14353,7 +15712,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "halaka"
     },
     {
       "term": "hanturu",
@@ -14363,7 +15723,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "hanturu"
     },
     {
       "term": "haramu",
@@ -14373,7 +15734,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "haramu"
     },
     {
       "term": "he",
@@ -14383,7 +15745,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "he"
     },
     {
       "term": "Hengwa",
@@ -14394,7 +15757,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "hẹngwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "hengwa"
     },
     {
       "term": "Herimo",
@@ -14405,7 +15769,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "hẹrimọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "herimo"
     },
     {
       "term": "hewu",
@@ -14415,7 +15780,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "hewu"
     },
     {
       "term": "hi",
@@ -14425,7 +15791,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "hi"
     },
     {
       "term": "hilahilo",
@@ -14435,7 +15802,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "hilahilo"
     },
     {
       "term": "ho",
@@ -14445,7 +15813,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ho"
     },
     {
       "term": "horo",
@@ -14455,7 +15824,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "horo"
     },
     {
       "term": "horo eje pupa",
@@ -14465,7 +15835,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "horo-eje-pupa"
     },
     {
       "term": "hunwa",
@@ -14475,7 +15846,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "hunwa"
     },
     {
       "term": "I",
@@ -14485,7 +15857,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "i"
     },
     {
       "term": "Iarefa",
@@ -14495,7 +15868,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iarefa"
     },
     {
       "term": "Iba",
@@ -14506,7 +15880,8 @@ window.ISESE_DATA = {
         "Iwure",
         "Oriki"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iba"
     },
     {
       "term": "iba ponju-ponto",
@@ -14516,7 +15891,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iba-ponju-ponto"
     },
     {
       "term": "ibaada",
@@ -14526,7 +15902,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibaada"
     },
     {
       "term": "ibaaka",
@@ -14536,7 +15913,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibaaka"
     },
     {
       "term": "ibaba",
@@ -14546,7 +15924,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibaba"
     },
     {
       "term": "Ibadan",
@@ -14556,7 +15935,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibadan"
     },
     {
       "term": "ibakasie",
@@ -14566,7 +15946,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibakasie"
     },
     {
       "term": "ibale",
@@ -14576,7 +15957,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibale"
     },
     {
       "term": "ibaluwe",
@@ -14586,7 +15968,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibaluwe"
     },
     {
       "term": "Ibante",
@@ -14597,7 +15980,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibantẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibante"
     },
     {
       "term": "ibanuje",
@@ -14607,7 +15991,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibanuje"
     },
     {
       "term": "Ibarapa",
@@ -14617,7 +16002,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibarapa"
     },
     {
       "term": "ibatiyan",
@@ -14627,7 +16013,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibatiyan"
     },
     {
       "term": "Ibeji",
@@ -14637,7 +16024,8 @@ window.ISESE_DATA = {
       "related": [
         "Ere Ibeji"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ibeji"
     },
     {
       "term": "Ibepe",
@@ -14648,7 +16036,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibẹpẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibepe"
     },
     {
       "term": "Ibere",
@@ -14659,7 +16048,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibere"
     },
     {
       "term": "ibi",
@@ -14669,7 +16059,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibi"
     },
     {
       "term": "ibi-ikohun-isenbaye-si",
@@ -14681,7 +16072,8 @@ window.ISESE_DATA = {
         "ibi ikohun-isenbaye-si"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibi-ikohun-isenbaye-si"
     },
     {
       "term": "ibi-omo",
@@ -14691,7 +16083,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibi-omo"
     },
     {
       "term": "ibikibi",
@@ -14701,7 +16094,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibikibi"
     },
     {
       "term": "Ibile",
@@ -14712,7 +16106,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibilẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibile"
     },
     {
       "term": "Ibo",
@@ -14723,7 +16118,8 @@ window.ISESE_DATA = {
         "Ifa",
         "Odu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ibo"
     },
     {
       "term": "iboji",
@@ -14733,7 +16129,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iboji"
     },
     {
       "term": "Ibolo",
@@ -14743,7 +16140,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibolo"
     },
     {
       "term": "Ibon",
@@ -14754,7 +16152,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibon"
     },
     {
       "term": "ibon agba",
@@ -14764,7 +16163,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibon-agba"
     },
     {
       "term": "ibon agbelejika",
@@ -14774,7 +16174,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibon-agbelejika"
     },
     {
       "term": "ibon jagamu",
@@ -14784,7 +16185,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibon-jagamu"
     },
     {
       "term": "Ibose",
@@ -14795,7 +16197,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibọsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibose"
     },
     {
       "term": "Ibowo",
@@ -14806,7 +16209,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ibọwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ibowo"
     },
     {
       "term": "ibukun",
@@ -14816,7 +16220,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibukun"
     },
     {
       "term": "Ibunu",
@@ -14826,7 +16231,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibunu"
     },
     {
       "term": "ibusun",
@@ -14836,7 +16242,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ibusun"
     },
     {
       "term": "ida",
@@ -14846,7 +16253,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ida"
     },
     {
       "term": "Idaasa",
@@ -14856,7 +16264,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idaasa"
     },
     {
       "term": "idae",
@@ -14866,7 +16275,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idae"
     },
     {
       "term": "idagbasoke",
@@ -14876,7 +16286,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idagbasoke"
     },
     {
       "term": "idaji",
@@ -14886,7 +16297,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idaji"
     },
     {
       "term": "Idale",
@@ -14897,7 +16309,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "idalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "idale"
     },
     {
       "term": "idamarun-un",
@@ -14907,7 +16320,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idamarun-un"
     },
     {
       "term": "idamefa",
@@ -14917,7 +16331,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idamefa"
     },
     {
       "term": "idameje",
@@ -14927,7 +16342,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idameje"
     },
     {
       "term": "idamejo",
@@ -14937,7 +16353,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idamejo"
     },
     {
       "term": "idamesan-an",
@@ -14947,7 +16364,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idamesan-an"
     },
     {
       "term": "idamewaa",
@@ -14957,7 +16375,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idamewaa"
     },
     {
       "term": "Idanre",
@@ -14967,7 +16386,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idanre"
     },
     {
       "term": "idanwo",
@@ -14977,7 +16397,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idanwo"
     },
     {
       "term": "idarin",
@@ -14987,7 +16408,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idarin"
     },
     {
       "term": "idata",
@@ -14997,7 +16419,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idata"
     },
     {
       "term": "Ide",
@@ -15008,7 +16431,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "idẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ide"
     },
     {
       "term": "ideregbe",
@@ -15020,7 +16444,8 @@ window.ISESE_DATA = {
         "ideegbe"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ideregbe"
     },
     {
       "term": "idi",
@@ -15030,7 +16455,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idi"
     },
     {
       "term": "idigbo",
@@ -15040,7 +16466,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idigbo"
     },
     {
       "term": "idije",
@@ -15050,7 +16477,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idije"
     },
     {
       "term": "Idile",
@@ -15061,7 +16489,8 @@ window.ISESE_DATA = {
         "Ile",
         "Omo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "idile"
     },
     {
       "term": "idimu",
@@ -15071,7 +16500,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idimu"
     },
     {
       "term": "idimule",
@@ -15081,7 +16511,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idimule"
     },
     {
       "term": "Ido",
@@ -15092,7 +16523,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "idọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ido"
     },
     {
       "term": "idobale",
@@ -15102,7 +16534,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idobale"
     },
     {
       "term": "Idogbe",
@@ -15112,7 +16545,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idogbe"
     },
     {
       "term": "Idoha",
@@ -15122,7 +16556,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idoha"
     },
     {
       "term": "Idoti",
@@ -15133,7 +16568,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "idọti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "idoti"
     },
     {
       "term": "Idowu",
@@ -15143,7 +16579,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idowu"
     },
     {
       "term": "idunaadura",
@@ -15153,7 +16590,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "idunaadura"
     },
     {
       "term": "Iesi",
@@ -15164,7 +16602,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iẹsi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iesi"
     },
     {
       "term": "Ifa",
@@ -15177,7 +16616,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ifa"
     },
     {
       "term": "ifaara",
@@ -15187,7 +16627,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifaara"
     },
     {
       "term": "ifasiti",
@@ -15200,7 +16641,8 @@ window.ISESE_DATA = {
         "fasiti"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifasiti"
     },
     {
       "term": "Ife",
@@ -15211,7 +16653,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ifẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ife"
     },
     {
       "term": "ifehonuhan",
@@ -15221,7 +16664,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifehonuhan"
     },
     {
       "term": "ifeyinti",
@@ -15231,7 +16675,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifeyinti"
     },
     {
       "term": "ifirosinrooje",
@@ -15241,7 +16686,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifirosinrooje"
     },
     {
       "term": "Ifo",
@@ -15252,7 +16698,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ifọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ifo"
     },
     {
       "term": "ifohunpeniyan",
@@ -15262,7 +16709,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifohunpeniyan"
     },
     {
       "term": "Ifon",
@@ -15272,7 +16720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifon"
     },
     {
       "term": "iforiti",
@@ -15282,7 +16731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iforiti"
     },
     {
       "term": "iforodara",
@@ -15292,7 +16742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iforodara"
     },
     {
       "term": "iforowanilenuwo",
@@ -15302,7 +16753,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iforowanilenuwo"
     },
     {
       "term": "iforowero",
@@ -15312,7 +16764,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iforowero"
     },
     {
       "term": "ifura",
@@ -15322,7 +16775,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ifura"
     },
     {
       "term": "igake",
@@ -15332,7 +16786,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igake"
     },
     {
       "term": "Igala",
@@ -15342,7 +16797,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igala"
     },
     {
       "term": "iganna",
@@ -15352,7 +16808,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iganna"
     },
     {
       "term": "igara",
@@ -15362,7 +16819,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igara"
     },
     {
       "term": "igba",
@@ -15372,7 +16830,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igba"
     },
     {
       "term": "igbaboolu",
@@ -15382,7 +16841,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbaboolu"
     },
     {
       "term": "igbadun",
@@ -15392,7 +16852,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbadun"
     },
     {
       "term": "Igbafe",
@@ -15403,7 +16864,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igbafẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igbafe"
     },
     {
       "term": "Igbagbo",
@@ -15414,7 +16876,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igbagbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igbagbo"
     },
     {
       "term": "igbala",
@@ -15424,7 +16887,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbala"
     },
     {
       "term": "Igbale",
@@ -15435,7 +16899,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igbalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igbale"
     },
     {
       "term": "Igbara-oke",
@@ -15445,7 +16910,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbara-oke"
     },
     {
       "term": "igbaradi",
@@ -15455,7 +16921,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbaradi"
     },
     {
       "term": "igbayekete",
@@ -15465,7 +16932,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbayekete"
     },
     {
       "term": "Igbe",
@@ -15476,7 +16944,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igbe"
     },
     {
       "term": "igbekun",
@@ -15486,7 +16955,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbekun"
     },
     {
       "term": "igbelaruge",
@@ -15496,7 +16966,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbelaruge"
     },
     {
       "term": "igberaga",
@@ -15506,7 +16977,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igberaga"
     },
     {
       "term": "igberiko",
@@ -15516,7 +16988,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igberiko"
     },
     {
       "term": "Igbese",
@@ -15527,7 +17000,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igbesẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igbese"
     },
     {
       "term": "igbin",
@@ -15537,7 +17011,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbin"
     },
     {
       "term": "igbio",
@@ -15547,7 +17022,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbio"
     },
     {
       "term": "igbiwo",
@@ -15557,7 +17033,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbiwo"
     },
     {
       "term": "igbo",
@@ -15567,7 +17044,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbo"
     },
     {
       "term": "igbo kijikiji",
@@ -15577,7 +17055,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbo-kijikiji"
     },
     {
       "term": "Igbomina",
@@ -15587,7 +17066,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igbomina"
     },
     {
       "term": "Igbonwo",
@@ -15598,7 +17078,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igbọnwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igbonwo"
     },
     {
       "term": "igboya",
@@ -15608,7 +17089,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igboya"
     },
     {
       "term": "igi",
@@ -15618,7 +17100,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igi"
     },
     {
       "term": "Igo",
@@ -15629,7 +17112,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igo"
     },
     {
       "term": "igodan",
@@ -15639,7 +17123,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igodan"
     },
     {
       "term": "Igon",
@@ -15650,7 +17135,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "igọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "igon"
     },
     {
       "term": "igun",
@@ -15660,7 +17146,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "igun"
     },
     {
       "term": "Ihinrere",
@@ -15670,7 +17157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ihinrere"
     },
     {
       "term": "ihoho",
@@ -15680,7 +17168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ihoho"
     },
     {
       "term": "ihuhuu-eye",
@@ -15690,7 +17179,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ihuhuu-eye"
     },
     {
       "term": "Ija",
@@ -15700,7 +17190,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ija"
     },
     {
       "term": "Ijabe",
@@ -15711,7 +17202,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijabẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijabe"
     },
     {
       "term": "ijakadi",
@@ -15721,7 +17213,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijakadi"
     },
     {
       "term": "ijakario",
@@ -15731,7 +17224,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijakario"
     },
     {
       "term": "ijakariwo",
@@ -15741,7 +17235,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijakariwo"
     },
     {
       "term": "Ijala",
@@ -15752,7 +17247,8 @@ window.ISESE_DATA = {
         "Ode",
         "Oriki"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ijala"
     },
     {
       "term": "Ijalo",
@@ -15763,7 +17259,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijalọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijalo"
     },
     {
       "term": "ijanu",
@@ -15773,7 +17270,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijanu"
     },
     {
       "term": "ijapa",
@@ -15783,7 +17281,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijapa"
     },
     {
       "term": "ijapa okun",
@@ -15793,7 +17292,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijapa-okun"
     },
     {
       "term": "Ijaye",
@@ -15803,7 +17303,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijaye"
     },
     {
       "term": "Ijebu",
@@ -15814,7 +17315,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijẹbu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijebu"
     },
     {
       "term": "Ijebu-Ode",
@@ -15824,7 +17326,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijebu-ode"
     },
     {
       "term": "Ijegun",
@@ -15835,7 +17338,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijẹgun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijegun"
     },
     {
       "term": "Ijere",
@@ -15846,7 +17350,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijere"
     },
     {
       "term": "Ijesa",
@@ -15856,7 +17361,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijesa"
     },
     {
       "term": "Ijeta",
@@ -15867,7 +17373,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijeta"
     },
     {
       "term": "Ijibiti",
@@ -15877,7 +17384,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijibiti"
     },
     {
       "term": "ijimere",
@@ -15887,7 +17395,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijimere"
     },
     {
       "term": "Ijinle",
@@ -15898,7 +17407,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijinlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijinle"
     },
     {
       "term": "Ijo",
@@ -15909,7 +17419,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijo"
     },
     {
       "term": "Ijoba",
@@ -15920,7 +17431,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ijọba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ijoba"
     },
     {
       "term": "ijoba alagbada",
@@ -15930,7 +17442,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijoba-alagbada"
     },
     {
       "term": "ijoba amunisin",
@@ -15940,7 +17453,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijoba-amunisin"
     },
     {
       "term": "ijokoo",
@@ -15950,7 +17464,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijokoo"
     },
     {
       "term": "Ijoye",
@@ -15961,7 +17476,8 @@ window.ISESE_DATA = {
         "Oba",
         "Baale"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ijoye"
     },
     {
       "term": "iju",
@@ -15971,7 +17487,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iju"
     },
     {
       "term": "Ijumu",
@@ -15981,7 +17498,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ijumu"
     },
     {
       "term": "Ika",
@@ -15991,7 +17509,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ika"
     },
     {
       "term": "ika ifabela",
@@ -16001,7 +17520,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ika-ifabela"
     },
     {
       "term": "Ikale",
@@ -16011,7 +17531,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikale"
     },
     {
       "term": "ikan",
@@ -16021,7 +17542,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikan"
     },
     {
       "term": "ikaniyan",
@@ -16031,7 +17553,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikaniyan"
     },
     {
       "term": "ikara",
@@ -16041,7 +17564,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikara"
     },
     {
       "term": "Ikare",
@@ -16052,7 +17576,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ịkarẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikare"
     },
     {
       "term": "Ikase",
@@ -16063,7 +17588,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikasẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikase"
     },
     {
       "term": "ikata",
@@ -16073,7 +17599,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikata"
     },
     {
       "term": "ike",
@@ -16083,7 +17610,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ike"
     },
     {
       "term": "ikebe",
@@ -16093,7 +17621,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikebe"
     },
     {
       "term": "ikede",
@@ -16103,7 +17632,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikede"
     },
     {
       "term": "Ikegan",
@@ -16114,7 +17644,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikẹgan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikegan"
     },
     {
       "term": "Ikenne",
@@ -16124,7 +17655,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikenne"
     },
     {
       "term": "Ikin",
@@ -16136,7 +17668,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikin"
     },
     {
       "term": "Iko",
@@ -16147,7 +17680,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iko"
     },
     {
       "term": "Ikoide",
@@ -16158,7 +17692,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikoidẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikoide"
     },
     {
       "term": "ikokore",
@@ -16168,7 +17703,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikokore"
     },
     {
       "term": "Ikola",
@@ -16179,7 +17715,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikọla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikola"
     },
     {
       "term": "Ikole",
@@ -16190,7 +17727,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikolẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikole"
     },
     {
       "term": "ikoriko",
@@ -16202,7 +17740,8 @@ window.ISESE_DATA = {
         "ikooko"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikoriko"
     },
     {
       "term": "iku",
@@ -16212,7 +17751,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iku"
     },
     {
       "term": "ikun",
@@ -16222,7 +17762,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikun"
     },
     {
       "term": "Ikunle",
@@ -16233,7 +17774,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ikunlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ikunle"
     },
     {
       "term": "ikuukuu",
@@ -16243,7 +17785,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ikuukuu"
     },
     {
       "term": "ila",
@@ -16253,7 +17796,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ila"
     },
     {
       "term": "ila-oorun",
@@ -16263,7 +17807,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ila-oorun"
     },
     {
       "term": "ilaburu",
@@ -16273,7 +17818,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilaburu"
     },
     {
       "term": "Ilaje",
@@ -16283,7 +17829,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilaje"
     },
     {
       "term": "ilakaka",
@@ -16293,7 +17840,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilakaka"
     },
     {
       "term": "Ilara",
@@ -16303,7 +17851,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilara"
     },
     {
       "term": "Ilara-Mokin",
@@ -16313,7 +17862,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilara-mokin"
     },
     {
       "term": "Ile",
@@ -16325,7 +17875,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ile"
     },
     {
       "term": "Ile Adulawo",
@@ -16335,7 +17886,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-adulawo"
     },
     {
       "term": "ile awosifila",
@@ -16345,7 +17897,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-awosifila"
     },
     {
       "term": "ile aye",
@@ -16355,7 +17908,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-aye"
     },
     {
       "term": "ile ejo",
@@ -16365,7 +17919,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ejo"
     },
     {
       "term": "ile ejo kotemilorun",
@@ -16375,7 +17930,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ejo-kotemilorun"
     },
     {
       "term": "ile eko",
@@ -16385,7 +17941,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-eko"
     },
     {
       "term": "ile ekose-onisegun",
@@ -16395,7 +17952,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ekose-onisegun"
     },
     {
       "term": "ile eye",
@@ -16405,7 +17963,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-eye"
     },
     {
       "term": "ile ifowopamo",
@@ -16415,7 +17974,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ifowopamo"
     },
     {
       "term": "ile ikawe",
@@ -16427,7 +17987,8 @@ window.ISESE_DATA = {
         "ile-ikawe"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ikawe"
     },
     {
       "term": "ile ikohun-isenbaye-si",
@@ -16437,7 +17998,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ikohun-isenbaye-si"
     },
     {
       "term": "ile iwosan",
@@ -16449,7 +18011,8 @@ window.ISESE_DATA = {
         "ile-iwosan"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-iwosan"
     },
     {
       "term": "Ile kaaaro-oojiire",
@@ -16459,7 +18022,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-kaaaro-oojiire"
     },
     {
       "term": "ile kewu",
@@ -16469,7 +18033,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-kewu"
     },
     {
       "term": "ile kiko",
@@ -16479,7 +18044,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-kiko"
     },
     {
       "term": "ile oba",
@@ -16489,7 +18055,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-oba"
     },
     {
       "term": "ile omo",
@@ -16499,7 +18066,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-omo"
     },
     {
       "term": "ile oyin",
@@ -16509,7 +18077,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-oyin"
     },
     {
       "term": "ile-itawe",
@@ -16519,7 +18088,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-itawe"
     },
     {
       "term": "ile-iwe",
@@ -16529,7 +18099,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-iwe"
     },
     {
       "term": "ile-ounje",
@@ -16539,7 +18110,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ile-ounje"
     },
     {
       "term": "Ileele",
@@ -16550,7 +18122,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ileelẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ileele"
     },
     {
       "term": "Ileese",
@@ -16561,7 +18134,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ileeṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ileese"
     },
     {
       "term": "Ileke",
@@ -16572,7 +18146,8 @@ window.ISESE_DATA = {
         "Ade",
         "Oba"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ileke"
     },
     {
       "term": "ilekile",
@@ -16582,7 +18157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilekile"
     },
     {
       "term": "Ilekun",
@@ -16593,7 +18169,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ilẹkun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ilekun"
     },
     {
       "term": "ilera",
@@ -16603,7 +18180,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilera"
     },
     {
       "term": "ileri",
@@ -16613,7 +18191,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ileri"
     },
     {
       "term": "Ilesa",
@@ -16623,7 +18202,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilesa"
     },
     {
       "term": "Ileya",
@@ -16633,7 +18213,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ileya"
     },
     {
       "term": "ilomi afefe",
@@ -16643,7 +18224,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilomi-afefe"
     },
     {
       "term": "Ilorin",
@@ -16653,7 +18235,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilorin"
     },
     {
       "term": "ilosiwaju",
@@ -16663,7 +18246,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilosiwaju"
     },
     {
       "term": "ilowooro",
@@ -16673,7 +18257,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilowooro"
     },
     {
       "term": "ilu",
@@ -16683,7 +18268,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilu"
     },
     {
       "term": "ilumooka",
@@ -16693,7 +18279,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilumooka"
     },
     {
       "term": "ilumoye",
@@ -16703,7 +18290,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ilumoye"
     },
     {
       "term": "imado",
@@ -16713,7 +18301,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imado"
     },
     {
       "term": "imale",
@@ -16725,7 +18314,8 @@ window.ISESE_DATA = {
         "imole"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imale"
     },
     {
       "term": "imeeli",
@@ -16735,7 +18325,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imeeli"
     },
     {
       "term": "imi-ojo",
@@ -16745,7 +18336,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imi-ojo"
     },
     {
       "term": "imisi",
@@ -16755,7 +18347,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imisi"
     },
     {
       "term": "Imo",
@@ -16766,7 +18359,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "imọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "imo"
     },
     {
       "term": "imo ajakale arun",
@@ -16776,7 +18370,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-ajakale-arun"
     },
     {
       "term": "imo arun eweko",
@@ -16786,7 +18381,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-arun-eweko"
     },
     {
       "term": "imo eda-ede",
@@ -16796,7 +18392,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-eda-ede"
     },
     {
       "term": "imo ero",
@@ -16806,7 +18403,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-ero"
     },
     {
       "term": "imo eto oro-aje",
@@ -16816,7 +18414,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-eto-oro-aje"
     },
     {
       "term": "imo ijinle",
@@ -16826,7 +18425,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-ijinle"
     },
     {
       "term": "imo ise ero",
@@ -16836,7 +18436,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-ise-ero"
     },
     {
       "term": "imo isegun",
@@ -16846,7 +18447,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-isegun"
     },
     {
       "term": "imo isiro",
@@ -16856,7 +18458,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-isiro"
     },
     {
       "term": "imo iwalaaye-nnkan onikaako",
@@ -16866,7 +18469,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-iwalaaye-nnkan-onikaako"
     },
     {
       "term": "imo nipa eda eniyan",
@@ -16876,7 +18480,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-nipa-eda-eniyan"
     },
     {
       "term": "imo sayensi",
@@ -16886,7 +18491,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imo-sayensi"
     },
     {
       "term": "imolara",
@@ -16896,7 +18502,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imolara"
     },
     {
       "term": "Imole",
@@ -16907,7 +18514,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "imọlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "imole"
     },
     {
       "term": "Imoran",
@@ -16918,7 +18526,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "imọran",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "imoran"
     },
     {
       "term": "imu",
@@ -16928,7 +18537,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "imu"
     },
     {
       "term": "in",
@@ -16938,7 +18548,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "in"
     },
     {
       "term": "ina",
@@ -16948,7 +18559,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ina"
     },
     {
       "term": "inagije",
@@ -16958,7 +18570,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "inagije"
     },
     {
       "term": "India",
@@ -16968,7 +18581,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "india"
     },
     {
       "term": "indomi",
@@ -16978,7 +18592,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "indomi"
     },
     {
       "term": "Indonesia",
@@ -16988,7 +18603,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "indonesia"
     },
     {
       "term": "inifee-okunrin-sokunrin",
@@ -16998,7 +18614,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "inifee-okunrin-sokunrin"
     },
     {
       "term": "innsi",
@@ -17008,7 +18625,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "innsi"
     },
     {
       "term": "inoki",
@@ -17020,7 +18638,8 @@ window.ISESE_DATA = {
         "inaki"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "inoki"
     },
     {
       "term": "Intaneeti",
@@ -17030,7 +18649,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "intaneeti"
     },
     {
       "term": "io",
@@ -17040,7 +18660,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "io"
     },
     {
       "term": "ipagborun",
@@ -17050,7 +18671,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipagborun"
     },
     {
       "term": "Ipako",
@@ -17061,7 +18683,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ipakọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipako"
     },
     {
       "term": "ipalara",
@@ -17071,7 +18694,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipalara"
     },
     {
       "term": "ipapoda",
@@ -17081,7 +18705,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipapoda"
     },
     {
       "term": "ipata",
@@ -17091,7 +18716,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipata"
     },
     {
       "term": "ipatewo",
@@ -17101,7 +18727,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipatewo"
     },
     {
       "term": "Ipe",
@@ -17112,7 +18739,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ipẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipe"
     },
     {
       "term": "ipebi",
@@ -17122,7 +18750,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipebi"
     },
     {
       "term": "Ipee",
@@ -17133,7 +18762,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ịpẹẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipee"
     },
     {
       "term": "ipejalapaju",
@@ -17143,7 +18773,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipejalapaju"
     },
     {
       "term": "ipekere",
@@ -17153,7 +18784,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipekere"
     },
     {
       "term": "ipenija",
@@ -17163,7 +18795,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipenija"
     },
     {
       "term": "ipenpeju",
@@ -17173,7 +18806,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipenpeju"
     },
     {
       "term": "Ipeta",
@@ -17184,7 +18818,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ipẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipeta"
     },
     {
       "term": "ipeyarun",
@@ -17194,7 +18829,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipeyarun"
     },
     {
       "term": "ipilese",
@@ -17204,7 +18840,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipilese"
     },
     {
       "term": "Ipin",
@@ -17216,7 +18853,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipin"
     },
     {
       "term": "Ipinle",
@@ -17227,7 +18865,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ipinlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipinle"
     },
     {
       "term": "ipinnu",
@@ -17237,7 +18876,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipinnu"
     },
     {
       "term": "ipinya",
@@ -17247,7 +18887,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipinya"
     },
     {
       "term": "ipolongo",
@@ -17257,7 +18898,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipolongo"
     },
     {
       "term": "ipolowo",
@@ -17267,7 +18909,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ipolowo"
     },
     {
       "term": "Ipon",
@@ -17278,7 +18921,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ipọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ipon"
     },
     {
       "term": "Iponju",
@@ -17289,7 +18933,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ipọnju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iponju"
     },
     {
       "term": "ira",
@@ -17299,7 +18944,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ira"
     },
     {
       "term": "ira kunnugba",
@@ -17311,7 +18957,8 @@ window.ISESE_DATA = {
         "ira"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ira-kunnugba"
     },
     {
       "term": "Iraaki",
@@ -17321,7 +18968,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iraaki"
     },
     {
       "term": "Iraani",
@@ -17331,7 +18979,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iraani"
     },
     {
       "term": "Iragbiji",
@@ -17341,7 +18990,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iragbiji"
     },
     {
       "term": "iranti",
@@ -17351,7 +19001,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iranti"
     },
     {
       "term": "Irao",
@@ -17362,7 +19013,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ịraọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irao"
     },
     {
       "term": "Irawo",
@@ -17373,7 +19025,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irawọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irawo"
     },
     {
       "term": "Ire",
@@ -17384,7 +19037,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ire"
     },
     {
       "term": "ireke",
@@ -17394,7 +19048,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ireke"
     },
     {
       "term": "Irekoja",
@@ -17404,7 +19059,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irekoja"
     },
     {
       "term": "Irele",
@@ -17415,7 +19071,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irẹlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irele"
     },
     {
       "term": "iremoje",
@@ -17425,7 +19082,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iremoje"
     },
     {
       "term": "Irepo",
@@ -17436,7 +19094,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irẹpọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irepo"
     },
     {
       "term": "irere",
@@ -17446,7 +19105,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irere"
     },
     {
       "term": "Iresi",
@@ -17457,7 +19117,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irẹsi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iresi"
     },
     {
       "term": "Irete",
@@ -17467,7 +19128,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irete"
     },
     {
       "term": "ireti",
@@ -17477,7 +19139,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ireti"
     },
     {
       "term": "iri",
@@ -17487,7 +19150,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iri"
     },
     {
       "term": "irin",
@@ -17497,7 +19161,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irin"
     },
     {
       "term": "irinkerindo",
@@ -17507,7 +19172,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irinkerindo"
     },
     {
       "term": "Irinse",
@@ -17518,7 +19184,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irinṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irinse"
     },
     {
       "term": "irinwo",
@@ -17528,7 +19195,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irinwo"
     },
     {
       "term": "Iro",
@@ -17539,7 +19207,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iro"
     },
     {
       "term": "Iroke",
@@ -17550,7 +19219,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irọkẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iroke"
     },
     {
       "term": "Iroke Ifa",
@@ -17561,7 +19231,8 @@ window.ISESE_DATA = {
         "Ifa",
         "Opon Ifa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iroke-ifa"
     },
     {
       "term": "Iroko",
@@ -17571,7 +19242,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iroko"
     },
     {
       "term": "Irole",
@@ -17582,7 +19254,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irọlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irole"
     },
     {
       "term": "ironupiwada",
@@ -17592,7 +19265,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ironupiwada"
     },
     {
       "term": "Irori",
@@ -17603,7 +19277,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "irọri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "irori"
     },
     {
       "term": "Irosun",
@@ -17613,7 +19288,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irosun"
     },
     {
       "term": "iroyin",
@@ -17623,7 +19299,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iroyin"
     },
     {
       "term": "iroyin eleje",
@@ -17633,7 +19310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iroyin-eleje"
     },
     {
       "term": "iru",
@@ -17643,7 +19321,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iru"
     },
     {
       "term": "irukere",
@@ -17653,7 +19332,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irukere"
     },
     {
       "term": "irun",
@@ -17663,7 +19343,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irun"
     },
     {
       "term": "irungbon",
@@ -17673,7 +19354,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irungbon"
     },
     {
       "term": "irunkirun",
@@ -17683,7 +19365,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irunkirun"
     },
     {
       "term": "irunmarugbo",
@@ -17693,7 +19376,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "irunmarugbo"
     },
     {
       "term": "Irunmole",
@@ -17704,7 +19388,8 @@ window.ISESE_DATA = {
         "Orisa",
         "Olodumare"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "irunmole"
     },
     {
       "term": "Isa",
@@ -17715,7 +19400,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isa"
     },
     {
       "term": "isaaro",
@@ -17725,7 +19411,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isaaro"
     },
     {
       "term": "isakole",
@@ -17735,7 +19422,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isakole"
     },
     {
       "term": "Isale",
@@ -17746,7 +19434,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "isalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isale"
     },
     {
       "term": "Isan",
@@ -17757,7 +19446,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isan"
     },
     {
       "term": "Isana",
@@ -17768,7 +19458,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣana",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isana"
     },
     {
       "term": "isansa",
@@ -17778,7 +19469,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isansa"
     },
     {
       "term": "Isapa",
@@ -17789,7 +19481,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣapa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isapa"
     },
     {
       "term": "Isasun",
@@ -17800,7 +19493,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣasun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isasun"
     },
     {
       "term": "isatunto",
@@ -17810,7 +19504,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isatunto"
     },
     {
       "term": "Ise",
@@ -17821,7 +19516,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ise"
     },
     {
       "term": "ise amurele",
@@ -17831,7 +19527,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ise-amurele"
     },
     {
       "term": "ise eniyan nise eranko",
@@ -17841,7 +19538,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ise-eniyan-nise-eranko"
     },
     {
       "term": "ise-osin-oyin",
@@ -17851,7 +19549,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ise-osin-oyin"
     },
     {
       "term": "Iseda",
@@ -17862,7 +19561,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣẹda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iseda"
     },
     {
       "term": "Iseju",
@@ -17873,7 +19573,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣẹju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iseju"
     },
     {
       "term": "iseju-aaya",
@@ -17883,7 +19584,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iseju-aaya"
     },
     {
       "term": "Isele",
@@ -17894,7 +19596,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣẹlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isele"
     },
     {
       "term": "Iselu",
@@ -17905,7 +19608,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣelu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iselu"
     },
     {
       "term": "isenbaye",
@@ -17915,7 +19619,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isenbaye"
     },
     {
       "term": "Isenu",
@@ -17926,7 +19631,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣẹnu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isenu"
     },
     {
       "term": "Isese",
@@ -17938,7 +19644,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "isese"
     },
     {
       "term": "isetofabo",
@@ -17948,7 +19655,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isetofabo"
     },
     {
       "term": "isikanrin",
@@ -17958,7 +19666,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isikanrin"
     },
     {
       "term": "Isikieli",
@@ -17968,7 +19677,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isikieli"
     },
     {
       "term": "isikinrin",
@@ -17978,7 +19688,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isikinrin"
     },
     {
       "term": "Isile",
@@ -17989,7 +19700,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣile",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isile"
     },
     {
       "term": "Isin",
@@ -18000,7 +19712,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isin"
     },
     {
       "term": "isinku",
@@ -18010,7 +19723,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isinku"
     },
     {
       "term": "isinmi",
@@ -18020,7 +19734,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isinmi"
     },
     {
       "term": "Isireli",
@@ -18030,7 +19745,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isireli"
     },
     {
       "term": "Isirun",
@@ -18041,7 +19757,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣirun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isirun"
     },
     {
       "term": "Iso",
@@ -18052,7 +19769,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iso"
     },
     {
       "term": "Isobo",
@@ -18062,7 +19780,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isobo"
     },
     {
       "term": "Isola",
@@ -18072,7 +19791,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isola"
     },
     {
       "term": "Isoro",
@@ -18083,7 +19803,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣoro",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isoro"
     },
     {
       "term": "Isu",
@@ -18094,7 +19815,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isu"
     },
     {
       "term": "isu-nikan-koniyan",
@@ -18104,7 +19826,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "isu-nikan-koniyan"
     },
     {
       "term": "Isupo",
@@ -18115,7 +19838,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣupo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isupo"
     },
     {
       "term": "Isura",
@@ -18126,7 +19850,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iṣura",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "isura"
     },
     {
       "term": "ita",
@@ -18136,7 +19861,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ita"
     },
     {
       "term": "itadogun",
@@ -18146,7 +19872,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "itadogun"
     },
     {
       "term": "Itali",
@@ -18156,7 +19883,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "itali"
     },
     {
       "term": "itan",
@@ -18166,7 +19894,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "itan"
     },
     {
       "term": "itawe",
@@ -18176,7 +19905,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "itawe"
     },
     {
       "term": "Itele",
@@ -18187,7 +19917,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "itẹle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "itele"
     },
     {
       "term": "itelorun",
@@ -18197,7 +19928,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "itelorun"
     },
     {
       "term": "iti",
@@ -18207,7 +19939,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iti"
     },
     {
       "term": "Itiopia",
@@ -18217,7 +19950,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "itiopia"
     },
     {
       "term": "Ito",
@@ -18228,7 +19962,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "itọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ito"
     },
     {
       "term": "ito suga",
@@ -18238,7 +19973,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ito-suga"
     },
     {
       "term": "Iwa",
@@ -18249,7 +19985,8 @@ window.ISESE_DATA = {
         "Omoluwabi",
         "Iwa Pele"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iwa"
     },
     {
       "term": "Iwa Pele",
@@ -18261,7 +19998,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwa-pele"
     },
     {
       "term": "iwaju",
@@ -18271,7 +20009,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwaju"
     },
     {
       "term": "iwan",
@@ -18281,7 +20020,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwan"
     },
     {
       "term": "Iware",
@@ -18292,7 +20032,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iwarẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iware"
     },
     {
       "term": "Iwarefa",
@@ -18302,7 +20043,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwarefa"
     },
     {
       "term": "Iwe",
@@ -18313,7 +20055,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "iwe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwe"
     },
     {
       "term": "iwe agberoyinjade",
@@ -18323,7 +20066,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwe-agberoyinjade"
     },
     {
       "term": "iwe iroyin",
@@ -18333,7 +20077,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwe-iroyin"
     },
     {
       "term": "Iwefa",
@@ -18344,7 +20089,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iwẹfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwefa"
     },
     {
       "term": "iwi",
@@ -18354,7 +20100,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwi"
     },
     {
       "term": "iwin",
@@ -18364,7 +20111,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwin"
     },
     {
       "term": "Iwo",
@@ -18375,7 +20123,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwo"
     },
     {
       "term": "Iwo Popo",
@@ -18385,7 +20134,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwo-popo"
     },
     {
       "term": "iwo-oorun",
@@ -18395,7 +20145,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwo-oorun"
     },
     {
       "term": "Iwode",
@@ -18406,7 +20157,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iwọde",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwode"
     },
     {
       "term": "Iwori",
@@ -18416,7 +20168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwori"
     },
     {
       "term": "Iwosan",
@@ -18428,7 +20181,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwosan"
     },
     {
       "term": "iwu",
@@ -18438,7 +20192,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwu"
     },
     {
       "term": "Iwure",
@@ -18450,7 +20205,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "iwure"
     },
     {
       "term": "iwuri",
@@ -18460,7 +20216,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwuri"
     },
     {
       "term": "iwuye",
@@ -18470,7 +20227,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iwuye"
     },
     {
       "term": "Iya",
@@ -18481,7 +20239,8 @@ window.ISESE_DATA = {
         "Baba",
         "Agba"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iya"
     },
     {
       "term": "iyaalu",
@@ -18491,7 +20250,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyaalu"
     },
     {
       "term": "iyadudu",
@@ -18501,7 +20261,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyadudu"
     },
     {
       "term": "iyaleta",
@@ -18511,7 +20272,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyaleta"
     },
     {
       "term": "Iyalorisa",
@@ -18522,7 +20284,8 @@ window.ISESE_DATA = {
         "Orisa",
         "Babalorisa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iyalorisa"
     },
     {
       "term": "Iyamopo",
@@ -18532,7 +20295,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyamopo"
     },
     {
       "term": "iyan",
@@ -18542,7 +20306,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyan"
     },
     {
       "term": "Iyanda",
@@ -18552,7 +20317,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyanda"
     },
     {
       "term": "iyanga",
@@ -18562,7 +20328,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyanga"
     },
     {
       "term": "Iyanifa",
@@ -18573,7 +20340,8 @@ window.ISESE_DATA = {
         "Ifa",
         "Babalawo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iyanifa"
     },
     {
       "term": "iyanrin",
@@ -18583,7 +20351,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyanrin"
     },
     {
       "term": "iyawo",
@@ -18593,7 +20362,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyawo"
     },
     {
       "term": "Iye",
@@ -18604,7 +20374,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iye"
     },
     {
       "term": "Iyefun",
@@ -18615,7 +20386,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyẹfun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyefun"
     },
     {
       "term": "iyekan",
@@ -18625,7 +20397,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyekan"
     },
     {
       "term": "iyemeji",
@@ -18635,7 +20408,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyemeji"
     },
     {
       "term": "Iyen",
@@ -18646,7 +20420,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "iyẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyen"
     },
     {
       "term": "iyere Ifa",
@@ -18656,7 +20431,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyere-ifa"
     },
     {
       "term": "Iyerosun",
@@ -18668,7 +20444,8 @@ window.ISESE_DATA = {
         "Odu",
         "Ifa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "iyerosun"
     },
     {
       "term": "Iyewu",
@@ -18679,7 +20456,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyẹwu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyewu"
     },
     {
       "term": "iyeye",
@@ -18689,7 +20467,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyeye"
     },
     {
       "term": "Iyo",
@@ -18700,7 +20479,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyo"
     },
     {
       "term": "iyo oyinbo",
@@ -18710,7 +20490,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "iyo-oyinbo"
     },
     {
       "term": "Iyoba",
@@ -18721,7 +20502,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyọba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyoba"
     },
     {
       "term": "Iyonda",
@@ -18732,7 +20514,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyọnda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyonda"
     },
     {
       "term": "Iyun",
@@ -18743,7 +20526,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "iyun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "iyun"
     },
     {
       "term": "J",
@@ -18753,7 +20537,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "j"
     },
     {
       "term": "ja",
@@ -18763,7 +20548,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ja"
     },
     {
       "term": "jaa",
@@ -18773,7 +20559,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jaa"
     },
     {
       "term": "jade",
@@ -18783,7 +20570,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jade"
     },
     {
       "term": "jaguda",
@@ -18793,7 +20581,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jaguda"
     },
     {
       "term": "jagunjagun",
@@ -18803,7 +20592,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jagunjagun"
     },
     {
       "term": "Jalumi",
@@ -18813,7 +20603,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jalumi"
     },
     {
       "term": "Jamani",
@@ -18823,7 +20614,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jamani"
     },
     {
       "term": "jamba",
@@ -18833,7 +20625,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jamba"
     },
     {
       "term": "Jameika",
@@ -18843,7 +20636,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jameika"
     },
     {
       "term": "jan",
@@ -18853,7 +20647,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jan"
     },
     {
       "term": "jangiroba",
@@ -18863,7 +20658,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jangiroba"
     },
     {
       "term": "jankariwo",
@@ -18873,7 +20669,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jankariwo"
     },
     {
       "term": "Janmoo",
@@ -18884,7 +20681,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "janmọọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "janmoo"
     },
     {
       "term": "Jare",
@@ -18894,7 +20692,8 @@ window.ISESE_DATA = {
       "related": [
         "E joo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "jare"
     },
     {
       "term": "jaye",
@@ -18904,7 +20703,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jaye"
     },
     {
       "term": "Je",
@@ -18915,7 +20715,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "jẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "je"
     },
     {
       "term": "je agbonrin esi lobe",
@@ -18925,7 +20726,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "je-agbonrin-esi-lobe"
     },
     {
       "term": "Je ka lo",
@@ -18936,7 +20738,8 @@ window.ISESE_DATA = {
         "O ya",
         "Gbera"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "je-ka-lo"
     },
     {
       "term": "jebure awo olugbebe",
@@ -18946,7 +20749,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jebure-awo-olugbebe"
     },
     {
       "term": "Jegun",
@@ -18956,7 +20760,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jegun"
     },
     {
       "term": "Jejere",
@@ -18967,7 +20772,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "jẹjẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jejere"
     },
     {
       "term": "jeleosinmi",
@@ -18979,7 +20785,8 @@ window.ISESE_DATA = {
         "jelesinmi"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jeleosinmi"
     },
     {
       "term": "Jen",
@@ -18990,7 +20797,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "jẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jen"
     },
     {
       "term": "jenereto",
@@ -19000,7 +20808,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jenereto"
     },
     {
       "term": "Jenesisi",
@@ -19010,7 +20819,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jenesisi"
     },
     {
       "term": "jenna",
@@ -19020,7 +20830,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jenna"
     },
     {
       "term": "Jenno",
@@ -19031,7 +20842,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "jẹnnọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jenno"
     },
     {
       "term": "Jepaani",
@@ -19041,7 +20853,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jepaani"
     },
     {
       "term": "jero",
@@ -19051,7 +20864,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jero"
     },
     {
       "term": "Jerun",
@@ -19062,7 +20876,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "jẹrun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jerun"
     },
     {
       "term": "Jeun",
@@ -19073,7 +20888,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "jeun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jeun"
     },
     {
       "term": "Jewo",
@@ -19084,7 +20900,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "jẹwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jewo"
     },
     {
       "term": "ji",
@@ -19094,7 +20911,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ji"
     },
     {
       "term": "jibiti",
@@ -19104,7 +20922,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jibiti"
     },
     {
       "term": "jiga",
@@ -19114,7 +20933,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jiga"
     },
     {
       "term": "Jije",
@@ -19125,7 +20945,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "jijẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jije"
     },
     {
       "term": "Jimo",
@@ -19136,7 +20957,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "jimọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jimo"
     },
     {
       "term": "jin",
@@ -19146,7 +20968,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jin"
     },
     {
       "term": "jinki",
@@ -19156,7 +20979,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jinki"
     },
     {
       "term": "jinna",
@@ -19166,7 +20990,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jinna"
     },
     {
       "term": "jiroro",
@@ -19176,7 +21001,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jiroro"
     },
     {
       "term": "Jo",
@@ -19187,7 +21013,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "jọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "jo"
     },
     {
       "term": "jo bi okoto",
@@ -19197,7 +21024,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jo-bi-okoto"
     },
     {
       "term": "Jodani",
@@ -19207,7 +21035,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jodani"
     },
     {
       "term": "Jojia",
@@ -19217,7 +21046,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jojia"
     },
     {
       "term": "jokoo",
@@ -19227,7 +21057,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jokoo"
     },
     {
       "term": "jokujoku",
@@ -19237,7 +21068,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jokujoku"
     },
     {
       "term": "jomijoke",
@@ -19247,7 +21079,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "jomijoke"
     },
     {
       "term": "Josua",
@@ -19257,7 +21090,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "josua"
     },
     {
       "term": "ju",
@@ -19267,7 +21101,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ju"
     },
     {
       "term": "juba",
@@ -19277,7 +21112,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "juba"
     },
     {
       "term": "juba ehoro",
@@ -19287,7 +21123,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "juba-ehoro"
     },
     {
       "term": "K",
@@ -19297,7 +21134,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "k"
     },
     {
       "term": "ka",
@@ -19307,7 +21145,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ka"
     },
     {
       "term": "ka rin ka po, yiye ni n yeni",
@@ -19320,7 +21159,8 @@ window.ISESE_DATA = {
         "yiye ni n yeni"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ka-rin-ka-po-yiye-ni-n-yeni"
     },
     {
       "term": "kaa",
@@ -19330,7 +21170,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaa"
     },
     {
       "term": "Kaaaro",
@@ -19341,7 +21182,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "kaaarọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kaaaro"
     },
     {
       "term": "Kaabo",
@@ -19351,7 +21193,8 @@ window.ISESE_DATA = {
       "related": [
         "Pele"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "kaabo"
     },
     {
       "term": "kaadi",
@@ -19361,7 +21204,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaadi"
     },
     {
       "term": "kaadi pupa",
@@ -19371,7 +21215,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaadi-pupa"
     },
     {
       "term": "Kaale",
@@ -19382,7 +21227,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "kaalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kaale"
     },
     {
       "term": "kaasan",
@@ -19392,7 +21238,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaasan"
     },
     {
       "term": "kaaya",
@@ -19402,7 +21249,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaaya"
     },
     {
       "term": "kabeeji",
@@ -19412,7 +21260,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kabeeji"
     },
     {
       "term": "Kabiyesi",
@@ -19424,7 +21273,8 @@ window.ISESE_DATA = {
         "Kabiyesi!"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kabiyesi"
     },
     {
       "term": "kabukabu",
@@ -19434,7 +21284,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kabukabu"
     },
     {
       "term": "kadara",
@@ -19444,7 +21295,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kadara"
     },
     {
       "term": "kaju",
@@ -19454,7 +21306,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaju"
     },
     {
       "term": "kaka",
@@ -19464,7 +21317,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "prep",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kaka"
     },
     {
       "term": "kakaki",
@@ -19474,7 +21328,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kakaki"
     },
     {
       "term": "Kakanda",
@@ -19484,7 +21339,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kakanda"
     },
     {
       "term": "kakuloosi",
@@ -19494,7 +21350,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kakuloosi"
     },
     {
       "term": "Kalaba",
@@ -19504,7 +21361,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kalaba"
     },
     {
       "term": "kalamu",
@@ -19514,7 +21372,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kalamu"
     },
     {
       "term": "kalolo",
@@ -19524,7 +21383,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kalolo"
     },
     {
       "term": "kalori",
@@ -19534,7 +21394,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kalori"
     },
     {
       "term": "Kamera",
@@ -19545,7 +21406,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kamẹra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kamera"
     },
     {
       "term": "Kameruunu",
@@ -19555,7 +21417,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kameruunu"
     },
     {
       "term": "kan",
@@ -19565,7 +21428,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kan"
     },
     {
       "term": "Kanada",
@@ -19575,7 +21439,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kanada"
     },
     {
       "term": "kanafuru",
@@ -19587,7 +21452,8 @@ window.ISESE_DATA = {
         "kannafuru"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kanafuru"
     },
     {
       "term": "Kanbodia",
@@ -19597,7 +21463,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kanbodia"
     },
     {
       "term": "kanga",
@@ -19607,7 +21474,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kanga"
     },
     {
       "term": "kankere",
@@ -19619,7 +21487,8 @@ window.ISESE_DATA = {
         "konkere"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kankere"
     },
     {
       "term": "kannago",
@@ -19631,7 +21500,8 @@ window.ISESE_DATA = {
         "kannango"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kannago"
     },
     {
       "term": "kannakanna",
@@ -19641,7 +21511,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kannakanna"
     },
     {
       "term": "kanwun",
@@ -19653,7 +21524,8 @@ window.ISESE_DATA = {
         "kan-un"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kanwun"
     },
     {
       "term": "kara o le!",
@@ -19665,7 +21537,8 @@ window.ISESE_DATA = {
         "kara o le"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kara-o-le"
     },
     {
       "term": "kare",
@@ -19677,7 +21550,8 @@ window.ISESE_DATA = {
         "kare!"
       ],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kare"
     },
     {
       "term": "kari bi kuo ti a",
@@ -19687,7 +21561,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kari-bi-kuo-ti-a"
     },
     {
       "term": "karooti",
@@ -19697,7 +21572,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "karooti"
     },
     {
       "term": "karun-un",
@@ -19707,7 +21583,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "karun-un"
     },
     {
       "term": "karuwa",
@@ -19717,7 +21594,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "karuwa"
     },
     {
       "term": "KASA",
@@ -19727,7 +21605,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kasa"
     },
     {
       "term": "katakata",
@@ -19737,7 +21616,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "katakata"
     },
     {
       "term": "Kawe",
@@ -19748,7 +21628,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "kawe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kawe"
     },
     {
       "term": "kawoboju-kokoro",
@@ -19758,7 +21639,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kawoboju-kokoro"
     },
     {
       "term": "kayeefi",
@@ -19768,7 +21650,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kayeefi"
     },
     {
       "term": "ke",
@@ -19778,7 +21661,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ke"
     },
     {
       "term": "keeki",
@@ -19788,7 +21672,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "keeki"
     },
     {
       "term": "Kefa",
@@ -19799,7 +21684,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "kẹfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kefa"
     },
     {
       "term": "keferi",
@@ -19809,7 +21695,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "keferi"
     },
     {
       "term": "Kehinde",
@@ -19819,7 +21706,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kehinde"
     },
     {
       "term": "keje",
@@ -19829,7 +21717,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "keje"
     },
     {
       "term": "keji",
@@ -19839,7 +21728,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "keji"
     },
     {
       "term": "Kejo",
@@ -19850,7 +21740,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "kẹjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kejo"
     },
     {
       "term": "Keke",
@@ -19861,7 +21752,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kẹkẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "keke"
     },
     {
       "term": "Kekoo",
@@ -19872,7 +21764,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kẹkọọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kekoo"
     },
     {
       "term": "kemisiri",
@@ -19882,7 +21775,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kemisiri"
     },
     {
       "term": "Kenya",
@@ -19892,7 +21786,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kenya"
     },
     {
       "term": "kere",
@@ -19902,7 +21797,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kere"
     },
     {
       "term": "kere-ugun",
@@ -19912,7 +21808,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kere-ugun"
     },
     {
       "term": "Keresimesi",
@@ -19922,7 +21819,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "keresimesi"
     },
     {
       "term": "kereyoonu",
@@ -19932,7 +21830,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kereyoonu"
     },
     {
       "term": "Kerin",
@@ -19943,7 +21842,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "kẹrin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kerin"
     },
     {
       "term": "kesan-an",
@@ -19953,7 +21853,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kesan-an"
     },
     {
       "term": "Kese",
@@ -19964,7 +21865,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kẹsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kese"
     },
     {
       "term": "Keta",
@@ -19975,7 +21877,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "kẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "keta"
     },
     {
       "term": "kete",
@@ -19985,7 +21888,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kete"
     },
     {
       "term": "ketekete",
@@ -19995,7 +21899,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ketekete"
     },
     {
       "term": "Ketu",
@@ -20005,7 +21910,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ketu"
     },
     {
       "term": "Keturu",
@@ -20016,7 +21922,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kẹturu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "keturu"
     },
     {
       "term": "Kewaa",
@@ -20027,7 +21934,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "kẹwaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kewaa"
     },
     {
       "term": "kewu",
@@ -20037,7 +21945,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kewu"
     },
     {
       "term": "Keyinde",
@@ -20047,7 +21956,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "keyinde"
     },
     {
       "term": "ki",
@@ -20057,7 +21967,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ki"
     },
     {
       "term": "Ki lo de?",
@@ -20067,7 +21978,8 @@ window.ISESE_DATA = {
       "related": [
         "Ki lo sele?"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ki-lo-de"
     },
     {
       "term": "Ki lo sele?",
@@ -20077,7 +21989,8 @@ window.ISESE_DATA = {
       "related": [
         "Ki lo de?"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ki-lo-sele"
     },
     {
       "term": "ki ni",
@@ -20087,7 +22000,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ki-ni"
     },
     {
       "term": "kii",
@@ -20097,7 +22011,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kii"
     },
     {
       "term": "kijipa",
@@ -20107,7 +22022,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kijipa"
     },
     {
       "term": "kilaasi",
@@ -20117,7 +22033,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kilaasi"
     },
     {
       "term": "Kilo",
@@ -20128,7 +22045,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kilọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kilo"
     },
     {
       "term": "kilogiraamu",
@@ -20138,7 +22056,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kilogiraamu"
     },
     {
       "term": "kilomita",
@@ -20148,7 +22067,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kilomita"
     },
     {
       "term": "kilorofi",
@@ -20158,7 +22078,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kilorofi"
     },
     {
       "term": "kin-in-ni",
@@ -20170,7 +22091,8 @@ window.ISESE_DATA = {
         "kiini"
       ],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kin-in-ni"
     },
     {
       "term": "kindinrin",
@@ -20180,7 +22102,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kindinrin"
     },
     {
       "term": "kini",
@@ -20190,7 +22113,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kini"
     },
     {
       "term": "kiniun",
@@ -20202,7 +22126,8 @@ window.ISESE_DATA = {
         "kinniun"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kiniun"
     },
     {
       "term": "kinkinrinmiyin",
@@ -20212,7 +22137,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kinkinrinmiyin"
     },
     {
       "term": "Kirisendomu",
@@ -20222,7 +22148,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kirisendomu"
     },
     {
       "term": "kita",
@@ -20232,7 +22159,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kita"
     },
     {
       "term": "kitipa",
@@ -20242,7 +22170,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kitipa"
     },
     {
       "term": "kitipi",
@@ -20252,7 +22181,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kitipi"
     },
     {
       "term": "kiweje",
@@ -20262,7 +22192,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kiweje"
     },
     {
       "term": "Ko",
@@ -20273,7 +22204,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ko"
     },
     {
       "term": "Ko buru",
@@ -20283,7 +22215,8 @@ window.ISESE_DATA = {
       "related": [
         "Alaafia"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ko-buru"
     },
     {
       "term": "ko tope",
@@ -20293,7 +22226,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ko-tope"
     },
     {
       "term": "Ko ye mi",
@@ -20303,7 +22237,8 @@ window.ISESE_DATA = {
       "related": [
         "O ye mi"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ko-ye-mi"
     },
     {
       "term": "ko-la-ko-sagbe",
@@ -20313,7 +22248,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ko-la-ko-sagbe"
     },
     {
       "term": "Kobo",
@@ -20324,7 +22260,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kọbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kobo"
     },
     {
       "term": "koda",
@@ -20334,7 +22271,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koda"
     },
     {
       "term": "Kofi",
@@ -20345,7 +22283,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kọfi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kofi"
     },
     {
       "term": "Kofoworola",
@@ -20355,7 +22294,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kofoworola"
     },
     {
       "term": "kogba wole",
@@ -20365,7 +22305,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kogba-wole"
     },
     {
       "term": "Koja",
@@ -20376,7 +22317,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kọja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "koja"
     },
     {
       "term": "Kojoda",
@@ -20386,7 +22328,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kojoda"
     },
     {
       "term": "koko",
@@ -20398,7 +22341,8 @@ window.ISESE_DATA = {
         "ikoko"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koko"
     },
     {
       "term": "koko-oro",
@@ -20408,7 +22352,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koko-oro"
     },
     {
       "term": "kokodia",
@@ -20418,7 +22363,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kokodia"
     },
     {
       "term": "kokondo",
@@ -20428,7 +22374,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kokondo"
     },
     {
       "term": "Kokoro",
@@ -20439,7 +22386,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kọkọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kokoro"
     },
     {
       "term": "kokoro arun",
@@ -20449,7 +22397,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kokoro-arun"
     },
     {
       "term": "Kokoye",
@@ -20459,7 +22408,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kokoye"
     },
     {
       "term": "Kole",
@@ -20470,7 +22420,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kolẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kole"
     },
     {
       "term": "kolekole",
@@ -20480,7 +22431,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kolekole"
     },
     {
       "term": "kolikoli",
@@ -20490,7 +22442,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kolikoli"
     },
     {
       "term": "kolo",
@@ -20500,7 +22453,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kolo"
     },
     {
       "term": "kolofin",
@@ -20510,7 +22464,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kolofin"
     },
     {
       "term": "kolokolo",
@@ -20520,7 +22475,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kolokolo"
     },
     {
       "term": "kololo",
@@ -20530,7 +22486,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kololo"
     },
     {
       "term": "Kolonbia",
@@ -20540,7 +22497,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kolonbia"
     },
     {
       "term": "Koma",
@@ -20551,7 +22509,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kọma",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "koma"
     },
     {
       "term": "komookun",
@@ -20561,7 +22520,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "komookun"
     },
     {
       "term": "kondo",
@@ -20571,7 +22531,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kondo"
     },
     {
       "term": "Konfu",
@@ -20582,7 +22543,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kọnfu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "konfu"
     },
     {
       "term": "Kongo",
@@ -20593,7 +22555,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kọngọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kongo"
     },
     {
       "term": "Konko",
@@ -20604,7 +22567,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kọnkọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "konko"
     },
     {
       "term": "konputa",
@@ -20616,7 +22580,8 @@ window.ISESE_DATA = {
         "komputa"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "konputa"
     },
     {
       "term": "konsonanti",
@@ -20626,7 +22591,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "konsonanti"
     },
     {
       "term": "kooki",
@@ -20636,7 +22602,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kooki"
     },
     {
       "term": "Kori",
@@ -20646,7 +22613,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kori"
     },
     {
       "term": "koriko",
@@ -20656,7 +22624,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koriko"
     },
     {
       "term": "korikoto",
@@ -20668,7 +22637,8 @@ window.ISESE_DATA = {
         "konkoto"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "korikoto"
     },
     {
       "term": "Korin",
@@ -20679,7 +22649,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kọrin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "korin"
     },
     {
       "term": "koro",
@@ -20689,7 +22660,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koro"
     },
     {
       "term": "koro bi ewuro",
@@ -20699,7 +22671,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koro-bi-ewuro"
     },
     {
       "term": "koroba",
@@ -20709,7 +22682,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koroba"
     },
     {
       "term": "korona",
@@ -20719,7 +22693,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "korona"
     },
     {
       "term": "Kose",
@@ -20730,7 +22705,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kọsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kose"
     },
     {
       "term": "Koso",
@@ -20740,7 +22716,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "koso"
     },
     {
       "term": "Kosofo",
@@ -20750,7 +22727,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kosofo"
     },
     {
       "term": "Kowe",
@@ -20761,7 +22739,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "kowe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kowe"
     },
     {
       "term": "ku",
@@ -20771,7 +22750,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ku"
     },
     {
       "term": "ku erubo",
@@ -20781,7 +22761,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ku-erubo"
     },
     {
       "term": "ku odun Keresimesi",
@@ -20793,7 +22774,8 @@ window.ISESE_DATA = {
         "ku odun Keresimesi!"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ku-odun-keresimesi"
     },
     {
       "term": "ku odun tuntun",
@@ -20803,7 +22785,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ku-odun-tuntun"
     },
     {
       "term": "ku ojo meta",
@@ -20813,7 +22796,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ku-ojo-meta"
     },
     {
       "term": "Kuba",
@@ -20823,7 +22807,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuba"
     },
     {
       "term": "kuki",
@@ -20833,7 +22818,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuki"
     },
     {
       "term": "kukunduku",
@@ -20843,7 +22829,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kukunduku"
     },
     {
       "term": "kulikuli",
@@ -20853,7 +22840,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kulikuli"
     },
     {
       "term": "Kuluso",
@@ -20864,7 +22852,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kulusọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kuluso"
     },
     {
       "term": "Kumo",
@@ -20875,7 +22864,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "kumọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kumo"
     },
     {
       "term": "kuna",
@@ -20885,7 +22875,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuna"
     },
     {
       "term": "Kunle",
@@ -20896,7 +22887,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "kunlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kunle"
     },
     {
       "term": "kunlekunle",
@@ -20906,7 +22898,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kunlekunle"
     },
     {
       "term": "kura",
@@ -20916,7 +22909,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kura"
     },
     {
       "term": "kurekure",
@@ -20926,7 +22920,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kurekure"
     },
     {
       "term": "kuromiomu",
@@ -20936,7 +22931,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuromiomu"
     },
     {
       "term": "kuru",
@@ -20946,7 +22942,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuru"
     },
     {
       "term": "kuru bi kukute",
@@ -20956,7 +22953,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuru-bi-kukute"
     },
     {
       "term": "kurukuru",
@@ -20966,7 +22964,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kurukuru"
     },
     {
       "term": "kusa",
@@ -20976,7 +22975,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kusa"
     },
     {
       "term": "Kutonu",
@@ -20986,7 +22986,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kutonu"
     },
     {
       "term": "kutukutu",
@@ -20996,7 +22997,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kutukutu"
     },
     {
       "term": "kuudaro",
@@ -21006,7 +23008,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuudaro"
     },
     {
       "term": "kuujokoo",
@@ -21016,7 +23019,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuujokoo"
     },
     {
       "term": "kuukale",
@@ -21026,7 +23030,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuukale"
     },
     {
       "term": "kuukunra",
@@ -21036,7 +23041,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuukunra"
     },
     {
       "term": "kuule",
@@ -21046,7 +23052,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuule"
     },
     {
       "term": "kuuroju",
@@ -21056,7 +23063,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuuroju"
     },
     {
       "term": "kuurole",
@@ -21066,7 +23074,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuurole"
     },
     {
       "term": "Kuuse",
@@ -21077,7 +23086,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "kuuṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "kuuse"
     },
     {
       "term": "kuuyaleta",
@@ -21087,7 +23097,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "kuuyaleta"
     },
     {
       "term": "L",
@@ -21097,7 +23108,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "l"
     },
     {
       "term": "la",
@@ -21107,7 +23119,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "la"
     },
     {
       "term": "laaarin",
@@ -21117,7 +23130,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "prep",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laaarin"
     },
     {
       "term": "laakaye",
@@ -21127,7 +23141,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laakaye"
     },
     {
       "term": "laasigbo",
@@ -21137,7 +23152,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laasigbo"
     },
     {
       "term": "laba",
@@ -21147,7 +23163,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laba"
     },
     {
       "term": "labaa",
@@ -21157,7 +23174,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "labaa"
     },
     {
       "term": "labalaba",
@@ -21167,7 +23185,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "labalaba"
     },
     {
       "term": "labankada",
@@ -21177,7 +23196,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "labankada"
     },
     {
       "term": "labari",
@@ -21187,7 +23207,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "labari"
     },
     {
       "term": "Labe",
@@ -21198,7 +23219,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "labẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "labe"
     },
     {
       "term": "labirikanna",
@@ -21208,7 +23230,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "labirikanna"
     },
     {
       "term": "labule",
@@ -21218,7 +23241,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "labule"
     },
     {
       "term": "ladugbo",
@@ -21228,7 +23252,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ladugbo"
     },
     {
       "term": "laefi",
@@ -21238,7 +23263,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laefi"
     },
     {
       "term": "lafikun",
@@ -21248,7 +23274,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lafikun"
     },
     {
       "term": "lafun",
@@ -21258,7 +23285,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lafun"
     },
     {
       "term": "lagbedemeji",
@@ -21268,7 +23296,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "prep",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lagbedemeji"
     },
     {
       "term": "lagolago",
@@ -21278,7 +23307,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lagolago"
     },
     {
       "term": "Lagunna",
@@ -21288,7 +23318,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lagunna"
     },
     {
       "term": "Laiberia",
@@ -21298,7 +23329,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laiberia"
     },
     {
       "term": "laibiri",
@@ -21308,7 +23340,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laibiri"
     },
     {
       "term": "lailoonu",
@@ -21318,7 +23351,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lailoonu"
     },
     {
       "term": "lailopin",
@@ -21328,7 +23362,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lailopin"
     },
     {
       "term": "laini",
@@ -21338,7 +23373,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laini"
     },
     {
       "term": "Laipe",
@@ -21349,7 +23385,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "laipẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "laipe"
     },
     {
       "term": "laisi",
@@ -21359,7 +23396,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laisi"
     },
     {
       "term": "lakuregbe",
@@ -21369,7 +23407,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lakuregbe"
     },
     {
       "term": "lalaale",
@@ -21379,7 +23418,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lalaale"
     },
     {
       "term": "laluuri",
@@ -21389,7 +23429,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laluuri"
     },
     {
       "term": "lambo",
@@ -21399,7 +23440,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lambo"
     },
     {
       "term": "lameyito",
@@ -21409,7 +23451,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lameyito"
     },
     {
       "term": "lamilami",
@@ -21419,7 +23462,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lamilami"
     },
     {
       "term": "lanaa",
@@ -21429,7 +23473,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lanaa"
     },
     {
       "term": "langa-langa",
@@ -21439,7 +23484,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "langa-langa"
     },
     {
       "term": "lapalapa",
@@ -21449,7 +23495,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lapalapa"
     },
     {
       "term": "laraaro",
@@ -21459,7 +23506,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "laraaro"
     },
     {
       "term": "Larubawa",
@@ -21469,7 +23517,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "larubawa"
     },
     {
       "term": "Lasan",
@@ -21479,7 +23528,8 @@ window.ISESE_DATA = {
       "related": [
         "Sa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "lasan"
     },
     {
       "term": "lawani",
@@ -21489,7 +23539,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lawani"
     },
     {
       "term": "Le",
@@ -21500,7 +23551,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "lẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "le"
     },
     {
       "term": "le koko bi oju eja",
@@ -21510,7 +23562,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "le-koko-bi-oju-eja"
     },
     {
       "term": "Lebanoni",
@@ -21520,7 +23573,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lebanoni"
     },
     {
       "term": "Ledumae",
@@ -21530,7 +23584,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ledumae"
     },
     {
       "term": "Lefitiku",
@@ -21540,7 +23595,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lefitiku"
     },
     {
       "term": "Legbee",
@@ -21551,7 +23607,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "lẹgbẹẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "legbee"
     },
     {
       "term": "lekeleke",
@@ -21561,7 +23618,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lekeleke"
     },
     {
       "term": "Lemomu",
@@ -21572,7 +23630,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "lemọmu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "lemomu"
     },
     {
       "term": "lenii",
@@ -21582,7 +23641,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lenii"
     },
     {
       "term": "lesekese",
@@ -21592,7 +23652,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lesekese"
     },
     {
       "term": "Lesii",
@@ -21603,7 +23664,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "leṣii",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "lesii"
     },
     {
       "term": "Lesoto",
@@ -21613,7 +23675,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lesoto"
     },
     {
       "term": "Leta",
@@ -21624,7 +23687,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "lẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "leta"
     },
     {
       "term": "Leyin",
@@ -21635,7 +23699,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "lẹyin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "leyin"
     },
     {
       "term": "li",
@@ -21645,7 +23710,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "li"
     },
     {
       "term": "Libia",
@@ -21655,7 +23721,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "libia"
     },
     {
       "term": "Ligbe",
@@ -21666,7 +23733,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "ligbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ligbe"
     },
     {
       "term": "liigi",
@@ -21676,7 +23744,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "liigi"
     },
     {
       "term": "linguisiiki",
@@ -21686,7 +23755,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "linguisiiki"
     },
     {
       "term": "litireso",
@@ -21696,7 +23766,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "litireso"
     },
     {
       "term": "Lo",
@@ -21707,7 +23778,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "lọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "lo"
     },
     {
       "term": "lobaloba",
@@ -21717,7 +23789,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lobaloba"
     },
     {
       "term": "lode oni",
@@ -21727,7 +23800,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lode-oni"
     },
     {
       "term": "lodoodun",
@@ -21737,7 +23811,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lodoodun"
     },
     {
       "term": "lofinnda",
@@ -21747,7 +23822,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lofinnda"
     },
     {
       "term": "logbo",
@@ -21757,7 +23833,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "logbo"
     },
     {
       "term": "logun ofe",
@@ -21769,7 +23846,8 @@ window.ISESE_DATA = {
         "logun ofe!"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "logun-ofe"
     },
     {
       "term": "Logunede",
@@ -21779,7 +23857,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "logunede"
     },
     {
       "term": "lojiji",
@@ -21789,7 +23868,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lojiji"
     },
     {
       "term": "lojoojumo",
@@ -21799,7 +23879,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lojoojumo"
     },
     {
       "term": "lojukoju",
@@ -21809,7 +23890,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lojukoju"
     },
     {
       "term": "lokili",
@@ -21819,7 +23901,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lokili"
     },
     {
       "term": "Lola",
@@ -21830,7 +23913,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "lọla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "lola"
     },
     {
       "term": "lonii",
@@ -21840,7 +23924,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lonii"
     },
     {
       "term": "Loole",
@@ -21851,7 +23936,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "lọọle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "loole"
     },
     {
       "term": "loorekoore",
@@ -21861,7 +23947,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "loorekoore"
     },
     {
       "term": "Losoo",
@@ -21872,7 +23959,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "loṣoo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "losoo"
     },
     {
       "term": "losoosan",
@@ -21882,7 +23970,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "losoosan"
     },
     {
       "term": "losoose",
@@ -21892,7 +23981,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "losoose"
     },
     {
       "term": "losoosu",
@@ -21902,7 +23992,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "losoosu"
     },
     {
       "term": "lotun-un-la",
@@ -21912,7 +24003,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lotun-un-la"
     },
     {
       "term": "lowo bi sekere",
@@ -21922,7 +24014,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lowo-bi-sekere"
     },
     {
       "term": "lowoowo",
@@ -21932,7 +24025,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lowoowo"
     },
     {
       "term": "Loya",
@@ -21943,7 +24037,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "lọya",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "loya"
     },
     {
       "term": "lukaluka",
@@ -21953,7 +24048,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lukaluka"
     },
     {
       "term": "luko",
@@ -21963,7 +24059,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "luko"
     },
     {
       "term": "lukudi",
@@ -21973,7 +24070,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lukudi"
     },
     {
       "term": "lukuluku",
@@ -21983,7 +24081,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "lukuluku"
     },
     {
       "term": "M",
@@ -21993,7 +24092,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "m"
     },
     {
       "term": "Ma binu",
@@ -22003,7 +24103,8 @@ window.ISESE_DATA = {
       "related": [
         "Pele"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ma-binu"
     },
     {
       "term": "ma laagun jinna",
@@ -22013,7 +24114,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ma-laagun-jinna"
     },
     {
       "term": "maa",
@@ -22023,7 +24125,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "particle",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maa"
     },
     {
       "term": "maapu",
@@ -22033,7 +24136,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maapu"
     },
     {
       "term": "Maasi",
@@ -22043,7 +24147,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maasi"
     },
     {
       "term": "madaamidofo",
@@ -22053,7 +24158,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "madaamidofo"
     },
     {
       "term": "madaarikan",
@@ -22063,7 +24169,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "madaarikan"
     },
     {
       "term": "Madagasika",
@@ -22073,7 +24180,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "madagasika"
     },
     {
       "term": "magi",
@@ -22083,7 +24191,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "magi"
     },
     {
       "term": "maginesio",
@@ -22093,7 +24202,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maginesio"
     },
     {
       "term": "maigho",
@@ -22103,7 +24213,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maigho"
     },
     {
       "term": "majala",
@@ -22113,7 +24224,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "majala"
     },
     {
       "term": "majata",
@@ -22123,7 +24235,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "majata"
     },
     {
       "term": "majele",
@@ -22133,7 +24246,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "majele"
     },
     {
       "term": "Majemu",
@@ -22144,7 +24258,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "majẹmu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "majemu"
     },
     {
       "term": "makaruku",
@@ -22154,7 +24269,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "makaruku"
     },
     {
       "term": "makaruru",
@@ -22164,7 +24280,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "makaruru"
     },
     {
       "term": "makirofoonu",
@@ -22174,7 +24291,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "makirofoonu"
     },
     {
       "term": "Malawi",
@@ -22184,7 +24302,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "malawi"
     },
     {
       "term": "maleka",
@@ -22194,7 +24313,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maleka"
     },
     {
       "term": "Malesia",
@@ -22204,7 +24324,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "malesia"
     },
     {
       "term": "Mali",
@@ -22214,7 +24335,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mali"
     },
     {
       "term": "Malita",
@@ -22224,7 +24346,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "malita"
     },
     {
       "term": "malughu",
@@ -22234,7 +24357,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "malughu"
     },
     {
       "term": "maluu",
@@ -22244,7 +24368,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maluu"
     },
     {
       "term": "mangoro",
@@ -22254,7 +24379,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mangoro"
     },
     {
       "term": "maraarun-un",
@@ -22266,7 +24392,8 @@ window.ISESE_DATA = {
         "maraarun"
       ],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maraarun-un"
     },
     {
       "term": "Maria",
@@ -22276,7 +24403,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "maria"
     },
     {
       "term": "marun-un",
@@ -22286,7 +24414,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "marun-un"
     },
     {
       "term": "marun-un marun-un",
@@ -22296,7 +24425,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "marun-un-marun-un"
     },
     {
       "term": "Masedonia Ariwa",
@@ -22306,7 +24436,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "masedonia-ariwa"
     },
     {
       "term": "Matiu",
@@ -22316,7 +24447,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "matiu"
     },
     {
       "term": "Mefa",
@@ -22327,7 +24459,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "mẹfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mefa"
     },
     {
       "term": "mefa mefa",
@@ -22337,7 +24470,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mefa-mefa"
     },
     {
       "term": "mefeefa",
@@ -22347,7 +24481,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mefeefa"
     },
     {
       "term": "meje",
@@ -22357,7 +24492,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meje"
     },
     {
       "term": "meje meje",
@@ -22367,7 +24503,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meje-meje"
     },
     {
       "term": "mejeeje",
@@ -22377,7 +24514,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mejeeje"
     },
     {
       "term": "mejeeji",
@@ -22387,7 +24525,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mejeeji"
     },
     {
       "term": "mejeejo",
@@ -22397,7 +24536,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mejeejo"
     },
     {
       "term": "meji",
@@ -22407,7 +24547,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meji"
     },
     {
       "term": "meji meji",
@@ -22417,7 +24558,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meji-meji"
     },
     {
       "term": "Mejo",
@@ -22428,7 +24570,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "mẹjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mejo"
     },
     {
       "term": "mejo mejo",
@@ -22438,7 +24581,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mejo-mejo"
     },
     {
       "term": "mekunu",
@@ -22448,7 +24592,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mekunu"
     },
     {
       "term": "meloo",
@@ -22458,7 +24603,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meloo"
     },
     {
       "term": "mereerin",
@@ -22468,7 +24614,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mereerin"
     },
     {
       "term": "Merin",
@@ -22479,7 +24626,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "mẹrin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "merin"
     },
     {
       "term": "merin merin",
@@ -22489,7 +24637,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "merin-merin"
     },
     {
       "term": "merun-un",
@@ -22499,7 +24648,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "merun-un"
     },
     {
       "term": "mesan-an",
@@ -22509,7 +24659,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mesan-an"
     },
     {
       "term": "mesan-an mesan-an",
@@ -22519,7 +24670,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mesan-an-mesan-an"
     },
     {
       "term": "meseesan-an",
@@ -22529,7 +24681,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meseesan-an"
     },
     {
       "term": "Mesiko",
@@ -22539,7 +24692,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mesiko"
     },
     {
       "term": "Meta",
@@ -22550,7 +24704,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "mẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "meta"
     },
     {
       "term": "meta meta",
@@ -22560,7 +24715,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meta-meta"
     },
     {
       "term": "meteeta",
@@ -22570,7 +24726,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meteeta"
     },
     {
       "term": "Mewaa",
@@ -22581,7 +24738,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "mẹwaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mewaa"
     },
     {
       "term": "mewaa mewaa",
@@ -22591,7 +24749,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mewaa-mewaa"
     },
     {
       "term": "meweewaa",
@@ -22601,7 +24760,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "meweewaa"
     },
     {
       "term": "mi",
@@ -22611,7 +24771,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mi"
     },
     {
       "term": "midinmiidin",
@@ -22621,7 +24782,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "midinmiidin"
     },
     {
       "term": "miiran",
@@ -22631,7 +24793,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "miiran"
     },
     {
       "term": "miliiki",
@@ -22641,7 +24804,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "miliiki"
     },
     {
       "term": "miliiki gberefu",
@@ -22651,7 +24815,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "miliiki-gberefu"
     },
     {
       "term": "mita",
@@ -22661,7 +24826,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mita"
     },
     {
       "term": "Mo",
@@ -22672,7 +24838,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "mọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mo"
     },
     {
       "term": "Modakeke",
@@ -22682,7 +24849,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "modakeke"
     },
     {
       "term": "Mogaa",
@@ -22693,7 +24861,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọgaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mogaa"
     },
     {
       "term": "Mogaji",
@@ -22704,7 +24873,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọgaji",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mogaji"
     },
     {
       "term": "Mogala",
@@ -22715,7 +24885,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọgala",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mogala"
     },
     {
       "term": "Mogba",
@@ -22725,7 +24896,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mogba"
     },
     {
       "term": "moinmoin",
@@ -22735,7 +24907,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "moinmoin"
     },
     {
       "term": "moji",
@@ -22745,7 +24918,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "moji"
     },
     {
       "term": "Molebi",
@@ -22756,7 +24930,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọlẹbi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "molebi"
     },
     {
       "term": "Momi",
@@ -22767,7 +24942,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọmi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "momi"
     },
     {
       "term": "momo",
@@ -22779,7 +24955,8 @@ window.ISESE_DATA = {
         "mama"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "momo"
     },
     {
       "term": "Momodu",
@@ -22789,7 +24966,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "momodu"
     },
     {
       "term": "monafiki",
@@ -22799,7 +24977,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "monafiki"
     },
     {
       "term": "monamona",
@@ -22809,7 +24988,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "monamona"
     },
     {
       "term": "Mongolia",
@@ -22819,7 +24999,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mongolia"
     },
     {
       "term": "Moolue",
@@ -22830,7 +25011,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mooluẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "moolue"
     },
     {
       "term": "Moremi",
@@ -22841,7 +25023,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọremi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "moremi"
     },
     {
       "term": "morio",
@@ -22851,7 +25034,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "morio"
     },
     {
       "term": "moriwo",
@@ -22863,7 +25047,8 @@ window.ISESE_DATA = {
         "mariwo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "moriwo"
     },
     {
       "term": "Moroko",
@@ -22873,7 +25058,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "moroko"
     },
     {
       "term": "mosalasi",
@@ -22883,7 +25069,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mosalasi"
     },
     {
       "term": "Mosanbiiki",
@@ -22893,7 +25080,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mosanbiiki"
     },
     {
       "term": "Mosi",
@@ -22904,7 +25092,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọṣi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mosi"
     },
     {
       "term": "Moto",
@@ -22915,7 +25104,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "mọto",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "moto"
     },
     {
       "term": "Mowe",
@@ -22926,7 +25116,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "mọwe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mowe"
     },
     {
       "term": "mu",
@@ -22936,7 +25127,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mu"
     },
     {
       "term": "mudunmudun",
@@ -22946,7 +25138,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "mudunmudun"
     },
     {
       "term": "Mumi",
@@ -22957,7 +25150,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "mumi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "mumi"
     },
     {
       "term": "musiiba",
@@ -22967,7 +25161,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "musiiba"
     },
     {
       "term": "musiomu",
@@ -22977,7 +25172,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "musiomu"
     },
     {
       "term": "muso",
@@ -22987,7 +25183,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "muso"
     },
     {
       "term": "musu",
@@ -22997,7 +25194,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "musu"
     },
     {
       "term": "Musulumi",
@@ -23007,7 +25205,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "musulumi"
     },
     {
       "term": "muwe",
@@ -23017,7 +25216,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "muwe"
     },
     {
       "term": "N",
@@ -23029,7 +25229,8 @@ window.ISESE_DATA = {
         "ng"
       ],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "n"
     },
     {
       "term": "na",
@@ -23039,7 +25240,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "na"
     },
     {
       "term": "naa",
@@ -23049,7 +25251,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "naa"
     },
     {
       "term": "Naija",
@@ -23059,7 +25262,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "naija"
     },
     {
       "term": "Naijiria",
@@ -23069,7 +25273,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "naijiria"
     },
     {
       "term": "naira",
@@ -23079,7 +25284,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "naira"
     },
     {
       "term": "nama",
@@ -23089,7 +25295,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nama"
     },
     {
       "term": "Namibia",
@@ -23099,7 +25306,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "namibia"
     },
     {
       "term": "Nana Burukuu",
@@ -23109,7 +25317,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nana-burukuu"
     },
     {
       "term": "nasia",
@@ -23119,7 +25328,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nasia"
     },
     {
       "term": "Ne",
@@ -23130,7 +25340,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "nẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ne"
     },
     {
       "term": "Nee",
@@ -23141,7 +25352,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "nẹẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nee"
     },
     {
       "term": "Neen",
@@ -23152,7 +25364,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "nẹẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "neen"
     },
     {
       "term": "ni",
@@ -23162,7 +25375,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ni"
     },
     {
       "term": "ni aseyinwa aseyinbo",
@@ -23172,7 +25386,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ni-aseyinwa-aseyinbo"
     },
     {
       "term": "nijerin",
@@ -23182,7 +25397,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nijerin"
     },
     {
       "term": "Nijeta",
@@ -23193,7 +25409,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "nijẹta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nijeta"
     },
     {
       "term": "nikan",
@@ -23203,7 +25420,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nikan"
     },
     {
       "term": "Nikaragua",
@@ -23213,7 +25431,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nikaragua"
     },
     {
       "term": "nile",
@@ -23223,7 +25442,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "prep_phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nile"
     },
     {
       "term": "Nipase",
@@ -23234,7 +25454,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "nipasẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nipase"
     },
     {
       "term": "Nipon",
@@ -23245,7 +25466,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "nipọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nipon"
     },
     {
       "term": "Niso",
@@ -23256,7 +25478,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "niṣo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "niso"
     },
     {
       "term": "niturojini",
@@ -23266,7 +25489,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "niturojini"
     },
     {
       "term": "niyinlokikiafiyesi",
@@ -23276,7 +25500,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "niyinlokikiafiyesi"
     },
     {
       "term": "Nje",
@@ -23287,7 +25512,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "njẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nje"
     },
     {
       "term": "Nko",
@@ -23298,7 +25524,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "nkọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nko"
     },
     {
       "term": "nla",
@@ -23308,7 +25535,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nla"
     },
     {
       "term": "nle",
@@ -23318,7 +25546,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "prep_phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nle"
     },
     {
       "term": "nnkan",
@@ -23328,7 +25557,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nnkan"
     },
     {
       "term": "Nomba",
@@ -23339,7 +25569,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "nọmba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "nomba"
     },
     {
       "term": "nomba agbaboolu",
@@ -23349,7 +25580,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nomba-agbaboolu"
     },
     {
       "term": "Nowe",
@@ -23359,7 +25591,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nowe"
     },
     {
       "term": "nukan",
@@ -23369,7 +25602,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nukan"
     },
     {
       "term": "nunu",
@@ -23379,7 +25613,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "nunu"
     },
     {
       "term": "O",
@@ -23389,7 +25624,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "o"
     },
     {
       "term": "o dabo",
@@ -23401,7 +25637,8 @@ window.ISESE_DATA = {
         "o dabo!"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "o-dabo"
     },
     {
       "term": "O ga",
@@ -23411,7 +25648,8 @@ window.ISESE_DATA = {
       "related": [
         "Omo!"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "o-ga"
     },
     {
       "term": "O po",
@@ -23421,7 +25659,8 @@ window.ISESE_DATA = {
       "related": [
         "Gan-an"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "o-po"
     },
     {
       "term": "o se",
@@ -23431,7 +25670,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "o-se"
     },
     {
       "term": "o seun",
@@ -23441,7 +25681,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "o-seun"
     },
     {
       "term": "O ya",
@@ -23453,7 +25694,8 @@ window.ISESE_DATA = {
       ],
       "aliases": [
         "Oya"
-      ]
+      ],
+      "slug": "o-ya"
     },
     {
       "term": "O ye mi",
@@ -23463,7 +25705,8 @@ window.ISESE_DATA = {
       "related": [
         "Ko ye mi"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "o-ye-mi"
     },
     {
       "term": "Oba",
@@ -23475,7 +25718,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "oba"
     },
     {
       "term": "oba opoje",
@@ -23485,7 +25729,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oba-opoje"
     },
     {
       "term": "Obaala",
@@ -23495,7 +25740,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obaala"
     },
     {
       "term": "Obadio",
@@ -23505,7 +25751,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obadio"
     },
     {
       "term": "Obakan",
@@ -23516,7 +25763,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbakan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obakan"
     },
     {
       "term": "Obaluaye",
@@ -23527,7 +25775,8 @@ window.ISESE_DATA = {
         "Orisa",
         "Iwosan"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "obaluaye"
     },
     {
       "term": "Obalufon",
@@ -23537,7 +25786,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obalufon"
     },
     {
       "term": "Obanla",
@@ -23547,7 +25797,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obanla"
     },
     {
       "term": "Obara",
@@ -23557,7 +25808,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obara"
     },
     {
       "term": "Obatala",
@@ -23569,7 +25821,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "obatala"
     },
     {
       "term": "obayeje",
@@ -23579,7 +25832,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obayeje"
     },
     {
       "term": "Obe",
@@ -23590,7 +25844,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obe"
     },
     {
       "term": "obe to dun, owo lo pa a",
@@ -23603,7 +25858,8 @@ window.ISESE_DATA = {
         "obe to dun"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obe-to-dun-owo-lo-pa-a"
     },
     {
       "term": "obeje",
@@ -23613,7 +25869,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obeje"
     },
     {
       "term": "Oberemoye",
@@ -23623,7 +25880,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oberemoye"
     },
     {
       "term": "obi",
@@ -23633,7 +25891,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obi"
     },
     {
       "term": "obinrin",
@@ -23643,7 +25902,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obinrin"
     },
     {
       "term": "obirikiti",
@@ -23653,7 +25913,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obirikiti"
     },
     {
       "term": "obisuari",
@@ -23663,7 +25924,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obisuari"
     },
     {
       "term": "Obiton",
@@ -23674,7 +25936,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "obitọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obiton"
     },
     {
       "term": "Obitun",
@@ -23685,7 +25948,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbịtụn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obitun"
     },
     {
       "term": "Obo",
@@ -23696,7 +25960,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obo"
     },
     {
       "term": "Obon",
@@ -23707,7 +25972,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obon"
     },
     {
       "term": "obon-un-bon-un",
@@ -23720,7 +25986,8 @@ window.ISESE_DATA = {
         "obon-unbon-un"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "obon-un-bon-un"
     },
     {
       "term": "Obu",
@@ -23731,7 +25998,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obu"
     },
     {
       "term": "Obuko",
@@ -23742,7 +26010,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "obukọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obuko"
     },
     {
       "term": "Obun",
@@ -23753,7 +26022,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obun"
     },
     {
       "term": "Obutun",
@@ -23764,7 +26034,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọbụtụn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "obutun"
     },
     {
       "term": "Oda",
@@ -23775,7 +26046,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oda"
     },
     {
       "term": "Odaju",
@@ -23786,7 +26058,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọdaju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "odaju"
     },
     {
       "term": "Odale",
@@ -23797,7 +26070,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọdalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "odale"
     },
     {
       "term": "Odan",
@@ -23808,7 +26082,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọdan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "odan"
     },
     {
       "term": "Ode",
@@ -23819,7 +26094,8 @@ window.ISESE_DATA = {
         "Ijala",
         "Osoosi"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ode"
     },
     {
       "term": "Odede",
@@ -23830,7 +26106,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọdẹdẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "odede"
     },
     {
       "term": "Odemo",
@@ -23840,7 +26117,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odemo"
     },
     {
       "term": "odereekoko",
@@ -23850,7 +26128,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odereekoko"
     },
     {
       "term": "Odi",
@@ -23860,7 +26139,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odi"
     },
     {
       "term": "odidere",
@@ -23870,7 +26150,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odidere"
     },
     {
       "term": "Odo",
@@ -23881,7 +26162,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọdọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "odo"
     },
     {
       "term": "odo ilu",
@@ -23891,7 +26173,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odo-ilu"
     },
     {
       "term": "ododo",
@@ -23901,7 +26184,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ododo"
     },
     {
       "term": "Odofin",
@@ -23911,7 +26195,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odofin"
     },
     {
       "term": "odon",
@@ -23921,7 +26206,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odon"
     },
     {
       "term": "odoodun",
@@ -23931,7 +26217,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odoodun"
     },
     {
       "term": "Odu",
@@ -23943,7 +26230,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "odu"
     },
     {
       "term": "Odu Ifa",
@@ -23953,7 +26241,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odu-ifa"
     },
     {
       "term": "Oduduwa",
@@ -23963,7 +26252,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oduduwa"
     },
     {
       "term": "Odun",
@@ -23974,7 +26264,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọdun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "odun"
     },
     {
       "term": "odun Edi",
@@ -23984,7 +26275,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odun-edi"
     },
     {
       "term": "odun Olojo",
@@ -23994,7 +26286,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odun-olojo"
     },
     {
       "term": "odun Osun-Osogbo",
@@ -24004,7 +26297,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odun-osun-osogbo"
     },
     {
       "term": "odundun",
@@ -24014,7 +26308,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odundun"
     },
     {
       "term": "odunkun",
@@ -24024,7 +26319,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "odunkun"
     },
     {
       "term": "oduwa",
@@ -24034,7 +26330,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oduwa"
     },
     {
       "term": "Ofa",
@@ -24045,7 +26342,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọfa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ofa"
     },
     {
       "term": "Ofafa",
@@ -24056,7 +26354,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọfafa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ofafa"
     },
     {
       "term": "ofan",
@@ -24066,7 +26365,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ofan"
     },
     {
       "term": "ofefee",
@@ -24076,7 +26376,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ofefee"
     },
     {
       "term": "ofi",
@@ -24086,7 +26387,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ofi"
     },
     {
       "term": "Ofiisi",
@@ -24097,7 +26399,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọfiisi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ofiisi"
     },
     {
       "term": "ofin",
@@ -24107,7 +26410,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ofin"
     },
     {
       "term": "Ofo",
@@ -24118,7 +26422,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọfọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ofo"
     },
     {
       "term": "ofofo",
@@ -24128,7 +26433,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ofofo"
     },
     {
       "term": "Ofon",
@@ -24139,7 +26445,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọfọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ofon"
     },
     {
       "term": "ofu",
@@ -24149,7 +26456,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ofu"
     },
     {
       "term": "Ofun",
@@ -24160,7 +26468,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọfun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ofun"
     },
     {
       "term": "Oga",
@@ -24171,7 +26480,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọga",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oga"
     },
     {
       "term": "Ogan",
@@ -24182,7 +26492,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogan"
     },
     {
       "term": "Oganjo",
@@ -24193,7 +26504,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọganjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oganjo"
     },
     {
       "term": "Oganwo",
@@ -24204,7 +26516,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọganwo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oganwo"
     },
     {
       "term": "Ogba",
@@ -24215,7 +26528,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogba"
     },
     {
       "term": "Ogban",
@@ -24226,7 +26540,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgban",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogban"
     },
     {
       "term": "Ogbase",
@@ -24237,7 +26552,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbase",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbase"
     },
     {
       "term": "Ogbe",
@@ -24247,7 +26563,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbe"
     },
     {
       "term": "Ogbebara",
@@ -24257,7 +26574,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbebara"
     },
     {
       "term": "Ogbedi",
@@ -24267,7 +26585,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbedi"
     },
     {
       "term": "Ogbefun",
@@ -24277,7 +26596,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbefun"
     },
     {
       "term": "Ogbegunda",
@@ -24287,7 +26607,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbegunda"
     },
     {
       "term": "Ogbeka",
@@ -24297,7 +26618,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbeka"
     },
     {
       "term": "Ogbekanran",
@@ -24307,7 +26629,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbekanran"
     },
     {
       "term": "Ogbeni",
@@ -24318,7 +26641,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbẹni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbeni"
     },
     {
       "term": "ogbere",
@@ -24328,7 +26652,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbere"
     },
     {
       "term": "Ogberete",
@@ -24338,7 +26663,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogberete"
     },
     {
       "term": "Ogberi",
@@ -24349,7 +26675,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbẹri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogberi"
     },
     {
       "term": "Ogberosun",
@@ -24359,7 +26686,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogberosun"
     },
     {
       "term": "Ogbesa",
@@ -24369,7 +26697,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbesa"
     },
     {
       "term": "Ogbese",
@@ -24380,7 +26709,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbẹsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbese"
     },
     {
       "term": "Ogbetura",
@@ -24390,7 +26720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbetura"
     },
     {
       "term": "Ogbeturupon",
@@ -24400,7 +26731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbeturupon"
     },
     {
       "term": "Ogbewonrin",
@@ -24410,7 +26742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbewonrin"
     },
     {
       "term": "Ogbewori",
@@ -24420,7 +26753,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbewori"
     },
     {
       "term": "Ogbeyeku",
@@ -24430,7 +26764,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbeyeku"
     },
     {
       "term": "ogbo ato asure Iworiwofun",
@@ -24440,7 +26775,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbo-ato-asure-iworiwofun"
     },
     {
       "term": "Ogbogbo",
@@ -24451,7 +26787,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbọgbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbogbo"
     },
     {
       "term": "Ogbomoso",
@@ -24461,7 +26798,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbomoso"
     },
     {
       "term": "Ogbon",
@@ -24472,7 +26810,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ọgbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbon"
     },
     {
       "term": "Ogboni",
@@ -24482,7 +26821,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogboni"
     },
     {
       "term": "Ogbono",
@@ -24493,7 +26833,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbọnọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbono"
     },
     {
       "term": "Ogboogba",
@@ -24504,7 +26845,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbọọgba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogboogba"
     },
     {
       "term": "Ogbufo",
@@ -24515,7 +26857,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ogbufọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbufo"
     },
     {
       "term": "ogbugbu",
@@ -24525,7 +26868,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogbugbu"
     },
     {
       "term": "Ogbun",
@@ -24536,7 +26880,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgbun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogbun"
     },
     {
       "term": "ogburo",
@@ -24546,7 +26891,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogburo"
     },
     {
       "term": "oge",
@@ -24556,7 +26902,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oge"
     },
     {
       "term": "Ogede",
@@ -24567,7 +26914,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgẹdẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogede"
     },
     {
       "term": "ogede agbagba",
@@ -24577,7 +26925,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogede-agbagba"
     },
     {
       "term": "Ogere",
@@ -24588,7 +26937,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogere"
     },
     {
       "term": "ogesinlesin",
@@ -24598,7 +26948,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogesinlesin"
     },
     {
       "term": "ogho",
@@ -24608,7 +26959,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogho"
     },
     {
       "term": "Oghon",
@@ -24619,7 +26971,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "ọghọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oghon"
     },
     {
       "term": "Oghota",
@@ -24630,7 +26983,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọghọta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oghota"
     },
     {
       "term": "oghun",
@@ -24640,7 +26994,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oghun"
     },
     {
       "term": "ogidan",
@@ -24650,7 +27005,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogidan"
     },
     {
       "term": "ogidigbo",
@@ -24660,7 +27016,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogidigbo"
     },
     {
       "term": "ogido",
@@ -24670,7 +27027,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogido"
     },
     {
       "term": "oginnitin",
@@ -24680,7 +27038,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oginnitin"
     },
     {
       "term": "ogiri",
@@ -24690,7 +27049,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogiri"
     },
     {
       "term": "ogiri gba mi la",
@@ -24700,7 +27060,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogiri-gba-mi-la"
     },
     {
       "term": "Ogiyan",
@@ -24710,7 +27071,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogiyan"
     },
     {
       "term": "Ogo",
@@ -24721,7 +27083,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogo"
     },
     {
       "term": "Ogodo",
@@ -24732,7 +27095,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọgọdọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogodo"
     },
     {
       "term": "Ogoga",
@@ -24742,7 +27106,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogoga"
     },
     {
       "term": "ogoji",
@@ -24752,7 +27117,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogoji"
     },
     {
       "term": "ogolomosi",
@@ -24762,7 +27128,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogolomosi"
     },
     {
       "term": "ogongo",
@@ -24772,7 +27139,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogongo"
     },
     {
       "term": "ogooro eyin",
@@ -24782,7 +27150,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogooro-eyin"
     },
     {
       "term": "ogorun-un",
@@ -24794,7 +27163,8 @@ window.ISESE_DATA = {
         "orun"
       ],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogorun-un"
     },
     {
       "term": "Ogota",
@@ -24805,7 +27175,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ọgọta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogota"
     },
     {
       "term": "ogulutu",
@@ -24815,7 +27186,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogulutu"
     },
     {
       "term": "Ogun",
@@ -24827,7 +27199,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ogun"
     },
     {
       "term": "ogun abele",
@@ -24837,7 +27210,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogun-abele"
     },
     {
       "term": "Ogunda",
@@ -24847,7 +27221,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogunda"
     },
     {
       "term": "Ogundabede",
@@ -24857,7 +27232,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogundabede"
     },
     {
       "term": "ogungun",
@@ -24867,7 +27243,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogungun"
     },
     {
       "term": "ogunlende",
@@ -24877,7 +27254,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogunlende"
     },
     {
       "term": "ogunna",
@@ -24887,7 +27265,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogunna"
     },
     {
       "term": "ogunrun oo",
@@ -24897,7 +27276,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ogunrun-oo"
     },
     {
       "term": "Oguro",
@@ -24908,7 +27288,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ogurọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oguro"
     },
     {
       "term": "ohe",
@@ -24918,7 +27299,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ohe"
     },
     {
       "term": "ohihun",
@@ -24928,7 +27310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ohihun"
     },
     {
       "term": "ohun",
@@ -24938,7 +27321,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ohun"
     },
     {
       "term": "ohunkohun",
@@ -24948,7 +27332,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ohunkohun"
     },
     {
       "term": "oi",
@@ -24958,7 +27343,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oi"
     },
     {
       "term": "oigho",
@@ -24968,7 +27354,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oigho"
     },
     {
       "term": "oiie",
@@ -24978,7 +27365,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oiie"
     },
     {
       "term": "Oise",
@@ -24989,7 +27377,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọịṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oise"
     },
     {
       "term": "Oja",
@@ -25001,7 +27390,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "oja"
     },
     {
       "term": "Oje",
@@ -25012,7 +27402,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oje"
     },
     {
       "term": "Ojelu",
@@ -25023,7 +27414,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjẹlu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojelu"
     },
     {
       "term": "oji",
@@ -25033,7 +27425,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oji"
     },
     {
       "term": "ojia",
@@ -25045,7 +27438,8 @@ window.ISESE_DATA = {
         "ojiya"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojia"
     },
     {
       "term": "ojigan",
@@ -25055,7 +27449,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojigan"
     },
     {
       "term": "Ojije",
@@ -25066,7 +27461,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjịjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojije"
     },
     {
       "term": "ojiji",
@@ -25076,7 +27472,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojiji"
     },
     {
       "term": "Ojo",
@@ -25087,7 +27484,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojo"
     },
     {
       "term": "ojo Abameta",
@@ -25097,7 +27495,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-abameta"
     },
     {
       "term": "ojo Aiku",
@@ -25107,7 +27506,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-aiku"
     },
     {
       "term": "ojo Aje",
@@ -25117,7 +27517,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-aje"
     },
     {
       "term": "ojo Eti",
@@ -25127,7 +27528,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-eti"
     },
     {
       "term": "ojo Isegun",
@@ -25137,7 +27539,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-isegun"
     },
     {
       "term": "ojo n ro",
@@ -25147,7 +27550,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-n-ro"
     },
     {
       "term": "ojo-ibi",
@@ -25159,7 +27563,8 @@ window.ISESE_DATA = {
         "ojoobi"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-ibi"
     },
     {
       "term": "ojo-ori",
@@ -25169,7 +27574,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-ori"
     },
     {
       "term": "ojo-ubi",
@@ -25179,7 +27585,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojo-ubi"
     },
     {
       "term": "Ojobo",
@@ -25190,7 +27597,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjọbọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojobo"
     },
     {
       "term": "Ojogbon",
@@ -25201,7 +27609,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjọgbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojogbon"
     },
     {
       "term": "ojojo",
@@ -25211,7 +27620,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojojo"
     },
     {
       "term": "ojokanri",
@@ -25221,7 +27631,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojokanri"
     },
     {
       "term": "ojola",
@@ -25231,7 +27642,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojola"
     },
     {
       "term": "ojoojumo",
@@ -25241,7 +27653,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojoojumo"
     },
     {
       "term": "ojora",
@@ -25251,7 +27664,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojora"
     },
     {
       "term": "Ojoru",
@@ -25262,7 +27676,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọjọru",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojoru"
     },
     {
       "term": "Oju",
@@ -25273,7 +27688,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "oju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oju"
     },
     {
       "term": "oju odu",
@@ -25283,7 +27699,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oju-odu"
     },
     {
       "term": "oju ojo",
@@ -25293,7 +27710,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oju-ojo"
     },
     {
       "term": "oju ologbo",
@@ -25303,7 +27721,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oju-ologbo"
     },
     {
       "term": "oju orun",
@@ -25313,7 +27732,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oju-orun"
     },
     {
       "term": "oju sanma",
@@ -25323,7 +27743,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oju-sanma"
     },
     {
       "term": "Ojubo",
@@ -25334,7 +27755,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ojubọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojubo"
     },
     {
       "term": "ojude",
@@ -25344,7 +27766,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojude"
     },
     {
       "term": "ojugun",
@@ -25354,7 +27777,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojugun"
     },
     {
       "term": "ojukoju",
@@ -25364,7 +27788,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojukoju"
     },
     {
       "term": "ojukokoro",
@@ -25374,7 +27799,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojukokoro"
     },
     {
       "term": "ojule",
@@ -25384,7 +27810,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojule"
     },
     {
       "term": "ojulowo",
@@ -25394,7 +27821,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojulowo"
     },
     {
       "term": "ojulumo",
@@ -25404,7 +27832,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojulumo"
     },
     {
       "term": "Ojumo",
@@ -25415,7 +27844,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ojumọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojumo"
     },
     {
       "term": "Ojuro",
@@ -25426,7 +27856,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ojurọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ojuro"
     },
     {
       "term": "ojuti",
@@ -25436,7 +27867,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ojuti"
     },
     {
       "term": "Oka",
@@ -25447,7 +27879,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọka",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oka"
     },
     {
       "term": "Okada",
@@ -25458,7 +27891,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkada",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okada"
     },
     {
       "term": "Okan",
@@ -25469,7 +27903,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ọkan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okan"
     },
     {
       "term": "okan-o-jokan",
@@ -25479,7 +27914,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okan-o-jokan"
     },
     {
       "term": "okandinlaaadota",
@@ -25489,7 +27925,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okandinlaaadota"
     },
     {
       "term": "okandinlogbon",
@@ -25499,7 +27936,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okandinlogbon"
     },
     {
       "term": "okandinlogoji",
@@ -25509,7 +27947,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okandinlogoji"
     },
     {
       "term": "okandinlogota",
@@ -25519,7 +27958,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okandinlogota"
     },
     {
       "term": "okandinlogun",
@@ -25529,7 +27969,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okandinlogun"
     },
     {
       "term": "okanjuwa",
@@ -25539,7 +27980,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okanjuwa"
     },
     {
       "term": "Okanla",
@@ -25550,7 +27992,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ọkanla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okanla"
     },
     {
       "term": "okanlelaaadota",
@@ -25560,7 +28003,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okanlelaaadota"
     },
     {
       "term": "okanlelogbon",
@@ -25570,7 +28014,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okanlelogbon"
     },
     {
       "term": "okanlelogoji",
@@ -25580,7 +28025,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okanlelogoji"
     },
     {
       "term": "okanlelogun",
@@ -25590,7 +28036,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okanlelogun"
     },
     {
       "term": "Okanran",
@@ -25600,7 +28047,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okanran"
     },
     {
       "term": "Okasa",
@@ -25611,7 +28059,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkaṣa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okasa"
     },
     {
       "term": "Oke",
@@ -25622,7 +28071,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "num",
       "normalized": "ọkẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oke"
     },
     {
       "term": "oke okun",
@@ -25632,7 +28082,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oke-okun"
     },
     {
       "term": "okelejeu",
@@ -25642,7 +28093,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okelejeu"
     },
     {
       "term": "Oken",
@@ -25653,7 +28105,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oken"
     },
     {
       "term": "Okere",
@@ -25664,7 +28117,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okere"
     },
     {
       "term": "okete",
@@ -25674,7 +28128,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okete"
     },
     {
       "term": "Okika",
@@ -25685,7 +28140,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkịka",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okika"
     },
     {
       "term": "okiki",
@@ -25695,7 +28151,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okiki"
     },
     {
       "term": "Okin",
@@ -25706,7 +28163,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okin"
     },
     {
       "term": "Okine",
@@ -25717,7 +28175,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "okinẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okine"
     },
     {
       "term": "Okinni",
@@ -25728,7 +28187,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkinni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okinni"
     },
     {
       "term": "okiti",
@@ -25738,7 +28198,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okiti"
     },
     {
       "term": "Oko",
@@ -25749,7 +28210,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "oko",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oko"
     },
     {
       "term": "oko ofuurufu",
@@ -25759,7 +28221,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oko-ofuurufu"
     },
     {
       "term": "oko oju irin",
@@ -25769,7 +28232,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oko-oju-irin"
     },
     {
       "term": "okobo",
@@ -25779,7 +28243,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okobo"
     },
     {
       "term": "okookan",
@@ -25789,7 +28254,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okookan"
     },
     {
       "term": "okoto",
@@ -25799,7 +28265,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okoto"
     },
     {
       "term": "Oku",
@@ -25809,7 +28276,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oku"
     },
     {
       "term": "Okudu",
@@ -25819,7 +28287,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okudu"
     },
     {
       "term": "Okun",
@@ -25830,7 +28299,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okun"
     },
     {
       "term": "okunfa",
@@ -25840,7 +28310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okunfa"
     },
     {
       "term": "okunkun",
@@ -25850,7 +28321,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okunkun"
     },
     {
       "term": "okunme",
@@ -25860,7 +28332,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okunme"
     },
     {
       "term": "okunrin",
@@ -25870,7 +28343,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okunrin"
     },
     {
       "term": "okunrun",
@@ -25880,7 +28354,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "okunrun"
     },
     {
       "term": "Okuta",
@@ -25891,7 +28366,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọkuta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "okuta"
     },
     {
       "term": "Ola",
@@ -25902,7 +28378,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ola",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ola"
     },
     {
       "term": "Olayiwola",
@@ -25912,7 +28389,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olayiwola"
     },
     {
       "term": "Ole",
@@ -25923,7 +28401,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ole"
     },
     {
       "term": "oledarun",
@@ -25933,7 +28412,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oledarun"
     },
     {
       "term": "Olele",
@@ -25944,7 +28424,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlẹlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olele"
     },
     {
       "term": "Olide",
@@ -25955,7 +28436,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlide",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olide"
     },
     {
       "term": "olikaluku",
@@ -25965,7 +28447,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olikaluku"
     },
     {
       "term": "olila",
@@ -25975,7 +28458,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olila"
     },
     {
       "term": "olilu",
@@ -25985,7 +28469,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olilu"
     },
     {
       "term": "olio",
@@ -25995,7 +28480,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olio"
     },
     {
       "term": "Olo",
@@ -26006,7 +28492,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olo"
     },
     {
       "term": "olo inu",
@@ -26016,7 +28503,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olo-inu"
     },
     {
       "term": "olobatala",
@@ -26026,7 +28514,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olobatala"
     },
     {
       "term": "olodo",
@@ -26036,7 +28525,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olodo"
     },
     {
       "term": "olodongboro",
@@ -26046,7 +28536,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olodongboro"
     },
     {
       "term": "Olodumare",
@@ -26057,7 +28548,8 @@ window.ISESE_DATA = {
         "Olorun",
         "Orisa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "olodumare"
     },
     {
       "term": "Olofa",
@@ -26067,7 +28559,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olofa"
     },
     {
       "term": "Olofin",
@@ -26078,7 +28571,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọfin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olofin"
     },
     {
       "term": "Olofinmeye",
@@ -26088,7 +28582,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olofinmeye"
     },
     {
       "term": "olofoofo",
@@ -26098,7 +28593,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olofoofo"
     },
     {
       "term": "ologbo",
@@ -26110,7 +28606,8 @@ window.ISESE_DATA = {
         "olongbo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ologbo"
     },
     {
       "term": "ologede",
@@ -26120,7 +28617,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ologede"
     },
     {
       "term": "ologho",
@@ -26130,7 +28628,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ologho"
     },
     {
       "term": "ologiirisese",
@@ -26140,7 +28639,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ologiirisese"
     },
     {
       "term": "ologinni",
@@ -26150,7 +28650,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ologinni"
     },
     {
       "term": "ologose",
@@ -26162,7 +28663,8 @@ window.ISESE_DATA = {
         "olokose"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ologose"
     },
     {
       "term": "Oloja",
@@ -26173,7 +28675,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oloja"
     },
     {
       "term": "olokili",
@@ -26183,7 +28686,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olokili"
     },
     {
       "term": "Olokun",
@@ -26195,7 +28699,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "olokun"
     },
     {
       "term": "Ololade",
@@ -26205,7 +28710,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ololade"
     },
     {
       "term": "ololufe",
@@ -26215,7 +28721,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ololufe"
     },
     {
       "term": "olomele",
@@ -26225,7 +28732,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olomele"
     },
     {
       "term": "olongo",
@@ -26235,7 +28743,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olongo"
     },
     {
       "term": "oloo",
@@ -26245,7 +28754,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oloo"
     },
     {
       "term": "oloofeere",
@@ -26255,7 +28765,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oloofeere"
     },
     {
       "term": "oloogun ebi",
@@ -26265,7 +28776,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oloogun-ebi"
     },
     {
       "term": "olooorun",
@@ -26275,7 +28787,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olooorun"
     },
     {
       "term": "Olopaa",
@@ -26286,7 +28799,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọpaa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olopaa"
     },
     {
       "term": "olopaa-inu",
@@ -26296,7 +28810,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olopaa-inu"
     },
     {
       "term": "Olori",
@@ -26307,7 +28822,8 @@ window.ISESE_DATA = {
         "Oba",
         "Aafin"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "olori"
     },
     {
       "term": "olorisa",
@@ -26317,7 +28833,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olorisa"
     },
     {
       "term": "Oloro",
@@ -26328,7 +28845,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oloro"
     },
     {
       "term": "olorogbo",
@@ -26338,7 +28856,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olorogbo"
     },
     {
       "term": "Olorun",
@@ -26349,7 +28868,8 @@ window.ISESE_DATA = {
         "Olodumare",
         "Orun"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "olorun"
     },
     {
       "term": "olorunmila",
@@ -26359,7 +28879,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olorunmila"
     },
     {
       "term": "olosanyin",
@@ -26369,7 +28890,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olosanyin"
     },
     {
       "term": "oloselu",
@@ -26379,7 +28901,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oloselu"
     },
     {
       "term": "Olosun",
@@ -26390,7 +28913,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọṣun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olosun"
     },
     {
       "term": "Olowo",
@@ -26400,7 +28924,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olowo"
     },
     {
       "term": "Oloya",
@@ -26411,7 +28936,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọya",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oloya"
     },
     {
       "term": "Oloye",
@@ -26422,7 +28948,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọlọyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oloye"
     },
     {
       "term": "oloyin",
@@ -26432,7 +28959,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oloyin"
     },
     {
       "term": "olu",
@@ -26442,7 +28970,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olu"
     },
     {
       "term": "olu-ilu",
@@ -26452,7 +28981,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olu-ilu"
     },
     {
       "term": "Olu-Iwaye",
@@ -26462,7 +28992,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olu-iwaye"
     },
     {
       "term": "olu-oran",
@@ -26472,7 +29003,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olu-oran"
     },
     {
       "term": "Olua",
@@ -26482,7 +29014,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olua"
     },
     {
       "term": "Olubadan",
@@ -26492,7 +29025,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olubadan"
     },
     {
       "term": "Olubode",
@@ -26502,7 +29036,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olubode"
     },
     {
       "term": "Olufe",
@@ -26513,7 +29048,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "olufẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "olufe"
     },
     {
       "term": "olugbe",
@@ -26523,7 +29059,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olugbe"
     },
     {
       "term": "olugbeja",
@@ -26533,7 +29070,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olugbeja"
     },
     {
       "term": "olugbongbo",
@@ -26543,7 +29081,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olugbongbo"
     },
     {
       "term": "Olukare",
@@ -26553,7 +29092,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olukare"
     },
     {
       "term": "Oluko",
@@ -26564,7 +29104,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "olukọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oluko"
     },
     {
       "term": "oluku",
@@ -26574,7 +29115,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oluku"
     },
     {
       "term": "olulu",
@@ -26584,7 +29126,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olulu"
     },
     {
       "term": "Oluorogbo",
@@ -26594,7 +29137,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oluorogbo"
     },
     {
       "term": "olurun",
@@ -26604,7 +29148,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "olurun"
     },
     {
       "term": "Oluwa",
@@ -26614,7 +29159,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oluwa"
     },
     {
       "term": "oluwongaga",
@@ -26624,7 +29170,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oluwongaga"
     },
     {
       "term": "oma",
@@ -26634,7 +29181,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oma"
     },
     {
       "term": "omakoma",
@@ -26644,7 +29192,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omakoma"
     },
     {
       "term": "omama",
@@ -26654,7 +29203,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omama"
     },
     {
       "term": "omele",
@@ -26664,7 +29214,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omele"
     },
     {
       "term": "Omi",
@@ -26675,7 +29226,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "omi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omi"
     },
     {
       "term": "omi tuntun ti ru, eja tuntun ti wo o",
@@ -26688,7 +29240,8 @@ window.ISESE_DATA = {
         "eja tuntun ti wo o"
       ],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omi-tuntun-ti-ru-eja-tuntun-ti-wo-o"
     },
     {
       "term": "Omiba",
@@ -26699,7 +29252,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmiba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omiba"
     },
     {
       "term": "ominira",
@@ -26709,7 +29263,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ominira"
     },
     {
       "term": "omira",
@@ -26719,7 +29274,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omira"
     },
     {
       "term": "omiran",
@@ -26729,7 +29285,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omiran"
     },
     {
       "term": "omitoro",
@@ -26739,7 +29296,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omitoro"
     },
     {
       "term": "omiwe",
@@ -26749,7 +29307,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omiwe"
     },
     {
       "term": "omiye",
@@ -26759,7 +29318,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omiye"
     },
     {
       "term": "Omo",
@@ -26770,7 +29330,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "omo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omo"
     },
     {
       "term": "omo ale",
@@ -26780,7 +29341,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-ale"
     },
     {
       "term": "omo egbe",
@@ -26790,7 +29352,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-egbe"
     },
     {
       "term": "omo ile iwe",
@@ -26800,7 +29363,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-ile-iwe"
     },
     {
       "term": "omo odo",
@@ -26810,7 +29374,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-odo"
     },
     {
       "term": "omo odu",
@@ -26820,7 +29385,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-odu"
     },
     {
       "term": "Omo-ewi",
@@ -26830,7 +29396,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-ewi"
     },
     {
       "term": "omo-owo",
@@ -26840,7 +29407,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omo-owo"
     },
     {
       "term": "Omo!",
@@ -26850,7 +29418,8 @@ window.ISESE_DATA = {
       "related": [
         "Omo"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "omo-bjgl7t"
     },
     {
       "term": "Omoba",
@@ -26861,7 +29430,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omoba"
     },
     {
       "term": "Omode",
@@ -26872,7 +29442,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọde",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omode"
     },
     {
       "term": "Omodo",
@@ -26883,7 +29454,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọdo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omodo"
     },
     {
       "term": "Omoewi",
@@ -26893,7 +29465,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omoewi"
     },
     {
       "term": "Omoge",
@@ -26904,7 +29477,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọge",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omoge"
     },
     {
       "term": "omokomo",
@@ -26914,7 +29488,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omokomo"
     },
     {
       "term": "omolanke",
@@ -26924,7 +29499,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omolanke"
     },
     {
       "term": "omoleti",
@@ -26934,7 +29510,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omoleti"
     },
     {
       "term": "Omoleye",
@@ -26944,7 +29521,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omoleye"
     },
     {
       "term": "Omolo",
@@ -26955,7 +29533,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọlọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omolo"
     },
     {
       "term": "Omoluwabi",
@@ -26966,7 +29545,8 @@ window.ISESE_DATA = {
         "Iwa",
         "Iwa Pele"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "omoluwabi"
     },
     {
       "term": "omonile",
@@ -26976,7 +29556,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omonile"
     },
     {
       "term": "omoniyan",
@@ -26986,7 +29567,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omoniyan"
     },
     {
       "term": "Omowe",
@@ -26997,7 +29579,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọwe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omowe"
     },
     {
       "term": "Omowu",
@@ -27008,7 +29591,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmọwu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omowu"
     },
     {
       "term": "Omu",
@@ -27019,7 +29603,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omu"
     },
     {
       "term": "Omugwe",
@@ -27030,7 +29615,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "omugwẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omugwe"
     },
     {
       "term": "omunumunu",
@@ -27040,7 +29626,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "omunumunu"
     },
     {
       "term": "Omuti",
@@ -27051,7 +29638,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọmuti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omuti"
     },
     {
       "term": "Omuwe",
@@ -27062,7 +29650,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "omuwẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "omuwe"
     },
     {
       "term": "On",
@@ -27073,7 +29662,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "ọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "on"
     },
     {
       "term": "Ona",
@@ -27084,7 +29674,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọna",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ona"
     },
     {
       "term": "ona kan o woja",
@@ -27094,7 +29685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ona-kan-o-woja"
     },
     {
       "term": "Ondo",
@@ -27104,7 +29696,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ondo"
     },
     {
       "term": "Ondo ajaja",
@@ -27114,7 +29707,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ondo-ajaja"
     },
     {
       "term": "One",
@@ -27125,7 +29719,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọnẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "one"
     },
     {
       "term": "Ongbe",
@@ -27136,7 +29731,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ongbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ongbe"
     },
     {
       "term": "ongbe n gbe mi",
@@ -27146,7 +29742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "phrase",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ongbe-n-gbe-mi"
     },
     {
       "term": "Oni",
@@ -27157,7 +29754,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "oni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oni"
     },
     {
       "term": "onibata",
@@ -27167,7 +29765,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onibata"
     },
     {
       "term": "onibuka",
@@ -27177,7 +29776,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onibuka"
     },
     {
       "term": "onidiri",
@@ -27187,7 +29787,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onidiri"
     },
     {
       "term": "Onie",
@@ -27198,7 +29799,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọnie",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "onie"
     },
     {
       "term": "onifa",
@@ -27208,7 +29810,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onifa"
     },
     {
       "term": "onifee-okunrin-sokunrin",
@@ -27218,7 +29821,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onifee-okunrin-sokunrin"
     },
     {
       "term": "onigbagbo",
@@ -27228,7 +29832,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onigbagbo"
     },
     {
       "term": "onigbajamo",
@@ -27238,7 +29843,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onigbajamo"
     },
     {
       "term": "onigbameji",
@@ -27248,7 +29854,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onigbameji"
     },
     {
       "term": "onikaluku",
@@ -27258,7 +29865,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onikaluku"
     },
     {
       "term": "onikondo",
@@ -27270,7 +29878,8 @@ window.ISESE_DATA = {
         "olukondo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onikondo"
     },
     {
       "term": "onikoni",
@@ -27280,7 +29889,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onikoni"
     },
     {
       "term": "onila",
@@ -27290,7 +29900,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onila"
     },
     {
       "term": "Onilu",
@@ -27302,7 +29913,8 @@ window.ISESE_DATA = {
         "Gangan",
         "Bata"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "onilu"
     },
     {
       "term": "Onimo",
@@ -27313,7 +29925,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "onimọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "onimo"
     },
     {
       "term": "onimo ijinle",
@@ -27323,7 +29936,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onimo-ijinle"
     },
     {
       "term": "Onini",
@@ -27334,7 +29948,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọnini",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "onini"
     },
     {
       "term": "oniperense",
@@ -27344,7 +29959,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oniperense"
     },
     {
       "term": "Onire",
@@ -27354,7 +29970,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onire"
     },
     {
       "term": "onisango",
@@ -27364,7 +29981,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onisango"
     },
     {
       "term": "Onisegun",
@@ -27376,7 +29994,8 @@ window.ISESE_DATA = {
         "Agbo",
         "Ewe"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "onisegun"
     },
     {
       "term": "onisese",
@@ -27386,7 +30005,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onisese"
     },
     {
       "term": "onisuuru",
@@ -27396,7 +30016,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onisuuru"
     },
     {
       "term": "Oniyan",
@@ -27407,7 +30028,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọniyan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oniyan"
     },
     {
       "term": "Oniyon",
@@ -27418,7 +30040,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọnịyọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oniyon"
     },
     {
       "term": "onka",
@@ -27428,7 +30051,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onka"
     },
     {
       "term": "Onko",
@@ -27438,7 +30062,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "onko"
     },
     {
       "term": "Ono",
@@ -27449,7 +30074,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọnọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ono"
     },
     {
       "term": "Onokon",
@@ -27460,7 +30086,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọnọkọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "onokon"
     },
     {
       "term": "oo",
@@ -27470,7 +30097,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oo"
     },
     {
       "term": "oodo",
@@ -27480,7 +30108,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oodo"
     },
     {
       "term": "oodunrun",
@@ -27490,7 +30119,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oodunrun"
     },
     {
       "term": "Oogun",
@@ -27502,7 +30132,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "oogun"
     },
     {
       "term": "ooka",
@@ -27515,7 +30146,8 @@ window.ISESE_DATA = {
         "oroka"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ooka"
     },
     {
       "term": "ookan",
@@ -27525,7 +30157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "num",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ookan"
     },
     {
       "term": "oola",
@@ -27535,7 +30168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oola"
     },
     {
       "term": "Oole",
@@ -27546,7 +30180,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oolẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oole"
     },
     {
       "term": "oolu",
@@ -27556,7 +30191,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oolu"
     },
     {
       "term": "Ooni",
@@ -27566,7 +30202,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ooni"
     },
     {
       "term": "Oore",
@@ -27577,7 +30214,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oorẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oore"
     },
     {
       "term": "ooro",
@@ -27587,7 +30225,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ooro"
     },
     {
       "term": "Ooru",
@@ -27598,7 +30237,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọọru",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ooru"
     },
     {
       "term": "Oorun",
@@ -27609,7 +30249,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "oorun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oorun"
     },
     {
       "term": "Oosa",
@@ -27620,7 +30261,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ooṣa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oosa"
     },
     {
       "term": "Ooto",
@@ -27631,7 +30273,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ootọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ooto"
     },
     {
       "term": "ooya",
@@ -27641,7 +30284,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ooya"
     },
     {
       "term": "Opa",
@@ -27652,7 +30296,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọpa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "opa"
     },
     {
       "term": "opalanba",
@@ -27665,7 +30310,8 @@ window.ISESE_DATA = {
         "opalaba"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "opalanba"
     },
     {
       "term": "Opapa",
@@ -27676,7 +30322,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọpapa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "opapa"
     },
     {
       "term": "Oparun",
@@ -27687,7 +30334,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọparun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oparun"
     },
     {
       "term": "Ope",
@@ -27698,7 +30346,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọpẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ope"
     },
     {
       "term": "ope-oyinbo",
@@ -27708,7 +30357,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ope-oyinbo"
     },
     {
       "term": "Opele",
@@ -27720,7 +30370,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "opele"
     },
     {
       "term": "opin",
@@ -27730,7 +30381,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "opin"
     },
     {
       "term": "opitan",
@@ -27740,7 +30392,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "opitan"
     },
     {
       "term": "Opo",
@@ -27751,7 +30404,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọpọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "opo"
     },
     {
       "term": "Opolo",
@@ -27762,7 +30416,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọpọlọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "opolo"
     },
     {
       "term": "opolo okun",
@@ -27772,7 +30427,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "opolo-okun"
     },
     {
       "term": "Opon",
@@ -27783,7 +30439,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọpọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "opon"
     },
     {
       "term": "Opon Ifa",
@@ -27795,7 +30452,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "opon-ifa"
     },
     {
       "term": "oponu",
@@ -27805,7 +30463,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oponu"
     },
     {
       "term": "Ora",
@@ -27816,7 +30475,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ora"
     },
     {
       "term": "Oramfe",
@@ -27826,7 +30486,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oramfe"
     },
     {
       "term": "Orangun",
@@ -27836,7 +30497,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orangun"
     },
     {
       "term": "Oranmiyan",
@@ -27847,7 +30509,8 @@ window.ISESE_DATA = {
         "Oyo",
         "Oba"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "oranmiyan"
     },
     {
       "term": "Ore",
@@ -27858,7 +30521,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ore",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ore"
     },
     {
       "term": "Ori",
@@ -27870,7 +30534,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "ori"
     },
     {
       "term": "Ori inu",
@@ -27882,7 +30547,8 @@ window.ISESE_DATA = {
         "Ayanmo",
         "Ipin"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "ori-inu"
     },
     {
       "term": "origho",
@@ -27892,7 +30558,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "origho"
     },
     {
       "term": "Origun",
@@ -27902,7 +30569,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "origun"
     },
     {
       "term": "Orijo",
@@ -27913,7 +30581,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọrịjọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "orijo"
     },
     {
       "term": "Oriki",
@@ -27925,7 +30594,8 @@ window.ISESE_DATA = {
       ],
       "category": "Culture & Society",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "oriki"
     },
     {
       "term": "Orile",
@@ -27936,7 +30606,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "orilẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "orile"
     },
     {
       "term": "Orimolusi",
@@ -27946,7 +30617,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orimolusi"
     },
     {
       "term": "orin",
@@ -27956,7 +30628,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orin"
     },
     {
       "term": "oriri",
@@ -27966,7 +30639,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oriri"
     },
     {
       "term": "orirun",
@@ -27976,7 +30650,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orirun"
     },
     {
       "term": "Orisa",
@@ -27988,7 +30663,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "orisa"
     },
     {
       "term": "Orisa-nla",
@@ -28004,7 +30680,8 @@ window.ISESE_DATA = {
         "Oosanla"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orisa-nla"
     },
     {
       "term": "Orisanla",
@@ -28015,7 +30692,8 @@ window.ISESE_DATA = {
         "Obatala",
         "Orisa"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "orisanla"
     },
     {
       "term": "Orisaoko",
@@ -28027,7 +30705,8 @@ window.ISESE_DATA = {
         "Orisa-oko"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orisaoko"
     },
     {
       "term": "orisun",
@@ -28037,7 +30716,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orisun"
     },
     {
       "term": "orita",
@@ -28047,7 +30727,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orita"
     },
     {
       "term": "Oro",
@@ -28058,7 +30739,8 @@ window.ISESE_DATA = {
         "Asa",
         "Ilu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "oro"
     },
     {
       "term": "oro agba",
@@ -28068,7 +30750,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-agba"
     },
     {
       "term": "oro aibofin-ile-igbimo-asofin-mu",
@@ -28078,7 +30761,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-aibofin-ile-igbimo-asofin-mu"
     },
     {
       "term": "oro ajoso",
@@ -28088,7 +30772,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-ajoso"
     },
     {
       "term": "oro akanlo",
@@ -28100,7 +30785,8 @@ window.ISESE_DATA = {
         "oro-akanlo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-akanlo"
     },
     {
       "term": "oro asiri",
@@ -28110,7 +30796,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-asiri"
     },
     {
       "term": "oro awada",
@@ -28120,7 +30807,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-awada"
     },
     {
       "term": "oro eyin",
@@ -28130,7 +30818,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-eyin"
     },
     {
       "term": "oro-aje",
@@ -28140,7 +30829,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-aje"
     },
     {
       "term": "oro-ise",
@@ -28150,7 +30840,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-ise"
     },
     {
       "term": "oro-ise elela",
@@ -28160,7 +30851,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-ise-elela"
     },
     {
       "term": "oro-oruko",
@@ -28170,7 +30862,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oro-oruko"
     },
     {
       "term": "orofo",
@@ -28180,7 +30873,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orofo"
     },
     {
       "term": "orogbo",
@@ -28190,7 +30884,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orogbo"
     },
     {
       "term": "orogun",
@@ -28200,7 +30895,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orogun"
     },
     {
       "term": "orokoro",
@@ -28210,7 +30906,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orokoro"
     },
     {
       "term": "orombo",
@@ -28220,7 +30917,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orombo"
     },
     {
       "term": "oromodiye",
@@ -28230,7 +30928,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oromodiye"
     },
     {
       "term": "Orompoto",
@@ -28242,7 +30941,8 @@ window.ISESE_DATA = {
         "Oronpoto"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orompoto"
     },
     {
       "term": "orooro",
@@ -28252,7 +30952,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orooro"
     },
     {
       "term": "ororo",
@@ -28262,7 +30963,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ororo"
     },
     {
       "term": "Orowa",
@@ -28273,7 +30975,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọrọwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "orowa"
     },
     {
       "term": "oru",
@@ -28283,7 +30986,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oru"
     },
     {
       "term": "Oruka",
@@ -28294,7 +30998,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọruka",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oruka"
     },
     {
       "term": "Oruko",
@@ -28305,7 +31010,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "orukọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oruko"
     },
     {
       "term": "oruko abiku",
@@ -28315,7 +31021,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oruko-abiku"
     },
     {
       "term": "oruko amutorunwa",
@@ -28325,7 +31032,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oruko-amutorunwa"
     },
     {
       "term": "orukokoruko",
@@ -28335,7 +31043,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orukokoruko"
     },
     {
       "term": "orule",
@@ -28345,7 +31054,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orule"
     },
     {
       "term": "Orun",
@@ -28357,7 +31067,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "orun"
     },
     {
       "term": "orunkun",
@@ -28367,7 +31078,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orunkun"
     },
     {
       "term": "Orunmila",
@@ -28379,7 +31091,8 @@ window.ISESE_DATA = {
         "Babalawo",
         "Odu"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "orunmila"
     },
     {
       "term": "orupo",
@@ -28389,7 +31102,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "orupo"
     },
     {
       "term": "oruwo",
@@ -28399,7 +31113,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oruwo"
     },
     {
       "term": "Osa",
@@ -28410,7 +31125,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọṣa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osa"
     },
     {
       "term": "osa ise-aje",
@@ -28420,7 +31136,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osa-ise-aje"
     },
     {
       "term": "Osagunda",
@@ -28430,7 +31147,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osagunda"
     },
     {
       "term": "Osan",
@@ -28441,7 +31159,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọsan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osan"
     },
     {
       "term": "Osanyin",
@@ -28453,7 +31172,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "osanyin"
     },
     {
       "term": "Osara",
@@ -28463,7 +31183,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osara"
     },
     {
       "term": "Osasa",
@@ -28474,7 +31195,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọṣaṣa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osasa"
     },
     {
       "term": "Ose",
@@ -28485,7 +31207,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ose"
     },
     {
       "term": "ose Ifa",
@@ -28495,7 +31218,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ose-ifa"
     },
     {
       "term": "ose Jakuta",
@@ -28505,7 +31229,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ose-jakuta"
     },
     {
       "term": "ose Obatala",
@@ -28515,7 +31240,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ose-obatala"
     },
     {
       "term": "ose Ogun",
@@ -28525,7 +31251,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ose-ogun"
     },
     {
       "term": "Oseeremagbo",
@@ -28535,7 +31262,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oseeremagbo"
     },
     {
       "term": "Oselu",
@@ -28546,7 +31274,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oṣelu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oselu"
     },
     {
       "term": "Osemawe",
@@ -28556,7 +31285,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osemawe"
     },
     {
       "term": "Osere",
@@ -28567,7 +31297,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oṣere",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osere"
     },
     {
       "term": "osi",
@@ -28577,7 +31308,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osi"
     },
     {
       "term": "osibata",
@@ -28589,7 +31321,8 @@ window.ISESE_DATA = {
         "ojibata"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osibata"
     },
     {
       "term": "Osie",
@@ -28600,7 +31333,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oṣie",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osie"
     },
     {
       "term": "Osijin",
@@ -28611,7 +31345,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọsijin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osijin"
     },
     {
       "term": "osilo",
@@ -28621,7 +31356,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osilo"
     },
     {
       "term": "Osin",
@@ -28632,7 +31368,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọsin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osin"
     },
     {
       "term": "Osirelia",
@@ -28642,7 +31379,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osirelia"
     },
     {
       "term": "Osiria",
@@ -28652,7 +31390,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osiria"
     },
     {
       "term": "Osise",
@@ -28663,7 +31402,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oṣiṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osise"
     },
     {
       "term": "Oso",
@@ -28674,7 +31414,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọṣọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oso"
     },
     {
       "term": "Osogbo",
@@ -28684,7 +31425,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osogbo"
     },
     {
       "term": "Osomaalo",
@@ -28694,7 +31436,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osomaalo"
     },
     {
       "term": "osoosan",
@@ -28704,7 +31447,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osoosan"
     },
     {
       "term": "Osoose",
@@ -28715,7 +31459,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọsọọsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osoose"
     },
     {
       "term": "Osoosi",
@@ -28726,7 +31471,8 @@ window.ISESE_DATA = {
         "Orisa",
         "Ode"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "osoosi"
     },
     {
       "term": "Osoosu",
@@ -28737,7 +31483,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oṣooṣu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osoosu"
     },
     {
       "term": "Osu",
@@ -28748,7 +31495,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "oṣu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osu"
     },
     {
       "term": "Osu Agemo",
@@ -28758,7 +31506,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-agemo"
     },
     {
       "term": "Osu Belu",
@@ -28768,7 +31517,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-belu"
     },
     {
       "term": "Osu Ebibi",
@@ -28778,7 +31528,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-ebibi"
     },
     {
       "term": "Osu Erele",
@@ -28788,7 +31539,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-erele"
     },
     {
       "term": "Osu Erena",
@@ -28798,7 +31550,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-erena"
     },
     {
       "term": "Osu Igbe",
@@ -28808,7 +31561,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-igbe"
     },
     {
       "term": "Osu Ogun",
@@ -28818,7 +31572,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-ogun"
     },
     {
       "term": "Osu Okudu",
@@ -28828,7 +31583,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-okudu"
     },
     {
       "term": "Osu Ope",
@@ -28838,7 +31594,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-ope"
     },
     {
       "term": "Osu Owara",
@@ -28848,7 +31605,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-owara"
     },
     {
       "term": "Osu Owewe",
@@ -28858,7 +31616,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-owewe"
     },
     {
       "term": "Osu Sere",
@@ -28868,7 +31627,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osu-sere"
     },
     {
       "term": "Osumare",
@@ -28878,7 +31638,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osumare"
     },
     {
       "term": "Osun",
@@ -28890,7 +31651,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "osun"
     },
     {
       "term": "Osupa",
@@ -28901,7 +31663,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "osupa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "osupa"
     },
     {
       "term": "osupa aranmoju",
@@ -28911,7 +31674,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osupa-aranmoju"
     },
     {
       "term": "osupadeje",
@@ -28921,7 +31685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "osupadeje"
     },
     {
       "term": "Ota",
@@ -28932,7 +31697,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ota"
     },
     {
       "term": "Otabe",
@@ -28943,7 +31709,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtabẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otabe"
     },
     {
       "term": "Ote",
@@ -28954,7 +31721,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ote"
     },
     {
       "term": "otelemuye",
@@ -28964,7 +31732,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otelemuye"
     },
     {
       "term": "otente",
@@ -28974,7 +31743,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otente"
     },
     {
       "term": "Otete",
@@ -28985,7 +31755,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtẹtẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otete"
     },
     {
       "term": "Oti",
@@ -28996,7 +31767,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oti"
     },
     {
       "term": "Otin",
@@ -29006,7 +31778,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otin"
     },
     {
       "term": "Otita",
@@ -29017,7 +31790,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtịta",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otita"
     },
     {
       "term": "Otito",
@@ -29028,7 +31802,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "otitọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otito"
     },
     {
       "term": "otolo",
@@ -29038,7 +31813,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otolo"
     },
     {
       "term": "otu",
@@ -29048,7 +31824,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otu"
     },
     {
       "term": "Otua",
@@ -29060,7 +31837,8 @@ window.ISESE_DATA = {
         "Otura"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otua"
     },
     {
       "term": "Otun",
@@ -29071,7 +31849,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otun"
     },
     {
       "term": "Otunla",
@@ -29082,7 +31861,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtunla",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otunla"
     },
     {
       "term": "Otupa",
@@ -29093,7 +31873,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọtụpa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "otupa"
     },
     {
       "term": "Otuurupon",
@@ -29103,7 +31884,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "otuurupon"
     },
     {
       "term": "ouko",
@@ -29113,7 +31895,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ouko"
     },
     {
       "term": "oun",
@@ -29123,7 +31906,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oun"
     },
     {
       "term": "Ounje",
@@ -29134,7 +31918,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ounje",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ounje"
     },
     {
       "term": "Owa",
@@ -29145,7 +31930,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "owa"
     },
     {
       "term": "Owaara",
@@ -29156,7 +31942,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọwaara",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "owaara"
     },
     {
       "term": "Owara",
@@ -29166,7 +31953,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owara"
     },
     {
       "term": "Owe",
@@ -29177,7 +31965,8 @@ window.ISESE_DATA = {
         "Ede Yoruba",
         "Oriki"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "owe"
     },
     {
       "term": "Owere",
@@ -29188,7 +31977,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọwẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "owere"
     },
     {
       "term": "Owewe",
@@ -29198,7 +31988,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owewe"
     },
     {
       "term": "owiwi",
@@ -29208,7 +31999,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owiwi"
     },
     {
       "term": "Owo",
@@ -29219,7 +32011,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "owo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "owo"
     },
     {
       "term": "owo eyo",
@@ -29229,7 +32022,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owo-eyo"
     },
     {
       "term": "owo gba-maa-binu",
@@ -29239,7 +32033,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owo-gba-maa-binu"
     },
     {
       "term": "owo ifeyinti",
@@ -29249,7 +32044,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owo-ifeyinti"
     },
     {
       "term": "owo omi",
@@ -29259,7 +32055,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owo-omi"
     },
     {
       "term": "owo ori",
@@ -29269,7 +32066,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owo-ori"
     },
     {
       "term": "owo osu",
@@ -29279,7 +32077,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owo-osu"
     },
     {
       "term": "Owon",
@@ -29290,7 +32089,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ọwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "owon"
     },
     {
       "term": "Owonrin",
@@ -29302,7 +32102,8 @@ window.ISESE_DATA = {
         "Oworin"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owonrin"
     },
     {
       "term": "Owonwe",
@@ -29313,7 +32114,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "ọwọnwe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "owonwe"
     },
     {
       "term": "Owu",
@@ -29323,7 +32125,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owu"
     },
     {
       "term": "owuo",
@@ -29333,7 +32136,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owuo"
     },
     {
       "term": "owuro",
@@ -29343,7 +32147,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owuro"
     },
     {
       "term": "owusuwusu",
@@ -29353,7 +32158,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "owusuwusu"
     },
     {
       "term": "Oya",
@@ -29365,7 +32171,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "oya"
     },
     {
       "term": "Oyan",
@@ -29376,7 +32183,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọyan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oyan"
     },
     {
       "term": "Oyaya",
@@ -29387,7 +32195,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọyaya",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oyaya"
     },
     {
       "term": "Oye",
@@ -29398,7 +32207,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oye"
     },
     {
       "term": "Oyeku",
@@ -29408,7 +32218,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyeku"
     },
     {
       "term": "Oyeye",
@@ -29419,7 +32230,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọyẹyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oyeye"
     },
     {
       "term": "oyi",
@@ -29429,7 +32241,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyi"
     },
     {
       "term": "oyi-eedu",
@@ -29439,7 +32252,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyi-eedu"
     },
     {
       "term": "Oyin",
@@ -29450,7 +32264,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọyịn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oyin"
     },
     {
       "term": "oyin ado",
@@ -29460,7 +32275,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyin-ado"
     },
     {
       "term": "oyin igan",
@@ -29470,7 +32286,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyin-igan"
     },
     {
       "term": "Oyinbo",
@@ -29482,7 +32299,8 @@ window.ISESE_DATA = {
         "Eebo"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyinbo"
     },
     {
       "term": "oyiya",
@@ -29492,7 +32310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyiya"
     },
     {
       "term": "Oyo",
@@ -29502,7 +32321,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyo"
     },
     {
       "term": "Oyomesi",
@@ -29512,7 +32332,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyomesi"
     },
     {
       "term": "Oyotunji",
@@ -29522,7 +32343,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "oyotunji"
     },
     {
       "term": "Oyun",
@@ -29533,7 +32355,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ọyun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "oyun"
     },
     {
       "term": "ozu",
@@ -29543,7 +32366,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ozu"
     },
     {
       "term": "P",
@@ -29553,7 +32377,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "p"
     },
     {
       "term": "pa",
@@ -29563,7 +32388,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pa"
     },
     {
       "term": "paaki",
@@ -29573,7 +32399,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paaki"
     },
     {
       "term": "paari",
@@ -29583,7 +32410,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paari"
     },
     {
       "term": "paayan",
@@ -29593,7 +32421,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paayan"
     },
     {
       "term": "padanu",
@@ -29603,7 +32432,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "padanu"
     },
     {
       "term": "pagidende",
@@ -29613,7 +32443,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pagidende"
     },
     {
       "term": "Pago",
@@ -29624,7 +32455,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "pagọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pago"
     },
     {
       "term": "pai",
@@ -29634,7 +32466,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pai"
     },
     {
       "term": "pajawiri",
@@ -29644,7 +32477,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pajawiri"
     },
     {
       "term": "paka",
@@ -29654,7 +32488,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paka"
     },
     {
       "term": "pakala",
@@ -29664,7 +32499,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pakala"
     },
     {
       "term": "paki",
@@ -29674,7 +32510,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paki"
     },
     {
       "term": "Pakisitani",
@@ -29684,7 +32521,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pakisitani"
     },
     {
       "term": "pako",
@@ -29694,7 +32532,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pako"
     },
     {
       "term": "pakute",
@@ -29704,7 +32543,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pakute"
     },
     {
       "term": "palaka",
@@ -29714,7 +32554,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "palaka"
     },
     {
       "term": "palarun",
@@ -29724,7 +32565,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "palarun"
     },
     {
       "term": "Palesini",
@@ -29734,7 +32576,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "palesini"
     },
     {
       "term": "Palo",
@@ -29745,7 +32588,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "palọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "palo"
     },
     {
       "term": "pana",
@@ -29755,7 +32599,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pana"
     },
     {
       "term": "panakata",
@@ -29765,7 +32610,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "panakata"
     },
     {
       "term": "panapana",
@@ -29775,7 +32621,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "panapana"
     },
     {
       "term": "panda",
@@ -29785,7 +32632,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "panda"
     },
     {
       "term": "pankeeki",
@@ -29795,7 +32643,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pankeeki"
     },
     {
       "term": "pankuru",
@@ -29805,7 +32654,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pankuru"
     },
     {
       "term": "panti",
@@ -29815,7 +32665,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "panti"
     },
     {
       "term": "papa",
@@ -29825,7 +32676,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "papa"
     },
     {
       "term": "papako ofuurufu",
@@ -29835,7 +32687,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "papako-ofuurufu"
     },
     {
       "term": "papoda",
@@ -29845,7 +32698,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "papoda"
     },
     {
       "term": "parada",
@@ -29855,7 +32709,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "parada"
     },
     {
       "term": "paradise",
@@ -29865,7 +32720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paradise"
     },
     {
       "term": "Parakoyi",
@@ -29875,7 +32731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "parakoyi"
     },
     {
       "term": "paranta",
@@ -29885,7 +32742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paranta"
     },
     {
       "term": "parapandu",
@@ -29895,7 +32753,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "parapandu"
     },
     {
       "term": "pari",
@@ -29905,7 +32764,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pari"
     },
     {
       "term": "parin",
@@ -29915,7 +32775,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "parin"
     },
     {
       "term": "pariwo",
@@ -29925,7 +32786,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pariwo"
     },
     {
       "term": "Paro",
@@ -29936,7 +32798,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "parọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "paro"
     },
     {
       "term": "paroko",
@@ -29946,7 +32809,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "paroko"
     },
     {
       "term": "Parowa",
@@ -29957,7 +32821,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "parọwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "parowa"
     },
     {
       "term": "Pasan",
@@ -29968,7 +32833,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "paṣan",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pasan"
     },
     {
       "term": "Pase",
@@ -29979,7 +32845,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "paṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pase"
     },
     {
       "term": "pasipaaro",
@@ -29989,7 +32856,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pasipaaro"
     },
     {
       "term": "pata",
@@ -29999,7 +32867,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pata"
     },
     {
       "term": "pataki",
@@ -30009,7 +32878,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pataki"
     },
     {
       "term": "Patewo",
@@ -30020,7 +32890,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "patẹwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "patewo"
     },
     {
       "term": "Patiye",
@@ -30031,7 +32902,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "patiyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "patiye"
     },
     {
       "term": "Pe",
@@ -30042,7 +32914,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "pẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pe"
     },
     {
       "term": "Peeni",
@@ -30053,7 +32926,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹẹni",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "peeni"
     },
     {
       "term": "Peja",
@@ -30064,7 +32938,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "pẹja",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "peja"
     },
     {
       "term": "pejapeja",
@@ -30074,7 +32949,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pejapeja"
     },
     {
       "term": "pekireki",
@@ -30084,7 +32960,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pekireki"
     },
     {
       "term": "Pekule",
@@ -30095,7 +32972,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹkulẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pekule"
     },
     {
       "term": "Pele",
@@ -30106,7 +32984,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "pele",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pele"
     },
     {
       "term": "Pelebe",
@@ -30117,7 +32996,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹlẹbẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pelebe"
     },
     {
       "term": "Pelu",
@@ -30128,7 +33008,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "pẹlu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pelu"
     },
     {
       "term": "Pena",
@@ -30139,7 +33020,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹna",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pena"
     },
     {
       "term": "penaiti",
@@ -30149,7 +33031,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "penaiti"
     },
     {
       "term": "penariti",
@@ -30159,7 +33042,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "penariti"
     },
     {
       "term": "Pensu",
@@ -30170,7 +33054,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹnsu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pensu"
     },
     {
       "term": "Pepe",
@@ -30181,7 +33066,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹpẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pepe"
     },
     {
       "term": "Pepeye",
@@ -30192,7 +33078,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹpẹyẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pepeye"
     },
     {
       "term": "Pepusi",
@@ -30203,7 +33090,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹpusi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pepusi"
     },
     {
       "term": "pere",
@@ -30213,7 +33101,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pere"
     },
     {
       "term": "peregun",
@@ -30223,7 +33112,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "peregun"
     },
     {
       "term": "Perese",
@@ -30234,7 +33124,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pẹrẹsẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "perese"
     },
     {
       "term": "pete",
@@ -30244,7 +33135,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pete"
     },
     {
       "term": "peteesi",
@@ -30254,7 +33146,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "peteesi"
     },
     {
       "term": "petepete",
@@ -30264,7 +33157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "petepete"
     },
     {
       "term": "pi",
@@ -30274,7 +33168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pi"
     },
     {
       "term": "pidan",
@@ -30284,7 +33179,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pidan"
     },
     {
       "term": "pidanpidan",
@@ -30294,7 +33190,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pidanpidan"
     },
     {
       "term": "pin",
@@ -30304,7 +33201,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pin"
     },
     {
       "term": "pinnu",
@@ -30314,7 +33212,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pinnu"
     },
     {
       "term": "pipiri",
@@ -30324,7 +33223,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pipiri"
     },
     {
       "term": "piroro bi eja ojiji",
@@ -30334,7 +33234,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "piroro-bi-eja-ojiji"
     },
     {
       "term": "pitan",
@@ -30344,7 +33245,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pitan"
     },
     {
       "term": "Po",
@@ -30355,7 +33257,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "pọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "po"
     },
     {
       "term": "po bi iyanrin",
@@ -30365,7 +33268,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "po-bi-iyanrin"
     },
     {
       "term": "Pofo",
@@ -30376,7 +33280,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "pọfọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pofo"
     },
     {
       "term": "pogede",
@@ -30386,7 +33291,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pogede"
     },
     {
       "term": "pokunso",
@@ -30396,7 +33302,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pokunso"
     },
     {
       "term": "polongo",
@@ -30406,7 +33313,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "polongo"
     },
     {
       "term": "polowo",
@@ -30416,7 +33324,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "polowo"
     },
     {
       "term": "polukurumusu",
@@ -30426,7 +33335,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "polukurumusu"
     },
     {
       "term": "pomegiraneti",
@@ -30436,7 +33346,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "pomegiraneti"
     },
     {
       "term": "Pon",
@@ -30447,7 +33358,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "pọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pon"
     },
     {
       "term": "Ponmo",
@@ -30458,7 +33370,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pọnmọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ponmo"
     },
     {
       "term": "poo",
@@ -30468,7 +33381,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "poo"
     },
     {
       "term": "popo",
@@ -30478,7 +33392,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "popo"
     },
     {
       "term": "popondo",
@@ -30488,7 +33403,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "popondo"
     },
     {
       "term": "poporo",
@@ -30498,7 +33414,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "poporo"
     },
     {
       "term": "popotan",
@@ -30508,7 +33425,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "popotan"
     },
     {
       "term": "Pose",
@@ -30519,7 +33437,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "poṣe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pose"
     },
     {
       "term": "posi",
@@ -30529,7 +33448,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "posi"
     },
     {
       "term": "potimanto",
@@ -30539,7 +33459,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "potimanto"
     },
     {
       "term": "Potogi",
@@ -30549,7 +33470,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "potogi"
     },
     {
       "term": "potopoto",
@@ -30559,7 +33481,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "potopoto"
     },
     {
       "term": "Potuga",
@@ -30569,7 +33492,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "potuga"
     },
     {
       "term": "powe",
@@ -30579,7 +33503,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "powe"
     },
     {
       "term": "Pupo",
@@ -30590,7 +33515,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "pupọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "pupo"
     },
     {
       "term": "purofaili",
@@ -30600,7 +33526,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "purofaili"
     },
     {
       "term": "puromo",
@@ -30610,7 +33537,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "puromo"
     },
     {
       "term": "purotosua",
@@ -30620,7 +33548,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "purotosua"
     },
     {
       "term": "puruntu",
@@ -30630,7 +33559,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "puruntu"
     },
     {
       "term": "R",
@@ -30640,7 +33570,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "r"
     },
     {
       "term": "ra",
@@ -30650,7 +33581,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ra"
     },
     {
       "term": "ragoliisi",
@@ -30660,7 +33592,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ragoliisi"
     },
     {
       "term": "raisi",
@@ -30670,7 +33603,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "raisi"
     },
     {
       "term": "rakunmi",
@@ -30680,7 +33614,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rakunmi"
     },
     {
       "term": "ranloo",
@@ -30690,7 +33625,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ranloo"
     },
     {
       "term": "Ranse",
@@ -30701,7 +33637,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ranṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ranse"
     },
     {
       "term": "Rara",
@@ -30711,7 +33648,8 @@ window.ISESE_DATA = {
       "related": [
         "Bee ni"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "rara"
     },
     {
       "term": "raye",
@@ -30721,7 +33659,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "raye"
     },
     {
       "term": "Re",
@@ -30732,7 +33671,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "rẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "re"
     },
     {
       "term": "re koja",
@@ -30742,7 +33682,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "re-koja"
     },
     {
       "term": "Refiri",
@@ -30753,7 +33694,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "rẹfiri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "refiri"
     },
     {
       "term": "rege",
@@ -30763,7 +33705,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rege"
     },
     {
       "term": "Reje",
@@ -30774,7 +33717,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rẹjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "reje"
     },
     {
       "term": "rekoreko",
@@ -30784,7 +33728,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rekoreko"
     },
     {
       "term": "reluwee",
@@ -30794,7 +33739,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "reluwee"
     },
     {
       "term": "Remo",
@@ -30804,7 +33750,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "remo"
     },
     {
       "term": "Ren",
@@ -30815,7 +33762,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ren"
     },
     {
       "term": "Rewa",
@@ -30826,7 +33774,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rẹwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "rewa"
     },
     {
       "term": "rewa bi egbin",
@@ -30836,7 +33785,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rewa-bi-egbin"
     },
     {
       "term": "ri",
@@ -30846,7 +33796,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ri"
     },
     {
       "term": "ria",
@@ -30856,7 +33807,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ria"
     },
     {
       "term": "riba",
@@ -30866,7 +33818,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "riba"
     },
     {
       "term": "rii",
@@ -30876,7 +33829,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rii"
     },
     {
       "term": "Rikisi",
@@ -30887,7 +33841,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "rikiṣi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "rikisi"
     },
     {
       "term": "Rin",
@@ -30898,7 +33853,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "rin",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "rin"
     },
     {
       "term": "rin ni igake",
@@ -30908,7 +33864,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rin-ni-igake"
     },
     {
       "term": "rin-in",
@@ -30918,7 +33875,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rin-in"
     },
     {
       "term": "rin-on",
@@ -30928,7 +33886,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rin-on"
     },
     {
       "term": "risiiti",
@@ -30938,7 +33897,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "risiiti"
     },
     {
       "term": "Risinkin",
@@ -30948,7 +33908,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "risinkin"
     },
     {
       "term": "Ro",
@@ -30959,7 +33920,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ro"
     },
     {
       "term": "Robi",
@@ -30970,7 +33932,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rọbi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "robi"
     },
     {
       "term": "rogbodiyan",
@@ -30980,7 +33943,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rogbodiyan"
     },
     {
       "term": "roju",
@@ -30990,7 +33954,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "roju"
     },
     {
       "term": "Ron",
@@ -31001,7 +33966,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "rọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ron"
     },
     {
       "term": "Ronloo",
@@ -31012,7 +33978,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rọnlọọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ronloo"
     },
     {
       "term": "ronupiwada",
@@ -31022,7 +33989,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ronupiwada"
     },
     {
       "term": "roparose",
@@ -31032,7 +34000,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "roparose"
     },
     {
       "term": "Rora",
@@ -31043,7 +34012,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "rọra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "rora"
     },
     {
       "term": "Rore",
@@ -31054,7 +34024,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "rorẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "rore"
     },
     {
       "term": "Rosia",
@@ -31064,7 +34035,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "rosia"
     },
     {
       "term": "ruuru",
@@ -31074,7 +34046,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ruuru"
     },
     {
       "term": "Ruwanda",
@@ -31084,7 +34057,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ruwanda"
     },
     {
       "term": "S",
@@ -31094,7 +34068,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "s"
     },
     {
       "term": "Sa",
@@ -31104,7 +34079,8 @@ window.ISESE_DATA = {
       "related": [
         "Lasan"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "sa"
     },
     {
       "term": "saa",
@@ -31114,7 +34090,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saa"
     },
     {
       "term": "saa ijoba-amunisin",
@@ -31124,7 +34101,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saa-ijoba-amunisin"
     },
     {
       "term": "Saadi",
@@ -31134,7 +34112,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saadi"
     },
     {
       "term": "saafula!",
@@ -31146,7 +34125,8 @@ window.ISESE_DATA = {
         "saafula"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saafula"
     },
     {
       "term": "saaki!",
@@ -31158,7 +34138,8 @@ window.ISESE_DATA = {
         "saaki"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saaki"
     },
     {
       "term": "Saanu",
@@ -31169,7 +34150,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣaanu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "saanu"
     },
     {
       "term": "saari",
@@ -31179,7 +34161,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saari"
     },
     {
       "term": "Saata",
@@ -31190,7 +34173,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣaata",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "saata"
     },
     {
       "term": "saba",
@@ -31200,7 +34184,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saba"
     },
     {
       "term": "sababi",
@@ -31210,7 +34195,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sababi"
     },
     {
       "term": "Sabee",
@@ -31220,7 +34206,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sabee"
     },
     {
       "term": "Sabiganna",
@@ -31230,7 +34217,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sabiganna"
     },
     {
       "term": "sadankata",
@@ -31240,7 +34228,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sadankata"
     },
     {
       "term": "safikun",
@@ -31250,7 +34239,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "safikun"
     },
     {
       "term": "safuroni",
@@ -31260,7 +34250,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "safuroni"
     },
     {
       "term": "Sagidi",
@@ -31271,7 +34262,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣagidi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sagidi"
     },
     {
       "term": "Sago",
@@ -31282,7 +34274,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣago",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sago"
     },
     {
       "term": "sago n bugo",
@@ -31292,7 +34285,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "proverb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sago-n-bugo"
     },
     {
       "term": "Saina",
@@ -31302,7 +34296,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saina"
     },
     {
       "term": "sainon",
@@ -31312,7 +34307,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sainon"
     },
     {
       "term": "sakaani",
@@ -31322,7 +34318,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sakaani"
     },
     {
       "term": "sakabula",
@@ -31332,7 +34329,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sakabula"
     },
     {
       "term": "sakara",
@@ -31342,7 +34340,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sakara"
     },
     {
       "term": "Saki",
@@ -31353,7 +34352,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣaki",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "saki"
     },
     {
       "term": "Sakoso",
@@ -31364,7 +34364,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣakoso",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sakoso"
     },
     {
       "term": "salaisi",
@@ -31374,7 +34375,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "salaisi"
     },
     {
       "term": "salanga",
@@ -31384,7 +34386,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "salanga"
     },
     {
       "term": "Salaye",
@@ -31395,7 +34398,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣalaye",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "salaye"
     },
     {
       "term": "salubata",
@@ -31405,7 +34409,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "salubata"
     },
     {
       "term": "samaani",
@@ -31415,7 +34420,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "samaani"
     },
     {
       "term": "Samu",
@@ -31425,7 +34431,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "samu"
     },
     {
       "term": "Sanbia",
@@ -31435,7 +34442,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sanbia"
     },
     {
       "term": "Sango",
@@ -31447,7 +34455,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "sango"
     },
     {
       "term": "Sango-pipe",
@@ -31459,7 +34468,8 @@ window.ISESE_DATA = {
         "Sango{l}}"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sango-pipe"
     },
     {
       "term": "sanma",
@@ -31469,7 +34479,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sanma"
     },
     {
       "term": "sanmoni",
@@ -31479,7 +34490,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sanmoni"
     },
     {
       "term": "Sanponna",
@@ -31489,7 +34501,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sanponna"
     },
     {
       "term": "saraa",
@@ -31499,7 +34512,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saraa"
     },
     {
       "term": "saraki",
@@ -31509,7 +34523,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saraki"
     },
     {
       "term": "Sare",
@@ -31520,7 +34535,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "sare",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sare"
     },
     {
       "term": "saree",
@@ -31530,7 +34546,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saree"
     },
     {
       "term": "Saro",
@@ -31540,7 +34557,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "saro"
     },
     {
       "term": "sarootu",
@@ -31550,7 +34568,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sarootu"
     },
     {
       "term": "Satani",
@@ -31560,7 +34579,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "satani"
     },
     {
       "term": "satunse",
@@ -31570,7 +34590,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "satunse"
     },
     {
       "term": "satunto",
@@ -31580,7 +34601,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "satunto"
     },
     {
       "term": "Sawada",
@@ -31591,7 +34613,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣawada",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sawada"
     },
     {
       "term": "Sawari",
@@ -31602,7 +34625,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣawari",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sawari"
     },
     {
       "term": "Sawawi",
@@ -31613,7 +34637,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣawawi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sawawi"
     },
     {
       "term": "Saworo",
@@ -31624,7 +34649,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣaworo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "saworo"
     },
     {
       "term": "sayensi",
@@ -31634,7 +34660,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sayensi"
     },
     {
       "term": "Sayewo",
@@ -31645,7 +34672,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣayẹwo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sayewo"
     },
     {
       "term": "Se",
@@ -31656,7 +34684,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "se",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "se"
     },
     {
       "term": "Se?",
@@ -31666,7 +34695,8 @@ window.ISESE_DATA = {
       "related": [
         "Abi?"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "se-vjo8su"
     },
     {
       "term": "Sebi?",
@@ -31677,7 +34707,8 @@ window.ISESE_DATA = {
         "Se?",
         "Abi?"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "sebi"
     },
     {
       "term": "Seda",
@@ -31688,7 +34719,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣẹda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seda"
     },
     {
       "term": "Seeti",
@@ -31699,7 +34731,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣẹẹti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seeti"
     },
     {
       "term": "Sefanaya",
@@ -31709,7 +34742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sefanaya"
     },
     {
       "term": "Sege",
@@ -31720,7 +34754,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣege",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sege"
     },
     {
       "term": "Segede",
@@ -31731,7 +34766,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣegede",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "segede"
     },
     {
       "term": "Segi",
@@ -31742,7 +34778,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣẹgi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "segi"
     },
     {
       "term": "Seju",
@@ -31753,7 +34790,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣẹju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seju"
     },
     {
       "term": "Sekaraya",
@@ -31763,7 +34801,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sekaraya"
     },
     {
       "term": "Sekere",
@@ -31774,7 +34813,8 @@ window.ISESE_DATA = {
         "Onilu",
         "Dundun"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "sekere"
     },
     {
       "term": "sekeseke",
@@ -31784,7 +34824,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sekeseke"
     },
     {
       "term": "Sekete",
@@ -31795,7 +34836,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣẹkẹtẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sekete"
     },
     {
       "term": "Sele",
@@ -31806,7 +34848,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣẹlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sele"
     },
     {
       "term": "Seleri",
@@ -31817,7 +34860,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣeleri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seleri"
     },
     {
       "term": "Seleru",
@@ -31828,7 +34872,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣẹlẹru",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seleru"
     },
     {
       "term": "seloteepu",
@@ -31838,7 +34883,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "seloteepu"
     },
     {
       "term": "Selu",
@@ -31849,7 +34895,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣelu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "selu"
     },
     {
       "term": "Sen",
@@ -31860,7 +34907,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "sẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sen"
     },
     {
       "term": "Senega",
@@ -31870,7 +34918,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "senega"
     },
     {
       "term": "Sengwa",
@@ -31881,7 +34930,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "sẹngwa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sengwa"
     },
     {
       "term": "Senji",
@@ -31892,7 +34942,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣenji",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "senji"
     },
     {
       "term": "sentimita",
@@ -31902,7 +34953,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sentimita"
     },
     {
       "term": "sepinya",
@@ -31912,7 +34964,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sepinya"
     },
     {
       "term": "sepusepu",
@@ -31922,7 +34975,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sepusepu"
     },
     {
       "term": "Sere",
@@ -31933,7 +34987,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣere",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sere"
     },
     {
       "term": "Seriya",
@@ -31944,7 +34999,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "sẹriya",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seriya"
     },
     {
       "term": "Sese",
@@ -31955,7 +35011,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣeṣe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sese"
     },
     {
       "term": "Seto",
@@ -31966,7 +35023,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣeto",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "seto"
     },
     {
       "term": "sewadii",
@@ -31976,7 +35034,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sewadii"
     },
     {
       "term": "Si",
@@ -31987,7 +35046,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "si"
     },
     {
       "term": "Sibi",
@@ -31998,7 +35058,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣibi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sibi"
     },
     {
       "term": "siga",
@@ -32008,7 +35069,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "siga"
     },
     {
       "term": "Sigidi",
@@ -32019,7 +35081,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣigidi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sigidi"
     },
     {
       "term": "Sigun",
@@ -32030,7 +35093,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣigun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sigun"
     },
     {
       "term": "Sikago",
@@ -32040,7 +35104,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sikago"
     },
     {
       "term": "Sikiti",
@@ -32051,7 +35116,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣikiti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sikiti"
     },
     {
       "term": "Siko",
@@ -32062,7 +35128,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "excl",
       "normalized": "ṣiko",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "siko"
     },
     {
       "term": "Sile",
@@ -32073,7 +35140,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣile",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sile"
     },
     {
       "term": "silebu",
@@ -32083,7 +35151,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "silebu"
     },
     {
       "term": "Simi",
@@ -32094,7 +35163,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣimi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "simi"
     },
     {
       "term": "sin",
@@ -32104,7 +35174,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sin"
     },
     {
       "term": "sinamoni",
@@ -32114,7 +35185,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sinamoni"
     },
     {
       "term": "Sinbabuwe",
@@ -32124,7 +35196,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sinbabuwe"
     },
     {
       "term": "singbonle",
@@ -32134,7 +35207,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "singbonle"
     },
     {
       "term": "singoomu",
@@ -32144,7 +35218,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "singoomu"
     },
     {
       "term": "sinima",
@@ -32154,7 +35229,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sinima"
     },
     {
       "term": "sinki",
@@ -32164,7 +35240,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sinki"
     },
     {
       "term": "Sinko",
@@ -32174,7 +35251,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sinko"
     },
     {
       "term": "sinmi",
@@ -32184,7 +35262,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sinmi"
     },
     {
       "term": "Sipeeni",
@@ -32194,7 +35273,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sipeeni"
     },
     {
       "term": "Siri Lanka",
@@ -32204,7 +35284,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "siri-lanka"
     },
     {
       "term": "siri pake",
@@ -32214,7 +35295,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "siri-pake"
     },
     {
       "term": "Siria",
@@ -32224,7 +35306,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "siria"
     },
     {
       "term": "Siria Loonu",
@@ -32234,7 +35317,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "siria-loonu"
     },
     {
       "term": "Sise",
@@ -32245,7 +35329,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣiṣẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sise"
     },
     {
       "term": "sisi",
@@ -32255,7 +35340,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sisi"
     },
     {
       "term": "Sitefanu",
@@ -32265,7 +35351,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sitefanu"
     },
     {
       "term": "siyemeji",
@@ -32275,7 +35362,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "siyemeji"
     },
     {
       "term": "So",
@@ -32286,7 +35374,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "sọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "so"
     },
     {
       "term": "Sobiri",
@@ -32297,7 +35386,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣọbiri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sobiri"
     },
     {
       "term": "sobiya",
@@ -32307,7 +35397,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sobiya"
     },
     {
       "term": "Soboro",
@@ -32318,7 +35409,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣọbọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "soboro"
     },
     {
       "term": "Sode",
@@ -32329,7 +35421,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣọdẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sode"
     },
     {
       "term": "Sofofo",
@@ -32340,7 +35433,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣofofo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sofofo"
     },
     {
       "term": "sogbodile sogbedigboro",
@@ -32350,7 +35444,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sogbodile-sogbedigboro"
     },
     {
       "term": "Sojo",
@@ -32361,7 +35456,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣojo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sojo"
     },
     {
       "term": "soke",
@@ -32371,7 +35467,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "soke"
     },
     {
       "term": "Soko",
@@ -32382,7 +35479,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣọkọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "soko"
     },
     {
       "term": "sokoleeti",
@@ -32392,7 +35490,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sokoleeti"
     },
     {
       "term": "sokorogbodo",
@@ -32402,7 +35501,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sokorogbodo"
     },
     {
       "term": "Sokoto",
@@ -32413,7 +35513,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣokoto",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sokoto"
     },
     {
       "term": "sokunfa",
@@ -32423,7 +35524,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sokunfa"
     },
     {
       "term": "Sokuro",
@@ -32434,7 +35536,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣọkụrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sokuro"
     },
     {
       "term": "Somalia",
@@ -32444,7 +35547,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "somalia"
     },
     {
       "term": "somodobo",
@@ -32454,7 +35558,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "somodobo"
     },
     {
       "term": "Soobu",
@@ -32465,7 +35570,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣọọbu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "soobu"
     },
     {
       "term": "Sooki",
@@ -32476,7 +35582,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣọọki",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sooki"
     },
     {
       "term": "soon",
@@ -32486,7 +35593,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "soon"
     },
     {
       "term": "Soosi",
@@ -32497,7 +35605,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣọọṣi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "soosi"
     },
     {
       "term": "Soro",
@@ -32508,7 +35617,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "sọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "soro"
     },
     {
       "term": "Soro soke",
@@ -32518,7 +35628,8 @@ window.ISESE_DATA = {
       "related": [
         "Soro"
       ],
-      "aliases": []
+      "aliases": [],
+      "slug": "soro-soke"
     },
     {
       "term": "sorosoro",
@@ -32528,7 +35639,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sorosoro"
     },
     {
       "term": "sose",
@@ -32538,7 +35650,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sose"
     },
     {
       "term": "Soso",
@@ -32549,7 +35662,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣoṣo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "soso"
     },
     {
       "term": "Soun",
@@ -32559,7 +35673,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "soun"
     },
     {
       "term": "sowedowo",
@@ -32569,7 +35684,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sowedowo"
     },
     {
       "term": "Sowon",
@@ -32580,7 +35696,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣọwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sowon"
     },
     {
       "term": "Subu",
@@ -32591,7 +35708,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "ṣubu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "subu"
     },
     {
       "term": "Sudaani",
@@ -32601,7 +35719,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sudaani"
     },
     {
       "term": "sufee",
@@ -32611,7 +35730,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sufee"
     },
     {
       "term": "Suga",
@@ -32622,7 +35742,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ṣuga",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "suga"
     },
     {
       "term": "Sugbon",
@@ -32633,7 +35754,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "ṣugbọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sugbon"
     },
     {
       "term": "suke",
@@ -32643,7 +35765,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "suke"
     },
     {
       "term": "sukuu",
@@ -32653,7 +35776,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sukuu"
     },
     {
       "term": "Sun",
@@ -32664,7 +35788,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "sun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sun"
     },
     {
       "term": "suna",
@@ -32674,7 +35799,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "suna"
     },
     {
       "term": "sunsunwinwin",
@@ -32684,7 +35810,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sunsunwinwin"
     },
     {
       "term": "sunta",
@@ -32694,7 +35821,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "sunta"
     },
     {
       "term": "Sunwon",
@@ -32705,7 +35833,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "sunwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "sunwon"
     },
     {
       "term": "Suon",
@@ -32716,7 +35845,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "sụọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "suon"
     },
     {
       "term": "suura",
@@ -32726,7 +35856,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "suura"
     },
     {
       "term": "suuru",
@@ -32736,7 +35867,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "suuru"
     },
     {
       "term": "suya",
@@ -32746,7 +35878,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "suya"
     },
     {
       "term": "T",
@@ -32756,7 +35889,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "t"
     },
     {
       "term": "ta",
@@ -32766,7 +35900,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ta"
     },
     {
       "term": "taaba",
@@ -32776,7 +35911,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "taaba"
     },
     {
       "term": "taara",
@@ -32786,7 +35922,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "taara"
     },
     {
       "term": "taba",
@@ -32796,7 +35933,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "taba"
     },
     {
       "term": "tabili",
@@ -32806,7 +35944,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tabili"
     },
     {
       "term": "tadawa",
@@ -32816,7 +35955,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tadawa"
     },
     {
       "term": "tafatafa",
@@ -32826,7 +35966,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tafatafa"
     },
     {
       "term": "Tailandi",
@@ -32836,7 +35977,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tailandi"
     },
     {
       "term": "Taiwo",
@@ -32846,7 +35988,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "taiwo"
     },
     {
       "term": "taka",
@@ -32856,7 +35999,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "taka"
     },
     {
       "term": "takada",
@@ -32866,7 +36010,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "takada"
     },
     {
       "term": "takasufee",
@@ -32876,7 +36021,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "takasufee"
     },
     {
       "term": "takele",
@@ -32886,7 +36032,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "takele"
     },
     {
       "term": "takete",
@@ -32896,7 +36043,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "takete"
     },
     {
       "term": "takisi",
@@ -32906,7 +36054,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "takisi"
     },
     {
       "term": "talika",
@@ -32918,7 +36067,8 @@ window.ISESE_DATA = {
         "talaka"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "talika"
     },
     {
       "term": "tanaposo",
@@ -32928,7 +36078,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tanaposo"
     },
     {
       "term": "tanganran",
@@ -32938,7 +36089,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tanganran"
     },
     {
       "term": "Tanje",
@@ -32949,7 +36101,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "tanjẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "tanje"
     },
     {
       "term": "Tanmoo",
@@ -32960,7 +36113,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "tanmọọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "tanmoo"
     },
     {
       "term": "tannatanna",
@@ -32970,7 +36124,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tannatanna"
     },
     {
       "term": "Tansania",
@@ -32980,7 +36135,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tansania"
     },
     {
       "term": "Tapa",
@@ -32990,7 +36146,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tapa"
     },
     {
       "term": "tata",
@@ -33000,7 +36157,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tata"
     },
     {
       "term": "tatapupu",
@@ -33010,7 +36168,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tatapupu"
     },
     {
       "term": "tawe",
@@ -33020,7 +36179,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tawe"
     },
     {
       "term": "tawe-tawe",
@@ -33030,7 +36190,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tawe-tawe"
     },
     {
       "term": "Taye",
@@ -33040,7 +36201,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "taye"
     },
     {
       "term": "Te",
@@ -33051,7 +36213,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "tẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "te"
     },
     {
       "term": "Teba",
@@ -33062,7 +36225,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "tẹba",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "teba"
     },
     {
       "term": "tejumalejo",
@@ -33072,7 +36236,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tejumalejo"
     },
     {
       "term": "Tele",
@@ -33083,7 +36248,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adv",
       "normalized": "tẹlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "tele"
     },
     {
       "term": "Teli",
@@ -33094,7 +36260,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "tẹli",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "teli"
     },
     {
       "term": "telifison",
@@ -33104,7 +36271,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "telifison"
     },
     {
       "term": "Telo",
@@ -33115,7 +36283,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "telọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "telo"
     },
     {
       "term": "tenanti",
@@ -33125,7 +36294,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tenanti"
     },
     {
       "term": "tenbelekun",
@@ -33135,7 +36305,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tenbelekun"
     },
     {
       "term": "tete",
@@ -33145,7 +36316,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tete"
     },
     {
       "term": "ti",
@@ -33155,7 +36327,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ti"
     },
     {
       "term": "tii",
@@ -33165,7 +36338,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tii"
     },
     {
       "term": "Timi",
@@ -33175,7 +36349,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "timi"
     },
     {
       "term": "timitimi",
@@ -33185,7 +36360,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "timitimi"
     },
     {
       "term": "timutimu",
@@ -33195,7 +36371,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "timutimu"
     },
     {
       "term": "tin",
@@ -33205,7 +36382,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tin"
     },
     {
       "term": "tio-tio",
@@ -33215,7 +36393,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tio-tio"
     },
     {
       "term": "Tiori",
@@ -33226,7 +36405,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "tiọri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "tiori"
     },
     {
       "term": "tiree",
@@ -33236,7 +36416,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tiree"
     },
     {
       "term": "tirela",
@@ -33246,7 +36427,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tirela"
     },
     {
       "term": "tiro",
@@ -33256,7 +36438,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tiro"
     },
     {
       "term": "tiroo",
@@ -33266,7 +36449,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tiroo"
     },
     {
       "term": "Tisa",
@@ -33277,7 +36461,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "tiṣa",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "tisa"
     },
     {
       "term": "titi",
@@ -33287,7 +36472,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adv",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "titi"
     },
     {
       "term": "titun",
@@ -33297,7 +36483,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "adj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "titun"
     },
     {
       "term": "To",
@@ -33308,7 +36495,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "tọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "to"
     },
     {
       "term": "tobi",
@@ -33318,7 +36506,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tobi"
     },
     {
       "term": "Togo",
@@ -33328,7 +36517,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "togo"
     },
     {
       "term": "Toju",
@@ -33339,7 +36529,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "tọju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "toju"
     },
     {
       "term": "Toki",
@@ -33349,7 +36540,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "toki"
     },
     {
       "term": "tolotolo",
@@ -33359,7 +36551,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tolotolo"
     },
     {
       "term": "tomati",
@@ -33369,7 +36562,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tomati"
     },
     {
       "term": "tomati elejo",
@@ -33379,7 +36573,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tomati-elejo"
     },
     {
       "term": "too",
@@ -33389,7 +36584,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "too"
     },
     {
       "term": "Tooro",
@@ -33400,7 +36596,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "tọọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "tooro"
     },
     {
       "term": "tooro agbon",
@@ -33410,7 +36607,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tooro-agbon"
     },
     {
       "term": "Toro",
@@ -33421,7 +36619,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "tọrọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "toro"
     },
     {
       "term": "tufulu",
@@ -33431,7 +36630,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tufulu"
     },
     {
       "term": "tuka",
@@ -33441,7 +36641,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tuka"
     },
     {
       "term": "tulasi",
@@ -33451,7 +36652,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tulasi"
     },
     {
       "term": "tuletule",
@@ -33461,7 +36663,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tuletule"
     },
     {
       "term": "Tunisia",
@@ -33471,7 +36674,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tunisia"
     },
     {
       "term": "turari",
@@ -33481,7 +36685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "turari"
     },
     {
       "term": "tuuba",
@@ -33494,7 +36699,8 @@ window.ISESE_DATA = {
         "tunba"
       ],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tuuba"
     },
     {
       "term": "tuubu",
@@ -33504,7 +36710,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tuubu"
     },
     {
       "term": "tuulu",
@@ -33514,7 +36721,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "tuulu"
     },
     {
       "term": "U",
@@ -33524,7 +36732,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "u"
     },
     {
       "term": "ua",
@@ -33534,7 +36743,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ua"
     },
     {
       "term": "Ubiro",
@@ -33545,7 +36755,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ubirọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ubiro"
     },
     {
       "term": "ubo",
@@ -33555,7 +36766,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ubo"
     },
     {
       "term": "Ubuje",
@@ -33566,7 +36778,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ubujẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ubuje"
     },
     {
       "term": "uda",
@@ -33576,7 +36789,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uda"
     },
     {
       "term": "udako",
@@ -33586,7 +36800,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "udako"
     },
     {
       "term": "udangho",
@@ -33596,7 +36811,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "udangho"
     },
     {
       "term": "udano",
@@ -33606,7 +36822,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "udano"
     },
     {
       "term": "Ude",
@@ -33617,7 +36834,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "udẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ude"
     },
     {
       "term": "Uden",
@@ -33628,7 +36846,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "udẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uden"
     },
     {
       "term": "uderegbe",
@@ -33638,7 +36857,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uderegbe"
     },
     {
       "term": "Ufe",
@@ -33648,7 +36868,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ufe"
     },
     {
       "term": "ugba",
@@ -33658,7 +36879,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugba"
     },
     {
       "term": "ugbade",
@@ -33668,7 +36890,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugbade"
     },
     {
       "term": "Ugbafe",
@@ -33679,7 +36902,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ugbafẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ugbafe"
     },
     {
       "term": "Ugbale",
@@ -33690,7 +36914,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụgbalẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ugbale"
     },
     {
       "term": "ugbe",
@@ -33700,7 +36925,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugbe"
     },
     {
       "term": "ugben",
@@ -33710,7 +36936,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugben"
     },
     {
       "term": "ugbin",
@@ -33720,7 +36947,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugbin"
     },
     {
       "term": "ugha",
@@ -33730,7 +36958,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugha"
     },
     {
       "term": "Ugho",
@@ -33741,7 +36970,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ughọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ugho"
     },
     {
       "term": "Ugogo",
@@ -33752,7 +36982,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụgọgọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ugogo"
     },
     {
       "term": "ugwe",
@@ -33762,7 +36993,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ugwe"
     },
     {
       "term": "Ugwo",
@@ -33773,7 +37005,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "ugwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ugwo"
     },
     {
       "term": "uhin",
@@ -33783,7 +37016,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uhin"
     },
     {
       "term": "ujaamese",
@@ -33793,7 +37027,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ujaamese"
     },
     {
       "term": "uji",
@@ -33803,7 +37038,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uji"
     },
     {
       "term": "ukere",
@@ -33813,7 +37049,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ukere"
     },
     {
       "term": "Uko",
@@ -33824,7 +37061,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ukọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uko"
     },
     {
       "term": "Ukoko",
@@ -33835,7 +37073,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụkọkọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ukoko"
     },
     {
       "term": "uku",
@@ -33845,7 +37084,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uku"
     },
     {
       "term": "Ulaa",
@@ -33855,7 +37095,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ulaa"
     },
     {
       "term": "Ule",
@@ -33866,7 +37107,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ulẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ule"
     },
     {
       "term": "Uleya",
@@ -33876,7 +37118,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uleya"
     },
     {
       "term": "uli",
@@ -33886,7 +37129,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uli"
     },
     {
       "term": "ulikuli",
@@ -33896,7 +37140,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ulikuli"
     },
     {
       "term": "ulooyinbo",
@@ -33906,7 +37151,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ulooyinbo"
     },
     {
       "term": "ulota",
@@ -33916,7 +37162,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ulota"
     },
     {
       "term": "ulu",
@@ -33926,7 +37173,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ulu"
     },
     {
       "term": "Umole",
@@ -33937,7 +37185,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụmọlẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "umole"
     },
     {
       "term": "un",
@@ -33947,7 +37196,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "pron",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "un"
     },
     {
       "term": "unagho",
@@ -33957,7 +37207,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "unagho"
     },
     {
       "term": "Uo",
@@ -33968,7 +37219,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uo"
     },
     {
       "term": "uparo",
@@ -33978,7 +37230,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uparo"
     },
     {
       "term": "Upen",
@@ -33989,7 +37242,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "upẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "upen"
     },
     {
       "term": "upepe",
@@ -33999,7 +37253,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "upepe"
     },
     {
       "term": "Uperun",
@@ -34010,7 +37265,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "upẹrun",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uperun"
     },
     {
       "term": "Uponju",
@@ -34021,7 +37277,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụpọnju",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uponju"
     },
     {
       "term": "uranloo",
@@ -34031,7 +37288,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uranloo"
     },
     {
       "term": "urara",
@@ -34041,7 +37299,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "urara"
     },
     {
       "term": "ure",
@@ -34051,7 +37310,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ure"
     },
     {
       "term": "Uren",
@@ -34062,7 +37322,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "urẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uren"
     },
     {
       "term": "uroko",
@@ -34072,7 +37333,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uroko"
     },
     {
       "term": "urun",
@@ -34082,7 +37344,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "urun"
     },
     {
       "term": "urunkurun",
@@ -34092,7 +37355,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "urunkurun"
     },
     {
       "term": "Use",
@@ -34103,7 +37367,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "usẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "use"
     },
     {
       "term": "Usese",
@@ -34113,7 +37378,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "usese"
     },
     {
       "term": "usi",
@@ -34123,7 +37389,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "usi"
     },
     {
       "term": "Usobo",
@@ -34133,7 +37400,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "usobo"
     },
     {
       "term": "Usu",
@@ -34144,7 +37412,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "uṣu",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "usu"
     },
     {
       "term": "uta",
@@ -34154,7 +37423,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uta"
     },
     {
       "term": "Uure",
@@ -34165,7 +37435,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "ụụrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uure"
     },
     {
       "term": "uwa",
@@ -34175,7 +37446,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uwa"
     },
     {
       "term": "Uwe",
@@ -34186,7 +37458,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "uwẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uwe"
     },
     {
       "term": "Uwo",
@@ -34197,7 +37470,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "uwọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uwo"
     },
     {
       "term": "Uwon",
@@ -34208,7 +37482,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "uwọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "uwon"
     },
     {
       "term": "uwowo",
@@ -34218,7 +37493,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uwowo"
     },
     {
       "term": "uya",
@@ -34228,7 +37504,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uya"
     },
     {
       "term": "uyi",
@@ -34238,7 +37515,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "uyi"
     },
     {
       "term": "W",
@@ -34248,7 +37526,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "w"
     },
     {
       "term": "wa",
@@ -34258,7 +37537,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wa"
     },
     {
       "term": "waa",
@@ -34268,7 +37548,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "abbrev",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waa"
     },
     {
       "term": "waapa",
@@ -34280,7 +37561,8 @@ window.ISESE_DATA = {
         "warapa"
       ],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waapa"
     },
     {
       "term": "waasu",
@@ -34290,7 +37572,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waasu"
     },
     {
       "term": "wadowado",
@@ -34300,7 +37583,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wadowado"
     },
     {
       "term": "Wahala",
@@ -34311,7 +37595,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "wahala",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wahala"
     },
     {
       "term": "waja",
@@ -34321,7 +37606,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waja"
     },
     {
       "term": "wakati",
@@ -34331,7 +37617,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wakati"
     },
     {
       "term": "walahi!",
@@ -34343,7 +37630,8 @@ window.ISESE_DATA = {
         "walahi"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "walahi"
     },
     {
       "term": "wara",
@@ -34353,7 +37641,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wara"
     },
     {
       "term": "warakasi",
@@ -34363,7 +37652,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "warakasi"
     },
     {
       "term": "waso-waso",
@@ -34373,7 +37663,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waso-waso"
     },
     {
       "term": "waya",
@@ -34383,7 +37674,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waya"
     },
     {
       "term": "waye",
@@ -34393,7 +37685,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "waye"
     },
     {
       "term": "We",
@@ -34404,7 +37697,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "wẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "we"
     },
     {
       "term": "Wedo",
@@ -34415,7 +37709,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "wẹdo",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wedo"
     },
     {
       "term": "were",
@@ -34425,7 +37720,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "were"
     },
     {
       "term": "werepe",
@@ -34435,7 +37731,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "werepe"
     },
     {
       "term": "wi",
@@ -34445,7 +37742,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wi"
     },
     {
       "term": "Wo",
@@ -34456,7 +37754,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "wọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wo"
     },
     {
       "term": "Wode",
@@ -34467,7 +37766,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "wọde",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wode"
     },
     {
       "term": "Wole",
@@ -34478,7 +37778,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "wọle",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wole"
     },
     {
       "term": "wolewole",
@@ -34488,7 +37789,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wolewole"
     },
     {
       "term": "wolii",
@@ -34498,7 +37800,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wolii"
     },
     {
       "term": "Won",
@@ -34509,7 +37812,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "pron",
       "normalized": "wọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "won"
     },
     {
       "term": "Wonwe",
@@ -34520,7 +37824,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "wọnwe",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wonwe"
     },
     {
       "term": "Wonyen",
@@ -34531,7 +37836,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "wọnyẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wonyen"
     },
     {
       "term": "Wonyi",
@@ -34542,7 +37848,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "wọnyi",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wonyi"
     },
     {
       "term": "Worawo",
@@ -34553,7 +37860,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "worawọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "worawo"
     },
     {
       "term": "wowo",
@@ -34563,7 +37871,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wowo"
     },
     {
       "term": "wukuwuku",
@@ -34573,7 +37882,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wukuwuku"
     },
     {
       "term": "wundia",
@@ -34583,7 +37893,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wundia"
     },
     {
       "term": "Wunren",
@@ -34594,7 +37905,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "wunrẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "wunren"
     },
     {
       "term": "wura",
@@ -34604,7 +37916,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wura"
     },
     {
       "term": "wure",
@@ -34614,7 +37927,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wure"
     },
     {
       "term": "wuwo",
@@ -34624,7 +37938,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "wuwo"
     },
     {
       "term": "Y",
@@ -34634,7 +37949,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "character",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "y"
     },
     {
       "term": "Yagba",
@@ -34646,7 +37962,8 @@ window.ISESE_DATA = {
         "Iyagba"
       ],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yagba"
     },
     {
       "term": "yala",
@@ -34656,7 +37973,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "conj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yala"
     },
     {
       "term": "yama",
@@ -34666,7 +37984,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yama"
     },
     {
       "term": "yanana",
@@ -34678,7 +37997,8 @@ window.ISESE_DATA = {
         "yannana"
       ],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yanana"
     },
     {
       "term": "yangan",
@@ -34688,7 +38008,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yangan"
     },
     {
       "term": "yangi",
@@ -34698,7 +38019,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yangi"
     },
     {
       "term": "yanja-yanja",
@@ -34708,7 +38030,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yanja-yanja"
     },
     {
       "term": "yanju",
@@ -34718,7 +38041,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yanju"
     },
     {
       "term": "yanyan",
@@ -34728,7 +38052,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yanyan"
     },
     {
       "term": "yara",
@@ -34738,7 +38063,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yara"
     },
     {
       "term": "yariini",
@@ -34748,7 +38074,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yariini"
     },
     {
       "term": "yauyauu",
@@ -34758,7 +38085,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yauyauu"
     },
     {
       "term": "ye",
@@ -34768,7 +38096,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "ye"
     },
     {
       "term": "yee!",
@@ -34780,7 +38109,8 @@ window.ISESE_DATA = {
         "yee"
       ],
       "partOfSpeech": "intj",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yee"
     },
     {
       "term": "yei",
@@ -34790,7 +38120,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yei"
     },
     {
       "term": "Yemoja",
@@ -34802,7 +38133,8 @@ window.ISESE_DATA = {
       ],
       "category": "Isese & Ifa",
       "source": "Isese Ponbele editorial",
-      "aliases": []
+      "aliases": [],
+      "slug": "yemoja"
     },
     {
       "term": "Yemowo",
@@ -34812,7 +38144,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yemowo"
     },
     {
       "term": "Yen",
@@ -34823,7 +38156,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "",
       "normalized": "yẹn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yen"
     },
     {
       "term": "Yepere",
@@ -34834,7 +38168,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "yẹpẹrẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yepere"
     },
     {
       "term": "Yera",
@@ -34845,7 +38180,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "yẹra",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yera"
     },
     {
       "term": "yere",
@@ -34855,7 +38191,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yere"
     },
     {
       "term": "Yeri",
@@ -34866,7 +38203,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "yẹri",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yeri"
     },
     {
       "term": "Yeti",
@@ -34877,7 +38215,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "n",
       "normalized": "yẹti",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yeti"
     },
     {
       "term": "Yeuke",
@@ -34888,7 +38227,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "adj",
       "normalized": "yẹukẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yeuke"
     },
     {
       "term": "Yewa",
@@ -34898,7 +38238,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yewa"
     },
     {
       "term": "yeye",
@@ -34908,7 +38249,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yeye"
     },
     {
       "term": "yi",
@@ -34918,7 +38260,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yi"
     },
     {
       "term": "yigi",
@@ -34928,7 +38271,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yigi"
     },
     {
       "term": "yii",
@@ -34938,7 +38282,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yii"
     },
     {
       "term": "yimiyimi",
@@ -34948,7 +38293,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yimiyimi"
     },
     {
       "term": "yin",
@@ -34958,7 +38304,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "det",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yin"
     },
     {
       "term": "yinki",
@@ -34968,7 +38315,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yinki"
     },
     {
       "term": "yinyin",
@@ -34978,7 +38326,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yinyin"
     },
     {
       "term": "Yisa",
@@ -34988,7 +38337,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yisa"
     },
     {
       "term": "Yo",
@@ -34999,7 +38349,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "yọ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yo"
     },
     {
       "term": "Yon",
@@ -35010,7 +38361,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "yọn",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yon"
     },
     {
       "term": "Yonda",
@@ -35021,7 +38373,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "yọnda",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yonda"
     },
     {
       "term": "yoo",
@@ -35031,7 +38384,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yoo"
     },
     {
       "term": "Yoruba",
@@ -35041,7 +38395,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yoruba"
     },
     {
       "term": "yoyinyoyin",
@@ -35051,7 +38406,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yoyinyoyin"
     },
     {
       "term": "yu",
@@ -35061,7 +38417,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yu"
     },
     {
       "term": "Yube",
@@ -35072,7 +38429,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "yubẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "yube"
     },
     {
       "term": "yugooti",
@@ -35082,7 +38440,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yugooti"
     },
     {
       "term": "yun",
@@ -35092,7 +38451,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yun"
     },
     {
       "term": "yungba",
@@ -35102,7 +38462,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yungba"
     },
     {
       "term": "yurenio",
@@ -35112,7 +38473,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "noun",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yurenio"
     },
     {
       "term": "Yuroopu",
@@ -35122,7 +38484,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "name",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "yuroopu"
     },
     {
       "term": "Ze",
@@ -35133,7 +38496,8 @@ window.ISESE_DATA = {
       "partOfSpeech": "v",
       "normalized": "zẹ",
       "source": "Wiktionary/Kaikki via yoruba-dictionary-data",
-      "aliases": []
+      "aliases": [],
+      "slug": "ze"
     },
     {
       "term": "zokoo",
@@ -35143,7 +38507,8 @@ window.ISESE_DATA = {
       "related": [],
       "aliases": [],
       "partOfSpeech": "verb",
-      "source": "Wiktionary/Kaikki export via Vuizur"
+      "source": "Wiktionary/Kaikki export via Vuizur",
+      "slug": "zokoo"
     }
   ],
   products: [

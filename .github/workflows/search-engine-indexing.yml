@@ -1,0 +1,57 @@
+name: Search Engine Indexing
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.html'
+      - 'data.js'
+      - 'oogun-catalog.js'
+      - 'oogun-library.js'
+      - 'sitemap*.xml'
+      - 'robots.txt'
+      - 'vercel.json'
+      - 'api/word.js'
+      - 'api/dictionary-data.json'
+      - 'scripts/seo-indexer.mjs'
+      - '.github/workflows/search-engine-indexing.yml'
+      - 'a9f09a6a309b82b26ebba80a6f2a63c5.txt'
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  notify-search-engines:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Use Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Select indexing mode
+        shell: bash
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "INDEX_MODE=all" >> "$GITHUB_ENV"
+          elif [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "INDEX_MODE=recent" >> "$GITHUB_ENV"
+          else
+            echo "INDEX_MODE=changed" >> "$GITHUB_ENV"
+          fi
+
+      - name: Notify search engines
+        env:
+          SEO_BASE_URL: 'https://isese-ponbele.vercel.app'
+          BEFORE_SHA: '${{ github.event.before }}'
+          AFTER_SHA: '${{ github.sha }}'
+        run: node scripts/seo-indexer.mjs
