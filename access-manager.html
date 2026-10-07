@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#120704"><title>Oogun Access Manager — Isese Ponbele</title><link rel="icon" type="image/png" href="assets/isese-ponbele-logo.png"><link rel="stylesheet" href="styles.css?v=20261007-oogun-v1"></head>
+<body><header class="site-header"><div class="container nav"><a class="brand" href="index.html"><img src="assets/isese-ponbele-logo.png" alt="Isese Ponbele logo"><span class="brand-copy"><strong>ÌSÈSÈ PONBELÈ</strong><small>Private Access Manager</small></span></a></div></header>
+<main><section class="page-hero"><div class="container"><p class="eyebrow">Owner tool</p><h1 class="page-title">Access Password Generator</h1><p class="page-lead">Create a different expiring password for each reader. A password can unlock the whole Oogun library or only one selected document.</p></div></section>
+<section class="section alt"><div class="container form-shell"><form class="form-card access-generator" id="access-generator-form">
+<div class="field full"><label>Admin key</label><input name="adminKey" type="password" required autocomplete="off" placeholder="Enter your private admin key"></div>
+<div class="field"><label>Recipient name / label</label><input name="label" required placeholder="e.g. Ade — October access"></div>
+<div class="field"><label>Valid for</label><select name="days"><option value="7">7 days</option><option value="30" selected>30 days</option><option value="90">90 days</option><option value="365">365 days</option></select></div>
+<div class="field full"><label>Access scope</label><select name="scope" id="access-scope"></select></div>
+<div class="field full"><button class="btn btn-gold" type="submit">Generate individual password</button></div>
+</form><aside class="consult-aside"><h2>Generated access</h2><div id="generated-access" class="generated-access">No password generated yet.</div><p>Passwords are signed by the server and expire automatically. The admin key is never stored in this page.</p></aside></div></section></main>
+<script src="oogun-catalog.js?v=20261007-v1"></script><script src="oogun-library.js?v=20261007-v2"></script></body></html>
