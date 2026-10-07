@@ -1205,3 +1205,34 @@ body{
     width:min(370px,58%);
   }
 }
+
+
+/* =========================================================
+   REAL IP HERBSELIXIR PRODUCTS
+   ========================================================= */
+.rich-card-image.product-photo{background:#07110a}
+.rich-card-image.product-photo img{object-position:center center;filter:none}
+.featured-order-link{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin-top:10px;
+  padding-top:9px;
+  border-top:1px solid #eadfce;
+  color:#5a3719;
+  text-decoration:none;
+  font-size:.59rem;
+}
+.featured-order-link strong{font-size:.72rem;color:#2b1b10}
+.featured-order-link span{font-weight:800;color:#8f5a23}
+.real-product-card{padding:0;overflow:hidden;background:#fff9ed}
+.store-product-image{height:220px;overflow:hidden;background:#07110a}
+.store-product-image img{width:100%;height:100%;object-fit:cover;object-position:center;filter:none}
+.real-product-card .product-body{padding:16px}
+.store-product-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:14px}
+.store-product-actions .btn{margin:0;text-align:center;justify-content:center}
+@media(max-width:620px){
+  .store-product-image{height:210px}
+  .store-product-actions{grid-template-columns:1fr}
+}
