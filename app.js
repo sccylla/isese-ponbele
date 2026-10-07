@@ -287,7 +287,7 @@
   }
 
   // Homepage horizontal carousels
-  $('[data-carousel]').forEach(carousel => {
+  $$('[data-carousel]').forEach(carousel => {
     const track = $('.rich-card-track', carousel);
     const prev = $('.carousel-arrow.prev', carousel);
     const next = $('.carousel-arrow.next', carousel);
