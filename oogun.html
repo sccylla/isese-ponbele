@@ -1,63 +1,38 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="theme-color" content="#120704">
-  <meta name="description" content="Search and browse a Yoruba traditional knowledge archive organized by categories and cultural context.">
-  <title>Oogun & Ìwòsàn — Isese Ponbele</title>
-  <link rel="icon" type="image/webp" href="assets/isese-ponbele-logo-correct.webp">
-  <link rel="stylesheet" href="styles.css?v=20261006-logo-v2">
+  <meta name="description" content="Protected Isese Ponbele Oogun web-document library.">
+  <title>Oogun Documents — Isese Ponbele</title>
+  <link rel="icon" type="image/png" href="assets/isese-ponbele-logo.png">
+  <link rel="stylesheet" href="styles.css?v=20261007-oogun-v1">
 </head>
-<body data-page="oogun"><header class="site-header">
-  <div class="container nav">
-    <a class="brand" href="index.html" aria-label="Isese Ponbele home">
-      <img src="assets/isese-ponbele-logo-correct.webp" alt="">
-      <span class="brand-copy"><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></span>
-    </a>
-    <button class="menu-btn" type="button" aria-label="Open navigation" aria-expanded="false"><span></span></button>
-    <nav class="nav-links" aria-label="Primary navigation">
-      <a data-nav="home" href="index.html">Home</a>
-      <a data-nav="orisa" href="orisas.html">Òrìṣà</a>
-      <a data-nav="oogun" href="oogun.html">Oogun & Ìwòsàn</a>
-      <a data-nav="dictionary" href="dictionary.html">Yoruba Dictionary</a>
-      <a data-nav="store" href="store.html">Store</a>
-      <a data-nav="consultation" class="consult-link" href="consultation.html">Consultation</a>
-    </nav>
-  </div>
-</header><main>
-<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><span>Oogun & Ìwòsàn</span></div><p class="eyebrow">Traditional Knowledge Archive</p><h1 class="page-title">Oogun & Ìwòsàn</h1><p class="page-lead">A searchable archive of named Yoruba preparations, practitioner terminology and healing-related knowledge, organized for careful cultural study.</p></div></section>
+<body data-page="oogun">
+<header class="site-header"><div class="container nav">
+  <a class="brand" href="index.html"><img src="assets/isese-ponbele-logo.png" alt="Isese Ponbele logo"><span class="brand-copy"><strong>ÌSÈSÈ PONBELÈ</strong><small>Yoruba Traditional Knowledge House</small></span></a>
+  <button class="menu-btn" type="button" aria-label="Open navigation" aria-expanded="false"><span></span></button>
+  <nav class="nav-links"><a data-nav="home" href="index.html">Home</a><a data-nav="orisa" href="orisas.html">Òrìṣà</a><a data-nav="oogun" href="oogun.html">Oogun & Ìwòsàn</a><a data-nav="dictionary" href="dictionary.html">Dictionary</a><a data-nav="store" href="store.html">Store</a><a data-nav="consultation" class="consult-link" href="consultation.html">Consultation</a></nav>
+</div></header>
+<main>
+<section class="page-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><span>Oogun Documents</span></div><p class="eyebrow">Protected Knowledge Library</p><h1 class="page-title">Oogun Documents</h1><p class="page-lead">231 individual Oogun entries extracted from your three uploaded collections and presented as online documents rather than downloadable files.</p></div></section>
 <section class="section alt"><div class="container">
-  <div class="section-head"><div><p class="eyebrow">Browse the archive</p><h2>Search by title, purpose or category.</h2></div><p>Browse titles, purposes and categories across the growing traditional knowledge archive.</p></div>
-  <div class="toolbar"><input id="oogun-search" class="search-input" type="search" placeholder="Search archive…" aria-label="Search Oogun archive"><div class="filter-chips" id="oogun-filters">
-    <button class="chip active" type="button" data-cat="All">All</button><button class="chip" type="button" data-cat="Protection">Protection</button><button class="chip" type="button" data-cat="Prosperity">Prosperity</button><button class="chip" type="button" data-cat="Victory">Victory</button><button class="chip" type="button" data-cat="Travel">Travel</button><button class="chip" type="button" data-cat="Social / Favour">Social / Favour</button><button class="chip" type="button" data-cat="Ìwòsàn">Ìwòsàn</button><button class="chip" type="button" data-cat="Plants & Preparations">Plants</button>
+  <div class="section-head"><div><p class="eyebrow">Search the collection</p><h2>Open each Oogun as its own web document.</h2></div><p>Titles and previews are public. Full document text requires an individual access password.</p></div>
+  <div class="toolbar oogun-toolbar"><input id="oogun-library-search" class="search-input" type="search" placeholder="Search Oogun titles and previews…"><div class="filter-chips">
+    <button class="chip active" type="button" data-oogun-source="all">All</button>
+    <button class="chip" type="button" data-oogun-source="baba">Baba Oogun</button>
+    <button class="chip" type="button" data-oogun-source="awise">Awíṣe</button>
+    <button class="chip" type="button" data-oogun-source="livestock">Livestock</button>
   </div></div>
-  <p class="results-count" id="oogun-count"></p><div class="archive-list" id="oogun-list"></div>
-</div></section></main><footer class="site-footer">
-  <div class="container">
-    <div class="footer-grid">
-      <div>
-        <div class="footer-brand">
-          <img src="assets/isese-ponbele-logo-correct.webp" alt="">
-          <div><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></div>
-        </div>
-        <p class="footer-copy">A digital house for Yoruba sacred history, language, cultural memory, documented traditional knowledge and contemporary study.</p>
-      </div>
-      <div class="footer-col">
-        <h4>Knowledge House</h4>
-        <a href="orisas.html">Yoruba Òrìṣà</a>
-        <a href="oogun.html">Oogun & Ìwòsàn</a>
-        <a href="dictionary.html">Yoruba Dictionary</a>
-        <a href="store.html">Store</a>
-      </div>
-      <div class="footer-col">
-        <h4>Visit</h4>
-        <a href="consultation.html">Private Consultation</a>
-        <a href="credits.html">Photography & Credits</a>
-        <a href="index.html#knowledge">Knowledge Paths</a>
-      </div>
-    </div>
-    <div class="footer-bottom"><span>© Isese Ponbele</span><span>Designed around Yoruba cultural memory, documentation and respect.</span></div>
-  </div>
-</footer>
-<script src="data.js"></script><script src="app.js?v=20261006-reference-v1"></script></body></html>
+  <p class="results-count" id="oogun-library-count"></p>
+  <div class="oogun-preview-grid" id="oogun-library-list"></div>
+</div></section>
+</main>
+<footer class="site-footer rich-footer"><div class="container"><div class="footer-grid">
+<div><div class="footer-brand"><img src="assets/isese-ponbele-logo.png" alt="Isese Ponbele logo"><div><strong>ÌSÈSÈ PONBELÈ</strong><small>Yoruba Traditional Knowledge House</small></div></div><p class="footer-copy">Preserving Yoruba knowledge as a structured digital archive.</p></div>
+<div class="footer-col"><h4>Knowledge House</h4><a href="index.html">Home</a><a href="orisas.html">Òrìṣà</a><a href="oogun.html">Oogun Documents</a><a href="dictionary.html">Dictionary</a></div>
+<div class="footer-col"><h4>Visit</h4><a href="consultation.html">Consultation</a><a href="store.html">Store</a><a href="credits.html">Credits</a></div>
+<div class="footer-col footer-motto"><strong>Àṣẹ.<br>Ìmọ̀.<br>Ilé.</strong></div>
+</div><div class="footer-bottom"><span>© 2026 ÌSÈSÈ PONBELÈ.</span><span>Knowledge • Culture • Spirituality • Community</span></div></div></footer>
+<script src="app.js?v=20261006-reference-v1"></script><script src="oogun-catalog.js?v=20261007-v1"></script><script src="oogun-library.js?v=20261007-v1"></script>
+</body></html>
