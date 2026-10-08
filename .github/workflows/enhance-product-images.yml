@@ -37,7 +37,7 @@ jobs:
       - name: Download Real-ESRGAN x4plus model
         run: |
           curl -L --retry 3 --fail \
-            https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/RealESRGAN_x4plus.pth \
+            https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth \
             -o /tmp/RealESRGAN_x4plus.pth
 
       - name: Extract originals
