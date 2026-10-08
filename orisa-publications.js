@@ -673,7 +673,8 @@ window.ORISA_PUBLICATIONS = [
       "Public history projects can help preserve sacred geography by recording oral explanations before elderly custodians die. Maps, photographs and interviews can document changes in access without pretending to replace the ritual knowledge of those communities. This is especially urgent in rapidly expanding cities.",
       "Òkè ultimately teaches that place can be an archive. A hill may store memories of settlement, authority, pilgrimage and identity without containing a written document. The landscape itself becomes part of the historical record.",
       "Seasonal festivals can renew a community's relationship with a hill even when daily life has moved elsewhere. People who now live abroad may return for annual observances, transforming sacred geography into a point of diaspora reconnection. Place becomes a way of maintaining belonging across distance.",
-      "Because hills are immovable, they provide a form of continuity that human institutions cannot. Priests change, rulers die and neighborhoods expand, yet the same elevation remains. That physical persistence gives Òkè traditions unusual power as anchors of long-term memory."
+      "Because hills are immovable, they provide a form of continuity that human institutions cannot. Priests change, rulers die and neighborhoods expand, yet the same elevation remains. That physical persistence gives Òkè traditions unusual power as anchors of long-term memory.",
+      "For younger generations, learning the names and histories of sacred hills can become an entry point into local history itself. The landscape gives memory a physical address, making stories easier to connect with the town that produced them."
     ],
     "refs": [
       "Ilé-Ifẹ̀ ritual geography",
@@ -741,7 +742,8 @@ window.ORISA_PUBLICATIONS = [
       "Artistic representations of deep water also change with technology. Contemporary painters, filmmakers and digital artists can visualize Olókun in forms unknown to earlier shrine communities. Such creativity is part of living culture, but it should be labeled as modern interpretation rather than ancient iconography.",
       "The strongest documentary approach keeps three levels visible at once: local West African institutions, neighboring Edo and Yoruba differences, and later Atlantic transformations. Olókun becomes clearer when comparison preserves boundaries instead of dissolving them.",
       "The ambiguity of Olókun's gender across traditions is not a problem that documentary writing needs to solve. It is evidence of regional history. Instead of choosing one version and labeling others incorrect, a careful account asks which community, period and ritual institution is being described.",
-      "That method changes the subject from a mythology quiz into cultural history. Olókun becomes a record of how neighboring peoples understood water, wealth and depth, and how those ideas later crossed the Atlantic. Variation becomes evidence rather than confusion."
+      "That method changes the subject from a mythology quiz into cultural history. Olókun becomes a record of how neighboring peoples understood water, wealth and depth, and how those ideas later crossed the Atlantic. Variation becomes evidence rather than confusion.",
+      "The subject also demonstrates why comparative religion requires patience. Similar aquatic symbols may appear in several traditions, but resemblance is not proof of identical origin or meaning. Local testimony, language and historical context remain the strongest guides."
     ],
     "sources": [
       {
@@ -808,7 +810,8 @@ window.ORISA_PUBLICATIONS = [
       "Climate variability now gives agricultural heritage additional urgency. Farmers continue to face uncertain rainfall, soil degradation and changing seasons. Modern agricultural science addresses these problems in new ways, while older ritual traditions preserve the historical fact that food production has always involved uncertainty.",
       "Òrìṣà Oko therefore belongs to a larger Yoruba respect for productive work. The sacred value of cultivation reminds a modern audience that prosperity begins long before money reaches a market. It begins with land, labor, timing and the patient work of growing food.",
       "Traditional agricultural knowledge also includes social timing: when communal labor is available, when markets will need produce and when ceremonies place demands on household resources. Farming is embedded in society. Òrìṣà Oko therefore represents agricultural order in a broad sense, not just the physical act of planting.",
-      "Modern mechanization changes tools but not the central problem of dependence on land. Tractors, improved seed and irrigation can increase control, yet weather and soil still matter. The tradition remains intelligible because agriculture continues to combine skilled human work with conditions no individual farmer fully commands."
+      "Modern mechanization changes tools but not the central problem of dependence on land. Tractors, improved seed and irrigation can increase control, yet weather and soil still matter. The tradition remains intelligible because agriculture continues to combine skilled human work with conditions no individual farmer fully commands.",
+      "The dignity of cultivation also has a social message: societies that celebrate wealth while ignoring farmers misunderstand the foundation of abundance. Òrìṣà Oko places productive land and patient labor back at the beginning of the economic story."
     ],
     "sources": [
       {
@@ -996,7 +999,8 @@ window.ORISA_PUBLICATIONS = [
       "Modern archery imagery can be useful as a visual shorthand, but it should not hide the social history of hunters as scouts, providers and members of associations. The institution was larger than a weapon. It involved knowledge of terrain, food, danger and cooperation.",
       "By restoring that occupational world, Ọ̀ṣọ́ọ̀sì becomes more than a symbol of 'hitting the target.' He represents a complete discipline of observation and provision—skills developed in a landscape where error could mean hunger, injury or getting lost.",
       "Research on hunter poetry also shows how occupations generate their own philosophies. The forest becomes a place where courage is tested, solitude is normal and mistakes carry immediate consequences. Such occupational literature gives Ọ̀ṣọ́ọ̀sì a cultural depth that iconography alone cannot provide.",
-      "Modern readers can therefore appreciate the tradition without romanticizing hunting itself. What deserves preservation is the history, language and environmental knowledge of hunter communities, together with the sacred ideas that grew from their work. Heritage can be documented even as practices change."
+      "Modern readers can therefore appreciate the tradition without romanticizing hunting itself. What deserves preservation is the history, language and environmental knowledge of hunter communities, together with the sacred ideas that grew from their work. Heritage can be documented even as practices change.",
+      "This perspective also preserves the humanity of historical hunters. They were not mythic figures living permanently outside society; they were family members, workers and specialists whose dangerous occupation produced a distinctive body of knowledge and sacred identity."
     ],
     "refs": [
       "Yoruba hunter and oral-poetry studies",
@@ -1130,7 +1134,8 @@ window.ORISA_PUBLICATIONS = [
       "Contemporary writers often use Ọya as a metaphor for personal reinvention. That can be meaningful, but historical grounding prevents symbolism from becoming generic self-help language. The Niger, market life, weather and ritual relationships give transformation a specifically Yoruba texture.",
       "Ọya is most accurately understood as movement with consequence. Wind changes what it touches; rivers carry people elsewhere; markets redistribute goods. Transformation is not merely emotional. It alters material and social conditions, which is why the tradition carries such force.",
       "Market associations also connect Ọya with forms of female authority that were practical, not symbolic. Traders could accumulate wealth, organize associations and influence public life. Reading the sacred tradition alongside that history grounds modern discussions of women's power in real social institutions.",
-      "Transformation in Ọya's tradition should therefore be understood materially as well as psychologically. Rivers alter routes, storms alter landscapes and markets alter ownership. Change has consequences for bodies, property and community. This concrete quality is what keeps the symbolism from becoming vague."
+      "Transformation in Ọya's tradition should therefore be understood materially as well as psychologically. Rivers alter routes, storms alter landscapes and markets alter ownership. Change has consequences for bodies, property and community. This concrete quality is what keeps the symbolism from becoming vague.",
+      "Contemporary environmental history adds another dimension. Flooding, erosion and changing weather patterns make wind and river forces immediate realities for modern communities. Ọya's symbolism remains culturally powerful because the forces she represents are still experienced physically, not only metaphorically."
     ],
     "sources": [
       {
@@ -1196,7 +1201,8 @@ window.ORISA_PUBLICATIONS = [
       "The festival also shows how children learn heritage through participation rather than formal classroom instruction alone. Watching elders, hearing songs repeatedly and joining public events gradually produces familiarity. Apprenticeship deepens specialized roles, but the wider community also learns by being present.",
       "Ṣàngó's continuing strength comes from this combination of specialist ritual and public performance. A sacred tradition remains rooted in priestly knowledge while also becoming a shared civic memory. Few Òrìṣà illustrate that balance more visibly.",
       "Historical memory of Ṣàngó also intersects with debates about the chronology of early Ọ̀yọ́. Oral traditions preserve relationships and political meaning more reliably than exact dates. Scholars therefore compare praise poetry, dynastic lists, archaeology and external records rather than reading one sacred narrative as a modern chronology.",
-      "This layered evidence makes Ṣàngó an unusually rich documentary subject. A complete account must move between ruler and Òrìṣà, palace and shrine, historical criticism and living devotion. That complexity is not a problem to simplify away; it is the reason the tradition matters."
+      "This layered evidence makes Ṣàngó an unusually rich documentary subject. A complete account must move between ruler and Òrìṣà, palace and shrine, historical criticism and living devotion. That complexity is not a problem to simplify away; it is the reason the tradition matters.",
+      "The 2023 international heritage recognition also places new responsibility on documentation. Greater visibility can encourage preservation, but it can also invite oversimplification for tourism. The strongest safeguarding keeps specialist knowledge, community authority and the festival's historical relationship with Ọ̀yọ́ at the center."
     ],
     "sources": [
       {
@@ -1263,7 +1269,8 @@ window.ORISA_PUBLICATIONS = [
       "Modern environmental concern gives Yemọja traditions a practical contemporary setting. Polluted rivers and coastlines challenge any romantic image of sacred water. Communities that value water spiritually also confront the physical need to keep it clean enough to sustain life.",
       "Yemọja's history demonstrates how a sacred figure can expand geographically without losing every trace of origin. River, ocean, motherhood and protection now coexist in a global field of traditions. Careful documentation makes that layered history visible instead of forcing one version to replace the others.",
       "Public celebrations in the diaspora have also changed how the wider world imagines Yemọja. Seaside ceremonies provide powerful photographs, so ocean imagery travels more easily than quieter river traditions in West Africa. Media visibility can therefore reshape what outsiders assume is original or universal.",
-      "A balanced documentary restores the full geography. Yemọja is not diminished by having different histories in different places. On the contrary, the ability of her tradition to move from Yoruba waterways into Atlantic religious worlds is one of the clearest examples of cultural continuity through transformation."
+      "A balanced documentary restores the full geography. Yemọja is not diminished by having different histories in different places. On the contrary, the ability of her tradition to move from Yoruba waterways into Atlantic religious worlds is one of the clearest examples of cultural continuity through transformation.",
+      "The modern global image of Yemọja is therefore best read as a historical archive in motion. Each river tradition, Atlantic ceremony and contemporary artwork records a different stage in the expansion of her sacred identity across geography and generations."
     ],
     "sources": [
       {
