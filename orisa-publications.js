@@ -42,17 +42,6 @@ window.ORISA_PUBLICATIONS = [
       "Another important distinction is between visible wealth and sustainable wealth. Ceremonial display has long been part of Yoruba status, yet public display can coexist with strong expectations of generosity. A prosperous person may be judged not only by clothing or possessions but by the ability to sponsor dependants, contribute to communal events and assist relatives in difficulty. In this sense prosperity is evaluated socially.",
       "Ajé also belongs to the cultural history of migration. Yoruba traders built commercial networks that stretched across towns and later across national borders. Modern merchants in Lagos, Cotonou, London or New York operate in different economies, but many still frame success through inherited ideas about blessing, character and social responsibility. The sacred vocabulary moves with people even when the market changes.",
       "For documentary purposes, Ajé is most revealing when treated as an economic philosophy as well as a sacred figure. The tradition asks what makes resources productive, how opportunity is recognized, how wealth should circulate and what kind of character allows prosperity to endure. Those questions give the subject a depth that cannot be captured by the modern phrase 'money attraction.'"
-    ],
-    "refs": [
-      "Yoruba market and economic history",
-      "Contemporary Ajé heritage documentation",
-      "Studies of Yoruba concepts of wealth"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Ajé procession in Lagos",
-        "url": "https://commons.wikimedia.org/wiki/File:AJE_GODDESS_OF_WEALTH_AND_PROSPERITY_01.jpg"
-      }
     ]
   },
   {
@@ -101,17 +90,6 @@ window.ORISA_PUBLICATIONS = [
       "The social intelligence of the drummer is easy to underestimate. A performer must know when to intensify a celebration and when to remain restrained. He must recognize praise names correctly and avoid insulting someone through careless wording. Technical brilliance without social judgment can ruin an event. In this sense, Àyàn training is also training in etiquette.",
       "Recording technology preserves performances that earlier generations could know only by memory. Archival recordings now allow researchers to compare styles across decades and regions. Yet recordings are snapshots. They capture one event, one ensemble and one moment in a living repertoire rather than a permanent definition of how Yoruba drumming must sound.",
       "Àyàn ultimately represents the idea that speech can live inside rhythm. The tradition collapses the boundary between musician and historian, entertainer and messenger. A master drummer does not merely keep time; he interprets the social world in sound."
-    ],
-    "refs": [
-      "Yoruba talking-drum studies",
-      "Research on dùndún and tonal speech",
-      "Hereditary drummer lineage documentation"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Ayangalu",
-        "url": "https://commons.wikimedia.org/wiki/File:Ayangalu.jpg"
-      }
     ]
   },
   {
@@ -162,17 +140,6 @@ window.ORISA_PUBLICATIONS = [
       "Erinlẹ̀ is therefore a strong example of why regional Yoruba religion deserves careful documentation. A tradition can be locally grounded, historically significant and intellectually rich even when it has never received the international publicity of Ọ̀ṣun or Ṣàngó.",
       "One final point is methodological: local priests and families may preserve details that never entered print. Their absence from books does not make them unimportant. It means the public record is incomplete. Erinlẹ̀ is a reminder that Yoruba religious history cannot be reconstructed from published mythology alone.",
       "That incompleteness should encourage humility rather than invention. Where evidence is regional or uncertain, a careful publication can say so and still tell a rich story about river, hunting, fertility and healing. Accuracy is stronger than false completeness."
-    ],
-    "refs": [
-      "Regional traditions of Erinlẹ̀/Inle",
-      "Museum documentation of Ọ̀pá Erinlẹ̀",
-      "Comparative Yoruba and Cuban religious studies"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Opa Osanyin or Opa Erinle Staff",
-        "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_2003.79.1_Opa_Osanyin_or_Opa_Erinle_Staff.jpg"
-      }
     ]
   },
   {
@@ -200,11 +167,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Regional theology may emphasize messenger roles, crossroads, justice, unpredictability or the testing of character in different proportions.",
     "diaspora": "Èṣù appears under related names in several Atlantic traditions, where local histories shaped pronunciation, ritual forms and theology.",
     "misconceptions": "Èṣù should not be equated automatically with 'the devil.' That equation emerged through translation histories that did not reflect the complexity of Yoruba categories.",
-    "refs": [
-      "Yoruba religious studies on Èṣù",
-      "Osun-Osogbo Sacred Grove documentation",
-      "Museum collections of Yoruba shrine arts"
-    ],
     "imageCaption": "Èṣù shrine within the Osun-Osogbo sacred landscape, used as documentary context.",
     "deepDive": [
       "Èṣù is particularly important for understanding how Yoruba thought approaches communication. Words, promises, exchanges and ritual messages do not simply move from one person to another without consequences. Narratives about Èṣù repeatedly show that the meaning of an action can depend on timing, perspective, intention and whether obligations have been honored. This helps explain why crossroads are such a powerful metaphor: a crossroads is not only a physical junction but also a place where alternatives meet and choices become consequential. In oral literature, Èṣù may expose arrogance, reveal contradictions or force people to confront the results of careless speech. The humor and unpredictability of some stories should therefore not hide their serious ethical structure.",
@@ -225,16 +187,6 @@ window.ORISA_PUBLICATIONS = [
       "The social role of witnesses and messengers also helps explain Èṣù's place in exchange. Agreements depend on memory and communication. When people deny what was promised, communities need ways to establish consequence. Sacred narratives turn this practical problem into a larger moral principle: words have weight because relationships remember them.",
       "Èṣù's presence at ritual beginnings in many traditions reflects the same logic. Communication must be opened before other work can proceed. The exact procedure differs by lineage, but the principle is consistent with his broader identity as mediator rather than enemy.",
       "Modern readers often discover Èṣù through controversy over translation. That controversy is useful because it reveals a larger lesson: religious vocabulary cannot always be transferred across cultures by choosing the nearest familiar word. Translation carries power, and a bad translation can reshape public understanding for generations."
-    ],
-    "sources": [
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      },
-      {
-        "label": "Wikimedia Commons — Èṣù shrine documentation",
-        "url": "https://commons.wikimedia.org/wiki/File:Esu_Alaje_shrine_in_Oya_groove_03.jpg"
-      }
     ]
   },
   {
@@ -262,11 +214,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Family practice, sculpture style and ritual emphasis vary by region and period.",
     "diaspora": "The cultural significance of twins traveled into Atlantic Yoruba-derived traditions in different forms.",
     "misconceptions": "Ere Ìbejì should not be treated simply as collectible art objects detached from the family histories that gave them meaning.",
-    "refs": [
-      "Museum collections of ere Ìbejì",
-      "Yoruba family and twin studies",
-      "Contemporary twin festival documentation"
-    ],
     "imageCaption": "Yoruba ere Ìbejì figures from the Wellcome collection; such works belong to histories of family care and remembrance.",
     "deepDive": [
       "Ìbejì traditions reveal how family, art and sacred responsibility can become inseparable. Yoruba communities are widely known for the cultural visibility of twins, and twin births generated distinctive praise names, songs and family practices. Historical responses to the death of a twin sometimes included the commissioning of an ere Ìbejì figure, which could be cared for within the household. Museum displays often present these carvings as examples of sculpture, but their original importance lay in relationships: grief, memory, continuity and the social identity of twins.",
@@ -290,16 +237,6 @@ window.ORISA_PUBLICATIONS = [
       "Ìbejì traditions therefore bring together demography, grief, art and family memory. Their richness comes from that combination. What appears at first to be a specialized religious custom opens onto much wider Yoruba ideas about personhood, continuity and the obligations of remembrance.",
       "The tradition also shows how family memory can survive religious change. Christian or Muslim Yoruba families may still value twin names, celebrate twin identity or keep stories inherited from older relatives. Cultural continuity does not always require continued ritual practice in exactly the same form.",
       "Because Ìbejì traditions are so visually attractive, they are easily reduced to collectible sculpture. Restoring names, grief, family care and living twin celebrations to the story returns the objects to the human relationships that originally gave them meaning."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Yoruba Ibeji figures",
-        "url": "https://commons.wikimedia.org/wiki/File:Yoruba_Ibeji_figures,_representing_twins_Wellcome_L0035693.jpg"
-      },
-      {
-        "label": "Wikimedia Commons — Ere ibeji category",
-        "url": "https://commons.wikimedia.org/wiki/Category:Ere_ibeji"
-      }
     ]
   },
   {
@@ -352,17 +289,6 @@ window.ORISA_PUBLICATIONS = [
       "That distinction makes Ọ̀bà especially valuable for teaching how Yoruba oral tradition works. A sacred figure may accumulate stories across generations while remaining tied to a local institution. Biography, landscape and moral interpretation grow together rather than being written once and permanently fixed.",
       "Historical river traditions also help resist the tendency to read Yoruba sacred figures only as personalities. A river has seasonal behavior, economic uses, dangerous stretches and communities responsible for access. Those facts shape religious memory. Ọ̀bà's identity therefore includes an environmental history that cannot be reconstructed from marriage narratives alone.",
       "Her story also demonstrates the value of multiple tellers. A palace historian, priest, popular storyteller and diaspora devotee may preserve different emphases without one automatically cancelling the others. A documentary publication becomes stronger when it identifies that plurality rather than pretending oral tradition behaves like a single authorized textbook."
-    ],
-    "refs": [
-      "Studies of Yoruba river Òrìṣà",
-      "Yoruba oral narrative and marriage ethics",
-      "Diaspora studies of Obá traditions"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Yoruba riverside sacred landscape",
-        "url": "https://commons.wikimedia.org/wiki/File:River-side_Shrine_and_Sacred_Grove_Of_Oshun_4.jpg"
-      }
     ]
   },
   {
@@ -415,17 +341,6 @@ window.ORISA_PUBLICATIONS = [
       "For historians, Ọbalúayé provides rare evidence of how religion, medicine and state power can collide. The tradition should therefore be studied alongside epidemic history and colonial policy, not isolated in a mythological category. Its seriousness comes from the reality of disease that shaped it.",
       "Changes in public health also changed religious vocabulary. Once smallpox ceased to circulate, younger devotees inherited stories about a terror they had never personally witnessed. Ritual memory became historical memory. That shift is important evidence of how religious institutions adapt when the social world around them changes fundamentally.",
       "Ọbalúayé's tradition therefore deserves to be read with unusual seriousness. It records fear of disease, attempts to make suffering intelligible and conflicts between indigenous authority and colonial medicine. Those histories are uncomfortable, but they are more valuable than a romantic portrait of a simple 'healing deity.'"
-    ],
-    "refs": [
-      "Historical studies of Ṣọ̀pọ̀nná and colonial public health",
-      "Comparative studies of Babalú-Ayé/Obaluaye",
-      "Diaspora ritual documentation"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Obaluaye in Brazil",
-        "url": "https://commons.wikimedia.org/wiki/File:Obaluaye,_Sapata_no_Olubaje.jpg"
-      }
     ]
   },
   {
@@ -453,11 +368,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "The names Ọbàtálá and Òrìṣàńlá are related in many traditions but should not be flattened into a single uniform theology.",
     "diaspora": "Ọbàtálá traditions became highly influential in several Atlantic religions.",
     "misconceptions": "Popular descriptions sometimes make Ọbàtálá a simple abstract 'creator god.' Yoruba traditions are richer, localized and embedded in ritual communities.",
-    "refs": [
-      "Studies of Yoruba creation traditions",
-      "Ilé-Ifẹ̀ religious history",
-      "Diaspora studies of Ọbàtálá"
-    ],
     "imageCaption": "Contemporary Yoruba documentation of Obàtálá used as contextual illustration; local shrine traditions vary.",
     "deepDive": [
       "Ọbàtálá is often described through the language of seniority, calmness and creation, but these themes belong to complex local theologies. In some communities the names Ọbàtálá and Òrìṣàńlá overlap closely; elsewhere distinctions of title, shrine history or lineage remain important. This is why a documentary account should avoid presenting one simplified genealogy as universal. Creation narratives are not merely stories about beginnings. They provide frameworks for discussing responsibility, error, patience and the dignity of different kinds of human embodiment. The association with white cloth and composure reinforces an ethical aesthetic in which clarity and restraint matter as much as supernatural power.",
@@ -483,16 +393,6 @@ window.ORISA_PUBLICATIONS = [
       "Taken together, creation, coolness, seniority and restraint form a coherent cultural portrait. Ọbàtálá is not simply the answer to 'who created humans?' He represents a theory of mature authority: power that should be clear-minded enough to recognize the consequences of its own actions.",
       "White clothing, clear water and restrained aesthetics associated with Ọbàtálá in many traditions create a ritual environment in which visual simplicity itself communicates status. This differs from traditions whose public festivals emphasize dramatic color and movement. Yoruba sacred aesthetics are plural, and difference of style can carry theological meaning.",
       "The figure of Ọbàtálá also reminds us that creation stories are ethical stories. The question is not only how bodies or the world came into being, but what responsibility belongs to a maker. Skill without sobriety, authority without restraint and seniority without care are all problems that the narratives bring into view."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Obàtálá documentation",
-        "url": "https://commons.wikimedia.org/wiki/File:%C3%92r%C3%AC%E1%B9%A3%C3%A0_Ob%C3%A0t%C3%A1l%C3%A1_%E2%80%93_Yor%C3%B9b%C3%A1_Orisha_of_Creation_and_Purity_01.png"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      }
     ]
   },
   {
@@ -545,17 +445,6 @@ window.ORISA_PUBLICATIONS = [
       "A complete documentary account therefore leaves space for several kinds of truth: sacred truth carried by lineage, historical probability tested by scholarship and public identity created through modern memory. Odùduwà stands precisely where those forms of truth meet.",
       "Contemporary royal ceremonies continue to use genealogy as a language of legitimacy, even though modern government no longer depends on precolonial dynastic structures. This coexistence shows that political modernization does not necessarily erase older forms of authority; it can place them in new social roles.",
       "Odùduwà also functions as a cultural bridge between local and collective identity. An individual kingdom can insist on its own history while participating in a wider story of Yoruba origins. That flexibility helps explain why the figure remains central to both palace tradition and modern pan-Yoruba cultural imagination."
-    ],
-    "refs": [
-      "Ilé-Ifẹ̀ history and archaeology",
-      "Yoruba dynastic oral traditions",
-      "Studies of kingship and sacred ancestry"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Odùduwà statue, Ilé-Ifẹ̀",
-        "url": "https://commons.wikimedia.org/wiki/File:The_Statue_of_Oduduwa_the_Progenitor_of_Yoruba_Race_in_Ile-Ife_Osun.jpg"
-      }
     ]
   },
   {
@@ -583,11 +472,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Local traditions may emphasize hunting, blacksmithing, road travel, warfare, agriculture or modern technology.",
     "diaspora": "Ògún became especially important in Atlantic religions, often remaining strongly associated with iron, labor and technological force.",
     "misconceptions": "Ògún is not simply a 'war god.' Iron, labor, craft, movement and technological responsibility are equally central to many understandings.",
-    "refs": [
-      "Yoruba studies on Ògún and technology",
-      "Museum collections of iron shrine arts",
-      "Regional festival documentation"
-    ],
     "imageCaption": "Documented Ògún shrine image from Nigeria, used as visual context for iron-centered devotion.",
     "deepDive": [
       "Ògún offers one of the clearest Yoruba frameworks for thinking about technology as a moral force. Iron changes landscapes: it cuts paths, shapes farms, builds houses, repairs machines and makes transportation possible, but it can also injure and destroy. That double capacity appears repeatedly in narratives and occupational traditions connected with Ògún. The point is not simply that iron is sacred; it is that power requires discipline. Hunters, blacksmiths, mechanics, drivers and other workers who depend on metal encounter this principle in different forms. The religious vocabulary surrounding Ògún therefore links technical skill with responsibility, reminding users of dangerous tools that competence without restraint can become destructive.",
@@ -612,16 +496,6 @@ window.ORISA_PUBLICATIONS = [
       "This makes Ògún unusually relevant to industrial society. The details of technology have changed, but people still depend on tools that can save life or destroy it. The tradition keeps moral attention fixed on the human consequences of technical power.",
       "Ritual respect for iron also appears in everyday speech and professional identity. Mechanics, drivers and artisans may invoke Ògún in ways that differ greatly from formal priestly worship. These ordinary references show how sacred vocabulary can circulate beyond the shrine and become part of occupational culture.",
       "The tradition is especially useful for documentary history because it links several technological eras. The same sacred idea can be followed from hand-forged tools to firearms, railways, automobiles and industrial machines. Few religious traditions reveal the cultural history of technology so clearly."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Ogun shrine",
-        "url": "https://commons.wikimedia.org/wiki/File:Ogun_shrine.jpg"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      }
     ]
   },
   {
@@ -675,17 +549,6 @@ window.ORISA_PUBLICATIONS = [
       "Seasonal festivals can renew a community's relationship with a hill even when daily life has moved elsewhere. People who now live abroad may return for annual observances, transforming sacred geography into a point of diaspora reconnection. Place becomes a way of maintaining belonging across distance.",
       "Because hills are immovable, they provide a form of continuity that human institutions cannot. Priests change, rulers die and neighborhoods expand, yet the same elevation remains. That physical persistence gives Òkè traditions unusual power as anchors of long-term memory.",
       "For younger generations, learning the names and histories of sacred hills can become an entry point into local history itself. The landscape gives memory a physical address, making stories easier to connect with the town that produced them."
-    ],
-    "refs": [
-      "Ilé-Ifẹ̀ ritual geography",
-      "Olojo festival documentation",
-      "Studies of Yoruba sacred landscape"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Òkè Mògún, Ilé-Ifẹ̀",
-        "url": "https://commons.wikimedia.org/wiki/File:Oke_Mogun_in_Ile-Ife_03.jpg"
-      }
     ]
   },
   {
@@ -713,11 +576,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Regional variation is central and should be stated explicitly whenever Olókun is discussed.",
     "diaspora": "Olókun became highly influential in several Atlantic religions, with new ritual and theological developments.",
     "misconceptions": "Modern internet imagery often blends Yoruba and Edo traditions without distinction; responsible documentation keeps those histories separate.",
-    "refs": [
-      "Studies of Olókun across Yoruba and Edo contexts",
-      "Atlantic religious history",
-      "Coastal shrine documentation"
-    ],
     "imageCaption": "Documented Ori Olókun material in Osun State, used as visual context; Olókun traditions vary strongly by region.",
     "deepDive": [
       "Olókun is a particularly important case for careful regional comparison. The name and associated traditions appear across cultural boundaries, and Yoruba and Edo histories should not be merged casually. Within Yoruba contexts, deep water, wealth, hidden abundance and inaccessible depth are recurring themes, but gender, ritual organization and imagery can differ. The sea is powerful partly because it represents what lies beyond ordinary visibility. This makes Olókun useful for thinking about wealth not only as money but as resources, knowledge and power that remain concealed beneath the surface.",
@@ -744,16 +602,6 @@ window.ORISA_PUBLICATIONS = [
       "The ambiguity of Olókun's gender across traditions is not a problem that documentary writing needs to solve. It is evidence of regional history. Instead of choosing one version and labeling others incorrect, a careful account asks which community, period and ritual institution is being described.",
       "That method changes the subject from a mythology quiz into cultural history. Olókun becomes a record of how neighboring peoples understood water, wealth and depth, and how those ideas later crossed the Atlantic. Variation becomes evidence rather than confusion.",
       "The subject also demonstrates why comparative religion requires patience. Similar aquatic symbols may appear in several traditions, but resemblance is not proof of identical origin or meaning. Local testimony, language and historical context remain the strongest guides."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Ori Olokun",
-        "url": "https://commons.wikimedia.org/wiki/File:Ori_olokun.jpg"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      }
     ]
   },
   {
@@ -781,11 +629,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "The importance of specific crops, objects and ritual roles varies locally.",
     "diaspora": "Òrìṣà Oko is less globally visible than several other Òrìṣà but remains part of broader diasporic pantheons.",
     "misconceptions": "Treating agriculture as merely economic misses its ritual, social and ecological significance.",
-    "refs": [
-      "Museum collections of Òrìṣà Oko objects",
-      "Yoruba agricultural history",
-      "Regional ritual studies"
-    ],
     "imageCaption": "Staff and sheath for Òrìṣà Oko from the Ọ̀yọ́ region, documenting the material culture of agricultural devotion.",
     "deepDive": [
       "Òrìṣà Oko places agriculture at the center of sacred and social order. Farming is not only a way to produce food; historically it has organized calendars, labor relations, land rights, household survival and community exchange. An Òrìṣà associated with cultivated land therefore connects religious thought with the practical work that sustains society. Narratives about productivity, honesty and communal responsibility can be read against this agricultural background. The dignity of labor is not abstract: it is tied to fields, seasons, tools and the vulnerability of communities to environmental conditions.",
@@ -812,16 +655,6 @@ window.ORISA_PUBLICATIONS = [
       "Traditional agricultural knowledge also includes social timing: when communal labor is available, when markets will need produce and when ceremonies place demands on household resources. Farming is embedded in society. Òrìṣà Oko therefore represents agricultural order in a broad sense, not just the physical act of planting.",
       "Modern mechanization changes tools but not the central problem of dependence on land. Tractors, improved seed and irrigation can increase control, yet weather and soil still matter. The tradition remains intelligible because agriculture continues to combine skilled human work with conditions no individual farmer fully commands.",
       "The dignity of cultivation also has a social message: societies that celebrate wealth while ignoring farmers misunderstand the foundation of abundance. Òrìṣà Oko places productive land and patient labor back at the beginning of the economic story."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Staff and sheath for Orisha Oko",
-        "url": "https://commons.wikimedia.org/wiki/File:Staff_and_sheath_for_Orisha_Oko,_Yoruba_peoples,_Oyo_region,_Irawo_village,_Nigeria,_Late_19th_to_early_20th_century,_Staff_iron,_wood_(2923635450).jpg"
-      },
-      {
-        "label": "Brooklyn Museum Opa Orisha Oko on Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_1997.165_Staff_Opa_Orisha_Oko.jpg"
-      }
     ]
   },
   {
@@ -849,11 +682,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Ifá is especially sensitive to variation because oral corpora, recitation style, naming, ritual procedure and interpretive conventions may differ significantly between lineages.",
     "diaspora": "Ifá traveled through Atlantic histories and is now practiced in several diasporic traditions. Yoruba-derived systems in Cuba, Brazil, the United States and elsewhere developed their own institutions while maintaining important continuities with West African Ifá.",
     "misconceptions": "Reducing Ifá to fortune-telling misses its philosophical, ethical and literary dimensions. It is better understood as a broad system of consultation, knowledge transmission, ritual practice and reflection on human choice.",
-    "refs": [
-      "UNESCO — Ifá Divination System",
-      "Metropolitan Museum of Art — Yoruba divination arts",
-      "Wikimedia Commons — Opon Ifa documentation"
-    ],
     "imageCaption": "Ọ̀pọ́n Ifá (divination tray), shown as material culture associated with Ifá practice.",
     "deepDive": [
       "The documentary importance of Òrúnmìlà lies in the way Ifá joins religion, literature, intellectual history and social decision-making. UNESCO describes Ifá as a system based on a large corpus of signs and verses interpreted by trained diviners, and notes that the corpus preserves material concerning Yoruba history, philosophy, medicine, mythology and contemporary social questions. That breadth helps explain why Òrúnmìlà cannot be reduced to a single function such as prediction. In many communities, a consultation creates a structured setting in which questions are placed beside inherited narratives and ethical precedents. The answer is therefore not merely an announcement about the future; it is an argument about conduct, character, obligation and consequence.",
@@ -874,16 +702,6 @@ window.ORISA_PUBLICATIONS = [
       "Consultation also depends on listening from both sides. The diviner must hear the client's circumstances, and the client must hear the verse carefully enough to recognize relevance. The process is dialogic. An Odù is not useful simply because it has been named; meaning emerges through interpretation.",
       "Because Ifá knowledge can now be searched online, memorization may appear less necessary to outsiders. Traditional training, however, treats memory as more than data storage. Memorized verses become available for comparison in real time, allowing a priest to recognize patterns without reducing consultation to a database lookup.",
       "Òrúnmìlà therefore represents a form of intelligence grounded in memory, humility and application. Knowledge matters because it can guide action, but it remains credible only when the person using it accepts the discipline required to learn it."
-    ],
-    "sources": [
-      {
-        "label": "UNESCO — Ifá divination system",
-        "url": "https://ich.unesco.org/en/RL/ifa-divination-system-00146"
-      },
-      {
-        "label": "UNESCO — Safeguarding of the Ifá Divination system",
-        "url": "https://ich.unesco.org/en/projects/safeguarding-of-the-ifa-divination-system-00036"
-      }
     ]
   },
   {
@@ -911,11 +729,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Local plant taxonomies, ritual language and materials differ, so specific formulas should never be generalized casually.",
     "diaspora": "Ọ̀sányìn/Osain became important in Atlantic ritual systems, particularly where plant knowledge remained central.",
     "misconceptions": "It is misleading to treat Ọ̀sányìn as a decorative 'herb god.' The tradition points toward disciplined expertise, ecology and transmission.",
-    "refs": [
-      "Yoruba ethnobotanical studies",
-      "Museum collections of Ọ̀sányìn staffs",
-      "Studies of plant knowledge in Atlantic religions"
-    ],
     "imageCaption": "Ọ̀pá Ọ̀sányìn staff documented by a Wikimedia contributor; staffs are among the best-known visual forms associated with Ọ̀sányìn.",
     "deepDive": [
       "Ọ̀sányìn is central to discussions of Yoruba plant knowledge because ewé are not treated simply as ingredients detached from expertise. Identification, habitat, season, preparation, combination and naming all matter. This makes the tradition ecological as well as religious. A specialist must know plants in the landscape, not only from a written list. Oral transmission can preserve distinctions that are difficult to capture in translation, and the same common name may refer to different species in different places. Responsible documentation therefore separates cultural history from medical instruction and avoids turning specialist knowledge into unsupported health claims.",
@@ -939,16 +752,6 @@ window.ORISA_PUBLICATIONS = [
       "Ọ̀sányìn's tradition is therefore not simply about 'herbs.' It is about expertise: the recognition that the natural world contains useful and dangerous materials and that responsible use depends on training. That principle remains valid whether one approaches the subject religiously, culturally or scientifically.",
       "Conservation adds another modern concern. When medicinal plants become scarce through habitat loss or overharvesting, cultural knowledge can survive in words while the species themselves disappear locally. Protecting biodiversity is therefore relevant to preserving the material basis of herbal traditions.",
       "Ọ̀sányìn's documentary story is strongest when wonder is joined to precision. The forest may be sacred, but identification still matters; inherited knowledge may be valuable, but safety still matters. Respect for tradition is not weakened by careful verification—it is strengthened."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Osanyin Staff",
-        "url": "https://commons.wikimedia.org/wiki/File:Osanyin_Staff.jpg"
-      },
-      {
-        "label": "Brooklyn Museum staff documented on Wikimedia Commons",
-        "url": "https://commons.wikimedia.org/wiki/File:Brooklyn_Museum_2003.79.1_Opa_Osanyin_or_Opa_Erinle_Staff.jpg"
-      }
     ]
   },
   {
@@ -1001,17 +804,6 @@ window.ORISA_PUBLICATIONS = [
       "Research on hunter poetry also shows how occupations generate their own philosophies. The forest becomes a place where courage is tested, solitude is normal and mistakes carry immediate consequences. Such occupational literature gives Ọ̀ṣọ́ọ̀sì a cultural depth that iconography alone cannot provide.",
       "Modern readers can therefore appreciate the tradition without romanticizing hunting itself. What deserves preservation is the history, language and environmental knowledge of hunter communities, together with the sacred ideas that grew from their work. Heritage can be documented even as practices change.",
       "This perspective also preserves the humanity of historical hunters. They were not mythic figures living permanently outside society; they were family members, workers and specialists whose dangerous occupation produced a distinctive body of knowledge and sacred identity."
-    ],
-    "refs": [
-      "Yoruba hunter and oral-poetry studies",
-      "Comparative studies of Oshosi/Ochosi traditions",
-      "Sacred landscape documentation"
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Yoruba sacred-grove context",
-        "url": "https://commons.wikimedia.org/wiki/File:River-SideShrineAndSacredGroveOfOsun.jpg"
-      }
     ]
   },
   {
@@ -1039,11 +831,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Local traditions may differ in color associations, ritual objects, praise names and relationships with other Òrìṣà.",
     "diaspora": "Ọ̀ṣun/Ọ̀ṣum traditions became influential across Cuba, Brazil and other parts of the Atlantic world, where local ritual systems developed distinctive forms.",
     "misconceptions": "Popular culture often reduces Ọ̀ṣun to beauty or romance. Yoruba traditions also emphasize authority, fertility, diplomacy, wealth, sacred water and social intelligence.",
-    "refs": [
-      "UNESCO — Osun-Osogbo Sacred Grove",
-      "Wikimedia Commons — Osun-Osogbo Sacred Grove",
-      "Studies of Ọ̀ṣun worship and female authority"
-    ],
     "imageCaption": "Shrine environment in the Osun-Osogbo Sacred Grove, a living sacred landscape recognized by UNESCO.",
     "deepDive": [
       "Ọ̀ṣun is best understood through the relationship between water, place and social life. The Osun-Osogbo Sacred Grove demonstrates this relationship especially clearly because the river, forest, shrines, sculptures, priests, festival routes and city history are interconnected. UNESCO describes the grove as an active religious site and as a surviving example of the sacred groves that once characterized many Yoruba settlements. This is important because modern popular culture can detach Ọ̀ṣun from geography and present her only as an abstract symbol of beauty. In lived traditions, the river is not background scenery. Sacred landscape, ritual authority and the memory of the town are part of how the Òrìṣà is known.",
@@ -1068,16 +855,6 @@ window.ORISA_PUBLICATIONS = [
       "Ọ̀ṣun's documentary depth therefore lies in the union of place and institution. River, grove, palace, priests, artists and visitors all contribute to the modern sacred landscape. Remove any one element and the picture becomes less complete.",
       "Pilgrimage also changes the social scale of the festival. What was once primarily a regional sacred event now receives visitors who approach it as religion, heritage, tourism or diaspora homecoming. These audiences do not experience the grove in the same way, and their coexistence is part of its modern history.",
       "Ọ̀ṣun's tradition is therefore a particularly rich study of cultural continuity under visibility. The more famous the festival becomes, the more important it is to preserve the voices of local custodians and the physical health of the river that gives the entire tradition its name."
-    ],
-    "sources": [
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo documentation",
-        "url": "https://whc.unesco.org/en/list/1118/documents/"
-      }
     ]
   },
   {
@@ -1105,11 +882,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Diasporic storm imagery should not erase older regional associations with river, market and transformation.",
     "diaspora": "Ọya became highly visible in Atlantic religions, especially in Cuba and Brazil.",
     "misconceptions": "Reducing Ọya to a generic storm goddess overlooks river, market, social and historical dimensions.",
-    "refs": [
-      "Regional studies of Ọya",
-      "Diaspora studies of Oya/Iansã",
-      "Yoruba gender and market history"
-    ],
     "imageCaption": "Ọya shrine in Ọya Grove, Irra, Kwara State, Nigeria; a place-based example of living sacred geography.",
     "deepDive": [
       "Ọya is often introduced through dramatic images of storms and wind, yet place-based documentation reveals a wider field of meaning. Shrines and groves in communities such as Irra show that local geography, lineage memory and public heritage are central to how an Òrìṣà is sustained. Wind is therefore only one dimension of a tradition concerned with movement, transformation, market life, riverine power and courage. The association with rapid change is meaningful because it can describe both natural force and social transition: situations in which stability gives way to a new order.",
@@ -1137,16 +909,6 @@ window.ORISA_PUBLICATIONS = [
       "Transformation in Ọya's tradition should therefore be understood materially as well as psychologically. Rivers alter routes, storms alter landscapes and markets alter ownership. Change has consequences for bodies, property and community. This concrete quality is what keeps the symbolism from becoming vague.",
       "Contemporary environmental history adds another dimension. Flooding, erosion and changing weather patterns make wind and river forces immediate realities for modern communities. Ọya's symbolism remains culturally powerful because the forces she represents are still experienced physically, not only metaphorically.",
       "For documentary study, this combination of landscape, economy and sacred memory is crucial: it keeps Ọya rooted in Yoruba history while still explaining why later generations found her an enduring language for change."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Ọya Shrine in Irra",
-        "url": "https://commons.wikimedia.org/wiki/File:Oya_Shrine_in_Oya_Grove,_Irra,_Kwara_State,_Nigeria_01.jpg"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      }
     ]
   },
   {
@@ -1174,11 +936,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "Historical and ritual narratives can differ substantially across Ọ̀yọ́, other Yoruba regions and the diaspora.",
     "diaspora": "Ṣàngó became one of the most visible Yoruba-derived Òrìṣà in Atlantic religions, particularly in Cuba, Brazil and Trinidad.",
     "misconceptions": "Ṣàngó is not adequately described as only a thunder god. His traditions also engage kingship, justice, charisma, performance and political memory.",
-    "refs": [
-      "Studies of Ọ̀yọ́ kingship and Ṣàngó",
-      "Museum collections of oṣé Ṣàngó",
-      "Diaspora studies of Ṣàngó traditions"
-    ],
     "imageCaption": "Ọ̀ṣé Ṣàngó staff from a Yoruba context, World Museum Liverpool; the double-axe motif is strongly associated with Ṣàngó.",
     "deepDive": [
       "Ṣàngó sits at the meeting point of religion, royal history and performance. Traditions connecting him with Ọ̀yọ́ kingship make political memory central to his identity. Thunder and lightning are dramatic signs, but the deeper questions concern legitimate authority: who has the right to command, how power should be used, and what happens when force exceeds restraint. Praise poetry and narrative frequently present leadership as both charismatic and dangerous. This is why Ṣàngó can symbolize public confidence and justice while also warning against uncontrolled anger. The historical and sacred dimensions reinforce one another rather than fitting neatly into a modern distinction between a former king and a deity.",
@@ -1205,16 +962,6 @@ window.ORISA_PUBLICATIONS = [
       "This layered evidence makes Ṣàngó an unusually rich documentary subject. A complete account must move between ruler and Òrìṣà, palace and shrine, historical criticism and living devotion. That complexity is not a problem to simplify away; it is the reason the tradition matters.",
       "The 2023 international heritage recognition also places new responsibility on documentation. Greater visibility can encourage preservation, but it can also invite oversimplification for tourism. The strongest safeguarding keeps specialist knowledge, community authority and the festival's historical relationship with Ọ̀yọ́ at the center.",
       "That balance between royal history and living performance is what makes Ṣàngó more than a mythic character: the tradition continues to be renewed by communities that remember, sing, drum and publicly enact the past."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Shango staff, World Museum Liverpool",
-        "url": "https://commons.wikimedia.org/wiki/File:Shango_staff,_oshe_Shango,_World_Museum_Liverpool.JPG"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      }
     ]
   },
   {
@@ -1242,11 +989,6 @@ window.ORISA_PUBLICATIONS = [
     "variation": "This is an area where regional and diasporic variation is particularly significant.",
     "diaspora": "Yemọja became a major Atlantic Òrìṣà and acquired strong oceanic associations in several diasporic traditions.",
     "misconceptions": "Treating every modern ocean image as ancient and universal Yoruba iconography obscures important historical change.",
-    "refs": [
-      "Studies of Yemọja in Yoruba and Atlantic traditions",
-      "Regional festival documentation",
-      "Museum and ethnographic collections"
-    ],
     "imageCaption": "Yemọja festival documentation from Ọ̀yọ́, Nigeria, showing a living West African devotional context.",
     "deepDive": [
       "Yemọja is a useful example of how an Òrìṣà can acquire different geographical emphases across history. In many West African Yoruba traditions she is connected with inland waters, motherhood and specific towns or river systems. Across the Atlantic, however, Yemọja became increasingly associated with the sea and with broad maternal imagery. Both histories are important, but they should not be collapsed into the claim that every contemporary ocean symbol represents an unchanged ancient Yoruba tradition. Documentation benefits from showing how migration, slavery, urbanization and new ritual institutions transformed the ways water was imagined.",
@@ -1273,16 +1015,6 @@ window.ORISA_PUBLICATIONS = [
       "Public celebrations in the diaspora have also changed how the wider world imagines Yemọja. Seaside ceremonies provide powerful photographs, so ocean imagery travels more easily than quieter river traditions in West Africa. Media visibility can therefore reshape what outsiders assume is original or universal.",
       "A balanced documentary restores the full geography. Yemọja is not diminished by having different histories in different places. On the contrary, the ability of her tradition to move from Yoruba waterways into Atlantic religious worlds is one of the clearest examples of cultural continuity through transformation.",
       "The modern global image of Yemọja is therefore best read as a historical archive in motion. Each river tradition, Atlantic ceremony and contemporary artwork records a different stage in the expansion of her sacred identity across geography and generations."
-    ],
-    "sources": [
-      {
-        "label": "Wikimedia Commons — Yemoja Nigeria",
-        "url": "https://commons.wikimedia.org/wiki/File:Yemoja_Nigeria.jpg"
-      },
-      {
-        "label": "UNESCO — Osun-Osogbo Sacred Grove",
-        "url": "https://whc.unesco.org/en/list/1118/"
-      }
     ]
   }
 ];
