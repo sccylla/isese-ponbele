@@ -1135,7 +1135,8 @@ window.ORISA_PUBLICATIONS = [
       "Ọya is most accurately understood as movement with consequence. Wind changes what it touches; rivers carry people elsewhere; markets redistribute goods. Transformation is not merely emotional. It alters material and social conditions, which is why the tradition carries such force.",
       "Market associations also connect Ọya with forms of female authority that were practical, not symbolic. Traders could accumulate wealth, organize associations and influence public life. Reading the sacred tradition alongside that history grounds modern discussions of women's power in real social institutions.",
       "Transformation in Ọya's tradition should therefore be understood materially as well as psychologically. Rivers alter routes, storms alter landscapes and markets alter ownership. Change has consequences for bodies, property and community. This concrete quality is what keeps the symbolism from becoming vague.",
-      "Contemporary environmental history adds another dimension. Flooding, erosion and changing weather patterns make wind and river forces immediate realities for modern communities. Ọya's symbolism remains culturally powerful because the forces she represents are still experienced physically, not only metaphorically."
+      "Contemporary environmental history adds another dimension. Flooding, erosion and changing weather patterns make wind and river forces immediate realities for modern communities. Ọya's symbolism remains culturally powerful because the forces she represents are still experienced physically, not only metaphorically.",
+      "For documentary study, this combination of landscape, economy and sacred memory is crucial: it keeps Ọya rooted in Yoruba history while still explaining why later generations found her an enduring language for change."
     ],
     "sources": [
       {
@@ -1202,7 +1203,8 @@ window.ORISA_PUBLICATIONS = [
       "Ṣàngó's continuing strength comes from this combination of specialist ritual and public performance. A sacred tradition remains rooted in priestly knowledge while also becoming a shared civic memory. Few Òrìṣà illustrate that balance more visibly.",
       "Historical memory of Ṣàngó also intersects with debates about the chronology of early Ọ̀yọ́. Oral traditions preserve relationships and political meaning more reliably than exact dates. Scholars therefore compare praise poetry, dynastic lists, archaeology and external records rather than reading one sacred narrative as a modern chronology.",
       "This layered evidence makes Ṣàngó an unusually rich documentary subject. A complete account must move between ruler and Òrìṣà, palace and shrine, historical criticism and living devotion. That complexity is not a problem to simplify away; it is the reason the tradition matters.",
-      "The 2023 international heritage recognition also places new responsibility on documentation. Greater visibility can encourage preservation, but it can also invite oversimplification for tourism. The strongest safeguarding keeps specialist knowledge, community authority and the festival's historical relationship with Ọ̀yọ́ at the center."
+      "The 2023 international heritage recognition also places new responsibility on documentation. Greater visibility can encourage preservation, but it can also invite oversimplification for tourism. The strongest safeguarding keeps specialist knowledge, community authority and the festival's historical relationship with Ọ̀yọ́ at the center.",
+      "That balance between royal history and living performance is what makes Ṣàngó more than a mythic character: the tradition continues to be renewed by communities that remember, sing, drum and publicly enact the past."
     ],
     "sources": [
       {
