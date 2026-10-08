@@ -707,3 +707,30 @@
   initSocialLinks();
   initMotionSystem();
 })();
+
+/* Social platform SVG icons — 2026-10-08 */
+(()=>{
+  const icons={
+    whatsapp:'<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M16.1 4.2a11.5 11.5 0 0 0-9.9 17.4L4.5 27.8l6.4-1.7a11.5 11.5 0 1 0 5.2-21.9Zm0 20.9c-1.9 0-3.7-.5-5.3-1.5l-.4-.2-3.8 1 1-3.7-.2-.4a9.4 9.4 0 1 1 8.7 4.8Zm5.2-7c-.3-.1-1.7-.8-1.9-.9-.3-.1-.5-.1-.7.2-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-1.7-.8-2.8-1.5-4-3.4-.3-.5.3-.5.8-1.7.1-.2 0-.4 0-.6l-.9-2.1c-.2-.5-.5-.4-.7-.4h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.3 1.4 3.6c.2.2 2.4 3.7 5.9 5.2.8.4 1.5.6 2 .7.8.3 1.6.2 2.2.1.7-.1 1.7-.7 1.9-1.4.2-.7.2-1.3.1-1.4-.1-.2-.3-.3-.6-.4Z"/></svg>',
+    youtube:'<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M29.2 9.2a4 4 0 0 0-2.8-2.8C23.9 5.7 16 5.7 16 5.7s-7.9 0-10.4.7a4 4 0 0 0-2.8 2.8A41.8 41.8 0 0 0 2.1 16a41.8 41.8 0 0 0 .7 6.8 4 4 0 0 0 2.8 2.8c2.5.7 10.4.7 10.4.7s7.9 0 10.4-.7a4 4 0 0 0 2.8-2.8 41.8 41.8 0 0 0 .7-6.8 41.8 41.8 0 0 0-.7-6.8ZM13.2 20.4v-8.8l7.3 4.4-7.3 4.4Z"/></svg>',
+    tiktok:'<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M21.3 4c.5 3.2 2.4 5.1 5.7 5.3v4.2c-1.9.1-3.6-.4-5.6-1.5v7.9c0 10-10.9 13.1-15.3 6-2.8-4.6-1.1-12.8 7.9-13.1v4.4c-.6.1-1.3.2-1.9.4-1.8.6-2.8 1.8-2.5 3.9.6 4 7.9 5.2 7.3-2.6V4h4.4Z"/></svg>'
+  };
+  const platformFor=a=>{
+    const s=((a.getAttribute("aria-label")||"")+" "+(a.href||"")).toLowerCase();
+    if(s.includes("whatsapp")||s.includes("wa.me")) return "whatsapp";
+    if(s.includes("youtube")||s.includes("youtu")) return "youtube";
+    if(s.includes("tiktok")) return "tiktok";
+    return "";
+  };
+  document.querySelectorAll(".social-dock a,.footer-socials a").forEach(a=>{
+    const p=platformFor(a);
+    if(!p||!icons[p]) return;
+    let mark=a.querySelector(".social-mark, span");
+    if(!mark){
+      mark=document.createElement("span");
+      a.prepend(mark);
+    }
+    mark.classList.add("social-platform-icon");
+    mark.innerHTML=icons[p];
+  });
+})();
