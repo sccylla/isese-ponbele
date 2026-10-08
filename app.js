@@ -230,8 +230,7 @@
       ['variation','Regional & lineage variation',`<p>${esc(o.variation)}</p>`],
       ['diaspora','Diaspora & historical movement',`<p>${esc(o.diaspora)}</p>`],
       ['study','Extended documentation',`${(o.deepDive||[]).map(p=>`<p>${esc(p)}</p>`).join('')}`],
-      ['misconceptions','Common misconceptions',`<p>${esc(o.misconceptions)}</p>`],
-      ['references','Reference trail',`<ul class="reference-list">${(o.refs||[]).map(r=>`<li>${esc(r)}</li>`).join('')}</ul><div class="source-links">${(o.sources||[]).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>`]
+      ['misconceptions','Common misconceptions',`<p>${esc(o.misconceptions)}</p>`]
     ];
     root.innerHTML=`<section class="page-hero orisa-pub-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="orisas.html">Orisa</a><span>/</span><span>${esc(o.name)}</span></div><p class="eyebrow">ISESE PONBELE • ORISA PUBLICATION</p><h1 class="page-title">${esc(o.name)}</h1><p class="page-lead">${esc(o.lead)}</p><div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div></div></section><section class="section alt"><div class="container doc-shell"><article class="doc-article">${media}${sections.map(([id,title,body])=>`<section id="${id}"><p class="eyebrow">Documentary chapter</p><h2>${esc(title)}</h2>${body}</section>`).join('')}</article><aside class="doc-toc"><strong>On this page</strong>${sections.map(([id,title])=>`<a href="#${id}">${esc(title)}</a>`).join('')}</aside></div></section>`;
   }
