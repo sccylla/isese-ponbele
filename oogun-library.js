@@ -111,7 +111,7 @@
 
     const shield=document.createElement("div");
     shield.className="oogun-capture-shield";
-    shield.innerHTML='<div><span>🔒</span><strong>Protected Oogun Document</strong><small>Screen capture is restricted.</small></div>';
+    shield.setAttribute("aria-hidden","true");
     document.body.appendChild(shield);
 
     let shieldTimer=0;
@@ -121,17 +121,25 @@
       shieldTimer=setTimeout(()=>document.body.classList.remove("oogun-capture-blocked"),1100);
     };
 
-    document.addEventListener("keydown",e=>{
+    const handleCaptureKey=e=>{
       const key=String(e.key||"").toLowerCase();
       const mod=e.ctrlKey||e.metaKey;
-      if((mod&&["c","x","a","s","p","u"].includes(key))||key==="printscreen"||(e.metaKey&&e.shiftKey&&["3","4","5"].includes(key))){
-        blocked(e); flashShield();
-        if(navigator.clipboard&&key==="printscreen") navigator.clipboard.writeText("").catch(()=>{});
+      const macCapture=e.metaKey&&e.shiftKey&&["3","4","5"].includes(key);
+      const blockedShortcut=mod&&["c","x","a","s","p","u"].includes(key);
+      if(blockedShortcut||key==="printscreen"||macCapture){
+        blocked(e);
+        flashShield();
+        if(navigator.clipboard&&(key==="printscreen"||macCapture)) navigator.clipboard.writeText("").catch(()=>{});
       }
-    },true);
+    };
+    document.addEventListener("keydown",handleCaptureKey,true);
+    document.addEventListener("keyup",handleCaptureKey,true);
 
+    window.addEventListener("beforeprint",()=>document.body.classList.add("oogun-capture-blocked"));
+    window.addEventListener("afterprint",()=>document.body.classList.remove("oogun-capture-blocked"));
     window.addEventListener("blur",()=>document.body.classList.add("oogun-window-unfocused"));
     window.addEventListener("focus",()=>document.body.classList.remove("oogun-window-unfocused"));
+    window.addEventListener("pagehide",()=>document.body.classList.add("oogun-window-unfocused"));
     document.addEventListener("visibilitychange",()=>document.body.classList.toggle("oogun-window-unfocused",document.hidden));
   };
 
