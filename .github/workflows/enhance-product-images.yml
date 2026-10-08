@@ -1,0 +1,127 @@
+name: Enhance product images
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/enhance-product-images.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  enhance:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image tooling
+        run: |
+          python -m pip install --upgrade pip
+          pip install pillow numpy opencv-contrib-python-headless
+
+      - name: Download super-resolution model
+        run: |
+          curl -L --retry 3 --fail \
+            https://github.com/Saafke/FSRCNN_Tensorflow/raw/master/models/FSRCNN_x4.pb \
+            -o /tmp/FSRCNN_x4.pb
+
+      - name: Build sharp HQ product images
+        run: |
+          python - <<'PY'
+          import base64, io, re
+          from pathlib import Path
+
+          import cv2
+          import numpy as np
+          from PIL import Image, ImageEnhance, ImageFilter
+
+          repo = Path('.')
+          data_path = repo / 'data.js'
+          text = data_path.read_text(encoding='utf-8')
+          out_dir = repo / 'assets' / 'products'
+          out_dir.mkdir(parents=True, exist_ok=True)
+
+          products = [
+              ('Infection Crusher', 'infection-crusher-hq.webp'),
+              ('Gorilla Max', 'gorilla-max-hq.webp'),
+              ('IP Pile Elixir Combo (Agbo + Agunmu)', 'pile-elixir-combo-hq.webp'),
+          ]
+
+          sr = cv2.dnn_superres.DnnSuperResImpl_create()
+          sr.readModel('/tmp/FSRCNN_x4.pb')
+          sr.setModel('fsrcnn', 4)
+
+          for name, filename in products:
+              start = text.find(f'name:"{name}"')
+              if start < 0:
+                  raise RuntimeError(f'Product not found: {name}')
+              marker = 'image:"data:image/webp;base64,'
+              img_start = text.find(marker, start)
+              if img_start < 0:
+                  raise RuntimeError(f'Embedded image not found for {name}')
+              b64_start = img_start + len(marker)
+              b64_end = text.find('"', b64_start)
+              raw = base64.b64decode(text[b64_start:b64_end])
+
+              original = Image.open(io.BytesIO(raw)).convert('RGB')
+              bgr = cv2.cvtColor(np.array(original), cv2.COLOR_RGB2BGR)
+              try:
+                  enlarged = sr.upsample(bgr)
+              except Exception:
+                  enlarged = cv2.resize(
+                      bgr, None, fx=4, fy=4, interpolation=cv2.INTER_LANCZOS4
+                  )
+
+              # Clean, controlled detail enhancement without changing packaging.
+              blur = cv2.GaussianBlur(enlarged, (0, 0), 1.0)
+              enlarged = cv2.addWeighted(enlarged, 1.20, blur, -0.20, 0)
+              enlarged = cv2.convertScaleAbs(enlarged, alpha=1.035, beta=0)
+
+              rgb = cv2.cvtColor(enlarged, cv2.COLOR_BGR2RGB)
+              enhanced = Image.fromarray(rgb)
+              enhanced = ImageEnhance.Sharpness(enhanced).enhance(1.10)
+              enhanced = enhanced.filter(
+                  ImageFilter.UnsharpMask(radius=0.7, percent=85, threshold=2)
+              )
+
+              dest = out_dir / filename
+              enhanced.save(dest, 'WEBP', quality=96, method=6)
+
+              replacement = f'image:"assets/products/{filename}"'
+              old_segment = text[img_start:b64_end + 1]
+              text = text[:img_start] + replacement + text[b64_end + 1:]
+              print(name, original.size, '->', enhanced.size, dest.stat().st_size)
+
+          data_path.write_text(text, encoding='utf-8')
+
+          for page in ('index.html', 'store.html'):
+              path = repo / page
+              html = path.read_text(encoding='utf-8')
+              html = re.sub(
+                  r'data\.js(?:\?v=[^"\']*)?',
+                  'data.js?v=20261008-hq-products-v1',
+                  html
+              )
+              path.write_text(html, encoding='utf-8')
+          PY
+
+      - name: Commit enhanced images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.js index.html store.html assets/products/
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Replace blurry product images with HQ enhanced assets"
+            git push
+          fi
