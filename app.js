@@ -1,6 +1,6 @@
 (() => {
   const DATA = window.ISESE_DATA || {orisas:[],oogun:[],dictionary:[],products:[]};
-  const ORISAS = window.ORISA_PUBLICATIONS || ORISAS || [];
+  const ORISAS = window.ORISA_PUBLICATIONS || DATA.orisas || [];
   const $ = (s,root=document) => root.querySelector(s);
   const $$ = (s,root=document) => [...root.querySelectorAll(s)];
 
