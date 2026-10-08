@@ -42,26 +42,92 @@
   function renderFeaturedProducts(){
     const track=$('#featured-products-track');
     if(!track) return;
+
     const bannerMap={
       'Infection Crusher':'assets/product-banners/infection-crusher.webp',
       'Gorilla Max':'assets/product-banners/gorilla-max.webp',
       'IP Pile Elixir Combo (Agbo + Agunmu)':'assets/product-banners/pile-elixir.webp'
     };
+
+    const presentation={
+      'Infection Crusher':{
+        tagline:'Traditional botanical blend',
+        benefits:['Botanical blend','IP Herbs Elixir','Traditional formula']
+      },
+      'Gorilla Max':{
+        tagline:'Traditional herbal blend for men',
+        benefits:['Herbal blend','Men’s formula','Traditional care']
+      },
+      'IP Pile Elixir Combo (Agbo + Agunmu)':{
+        tagline:'Traditional herbal combo',
+        benefits:['Herbal blend','Combo pack','Traditional formula']
+      }
+    };
+
     const products=DATA.products.slice(0,3);
+
     track.innerHTML=products.map(function(p,i){
-      const banner=bannerMap[p.name]||p.image;
-      return '<article class="featured-product-tile">'+
-        '<a class="featured-product-art" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
-          '<img src="'+banner+'" alt="'+esc(p.name)+' IP HERBSELIXIR product banner" width="1600" height="900" loading="'+(i===0?'eager':'lazy')+'">'+
+      const bg=bannerMap[p.name]||p.image;
+      const meta=presentation[p.name]||{
+        tagline:p.cat||'Traditional herbal product',
+        benefits:['Herbal blend','IP Herbs Elixir','Traditional care']
+      };
+
+      return '<article class="live-product-banner tone-'+(i+1)+'">'+
+        '<img class="live-product-bg" src="'+bg+'" alt="" aria-hidden="true">'+
+        '<a class="live-product-visual" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+          '<span class="live-product-brand">IP HERBS <b>ELIXIR</b></span>'+
+          '<img class="live-product-photo" src="'+p.image+'" alt="'+esc(p.name)+' product" loading="'+(i===0?'eager':'lazy')+'">'+
         '</a>'+
-        '<div class="featured-product-info">'+
-          '<div class="featured-product-copy"><small>'+esc(p.brand||'IP HERBSELIXIR')+'</small><h3>'+esc(p.name)+'</h3></div>'+
-          '<div class="featured-product-price"><strong>'+esc(p.price)+'</strong><a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">Order <span>↗</span></a></div>'+
+        '<div class="live-product-copy">'+
+          '<span class="live-product-kicker">IP HERBS ELIXIR</span>'+
+          '<h3>'+esc(p.name)+'</h3>'+
+          '<p class="live-product-tagline">'+esc(meta.tagline)+'</p>'+
+          '<div class="live-product-benefits">'+meta.benefits.map(function(b){return '<span>'+esc(b)+'</span>';}).join('')+'</div>'+
+          '<div class="live-product-action">'+
+            '<strong>'+esc(p.price)+'</strong>'+
+            '<a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">Order now <b>›</b></a>'+
+          '</div>'+
         '</div>'+
       '</article>';
     }).join('');
+
     const dots=$('#featured-products-dots');
-    if(dots) dots.innerHTML='';
+    if(!dots) return;
+
+    dots.innerHTML=products.map(function(_,i){
+      return '<button type="button" class="'+(i===0?'active':'')+'" aria-label="Show product '+(i+1)+'" data-index="'+i+'"></button>';
+    }).join('');
+
+    const buttons=$$('button',dots);
+    const cards=$$('.live-product-banner',track);
+
+    buttons.forEach(function(btn){
+      btn.addEventListener('click',function(){
+        const card=cards[Number(btn.dataset.index)];
+        if(card) card.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
+      });
+    });
+
+    let raf=0;
+    track.addEventListener('scroll',function(){
+      if(raf) return;
+      raf=requestAnimationFrame(function(){
+        raf=0;
+        if(innerWidth>640) return;
+        const center=track.scrollLeft+(track.clientWidth/2);
+        let best=0;
+        let distance=Infinity;
+        cards.forEach(function(card,i){
+          const cardCenter=card.offsetLeft+(card.offsetWidth/2);
+          const d=Math.abs(cardCenter-center);
+          if(d<distance){distance=d;best=i;}
+        });
+        buttons.forEach(function(button,i){
+          button.classList.toggle('active',i===best);
+        });
+      });
+    },{passive:true});
   }
 
   function renderHomeProducts(){
@@ -275,39 +341,82 @@
   }
 
   function renderStore(){
-    const root=$('#store-grid'); if(!root)return;
+    const root=$('#store-grid');
+    if(!root) return;
+
     const bannerMap={
       'Infection Crusher':'assets/product-banners/infection-crusher.webp',
       'Gorilla Max':'assets/product-banners/gorilla-max.webp',
       'IP Pile Elixir Combo (Agbo + Agunmu)':'assets/product-banners/pile-elixir.webp'
     };
+
+    const presentation={
+      'Infection Crusher':{
+        tagline:'Traditional botanical blend',
+        benefits:['Botanical blend','IP Herbs Elixir','Traditional formula']
+      },
+      'Gorilla Max':{
+        tagline:'Traditional herbal blend for men',
+        benefits:['Herbal blend','Men’s formula','Traditional care']
+      },
+      'IP Pile Elixir Combo (Agbo + Agunmu)':{
+        tagline:'Traditional herbal combo',
+        benefits:['Herbal blend','Combo pack','Traditional formula']
+      }
+    };
+
     const cats=['All',...new Set(DATA.products.map(p=>p.cat))];
     const holder=$('#store-filters');
-    if(holder) holder.innerHTML=cats.map((c,i)=>'<button class="chip '+(i===0?'active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'</button>').join('');
+
+    if(holder){
+      holder.innerHTML=cats.map(function(c,i){
+        return '<button class="chip '+(i===0?'active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'</button>';
+      }).join('');
+    }
+
     let cat='All';
-    const draw=()=>{
-      const rows=DATA.products.filter(p=>cat==='All'||p.cat===cat);
-      root.innerHTML=rows.map(p=>{
-        const banner=bannerMap[p.name]||p.image;
-        return '<article class="store-card store-banner-card">'+
-          '<a class="store-banner-art" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">'+
-            '<img src="'+banner+'" alt="'+esc(p.name)+' professional product banner" width="1600" height="900" loading="lazy">'+
+
+    const draw=function(){
+      const rows=DATA.products.filter(function(p){return cat==='All'||p.cat===cat;});
+
+      root.innerHTML=rows.map(function(p,i){
+        const bg=bannerMap[p.name]||p.image;
+        const meta=presentation[p.name]||{
+          tagline:p.cat||'Traditional herbal product',
+          benefits:['Herbal blend','IP Herbs Elixir','Traditional care']
+        };
+
+        return '<article class="live-product-banner store-live-product tone-'+((i%3)+1)+'">'+
+          '<img class="live-product-bg" src="'+bg+'" alt="" aria-hidden="true">'+
+          '<a class="live-product-visual" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+            '<span class="live-product-brand">IP HERBS <b>ELIXIR</b></span>'+
+            '<img class="live-product-photo" src="'+p.image+'" alt="'+esc(p.name)+' product" loading="lazy">'+
           '</a>'+
-          '<div class="store-banner-body">'+
-            '<small>'+esc(p.brand||p.cat)+'</small><h3>'+esc(p.name)+'</h3><p>'+esc(p.desc)+'</p>'+
-            '<div class="store-banner-bottom"><strong>'+esc(p.price)+'</strong><span>'+esc(p.cat)+'</span></div>'+
-            '<div class="store-product-actions">'+
-              '<a class="btn btn-gold" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">Order on WhatsApp</a>'+
-              '<a class="btn btn-dark-outline" href="consultation.html?subject='+encodeURIComponent('Store enquiry: '+p.name)+'">Enquire</a>'+
+          '<div class="live-product-copy">'+
+            '<span class="live-product-kicker">'+esc(p.brand||'IP HERBS ELIXIR')+'</span>'+
+            '<h3>'+esc(p.name)+'</h3>'+
+            '<p class="live-product-tagline">'+esc(meta.tagline)+'</p>'+
+            '<div class="live-product-benefits">'+meta.benefits.map(function(b){return '<span>'+esc(b)+'</span>';}).join('')+'</div>'+
+            '<p class="store-live-desc">'+esc(p.desc)+'</p>'+
+            '<div class="live-product-action">'+
+              '<strong>'+esc(p.price)+'</strong>'+
+              '<a href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">Order now <b>›</b></a>'+
             '</div>'+
           '</div>'+
         '</article>';
       }).join('');
     };
-    holder?.addEventListener('click',e=>{
-      const b=e.target.closest('.chip');if(!b)return;
-      cat=b.dataset.cat;$$('.chip',holder).forEach(x=>x.classList.toggle('active',x===b));draw();
-    });
+
+    if(holder){
+      holder.addEventListener('click',function(e){
+        const b=e.target.closest('.chip');
+        if(!b) return;
+        cat=b.dataset.cat;
+        $$('.chip',holder).forEach(function(x){x.classList.toggle('active',x===b);});
+        draw();
+      });
+    }
+
     draw();
   }
 
