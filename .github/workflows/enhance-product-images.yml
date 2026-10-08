@@ -1,4 +1,4 @@
-name: Rebuild product images with EDSR
+name: Rebuild product images with Real-ESRGAN v3
 
 on:
   push:
@@ -21,117 +21,136 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.10'
 
-      - name: Install image tooling
-        run: |
-          python -m pip install --upgrade pip
-          pip install pillow numpy opencv-contrib-python-headless
-
-      - name: Download EDSR x4 super-resolution model
-        run: |
-          curl -L --retry 3 --fail \
-            https://github.com/Saafke/EDSR_Tensorflow/raw/master/models/EDSR_x4.pb \
-            -o /tmp/EDSR_x4.pb
-
-      - name: Restore originals and create ultra-sharp assets
+      - name: Restore original 320x240 product sources
         run: |
           git show ea0d526bca0b75e58526ce4ee2ec75d84c514220:data.js > /tmp/data-original.js
-          python - <<'PY'
-          import base64, io, re
-          from pathlib import Path
 
+      - name: Install compatible Real-ESRGAN stack
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch==2.0.1 torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cpu
+          pip install basicsr==1.4.2 facexlib==0.3.0 gfpgan==1.3.8 realesrgan==0.3.0
+          pip install pillow numpy opencv-python-headless
+
+      - name: Download Real-ESRGAN x4plus model
+        run: |
+          curl -L --retry 3 --fail \
+            https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/RealESRGAN_x4plus.pth \
+            -o /tmp/RealESRGAN_x4plus.pth
+
+      - name: Extract originals
+        run: |
+          python - <<'PY'
+          import base64, io
+          from pathlib import Path
+          from PIL import Image
+
+          text = Path('/tmp/data-original.js').read_text(encoding='utf-8')
+          out = Path('/tmp/product-src')
+          out.mkdir(parents=True, exist_ok=True)
+
+          products = [
+              ('Infection Crusher', 'infection-crusher.png'),
+              ('Gorilla Max', 'gorilla-max.png'),
+              ('IP Pile Elixir Combo (Agbo + Agunmu)', 'pile-elixir-combo.png'),
+          ]
+          marker = 'image:"data:image/webp;base64,'
+
+          for name, filename in products:
+              start = text.find(f'name:"{name}"')
+              if start < 0:
+                  raise RuntimeError(f'Product not found: {name}')
+              p = text.find(marker, start)
+              if p < 0:
+                  raise RuntimeError(f'Image not found: {name}')
+              b = p + len(marker)
+              e = text.find('"', b)
+              raw = base64.b64decode(text[b:e])
+              im = Image.open(io.BytesIO(raw)).convert('RGB')
+              im.save(out / filename, 'PNG')
+              print(name, im.size)
+          PY
+
+      - name: Run Real-ESRGAN on original product photos
+        run: |
+          git clone --depth 1 https://github.com/xinntao/Real-ESRGAN.git /tmp/realesrgan-repo
+          mkdir -p /tmp/realesrgan-repo/weights
+          cp /tmp/RealESRGAN_x4plus.pth /tmp/realesrgan-repo/weights/RealESRGAN_x4plus.pth
+          cd /tmp/realesrgan-repo
+          python inference_realesrgan.py \
+            -n RealESRGAN_x4plus \
+            -i /tmp/product-src \
+            -o /tmp/product-ai \
+            --outscale 4 \
+            --tile 192 \
+            --tile_pad 16 \
+            --fp32 \
+            --suffix restored \
+            --ext png
+
+      - name: Finish restored images and wire them into site
+        run: |
+          python - <<'PY'
+          import re
+          from pathlib import Path
           import cv2
           import numpy as np
           from PIL import Image, ImageEnhance, ImageFilter
 
           root = Path('.')
-          source_text = Path('/tmp/data-original.js').read_text(encoding='utf-8')
-          out_dir = root / 'assets' / 'products'
-          out_dir.mkdir(parents=True, exist_ok=True)
+          output = root / 'assets' / 'products'
+          output.mkdir(parents=True, exist_ok=True)
 
-          products = [
-              ('Infection Crusher', 'infection-crusher-ed2.webp'),
-              ('Gorilla Max', 'gorilla-max-ed2.webp'),
-              ('IP Pile Elixir Combo (Agbo + Agunmu)', 'pile-elixir-combo-ed2.webp'),
+          items = [
+              ('infection-crusher_restored.png', 'infection-crusher-ai-v3.webp'),
+              ('gorilla-max_restored.png', 'gorilla-max-ai-v3.webp'),
+              ('pile-elixir-combo_restored.png', 'pile-elixir-combo-ai-v3.webp'),
           ]
 
-          sr = cv2.dnn_superres.DnnSuperResImpl_create()
-          sr.readModel('/tmp/EDSR_x4.pb')
-          sr.setModel('edsr', 4)
+          for srcname, destname in items:
+              src = Path('/tmp/product-ai') / srcname
+              im = Image.open(src).convert('RGB')
 
-          marker = 'image:"data:image/webp;base64,'
+              # Controlled label/detail finishing after generative SR.
+              arr = cv2.cvtColor(np.array(im), cv2.COLOR_RGB2BGR)
+              blur = cv2.GaussianBlur(arr, (0,0), 0.72)
+              arr = cv2.addWeighted(arr, 1.18, blur, -0.18, 0)
+              rgb = cv2.cvtColor(arr, cv2.COLOR_BGR2RGB)
 
-          for name, filename in products:
-              start = source_text.find(f'name:"{name}"')
-              if start < 0:
-                  raise RuntimeError(f'Product not found: {name}')
-              img_start = source_text.find(marker, start)
-              if img_start < 0:
-                  raise RuntimeError(f'Embedded source image not found: {name}')
-              b64_start = img_start + len(marker)
-              b64_end = source_text.find('"', b64_start)
-              raw = base64.b64decode(source_text[b64_start:b64_end])
+              im = Image.fromarray(rgb)
+              im = ImageEnhance.Contrast(im).enhance(1.04)
+              im = ImageEnhance.Color(im).enhance(1.025)
+              im = ImageEnhance.Sharpness(im).enhance(1.10)
+              im = im.filter(ImageFilter.UnsharpMask(radius=0.45, percent=58, threshold=2))
 
-              original = Image.open(io.BytesIO(raw)).convert('RGB')
-              arr = np.array(original)
-              bgr = cv2.cvtColor(arr, cv2.COLOR_RGB2BGR)
-
-              # Remove compression noise without smearing label edges.
-              bgr = cv2.bilateralFilter(bgr, 5, 22, 22)
-
-              try:
-                  up = sr.upsample(bgr)
-              except Exception as exc:
-                  print('EDSR fallback:', name, exc)
-                  up = cv2.resize(bgr, None, fx=4, fy=4, interpolation=cv2.INTER_LANCZOS4)
-
-              # Restore local contrast in luminance only.
-              lab = cv2.cvtColor(up, cv2.COLOR_BGR2LAB)
-              l, a, b = cv2.split(lab)
-              clahe = cv2.createCLAHE(clipLimit=1.35, tileGridSize=(8,8))
-              l = clahe.apply(l)
-              up = cv2.cvtColor(cv2.merge([l,a,b]), cv2.COLOR_LAB2BGR)
-
-              # Multi-scale edge enhancement tuned for package labels.
-              g1 = cv2.GaussianBlur(up, (0,0), 0.65)
-              up = cv2.addWeighted(up, 1.28, g1, -0.28, 0)
-              g2 = cv2.GaussianBlur(up, (0,0), 1.25)
-              up = cv2.addWeighted(up, 1.12, g2, -0.12, 0)
-
-              rgb = cv2.cvtColor(up, cv2.COLOR_BGR2RGB)
-              enhanced = Image.fromarray(rgb)
-              enhanced = ImageEnhance.Contrast(enhanced).enhance(1.045)
-              enhanced = ImageEnhance.Color(enhanced).enhance(1.035)
-              enhanced = ImageEnhance.Sharpness(enhanced).enhance(1.18)
-              enhanced = enhanced.filter(ImageFilter.UnsharpMask(radius=0.55, percent=72, threshold=2))
-
-              dest = out_dir / filename
-              enhanced.save(dest, 'WEBP', quality=98, method=6)
-              print(name, original.size, '->', enhanced.size, dest.stat().st_size)
+              dest = output / destname
+              im.save(dest, 'WEBP', quality=98, method=6)
+              print(destname, im.size, dest.stat().st_size)
 
           data_path = root / 'data.js'
           data = data_path.read_text(encoding='utf-8')
-          replacements = {
-              'assets/products/infection-crusher-hq.webp':'assets/products/infection-crusher-ed2.webp',
-              'assets/products/gorilla-max-hq.webp':'assets/products/gorilla-max-ed2.webp',
-              'assets/products/pile-elixir-combo-hq.webp':'assets/products/pile-elixir-combo-ed2.webp',
-              'assets/products/infection-crusher-ultra-v2.webp':'assets/products/infection-crusher-ed2.webp',
-              'assets/products/gorilla-max-ultra-v2.webp':'assets/products/gorilla-max-ed2.webp',
-              'assets/products/pile-elixir-combo-ultra-v2.webp':'assets/products/pile-elixir-combo-ed2.webp',
+
+          # Replace whichever prior generated set is currently referenced.
+          patterns = {
+              'infection-crusher': 'assets/products/infection-crusher-ai-v3.webp',
+              'gorilla-max': 'assets/products/gorilla-max-ai-v3.webp',
+              'pile-elixir-combo': 'assets/products/pile-elixir-combo-ai-v3.webp',
           }
-          for old, new in replacements.items():
-              data = data.replace(old, new)
+          data = re.sub(r'assets/products/infection-crusher-[^"\']+\.webp', patterns['infection-crusher'], data)
+          data = re.sub(r'assets/products/gorilla-max-[^"\']+\.webp', patterns['gorilla-max'], data)
+          data = re.sub(r'assets/products/pile-elixir-combo-[^"\']+\.webp', patterns['pile-elixir-combo'], data)
           data_path.write_text(data, encoding='utf-8')
 
           for page in ('index.html','store.html'):
               p = root / page
               html = p.read_text(encoding='utf-8')
-              html = re.sub(r'data\.js(?:\?v=[^"\']*)?', 'data.js?v=20261008-edsr-v2', html)
+              html = re.sub(r'data\.js(?:\?v=[^"\']*)?', 'data.js?v=20261008-ai-restored-v3', html)
               p.write_text(html, encoding='utf-8')
           PY
 
-      - name: Commit sharper product images
+      - name: Commit restored product images
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -139,6 +158,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Rebuild product images with EDSR"
+            git commit -m "Restore product photos with Real-ESRGAN"
             git push
           fi
