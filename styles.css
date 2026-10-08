@@ -4728,3 +4728,111 @@ body[data-page="store"] main .section.alt > .container{
     grid-template-columns:56% 44%;
   }
 }
+
+
+/* Oogun access + protection + social icon upgrade — 2026-10-08 */
+.oogun-date{
+  display:inline-flex;
+  align-items:center;
+  min-height:24px;
+  padding:4px 8px;
+  border:1px solid rgba(177,123,48,.34);
+  border-radius:999px;
+  color:#8b5e2a;
+  background:#fff8e9;
+  font-size:.58rem;
+  font-weight:800;
+  letter-spacing:.08em;
+}
+.whatsapp-code-btn{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:9px;
+  width:100%;
+  margin:12px 0 10px;
+  padding:12px 14px;
+  border:1px solid rgba(37,211,102,.42);
+  border-radius:8px;
+  background:linear-gradient(180deg,#28d36c,#1fb458);
+  color:#fff;
+  text-decoration:none;
+  font-size:.72rem;
+  font-weight:800;
+  box-shadow:0 8px 22px rgba(16,103,47,.18);
+}
+.whatsapp-code-btn:hover{filter:brightness(1.04);transform:translateY(-1px)}
+.whatsapp-code-btn svg{width:22px;height:22px;flex:0 0 22px}
+.content-protection-note{
+  margin:14px 0 9px;
+  padding:9px 11px;
+  border:1px solid rgba(158,105,39,.24);
+  border-radius:7px;
+  background:#f6ecd8;
+  color:#73502c;
+  font-size:.62rem;
+  font-weight:700;
+}
+.secure-oogun-document,
+.secure-oogun-document *{
+  -webkit-user-select:none!important;
+  user-select:none!important;
+  -webkit-touch-callout:none!important;
+}
+.secure-oogun-document .oogun-source-text{
+  cursor:default;
+}
+.oogun-capture-shield{
+  position:fixed;
+  inset:0;
+  z-index:999999;
+  display:grid;
+  place-items:center;
+  visibility:hidden;
+  opacity:0;
+  pointer-events:none;
+  background:#0f0804;
+  color:#f4d692;
+  transition:opacity .08s linear;
+}
+.oogun-capture-shield>div{
+  display:grid;
+  justify-items:center;
+  gap:7px;
+  text-align:center;
+}
+.oogun-capture-shield span{font-size:2rem}
+.oogun-capture-shield strong{font-family:var(--display);font-size:1.35rem}
+.oogun-capture-shield small{color:#c8b48e;font-size:.68rem}
+body.oogun-capture-blocked .oogun-capture-shield{
+  visibility:visible;
+  opacity:1;
+}
+body.oogun-window-unfocused .secure-oogun-document .oogun-source-text{
+  filter:blur(14px);
+  opacity:.12;
+}
+.social-platform-icon{
+  display:inline-grid!important;
+  place-items:center!important;
+}
+.social-platform-icon svg{
+  width:16px;
+  height:16px;
+  display:block;
+}
+.footer-socials .social-platform-icon svg{width:15px;height:15px}
+@media print{
+  .secure-oogun-document,
+  .protected-document.open,
+  [data-protected-content]{
+    display:none!important;
+    visibility:hidden!important;
+  }
+  body::before{
+    content:"Protected Oogun document — printing disabled";
+    display:block;
+    padding:40px;
+    font:700 18px/1.4 sans-serif;
+  }
+}
