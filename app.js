@@ -47,17 +47,17 @@
       'Infection Crusher':{
         eyebrow:'BOTANICAL FORMULA',
         tagline:'Traditional botanical blend',
-        benefits:[['✦','Botanical'],['◈','IP Herbs'],['✧','Traditional']]
+        points:['Botanical blend','Traditional formula']
       },
       'Gorilla Max':{
         eyebrow:'MEN’S HERBAL FORMULA',
         tagline:'Traditional herbal blend for men',
-        benefits:[['✦','Herbal blend'],['◈','Men’s formula'],['✧','Traditional']]
+        points:['Herbal blend','Men’s formula']
       },
       'IP Pile Elixir Combo (Agbo + Agunmu)':{
         eyebrow:'HERBAL COMBO',
         tagline:'Traditional herbal combo',
-        benefits:[['✦','Herbal blend'],['◈','Combo pack'],['✧','Traditional']]
+        points:['Herbal blend','Combo pack']
       }
     };
 
@@ -67,45 +67,78 @@
       const meta=presentation[p.name]||{
         eyebrow:'IP HERBS ELIXIR',
         tagline:p.cat||'Traditional herbal product',
-        benefits:[['✦','Herbal blend'],['◈','IP Herbs'],['✧','Traditional']]
+        points:['Herbal blend','Traditional formula']
       };
 
-      return '<article class="lux-product-card lux-tone-'+(i+1)+'">'+
-        '<a class="lux-product-media" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
-          '<div class="lux-media-halo" aria-hidden="true"></div>'+
+      return '<article class="clear-product-card clear-tone-'+(i+1)+'">'+
+        '<a class="clear-product-media" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+          '<span class="clear-media-brand">IP HERBS <b>ELIXIR</b></span>'+
           '<img src="'+p.image+'" alt="'+esc(p.name)+' product" loading="'+(i===0?'eager':'lazy')+'">'+
-          '<span class="lux-natural-badge"><b>IP</b><small>HERBS</small></span>'+
-          '<span class="lux-product-index">0'+(i+1)+'</span>'+
         '</a>'+
-        '<div class="lux-product-content">'+
-          '<div class="lux-product-top">'+
-            '<span class="lux-kicker">'+esc(meta.eyebrow)+'</span>'+
-            '<span class="lux-mini-line"></span>'+
-          '</div>'+
+        '<div class="clear-product-content">'+
+          '<span class="clear-kicker">'+esc(meta.eyebrow)+'</span>'+
           '<h3>'+esc(p.name)+'</h3>'+
-          '<p class="lux-tagline">'+esc(meta.tagline)+'</p>'+
-          '<div class="lux-benefits">'+meta.benefits.map(function(b){return '<div><i>'+b[0]+'</i><span>'+esc(b[1])+'</span></div>';}).join('')+'</div>'+
-          '<div class="lux-product-footer">'+
-            '<div class="lux-price"><small>PRICE</small><strong>'+esc(p.price)+'</strong></div>'+
-            '<a class="lux-order-btn" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">ORDER NOW <span>→</span></a>'+
+          '<p>'+esc(meta.tagline)+'</p>'+
+          '<div class="clear-product-points">'+meta.points.map(function(point){return '<span><i>✓</i>'+esc(point)+'</span>';}).join('')+'</div>'+
+          '<div class="clear-product-footer">'+
+            '<strong>'+esc(p.price)+'</strong>'+
+            '<a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">ORDER NOW <b>→</b></a>'+
           '</div>'+
         '</div>'+
       '</article>';
     }).join('');
 
     const dots=$('#featured-products-dots');
-    if(!dots) return;
-    dots.innerHTML=products.map(function(_,i){
+    const cards=$$('.clear-product-card',track);
+    if(!dots || !cards.length) return;
+
+    dots.innerHTML=cards.map(function(_,i){
       return '<button type="button" class="'+(i===0?'active':'')+'" aria-label="Show product '+(i+1)+'" data-index="'+i+'"></button>';
     }).join('');
 
     const buttons=$$('button',dots);
-    const cards=$$('.lux-product-card',track);
+    let activeIndex=0;
+    let autoTimer=0;
+    let resumeTimer=0;
+    const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const setActive=function(index){
+      activeIndex=index;
+      buttons.forEach(function(button,i){button.classList.toggle('active',i===index);});
+    };
+
+    const centerCard=function(index,behavior){
+      const card=cards[index];
+      if(!card) return;
+      const left=card.offsetLeft-((track.clientWidth-card.offsetWidth)/2);
+      track.scrollTo({left:Math.max(0,left),behavior:behavior||'smooth'});
+      setActive(index);
+    };
+
+    const stopAuto=function(){
+      if(autoTimer){clearInterval(autoTimer);autoTimer=0;}
+      if(resumeTimer){clearTimeout(resumeTimer);resumeTimer=0;}
+    };
+
+    const startAuto=function(){
+      stopAuto();
+      if(reduced || innerWidth>640 || cards.length<2) return;
+      autoTimer=setInterval(function(){
+        const next=(activeIndex+1)%cards.length;
+        centerCard(next,'smooth');
+      },4200);
+    };
+
+    const pauseThenResume=function(){
+      stopAuto();
+      if(reduced || innerWidth>640) return;
+      resumeTimer=setTimeout(startAuto,6500);
+    };
 
     buttons.forEach(function(btn){
       btn.addEventListener('click',function(){
-        const card=cards[Number(btn.dataset.index)];
-        if(card) card.scrollIntoView({behavior:'smooth',block:'nearest',inline:'center'});
+        centerCard(Number(btn.dataset.index),'smooth');
+        pauseThenResume();
       });
     });
 
@@ -121,9 +154,20 @@
           const d=Math.abs((card.offsetLeft+card.offsetWidth/2)-center);
           if(d<distance){distance=d;best=i;}
         });
-        buttons.forEach(function(button,i){button.classList.toggle('active',i===best);});
+        setActive(best);
       });
     },{passive:true});
+
+    ['touchstart','pointerdown','wheel'].forEach(function(evt){
+      track.addEventListener(evt,pauseThenResume,{passive:true});
+    });
+
+    addEventListener('resize',startAuto,{passive:true});
+    document.addEventListener('visibilitychange',function(){
+      if(document.hidden) stopAuto(); else startAuto();
+    });
+
+    startAuto();
   }
 
   function renderHomeProducts(){
@@ -343,17 +387,17 @@
       'Infection Crusher':{
         eyebrow:'BOTANICAL FORMULA',
         tagline:'Traditional botanical blend',
-        benefits:[['✦','Botanical'],['◈','IP Herbs'],['✧','Traditional']]
+        points:['Botanical blend','Traditional formula']
       },
       'Gorilla Max':{
         eyebrow:'MEN’S HERBAL FORMULA',
         tagline:'Traditional herbal blend for men',
-        benefits:[['✦','Herbal blend'],['◈','Men’s formula'],['✧','Traditional']]
+        points:['Herbal blend','Men’s formula']
       },
       'IP Pile Elixir Combo (Agbo + Agunmu)':{
         eyebrow:'HERBAL COMBO',
         tagline:'Traditional herbal combo',
-        benefits:[['✦','Herbal blend'],['◈','Combo pack'],['✧','Traditional']]
+        points:['Herbal blend','Combo pack']
       }
     };
 
@@ -361,42 +405,79 @@
     const holder=$('#store-filters');
     if(holder) holder.innerHTML=cats.map((c,i)=>'<button class="chip '+(i===0?'active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'</button>').join('');
     let cat='All';
+    let autoTimer=0;
+    let resumeTimer=0;
+    const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+    const stopAuto=function(){
+      if(autoTimer){clearInterval(autoTimer);autoTimer=0;}
+      if(resumeTimer){clearTimeout(resumeTimer);resumeTimer=0;}
+    };
+
+    const startAuto=function(){
+      stopAuto();
+      if(reduced || innerWidth>640) return;
+      const cards=$$('.store-clear-card',root);
+      if(cards.length<2) return;
+      let index=0;
+      autoTimer=setInterval(function(){
+        index=(index+1)%cards.length;
+        const card=cards[index];
+        const left=card.offsetLeft-((root.clientWidth-card.offsetWidth)/2);
+        root.scrollTo({left:Math.max(0,left),behavior:'smooth'});
+      },4400);
+    };
+
+    const pauseThenResume=function(){
+      stopAuto();
+      if(reduced || innerWidth>640) return;
+      resumeTimer=setTimeout(startAuto,6500);
+    };
 
     const draw=()=>{
+      stopAuto();
       const rows=DATA.products.filter(p=>cat==='All'||p.cat===cat);
       root.innerHTML=rows.map((p,i)=>{
         const meta=presentation[p.name]||{
           eyebrow:'IP HERBS ELIXIR',
           tagline:p.cat||'Traditional herbal product',
-          benefits:[['✦','Herbal blend'],['◈','IP Herbs'],['✧','Traditional']]
+          points:['Herbal blend','Traditional formula']
         };
 
-        return '<article class="lux-product-card store-lux-card lux-tone-'+((i%3)+1)+'">'+
-          '<a class="lux-product-media" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
-            '<div class="lux-media-halo" aria-hidden="true"></div>'+
+        return '<article class="clear-product-card store-clear-card clear-tone-'+((i%3)+1)+'">'+
+          '<a class="clear-product-media" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+            '<span class="clear-media-brand">IP HERBS <b>ELIXIR</b></span>'+
             '<img src="'+p.image+'" alt="'+esc(p.name)+' product" loading="lazy">'+
-            '<span class="lux-natural-badge"><b>IP</b><small>HERBS</small></span>'+
-            '<span class="lux-product-index">0'+(i+1)+'</span>'+
           '</a>'+
-          '<div class="lux-product-content">'+
-            '<div class="lux-product-top"><span class="lux-kicker">'+esc(meta.eyebrow)+'</span><span class="lux-mini-line"></span></div>'+
+          '<div class="clear-product-content">'+
+            '<span class="clear-kicker">'+esc(meta.eyebrow)+'</span>'+
             '<h3>'+esc(p.name)+'</h3>'+
-            '<p class="lux-tagline">'+esc(meta.tagline)+'</p>'+
-            '<div class="lux-benefits">'+meta.benefits.map(function(b){return '<div><i>'+b[0]+'</i><span>'+esc(b[1])+'</span></div>';}).join('')+'</div>'+
-            '<p class="lux-store-desc">'+esc(p.desc)+'</p>'+
-            '<div class="lux-product-footer">'+
-              '<div class="lux-price"><small>PRICE</small><strong>'+esc(p.price)+'</strong></div>'+
-              '<a class="lux-order-btn" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">ORDER NOW <span>→</span></a>'+
+            '<p>'+esc(meta.tagline)+'</p>'+
+            '<div class="clear-product-points">'+meta.points.map(function(point){return '<span><i>✓</i>'+esc(point)+'</span>';}).join('')+'</div>'+
+            '<div class="clear-product-footer">'+
+              '<strong>'+esc(p.price)+'</strong>'+
+              '<a href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">ORDER NOW <b>→</b></a>'+
             '</div>'+
           '</div>'+
         '</article>';
       }).join('');
+
+      ['touchstart','pointerdown','wheel'].forEach(function(evt){
+        root.addEventListener(evt,pauseThenResume,{passive:true});
+      });
+      startAuto();
     };
 
     holder?.addEventListener('click',e=>{
       const b=e.target.closest('.chip');if(!b)return;
       cat=b.dataset.cat;$$('.chip',holder).forEach(x=>x.classList.toggle('active',x===b));draw();
     });
+
+    addEventListener('resize',startAuto,{passive:true});
+    document.addEventListener('visibilitychange',function(){
+      if(document.hidden) stopAuto(); else startAuto();
+    });
+
     draw();
   }
 
