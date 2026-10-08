@@ -2739,3 +2739,113 @@ body{font-size:17px;line-height:1.68}
   .orisa-domain-graphic{min-height:330px}
   .domain-node{min-width:95px;font-size:.65rem}
 }
+
+
+/* =========================================================
+   PROFESSIONAL FEATURED PRODUCT BANNERS — 2026-10-08
+   ========================================================= */
+#featured-products-track{
+  grid-auto-columns:100%;
+  gap:18px;
+  padding:6px 2px 16px;
+}
+.featured-banner-card{
+  width:100%;
+  overflow:hidden;
+  scroll-snap-align:start;
+  border:1px solid rgba(88,54,27,.22);
+  border-radius:16px;
+  background:#120904;
+  box-shadow:0 18px 42px rgba(45,25,12,.16);
+}
+.featured-banner-link{
+  position:relative;
+  display:block;
+  width:100%;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  background:#0b1209;
+}
+.featured-banner-link::after{
+  content:'';
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.045);
+}
+.featured-banner-link img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+  filter:none;
+  transform:none;
+}
+.featured-banner-meta{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:20px;
+  padding:16px 18px;
+  border-top:1px solid rgba(226,178,92,.16);
+  background:linear-gradient(90deg,rgba(255,255,255,.025),transparent),#160b05;
+}
+.featured-banner-meta span{
+  display:block;
+  color:#cda45f;
+  font-size:.62rem;
+  font-weight:850;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+}
+.featured-banner-meta h3{
+  margin:4px 0 0;
+  color:#fff2d7;
+  font-family:var(--display);
+  font-size:1.22rem;
+  line-height:1.15;
+}
+.featured-banner-buy{
+  display:flex;
+  align-items:center;
+  gap:14px;
+  flex:0 0 auto;
+}
+.featured-banner-buy strong{
+  color:#efc36b;
+  font-family:var(--display);
+  font-size:1.3rem;
+}
+.featured-banner-buy a{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  padding:10px 13px;
+  border:1px solid #d7a84d;
+  border-radius:8px;
+  background:linear-gradient(180deg,#efc46c,#d89e43);
+  color:#211108;
+  text-decoration:none;
+  font-size:.68rem;
+  font-weight:900;
+}
+.featured-banner-buy a:hover{
+  transform:translateY(-1px);
+  box-shadow:0 8px 18px rgba(213,156,65,.18);
+}
+#products .carousel-arrow{top:44%}
+@media(max-width:700px){
+  #featured-products-track{grid-auto-columns:94%;gap:12px}
+  .featured-banner-card{border-radius:12px}
+  .featured-banner-meta{align-items:flex-start;flex-direction:column;gap:12px;padding:14px}
+  .featured-banner-meta h3{font-size:1.08rem}
+  .featured-banner-buy{width:100%;justify-content:space-between}
+  .featured-banner-buy strong{font-size:1.2rem}
+  .featured-banner-buy a{font-size:.64rem}
+}
+@media(max-width:430px){
+  #featured-products-track{grid-auto-columns:96%}
+  .featured-banner-buy{align-items:flex-start;flex-direction:column;gap:8px}
+  .featured-banner-buy a{width:100%;justify-content:center}
+}

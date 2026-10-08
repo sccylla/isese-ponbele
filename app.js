@@ -42,26 +42,27 @@
   function renderFeaturedProducts(){
     const track=$('#featured-products-track');
     if(!track) return;
+    const bannerMap={
+      'Infection Crusher':'assets/product-banners/infection-crusher.webp',
+      'Gorilla Max':'assets/product-banners/gorilla-max.webp',
+      'IP Pile Elixir Combo (Agbo + Agunmu)':'assets/product-banners/pile-elixir.webp'
+    };
     const products=DATA.products.slice(0,3);
-    track.innerHTML=products.map((p,i)=>`<article class="premium-product-banner tone-${i+1}">
-      <div class="premium-product-visual">
-        <span class="premium-product-kicker">${esc(p.brand||'IP HERBSELIXIR')}</span>
-        <div class="premium-product-glow" aria-hidden="true"></div>
-        <img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}">
-        <span class="premium-product-number">0${i+1}</span>
-      </div>
-      <div class="premium-product-copy">
-        <span class="premium-product-label">${esc(p.cat||'Featured Product')}</span>
-        <h3>${esc(p.name)}</h3>
-        <p>${esc(p.desc)}</p>
-        <div class="premium-product-bottom">
-          <div><small>Current price</small><strong>${esc(p.price)}</strong></div>
-          <a href="${esc(p.orderUrl||'store.html')}" target="_blank" rel="noopener">Order on WhatsApp <span>↗</span></a>
-        </div>
-      </div>
-    </article>`).join('');
+    track.innerHTML=products.map(function(p,i){
+      const banner=bannerMap[p.name]||p.image;
+      return '<article class="featured-banner-card">'+
+        '<a class="featured-banner-link" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+          '<img src="'+banner+'" alt="'+esc(p.name)+' professional IP HERBSELIXIR product banner" width="1600" height="900" loading="'+(i===0?'eager':'lazy')+'">'+
+        '</a>'+
+        '<div class="featured-banner-meta">'+
+          '<div><span>'+esc(p.brand||'IP HERBSELIXIR')+'</span><h3>'+esc(p.name)+'</h3></div>'+
+          '<div class="featured-banner-buy"><strong>'+esc(p.price)+'</strong>'+
+          '<a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">Order on WhatsApp <b>↗</b></a></div>'+
+        '</div>'+
+      '</article>';
+    }).join('');
     const dots=$('#featured-products-dots');
-    if(dots) dots.innerHTML=products.map((_,i)=>`<i class="${i===0?'active':''}"></i>`).join('');
+    if(dots) dots.innerHTML=products.map(function(_,i){return '<i class="'+(i===0?'active':'')+'"></i>';}).join('');
   }
 
   function renderHomeProducts(){
