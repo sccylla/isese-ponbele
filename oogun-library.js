@@ -92,8 +92,6 @@
         <div class="document-kicker"><span>${esc(d.sourceName)}</span><span>${ARCHIVE_DATE}</span><span class="unlocked-pill">✓ Unlocked</span></div>
         <h1>${esc(d.title)}</h1>
         ${d.subtitle?`<p class="doc-subtitle">${esc(d.subtitle.replace(/^\\(|\\)$/g,""))}</p>`:""}
-        <div class="source-document-note">Presented as cultural/source documentation from the uploaded collection. Traditional or medicinal claims are not presented as verified medical or veterinary advice.</div>
-        <div class="content-protection-note">🔒 Copying, text selection and printing are disabled for this protected document.</div>
         <div class="oogun-source-text" data-protected-content>${body}</div>
       </article>`;
       enableContentProtection();
