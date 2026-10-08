@@ -4763,16 +4763,6 @@ body[data-page="store"] main .section.alt > .container{
 }
 .whatsapp-code-btn:hover{filter:brightness(1.04);transform:translateY(-1px)}
 .whatsapp-code-btn svg{width:22px;height:22px;flex:0 0 22px}
-.content-protection-note{
-  margin:14px 0 9px;
-  padding:9px 11px;
-  border:1px solid rgba(158,105,39,.24);
-  border-radius:7px;
-  background:#f6ecd8;
-  color:#73502c;
-  font-size:.62rem;
-  font-weight:700;
-}
 .secure-oogun-document,
 .secure-oogun-document *{
   -webkit-user-select:none!important;
@@ -4804,13 +4794,13 @@ body[data-page="store"] main .section.alt > .container{
 .oogun-capture-shield span{font-size:2rem}
 .oogun-capture-shield strong{font-family:var(--display);font-size:1.35rem}
 .oogun-capture-shield small{color:#c8b48e;font-size:.68rem}
-body.oogun-capture-blocked .oogun-capture-shield{
+body.oogun-capture-blocked .oogun-capture-shield,
+body.oogun-window-unfocused .oogun-capture-shield{
   visibility:visible;
   opacity:1;
 }
-body.oogun-window-unfocused .secure-oogun-document .oogun-source-text{
-  filter:blur(14px);
-  opacity:.12;
+body.oogun-window-unfocused .secure-oogun-document{
+  visibility:hidden;
 }
 .social-platform-icon{
   display:inline-grid!important;
@@ -4830,9 +4820,7 @@ body.oogun-window-unfocused .secure-oogun-document .oogun-source-text{
     visibility:hidden!important;
   }
   body::before{
-    content:"Protected Oogun document — printing disabled";
+    content:"";
     display:block;
-    padding:40px;
-    font:700 18px/1.4 sans-serif;
   }
 }
