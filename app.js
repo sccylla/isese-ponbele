@@ -50,19 +50,18 @@
     const products=DATA.products.slice(0,3);
     track.innerHTML=products.map(function(p,i){
       const banner=bannerMap[p.name]||p.image;
-      return '<article class="featured-banner-card">'+
-        '<a class="featured-banner-link" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
-          '<img src="'+banner+'" alt="'+esc(p.name)+' professional IP HERBSELIXIR product banner" width="1600" height="900" loading="'+(i===0?'eager':'lazy')+'">'+
+      return '<article class="featured-product-tile">'+
+        '<a class="featured-product-art" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+          '<img src="'+banner+'" alt="'+esc(p.name)+' IP HERBSELIXIR product banner" width="1600" height="900" loading="'+(i===0?'eager':'lazy')+'">'+
         '</a>'+
-        '<div class="featured-banner-meta">'+
-          '<div><span>'+esc(p.brand||'IP HERBSELIXIR')+'</span><h3>'+esc(p.name)+'</h3></div>'+
-          '<div class="featured-banner-buy"><strong>'+esc(p.price)+'</strong>'+
-          '<a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">Order on WhatsApp <b>↗</b></a></div>'+
+        '<div class="featured-product-info">'+
+          '<div class="featured-product-copy"><small>'+esc(p.brand||'IP HERBSELIXIR')+'</small><h3>'+esc(p.name)+'</h3></div>'+
+          '<div class="featured-product-price"><strong>'+esc(p.price)+'</strong><a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">Order <span>↗</span></a></div>'+
         '</div>'+
       '</article>';
     }).join('');
     const dots=$('#featured-products-dots');
-    if(dots) dots.innerHTML=products.map(function(_,i){return '<i class="'+(i===0?'active':'')+'"></i>';}).join('');
+    if(dots) dots.innerHTML='';
   }
 
   function renderHomeProducts(){
@@ -277,24 +276,33 @@
 
   function renderStore(){
     const root=$('#store-grid'); if(!root)return;
-    const chips=$$('#store-filters .chip');
+    const bannerMap={
+      'Infection Crusher':'assets/product-banners/infection-crusher.webp',
+      'Gorilla Max':'assets/product-banners/gorilla-max.webp',
+      'IP Pile Elixir Combo (Agbo + Agunmu)':'assets/product-banners/pile-elixir.webp'
+    };
     const cats=['All',...new Set(DATA.products.map(p=>p.cat))];
     const holder=$('#store-filters');
-    if(holder) holder.innerHTML=cats.map((c,i)=>`<button class="chip ${i===0?'active':''}" type="button" data-cat="${esc(c)}">${esc(c)}</button>`).join('');
+    if(holder) holder.innerHTML=cats.map((c,i)=>'<button class="chip '+(i===0?'active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'</button>').join('');
     let cat='All';
     const draw=()=>{
       const rows=DATA.products.filter(p=>cat==='All'||p.cat===cat);
-      root.innerHTML=rows.map(p=>`<article class="store-card real-product-card">
-        <div class="store-product-image"><img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}"></div>
-        <div class="product-body">
-          <small>${esc(p.brand||p.cat)}</small><h3>${esc(p.name)}</h3><p>${esc(p.desc)}</p>
-          <div class="product-meta"><strong>${esc(p.price)}</strong><span>${esc(p.cat)}</span></div>
-          <div class="store-product-actions">
-            <a class="btn btn-gold" href="${esc(p.orderUrl||'#')}" target="_blank" rel="noopener">Order on WhatsApp</a>
-            <a class="btn btn-dark-outline" href="consultation.html?subject=${encodeURIComponent('Store enquiry: '+p.name)}">Enquire</a>
-          </div>
-        </div>
-      </article>`).join('');
+      root.innerHTML=rows.map(p=>{
+        const banner=bannerMap[p.name]||p.image;
+        return '<article class="store-card store-banner-card">'+
+          '<a class="store-banner-art" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">'+
+            '<img src="'+banner+'" alt="'+esc(p.name)+' professional product banner" width="1600" height="900" loading="lazy">'+
+          '</a>'+
+          '<div class="store-banner-body">'+
+            '<small>'+esc(p.brand||p.cat)+'</small><h3>'+esc(p.name)+'</h3><p>'+esc(p.desc)+'</p>'+
+            '<div class="store-banner-bottom"><strong>'+esc(p.price)+'</strong><span>'+esc(p.cat)+'</span></div>'+
+            '<div class="store-product-actions">'+
+              '<a class="btn btn-gold" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">Order on WhatsApp</a>'+
+              '<a class="btn btn-dark-outline" href="consultation.html?subject='+encodeURIComponent('Store enquiry: '+p.name)+'">Enquire</a>'+
+            '</div>'+
+          '</div>'+
+        '</article>';
+      }).join('');
     };
     holder?.addEventListener('click',e=>{
       const b=e.target.closest('.chip');if(!b)return;

@@ -2849,3 +2849,208 @@ body{font-size:17px;line-height:1.68}
   .featured-banner-buy{align-items:flex-start;flex-direction:column;gap:8px}
   .featured-banner-buy a{width:100%;justify-content:center}
 }
+
+
+/* =========================================================
+   COMPACT PRODUCT SHOWCASE — 2026-10-08
+   All products visible at once on homepage + store
+   ========================================================= */
+#products .carousel-shell{
+  overflow:visible;
+}
+#featured-products-track{
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  grid-auto-flow:row!important;
+  grid-auto-columns:auto!important;
+  gap:14px!important;
+  overflow:visible!important;
+  padding:4px 0 8px!important;
+  scroll-snap-type:none!important;
+}
+#products .carousel-arrow,
+#featured-products-dots{
+  display:none!important;
+}
+.featured-product-tile{
+  min-width:0;
+  overflow:hidden;
+  border:1px solid rgba(90,56,28,.18);
+  border-radius:12px;
+  background:#160b05;
+  box-shadow:0 12px 28px rgba(47,26,12,.12);
+  transition:transform .22s ease,box-shadow .22s ease;
+}
+.featured-product-tile:hover{
+  transform:translateY(-3px);
+  box-shadow:0 17px 34px rgba(47,26,12,.16);
+}
+.featured-product-art{
+  display:block;
+  width:100%;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  background:#0d130b;
+}
+.featured-product-art img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+.featured-product-info{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  padding:12px 13px;
+  border-top:1px solid rgba(229,183,97,.14);
+}
+.featured-product-copy{
+  min-width:0;
+}
+.featured-product-copy small{
+  display:block;
+  color:#c79a55;
+  font-size:.52rem;
+  font-weight:850;
+  letter-spacing:.08em;
+}
+.featured-product-copy h3{
+  margin:3px 0 0;
+  color:#fff2d9;
+  font-family:var(--display);
+  font-size:1rem;
+  line-height:1.12;
+}
+.featured-product-price{
+  flex:0 0 auto;
+  display:grid;
+  justify-items:end;
+  gap:5px;
+}
+.featured-product-price strong{
+  color:#efc36d;
+  font-family:var(--display);
+  font-size:1rem;
+}
+.featured-product-price a{
+  color:#f0d3a2;
+  text-decoration:none;
+  font-size:.60rem;
+  font-weight:850;
+}
+
+/* Store product banners */
+.store-grid{
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  gap:16px!important;
+}
+.store-banner-card{
+  padding:0!important;
+  overflow:hidden;
+  border-radius:13px;
+  background:#fff8ec;
+  box-shadow:0 12px 28px rgba(56,31,15,.08);
+}
+.store-banner-art{
+  display:block;
+  width:100%;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  background:#11170d;
+}
+.store-banner-art img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+.store-banner-body{
+  padding:17px;
+}
+.store-banner-body small{
+  color:#98602a;
+  font-size:.58rem;
+  font-weight:850;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+}
+.store-banner-body h3{
+  margin:6px 0 8px;
+  font-family:var(--display);
+  color:#2e190d;
+  font-size:1.28rem;
+  line-height:1.12;
+}
+.store-banner-body p{
+  margin:0;
+  color:#665548;
+  font-size:.76rem;
+  line-height:1.58;
+}
+.store-banner-bottom{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin-top:14px;
+  padding-top:12px;
+  border-top:1px solid #e4ceb0;
+}
+.store-banner-bottom strong{
+  color:#3d2514;
+  font-family:var(--display);
+  font-size:1.22rem;
+}
+.store-banner-bottom span{
+  color:#866745;
+  font-size:.60rem;
+  font-weight:750;
+}
+.store-banner-card .store-product-actions{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:8px;
+  margin-top:13px;
+}
+.store-banner-card .btn{
+  min-height:38px;
+  padding:9px 10px;
+  font-size:.60rem;
+  justify-content:center;
+}
+
+@media(max-width:900px){
+  #featured-products-track,
+  .store-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+  }
+  #featured-products-track .featured-product-tile:last-child,
+  .store-grid .store-banner-card:last-child{
+    grid-column:span 2;
+    max-width:50%;
+    width:100%;
+    justify-self:center;
+  }
+}
+@media(max-width:640px){
+  #featured-products-track,
+  .store-grid{
+    grid-template-columns:1fr!important;
+  }
+  #featured-products-track .featured-product-tile:last-child,
+  .store-grid .store-banner-card:last-child{
+    grid-column:auto;
+    max-width:none;
+  }
+  .featured-product-info{
+    padding:11px 12px;
+  }
+  .featured-product-copy h3{
+    font-size:.98rem;
+  }
+  .store-banner-body{
+    padding:15px;
+  }
+}
