@@ -2,6 +2,8 @@
   const C=window.OOGUN_CATALOG||[];
   const esc=v=>String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
   const sourceLabel={livestock:"Livestock",awise:"Awíṣe & Voice",baba:"Baba Oogun Archive"};
+  const HOME_ORDER=[...C];
+  for(let i=HOME_ORDER.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[HOME_ORDER[i],HOME_ORDER[j]]=[HOME_ORDER[j],HOME_ORDER[i]];}
   const card=x=>`<article class="oogun-preview-card">
     <div class="oogun-card-top"><span class="oogun-number">#${esc(x.number)}</span><span class="locked-pill">🔒 Protected</span></div>
     <small>${esc(sourceLabel[x.source]||x.sourceName)}</small>
@@ -17,7 +19,7 @@
     let expanded=false;
     const draw=()=>{
       const q=(search?.value||"").toLowerCase().trim();
-      const rows=C.filter(x=>!q||[x.title,x.subtitle,x.sourceName,x.preview].join(" ").toLowerCase().includes(q));
+      const rows=HOME_ORDER.filter(x=>!q||[x.title,x.subtitle,x.sourceName,x.preview].join(" ").toLowerCase().includes(q));
       const shown=expanded||q?rows:rows.slice(0,12);
       home.classList.toggle("show-all",expanded||!!q);
       home.innerHTML=shown.map(card).join("");

@@ -1,5 +1,6 @@
 (() => {
   const DATA = window.ISESE_DATA || {orisas:[],oogun:[],dictionary:[],products:[]};
+  const ORISAS = window.ORISA_PUBLICATIONS || ORISAS || [];
   const $ = (s,root=document) => root.querySelector(s);
   const $$ = (s,root=document) => [...root.querySelectorAll(s)];
 
@@ -40,15 +41,23 @@
 
   function renderFeaturedProducts(){
     const track=$('#featured-products-track');
-    if(!track || track.children.length) return;
+    if(!track) return;
     const products=DATA.products.slice(0,3);
-    track.innerHTML=products.map((p,i)=>`<article class="rich-product-card ${i===1?'featured-product':''}">
-      <div class="rich-card-image product-photo"><img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}"></div>
-      <div class="rich-card-body">
-        <span class="badge ${i===1?'badge-green':''}">${esc(p.brand||'PRODUCT')}</span>
+    track.innerHTML=products.map((p,i)=>`<article class="premium-product-banner tone-${i+1}">
+      <div class="premium-product-visual">
+        <span class="premium-product-kicker">${esc(p.brand||'IP HERBSELIXIR')}</span>
+        <div class="premium-product-glow" aria-hidden="true"></div>
+        <img src="${p.image}" alt="${esc(p.name)} by ${esc(p.brand||'IP HERBSELIXIR')}">
+        <span class="premium-product-number">0${i+1}</span>
+      </div>
+      <div class="premium-product-copy">
+        <span class="premium-product-label">${esc(p.cat||'Featured Product')}</span>
         <h3>${esc(p.name)}</h3>
         <p>${esc(p.desc)}</p>
-        <a class="featured-order-link" href="${esc(p.orderUrl||'store.html')}" target="_blank" rel="noopener"><strong>${esc(p.price)}</strong><span>Order on WhatsApp →</span></a>
+        <div class="premium-product-bottom">
+          <div><small>Current price</small><strong>${esc(p.price)}</strong></div>
+          <a href="${esc(p.orderUrl||'store.html')}" target="_blank" rel="noopener">Order on WhatsApp <span>↗</span></a>
+        </div>
       </div>
     </article>`).join('');
     const dots=$('#featured-products-dots');
@@ -73,12 +82,15 @@
 
   function renderOrisaDirectory(){
     const root=$('#orisa-grid'); if(!root) return;
-    root.innerHTML=DATA.orisas.map(o=>`<a class="orisa-card reveal" href="orisa.html?id=${encodeURIComponent(o.slug)}">
-      <small>${esc(o.classification)}</small>
-      <h3>${esc(o.name)}</h3>
-      <p>${esc(o.lead)}</p>
-      <div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div>
-      <b>Open documentary →</b>
+    root.innerHTML=ORISAS.map(o=>`<a class="orisa-card orisa-publication-card reveal" href="/orisa/${encodeURIComponent(o.slug)}">
+      <div class="orisa-card-media"><img src="${esc(o.image)}" alt="${esc(o.imageCaption||('Cultural context for '+o.name))}" loading="lazy" referrerpolicy="no-referrer"><span>LONG-FORM DOCUMENTARY</span></div>
+      <div class="orisa-card-content">
+        <small>${esc(o.classification)}</small>
+        <h3>${esc(o.name)}</h3>
+        <p>${esc(o.lead)}</p>
+        <div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div>
+        <b>Read publication →</b>
+      </div>
     </a>`).join('');
     $$('.reveal',root).forEach(el=>io?io.observe(el):el.classList.add('in'));
   }
@@ -86,50 +98,23 @@
   function renderOrisaDocumentary(){
     const root=$('#orisa-documentary'); if(!root) return;
     const id=new URLSearchParams(location.search).get('id') || 'orunmila';
-    const o=DATA.orisas.find(x=>x.slug===id) || DATA.orisas[0];
+    const o=ORISAS.find(x=>x.slug===id) || ORISAS[0];
     if(!o) return;
-    const seoTitle=`${o.name}: Yoruba Òrìṣà Guide | Isese Ponbele`;
-    const seoDescription=String(o.lead||'').slice(0,160);
-    const canonicalUrl=`https://isese-ponbele.vercel.app/orisa.html?id=${encodeURIComponent(o.slug)}`;
-    const seoImage=o.image||'https://isese-ponbele.vercel.app/assets/isese-ponbele-logo-polished.webp';
-    document.title=seoTitle;
-    const setMeta=(selector,attrs)=>{
-      let el=document.head.querySelector(selector);
-      if(!el){el=document.createElement('meta');document.head.appendChild(el);}
-      Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));
-      return el;
-    };
-    setMeta('meta[name="description"]',{name:'description',content:seoDescription});
-    setMeta('meta[property="og:type"]',{property:'og:type',content:'article'});
-    setMeta('meta[property="og:site_name"]',{property:'og:site_name',content:'Isese Ponbele'});
-    setMeta('meta[property="og:title"]',{property:'og:title',content:seoTitle});
-    setMeta('meta[property="og:description"]',{property:'og:description',content:seoDescription});
-    setMeta('meta[property="og:url"]',{property:'og:url',content:canonicalUrl});
-    setMeta('meta[property="og:image"]',{property:'og:image',content:seoImage});
-    setMeta('meta[name="twitter:card"]',{name:'twitter:card',content:'summary_large_image'});
-    setMeta('meta[name="twitter:title"]',{name:'twitter:title',content:seoTitle});
-    setMeta('meta[name="twitter:description"]',{name:'twitter:description',content:seoDescription});
-    setMeta('meta[name="twitter:image"]',{name:'twitter:image',content:seoImage});
+    const canonicalUrl=`https://isese-ponbele.vercel.app/orisa/${encodeURIComponent(o.slug)}`;
+    document.title=`${o.name}: Yoruba Orisa Documentary | Isese Ponbele`;
     let canonical=document.head.querySelector('link[rel="canonical"]');
     if(!canonical){canonical=document.createElement('link');canonical.rel='canonical';document.head.appendChild(canonical);}
     canonical.href=canonicalUrl;
-    let ld=document.head.querySelector('#orisa-seo-jsonld');
-    if(!ld){ld=document.createElement('script');ld.type='application/ld+json';ld.id='orisa-seo-jsonld';document.head.appendChild(ld);}
-    ld.textContent=JSON.stringify({
-      '@context':'https://schema.org',
-      '@type':'Article',
-      headline:`${o.name}: Yoruba Òrìṣà Guide`,
-      description:seoDescription,
-      url:canonicalUrl,
-      image:seoImage,
-      mainEntityOfPage:canonicalUrl,
-      publisher:{'@type':'Organization',name:'Isese Ponbele',url:'https://isese-ponbele.vercel.app/',logo:{'@type':'ImageObject',url:'https://isese-ponbele.vercel.app/assets/isese-ponbele-logo-polished.webp'}},
-      inLanguage:'en',
-      about:['Yoruba culture','Òrìṣà','Ìṣẹ̀ṣe',o.name]
-    });
-    const media = o.image ? `<figure class="doc-media"><img src="${esc(o.image)}" alt="Documented Yoruba cultural representation associated with ${esc(o.name)}" referrerpolicy="no-referrer"><figcaption>Documented cultural image used as context; not presented as a literal photograph of the Òrìṣà.</figcaption></figure>` : '';
+    const setMeta=(selector,attrs)=>{let el=document.head.querySelector(selector);if(!el){el=document.createElement('meta');document.head.appendChild(el);}Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));return el;};
+    setMeta('meta[name="description"]',{name:'description',content:String(o.lead||'').slice(0,158)});
+    const graph=`<div class="orisa-domain-graphic" aria-label="Domain map for ${esc(o.name)}">
+      <div class="orisa-domain-center"><strong>${esc(o.name)}</strong><small>cultural map</small></div>
+      ${o.domains.slice(0,4).map((d,i)=>`<span class="domain-node node-${i+1}">${esc(d)}</span>`).join('')}
+    </div>`;
+    const media=`<figure class="doc-media premium-orisa-media"><img src="${esc(o.image)}" alt="${esc(o.imageCaption||('Cultural documentation for '+o.name))}" referrerpolicy="no-referrer"><figcaption>${esc(o.imageCaption||'Documented cultural context.')}</figcaption></figure>`;
     const sections=[
       ['identity','Identity & worldview',`<p class="lead-paragraph">${esc(o.lead)}</p>${o.overview.map(p=>`<p>${esc(p)}</p>`).join('')}`],
+      ['visual','Visual & conceptual map',graph],
       ['names','Names, titles & praise language',`<p>${esc(o.titles)}</p>`],
       ['oral','Oral tradition & cultural memory',`<p>${esc(o.oral)}</p>`],
       ['material','Material culture & representation',`<p>${esc(o.material)}</p>`],
@@ -138,31 +123,11 @@
       ['festivals','Festivals & public life',`<p>${esc(o.festivals)}</p>`],
       ['variation','Regional & lineage variation',`<p>${esc(o.variation)}</p>`],
       ['diaspora','Diaspora & historical movement',`<p>${esc(o.diaspora)}</p>`],
+      ['study','Extended documentation',`${(o.deepDive||[]).map(p=>`<p>${esc(p)}</p>`).join('')}`],
       ['misconceptions','Common misconceptions',`<p>${esc(o.misconceptions)}</p>`],
-      ['references','Reference trail',`<ul class="reference-list">${o.refs.map(r=>`<li>${esc(r)}</li>`).join('')}</ul>`]
+      ['references','Reference trail',`<ul class="reference-list">${(o.refs||[]).map(r=>`<li>${esc(r)}</li>`).join('')}</ul><div class="source-links">${(o.sources||[]).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)} ↗</a>`).join('')}</div>`]
     ];
-    root.innerHTML=`
-      <section class="page-hero">
-        <div class="container">
-          <div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="orisas.html">Òrìṣà</a><span>/</span><span>${esc(o.name)}</span></div>
-          <p class="eyebrow">Ilé Àwọn Òrìṣà • Documentary</p>
-          <h1 class="page-title">${esc(o.name)}</h1>
-          <p class="page-lead">${esc(o.lead)}</p>
-          <div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div>
-        </div>
-      </section>
-      <section class="section alt">
-        <div class="container doc-shell">
-          <article class="doc-article">
-            ${media}
-            ${sections.map(([id,title,body])=>`<section id="${id}"><p class="eyebrow">Documentary chapter</p><h2>${esc(title)}</h2>${body}</section>`).join('')}
-          </article>
-          <aside class="doc-toc" aria-label="Documentary contents">
-            <strong>On this page</strong>
-            ${sections.map(([id,title])=>`<a href="#${id}">${esc(title)}</a>`).join('')}
-          </aside>
-        </div>
-      </section>`;
+    root.innerHTML=`<section class="page-hero orisa-pub-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="orisas.html">Orisa</a><span>/</span><span>${esc(o.name)}</span></div><p class="eyebrow">ISESE PONBELE • ORISA PUBLICATION</p><h1 class="page-title">${esc(o.name)}</h1><p class="page-lead">${esc(o.lead)}</p><div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div></div></section><section class="section alt"><div class="container doc-shell"><article class="doc-article">${media}${sections.map(([id,title,body])=>`<section id="${id}"><p class="eyebrow">Documentary chapter</p><h2>${esc(title)}</h2>${body}</section>`).join('')}</article><aside class="doc-toc"><strong>On this page</strong>${sections.map(([id,title])=>`<a href="#${id}">${esc(title)}</a>`).join('')}</aside></div></section>`;
   }
 
   function renderOogun(){
