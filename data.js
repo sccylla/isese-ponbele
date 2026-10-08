@@ -38518,7 +38518,7 @@ window.ISESE_DATA = {
       cat:"Herbal Products",
       price:"₦10,000",
       desc:"IP HERBSELIXIR herbal product. Contact us for product information, directions and availability.",
-      image:"assets/products/infection-crusher-ai-v3.webp",
+      image:"assets/products/infection-crusher-final-v4.webp",
       orderUrl:"https://wa.me/2347047604452?text=Hello%20IP%20HERBSELIXIR%2C%20I%20want%20to%20order%20Infection%20Crusher."
     },
     {
@@ -38527,7 +38527,7 @@ window.ISESE_DATA = {
       cat:"Herbal Products",
       price:"₦10,000",
       desc:"IP HERBSELIXIR herbal product. Contact us for product information, directions and availability.",
-      image:"assets/products/gorilla-max-ai-v3.webp",
+      image:"assets/products/gorilla-max-final-v4.webp",
       orderUrl:"https://wa.me/2347047604452?text=Hello%20IP%20HERBSELIXIR%2C%20I%20want%20to%20order%20Gorilla%20Max."
     },
     {
@@ -38536,7 +38536,7 @@ window.ISESE_DATA = {
       cat:"Herbal Products",
       price:"₦8,000",
       desc:"IP HERBSELIXIR combo pack supplied as liquid and powder. Contact us for product information, directions and availability.",
-      image:"assets/products/pile-elixir-combo-ai-v3.webp",
+      image:"assets/products/pile-elixir-combo-final-v4.webp",
       orderUrl:"https://wa.me/2347047604452?text=Hello%20IP%20HERBSELIXIR%2C%20I%20want%20to%20order%20the%20Pile%20Elixir%20Combo."
     }
   ]
