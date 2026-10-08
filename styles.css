@@ -3731,3 +3731,463 @@ body[data-page="store"] main .section.alt > .container{
     font-size:1.08rem!important;
   }
 }
+
+
+/* =========================================================
+   LUXURY PRODUCT CARDS — 2026-10-08
+   Premium ad-style layout, 3-up desktop / swipe mobile
+   ========================================================= */
+#products{
+  position:relative;
+  overflow:hidden;
+}
+#products::before{
+  content:'';
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background:
+    radial-gradient(circle at 8% 18%,rgba(210,158,70,.08),transparent 26%),
+    radial-gradient(circle at 92% 86%,rgba(70,111,45,.07),transparent 30%);
+}
+#products > .container,
+body[data-page="store"] main .section.alt > .container{
+  position:relative;
+  width:min(1400px,calc(100% - 32px));
+}
+#featured-products-track{
+  display:grid!important;
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  gap:16px!important;
+  overflow:visible!important;
+  padding:6px 0 10px!important;
+}
+.lux-product-card{
+  position:relative;
+  display:grid;
+  grid-template-columns:54% 46%;
+  min-width:0;
+  min-height:360px;
+  overflow:hidden;
+  border:1px solid rgba(210,166,86,.32);
+  border-radius:22px;
+  background:
+    linear-gradient(135deg,rgba(255,255,255,.035),transparent 40%),
+    #061109;
+  color:#fff;
+  box-shadow:
+    0 22px 50px rgba(52,31,15,.18),
+    inset 0 0 0 1px rgba(255,255,255,.025);
+  isolation:isolate;
+  transition:transform .28s ease,box-shadow .28s ease,border-color .28s ease;
+}
+.lux-product-card::before{
+  content:'';
+  position:absolute;
+  z-index:-1;
+  inset:0;
+  background:
+    radial-gradient(circle at 30% 50%,rgba(135,180,57,.13),transparent 30%),
+    linear-gradient(90deg,transparent 42%,rgba(5,17,9,.52) 53%,rgba(3,10,6,.96) 72%);
+}
+.lux-product-card::after{
+  content:'';
+  position:absolute;
+  z-index:5;
+  inset:10px;
+  pointer-events:none;
+  border:1px solid rgba(231,195,117,.10);
+  border-radius:15px;
+}
+.lux-product-card:hover{
+  transform:translateY(-5px);
+  border-color:rgba(226,181,92,.52);
+  box-shadow:0 28px 60px rgba(50,29,13,.24);
+}
+.lux-tone-1{background-color:#07130a}
+.lux-tone-2{background-color:#07120b}
+.lux-tone-3{background-color:#081409}
+
+.lux-product-media{
+  position:relative;
+  display:block;
+  min-width:0;
+  min-height:100%;
+  overflow:hidden;
+  background:#08130a;
+  text-decoration:none;
+}
+.lux-product-media::before{
+  content:'';
+  position:absolute;
+  z-index:2;
+  inset:0;
+  pointer-events:none;
+  background:
+    linear-gradient(180deg,rgba(3,13,6,.04),transparent 58%,rgba(3,11,5,.62)),
+    linear-gradient(90deg,transparent 67%,rgba(4,13,7,.66));
+}
+.lux-product-media img{
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+  transform:scale(1.025);
+  filter:saturate(.95) contrast(1.03);
+  transition:transform .5s ease,filter .5s ease;
+}
+.lux-product-card:hover .lux-product-media img{
+  transform:scale(1.06);
+  filter:saturate(1.02) contrast(1.05);
+}
+.lux-media-halo{
+  position:absolute;
+  z-index:1;
+  width:190px;
+  height:190px;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  border:1px solid rgba(236,190,87,.38);
+  border-radius:50%;
+  box-shadow:
+    0 0 0 18px rgba(236,190,87,.035),
+    0 0 70px rgba(191,147,48,.12);
+}
+.lux-natural-badge{
+  position:absolute;
+  z-index:4;
+  left:18px;
+  top:18px;
+  display:grid;
+  width:54px;
+  height:54px;
+  place-content:center;
+  text-align:center;
+  border:1px solid rgba(231,195,112,.46);
+  border-radius:50%;
+  background:rgba(6,23,11,.72);
+  color:#f0c766;
+  backdrop-filter:blur(8px);
+  box-shadow:0 8px 20px rgba(0,0,0,.20);
+}
+.lux-natural-badge b{
+  font-family:var(--display);
+  font-size:.94rem;
+  line-height:1;
+}
+.lux-natural-badge small{
+  margin-top:2px;
+  color:#d6dec9;
+  font-size:.38rem;
+  letter-spacing:.14em;
+}
+.lux-product-index{
+  position:absolute;
+  z-index:3;
+  right:14px;
+  bottom:9px;
+  color:rgba(255,255,255,.13);
+  font-family:var(--display);
+  font-size:4.5rem;
+  font-weight:800;
+  line-height:1;
+}
+
+.lux-product-content{
+  position:relative;
+  z-index:3;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  min-width:0;
+  padding:30px 25px 26px 20px;
+}
+.lux-product-content::before{
+  content:'';
+  position:absolute;
+  left:0;
+  top:14%;
+  bottom:14%;
+  width:1px;
+  background:linear-gradient(transparent,rgba(228,184,90,.52),transparent);
+}
+.lux-product-top{
+  display:flex;
+  align-items:center;
+  gap:9px;
+}
+.lux-kicker{
+  color:#b9d96c;
+  font-size:.55rem;
+  font-weight:900;
+  letter-spacing:.12em;
+}
+.lux-mini-line{
+  width:31px;
+  height:1px;
+  background:#d6a84e;
+}
+.lux-product-content h3{
+  margin:10px 0 7px;
+  color:#f4c969;
+  font-family:var(--display);
+  font-size:clamp(1.45rem,1.7vw,2.05rem);
+  line-height:.98;
+  letter-spacing:-.02em;
+  text-transform:uppercase;
+  text-wrap:balance;
+}
+.lux-tagline{
+  margin:0;
+  color:#f4efe5;
+  font-size:.75rem;
+  font-weight:600;
+  line-height:1.5;
+}
+.lux-benefits{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:7px;
+  margin:20px 0 22px;
+}
+.lux-benefits div{
+  display:grid;
+  min-width:0;
+  gap:5px;
+  padding:9px 5px 8px;
+  border-top:1px solid rgba(226,185,97,.35);
+  border-bottom:1px solid rgba(226,185,97,.12);
+  text-align:center;
+}
+.lux-benefits i{
+  color:#edbd58;
+  font-family:var(--display);
+  font-size:.85rem;
+  font-style:normal;
+}
+.lux-benefits span{
+  color:#d8d2c8;
+  font-size:.47rem;
+  font-weight:700;
+  line-height:1.25;
+}
+.lux-product-footer{
+  display:flex;
+  align-items:end;
+  justify-content:space-between;
+  gap:14px;
+  margin-top:auto;
+  padding-top:16px;
+  border-top:1px solid rgba(223,180,89,.20);
+}
+.lux-price{
+  display:grid;
+  gap:1px;
+}
+.lux-price small{
+  color:#8f9b84;
+  font-size:.42rem;
+  font-weight:800;
+  letter-spacing:.15em;
+}
+.lux-price strong{
+  color:#f1c664;
+  font-family:var(--display);
+  font-size:1.35rem;
+  line-height:1;
+}
+.lux-order-btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:9px;
+  min-height:38px;
+  padding:9px 13px;
+  border:1px solid rgba(255,225,148,.72);
+  border-radius:999px;
+  background:
+    linear-gradient(180deg,#f6d47e,#dca348);
+  color:#191108;
+  text-decoration:none;
+  font-size:.57rem;
+  font-weight:950;
+  letter-spacing:.055em;
+  box-shadow:0 8px 22px rgba(213,159,64,.18);
+}
+.lux-order-btn span{
+  font-size:.9rem;
+  transition:transform .2s ease;
+}
+.lux-order-btn:hover span{transform:translateX(3px)}
+
+#featured-products-dots{
+  display:none!important;
+}
+
+/* Store */
+.store-grid{
+  grid-template-columns:repeat(3,minmax(0,1fr))!important;
+  gap:18px!important;
+}
+.store-lux-card{
+  grid-template-columns:52% 48%;
+  min-height:410px;
+}
+.store-lux-card .lux-product-content{
+  padding:28px 22px 25px 18px;
+}
+.store-lux-card .lux-product-content h3{
+  font-size:1.48rem;
+}
+.lux-store-desc{
+  margin:0 0 17px;
+  color:#c7c0b5;
+  font-size:.64rem;
+  line-height:1.56;
+}
+.store-lux-card .lux-benefits{
+  margin:17px 0 16px;
+}
+
+@media(max-width:1100px) and (min-width:641px){
+  #featured-products-track,
+  .store-grid{
+    grid-template-columns:repeat(2,minmax(0,1fr))!important;
+  }
+  #featured-products-track .lux-product-card:last-child,
+  .store-grid .store-lux-card:last-child{
+    grid-column:span 2;
+    width:50%;
+    justify-self:center;
+  }
+}
+
+/* Mobile carousel */
+@media(max-width:640px){
+  #products > .container,
+  body[data-page="store"] main .section.alt > .container{
+    width:min(var(--max),calc(100% - 28px));
+  }
+  #featured-products-track{
+    display:flex!important;
+    grid-template-columns:none!important;
+    overflow-x:auto!important;
+    overflow-y:hidden!important;
+    scroll-snap-type:x mandatory!important;
+    scroll-padding:0 6vw;
+    gap:13px!important;
+    padding:5px 6vw 14px!important;
+    margin-left:-6vw!important;
+    margin-right:-6vw!important;
+    -webkit-overflow-scrolling:touch!important;
+    scrollbar-width:none!important;
+  }
+  #featured-products-track::-webkit-scrollbar,
+  body[data-page="store"] .store-grid::-webkit-scrollbar{display:none}
+  #featured-products-track .lux-product-card{
+    flex:0 0 88vw;
+    width:88vw;
+    min-width:88vw;
+    grid-template-columns:52% 48%;
+    min-height:350px;
+    scroll-snap-align:center;
+    scroll-snap-stop:always;
+    border-radius:19px;
+  }
+  .lux-product-content{
+    padding:22px 17px 20px 13px;
+  }
+  .lux-product-content h3{
+    font-size:1.28rem;
+  }
+  .lux-tagline{font-size:.67rem}
+  .lux-benefits{
+    grid-template-columns:1fr;
+    gap:0;
+    margin:14px 0 15px;
+  }
+  .lux-benefits div{
+    grid-template-columns:18px 1fr;
+    align-items:center;
+    gap:5px;
+    padding:5px 0;
+    border-top:0;
+    border-bottom:1px solid rgba(226,185,97,.12);
+    text-align:left;
+  }
+  .lux-benefits i{font-size:.68rem}
+  .lux-benefits span{font-size:.48rem}
+  .lux-product-footer{
+    align-items:flex-start;
+    flex-direction:column;
+    gap:9px;
+  }
+  .lux-order-btn{
+    width:100%;
+  }
+  #featured-products-dots{
+    display:flex!important;
+    justify-content:center;
+    gap:6px;
+    margin-top:8px;
+  }
+  #featured-products-dots button{
+    width:7px;
+    height:7px;
+    padding:0;
+    border:0;
+    border-radius:50%;
+    background:#a78b68;
+    opacity:.42;
+  }
+  #featured-products-dots button.active{
+    width:24px;
+    border-radius:999px;
+    background:#c98931;
+    opacity:1;
+  }
+
+  body[data-page="store"] .store-grid{
+    display:flex!important;
+    grid-template-columns:none!important;
+    overflow-x:auto!important;
+    overflow-y:hidden!important;
+    scroll-snap-type:x mandatory!important;
+    gap:13px!important;
+    padding:5px 6vw 15px!important;
+    margin-left:-6vw!important;
+    margin-right:-6vw!important;
+    -webkit-overflow-scrolling:touch!important;
+    scrollbar-width:none!important;
+  }
+  body[data-page="store"] .store-lux-card{
+    flex:0 0 90vw;
+    width:90vw;
+    min-width:90vw;
+    max-width:none!important;
+    grid-column:auto!important;
+    grid-template-columns:52% 48%;
+    min-height:420px;
+    scroll-snap-align:center;
+    scroll-snap-stop:always;
+  }
+  .lux-store-desc{display:none}
+}
+
+@media(max-width:390px){
+  #featured-products-track .lux-product-card{
+    flex-basis:91vw;
+    width:91vw;
+    min-width:91vw;
+    grid-template-columns:50% 50%;
+  }
+  .lux-product-content{
+    padding-right:13px;
+  }
+  .lux-product-content h3{
+    font-size:1.12rem;
+  }
+}

@@ -43,50 +43,51 @@
     const track=$('#featured-products-track');
     if(!track) return;
 
-    const bannerMap={
-      'Infection Crusher':'assets/product-banners/infection-crusher.webp',
-      'Gorilla Max':'assets/product-banners/gorilla-max.webp',
-      'IP Pile Elixir Combo (Agbo + Agunmu)':'assets/product-banners/pile-elixir.webp'
-    };
-
     const presentation={
       'Infection Crusher':{
+        eyebrow:'BOTANICAL FORMULA',
         tagline:'Traditional botanical blend',
-        benefits:['Botanical blend','IP Herbs Elixir','Traditional formula']
+        benefits:[['✦','Botanical'],['◈','IP Herbs'],['✧','Traditional']]
       },
       'Gorilla Max':{
+        eyebrow:'MEN’S HERBAL FORMULA',
         tagline:'Traditional herbal blend for men',
-        benefits:['Herbal blend','Men’s formula','Traditional care']
+        benefits:[['✦','Herbal blend'],['◈','Men’s formula'],['✧','Traditional']]
       },
       'IP Pile Elixir Combo (Agbo + Agunmu)':{
+        eyebrow:'HERBAL COMBO',
         tagline:'Traditional herbal combo',
-        benefits:['Herbal blend','Combo pack','Traditional formula']
+        benefits:[['✦','Herbal blend'],['◈','Combo pack'],['✧','Traditional']]
       }
     };
 
     const products=DATA.products.slice(0,3);
 
     track.innerHTML=products.map(function(p,i){
-      const bg=bannerMap[p.name]||p.image;
       const meta=presentation[p.name]||{
+        eyebrow:'IP HERBS ELIXIR',
         tagline:p.cat||'Traditional herbal product',
-        benefits:['Herbal blend','IP Herbs Elixir','Traditional care']
+        benefits:[['✦','Herbal blend'],['◈','IP Herbs'],['✧','Traditional']]
       };
 
-      return '<article class="live-product-banner tone-'+(i+1)+'">'+
-        '<img class="live-product-bg" src="'+bg+'" alt="" aria-hidden="true">'+
-        '<a class="live-product-visual" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
-          '<span class="live-product-brand">IP HERBS <b>ELIXIR</b></span>'+
-          '<img class="live-product-photo" src="'+p.image+'" alt="'+esc(p.name)+' product" loading="'+(i===0?'eager':'lazy')+'">'+
+      return '<article class="lux-product-card lux-tone-'+(i+1)+'">'+
+        '<a class="lux-product-media" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+          '<div class="lux-media-halo" aria-hidden="true"></div>'+
+          '<img src="'+p.image+'" alt="'+esc(p.name)+' product" loading="'+(i===0?'eager':'lazy')+'">'+
+          '<span class="lux-natural-badge"><b>IP</b><small>HERBS</small></span>'+
+          '<span class="lux-product-index">0'+(i+1)+'</span>'+
         '</a>'+
-        '<div class="live-product-copy">'+
-          '<span class="live-product-kicker">IP HERBS ELIXIR</span>'+
+        '<div class="lux-product-content">'+
+          '<div class="lux-product-top">'+
+            '<span class="lux-kicker">'+esc(meta.eyebrow)+'</span>'+
+            '<span class="lux-mini-line"></span>'+
+          '</div>'+
           '<h3>'+esc(p.name)+'</h3>'+
-          '<p class="live-product-tagline">'+esc(meta.tagline)+'</p>'+
-          '<div class="live-product-benefits">'+meta.benefits.map(function(b){return '<span>'+esc(b)+'</span>';}).join('')+'</div>'+
-          '<div class="live-product-action">'+
-            '<strong>'+esc(p.price)+'</strong>'+
-            '<a href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">Order now <b>›</b></a>'+
+          '<p class="lux-tagline">'+esc(meta.tagline)+'</p>'+
+          '<div class="lux-benefits">'+meta.benefits.map(function(b){return '<div><i>'+b[0]+'</i><span>'+esc(b[1])+'</span></div>';}).join('')+'</div>'+
+          '<div class="lux-product-footer">'+
+            '<div class="lux-price"><small>PRICE</small><strong>'+esc(p.price)+'</strong></div>'+
+            '<a class="lux-order-btn" href="'+esc(p.orderUrl||'store.html')+'" target="_blank" rel="noopener">ORDER NOW <span>→</span></a>'+
           '</div>'+
         '</div>'+
       '</article>';
@@ -94,13 +95,12 @@
 
     const dots=$('#featured-products-dots');
     if(!dots) return;
-
     dots.innerHTML=products.map(function(_,i){
       return '<button type="button" class="'+(i===0?'active':'')+'" aria-label="Show product '+(i+1)+'" data-index="'+i+'"></button>';
     }).join('');
 
     const buttons=$$('button',dots);
-    const cards=$$('.live-product-banner',track);
+    const cards=$$('.lux-product-card',track);
 
     buttons.forEach(function(btn){
       btn.addEventListener('click',function(){
@@ -116,16 +116,12 @@
         raf=0;
         if(innerWidth>640) return;
         const center=track.scrollLeft+(track.clientWidth/2);
-        let best=0;
-        let distance=Infinity;
+        let best=0, distance=Infinity;
         cards.forEach(function(card,i){
-          const cardCenter=card.offsetLeft+(card.offsetWidth/2);
-          const d=Math.abs(cardCenter-center);
+          const d=Math.abs((card.offsetLeft+card.offsetWidth/2)-center);
           if(d<distance){distance=d;best=i;}
         });
-        buttons.forEach(function(button,i){
-          button.classList.toggle('active',i===best);
-        });
+        buttons.forEach(function(button,i){button.classList.toggle('active',i===best);});
       });
     },{passive:true});
   }
@@ -341,82 +337,66 @@
   }
 
   function renderStore(){
-    const root=$('#store-grid');
-    if(!root) return;
-
-    const bannerMap={
-      'Infection Crusher':'assets/product-banners/infection-crusher.webp',
-      'Gorilla Max':'assets/product-banners/gorilla-max.webp',
-      'IP Pile Elixir Combo (Agbo + Agunmu)':'assets/product-banners/pile-elixir.webp'
-    };
+    const root=$('#store-grid'); if(!root)return;
 
     const presentation={
       'Infection Crusher':{
+        eyebrow:'BOTANICAL FORMULA',
         tagline:'Traditional botanical blend',
-        benefits:['Botanical blend','IP Herbs Elixir','Traditional formula']
+        benefits:[['✦','Botanical'],['◈','IP Herbs'],['✧','Traditional']]
       },
       'Gorilla Max':{
+        eyebrow:'MEN’S HERBAL FORMULA',
         tagline:'Traditional herbal blend for men',
-        benefits:['Herbal blend','Men’s formula','Traditional care']
+        benefits:[['✦','Herbal blend'],['◈','Men’s formula'],['✧','Traditional']]
       },
       'IP Pile Elixir Combo (Agbo + Agunmu)':{
+        eyebrow:'HERBAL COMBO',
         tagline:'Traditional herbal combo',
-        benefits:['Herbal blend','Combo pack','Traditional formula']
+        benefits:[['✦','Herbal blend'],['◈','Combo pack'],['✧','Traditional']]
       }
     };
 
     const cats=['All',...new Set(DATA.products.map(p=>p.cat))];
     const holder=$('#store-filters');
-
-    if(holder){
-      holder.innerHTML=cats.map(function(c,i){
-        return '<button class="chip '+(i===0?'active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'</button>';
-      }).join('');
-    }
-
+    if(holder) holder.innerHTML=cats.map((c,i)=>'<button class="chip '+(i===0?'active':'')+'" type="button" data-cat="'+esc(c)+'">'+esc(c)+'</button>').join('');
     let cat='All';
 
-    const draw=function(){
-      const rows=DATA.products.filter(function(p){return cat==='All'||p.cat===cat;});
-
-      root.innerHTML=rows.map(function(p,i){
-        const bg=bannerMap[p.name]||p.image;
+    const draw=()=>{
+      const rows=DATA.products.filter(p=>cat==='All'||p.cat===cat);
+      root.innerHTML=rows.map((p,i)=>{
         const meta=presentation[p.name]||{
+          eyebrow:'IP HERBS ELIXIR',
           tagline:p.cat||'Traditional herbal product',
-          benefits:['Herbal blend','IP Herbs Elixir','Traditional care']
+          benefits:[['✦','Herbal blend'],['◈','IP Herbs'],['✧','Traditional']]
         };
 
-        return '<article class="live-product-banner store-live-product tone-'+((i%3)+1)+'">'+
-          '<img class="live-product-bg" src="'+bg+'" alt="" aria-hidden="true">'+
-          '<a class="live-product-visual" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
-            '<span class="live-product-brand">IP HERBS <b>ELIXIR</b></span>'+
-            '<img class="live-product-photo" src="'+p.image+'" alt="'+esc(p.name)+' product" loading="lazy">'+
+        return '<article class="lux-product-card store-lux-card lux-tone-'+((i%3)+1)+'">'+
+          '<a class="lux-product-media" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener" aria-label="Order '+esc(p.name)+' on WhatsApp">'+
+            '<div class="lux-media-halo" aria-hidden="true"></div>'+
+            '<img src="'+p.image+'" alt="'+esc(p.name)+' product" loading="lazy">'+
+            '<span class="lux-natural-badge"><b>IP</b><small>HERBS</small></span>'+
+            '<span class="lux-product-index">0'+(i+1)+'</span>'+
           '</a>'+
-          '<div class="live-product-copy">'+
-            '<span class="live-product-kicker">'+esc(p.brand||'IP HERBS ELIXIR')+'</span>'+
+          '<div class="lux-product-content">'+
+            '<div class="lux-product-top"><span class="lux-kicker">'+esc(meta.eyebrow)+'</span><span class="lux-mini-line"></span></div>'+
             '<h3>'+esc(p.name)+'</h3>'+
-            '<p class="live-product-tagline">'+esc(meta.tagline)+'</p>'+
-            '<div class="live-product-benefits">'+meta.benefits.map(function(b){return '<span>'+esc(b)+'</span>';}).join('')+'</div>'+
-            '<p class="store-live-desc">'+esc(p.desc)+'</p>'+
-            '<div class="live-product-action">'+
-              '<strong>'+esc(p.price)+'</strong>'+
-              '<a href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">Order now <b>›</b></a>'+
+            '<p class="lux-tagline">'+esc(meta.tagline)+'</p>'+
+            '<div class="lux-benefits">'+meta.benefits.map(function(b){return '<div><i>'+b[0]+'</i><span>'+esc(b[1])+'</span></div>';}).join('')+'</div>'+
+            '<p class="lux-store-desc">'+esc(p.desc)+'</p>'+
+            '<div class="lux-product-footer">'+
+              '<div class="lux-price"><small>PRICE</small><strong>'+esc(p.price)+'</strong></div>'+
+              '<a class="lux-order-btn" href="'+esc(p.orderUrl||'#')+'" target="_blank" rel="noopener">ORDER NOW <span>→</span></a>'+
             '</div>'+
           '</div>'+
         '</article>';
       }).join('');
     };
 
-    if(holder){
-      holder.addEventListener('click',function(e){
-        const b=e.target.closest('.chip');
-        if(!b) return;
-        cat=b.dataset.cat;
-        $$('.chip',holder).forEach(function(x){x.classList.toggle('active',x===b);});
-        draw();
-      });
-    }
-
+    holder?.addEventListener('click',e=>{
+      const b=e.target.closest('.chip');if(!b)return;
+      cat=b.dataset.cat;$$('.chip',holder).forEach(x=>x.classList.toggle('active',x===b));draw();
+    });
     draw();
   }
 
