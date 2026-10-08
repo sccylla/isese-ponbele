@@ -77,20 +77,44 @@ jobs:
 
       - name: Run Real-ESRGAN on original product photos
         run: |
-          git clone --depth 1 https://github.com/xinntao/Real-ESRGAN.git /tmp/realesrgan-repo
-          mkdir -p /tmp/realesrgan-repo/weights
-          cp /tmp/RealESRGAN_x4plus.pth /tmp/realesrgan-repo/weights/RealESRGAN_x4plus.pth
-          cd /tmp/realesrgan-repo
-          python inference_realesrgan.py \
-            -n RealESRGAN_x4plus \
-            -i /tmp/product-src \
-            -o /tmp/product-ai \
-            --outscale 4 \
-            --tile 192 \
-            --tile_pad 16 \
-            --fp32 \
-            --suffix restored \
-            --ext png
+          python - <<'PY'
+          from pathlib import Path
+          import cv2
+          from basicsr.archs.rrdbnet_arch import RRDBNet
+          from realesrgan import RealESRGANer
+
+          src_dir = Path('/tmp/product-src')
+          out_dir = Path('/tmp/product-ai')
+          out_dir.mkdir(parents=True, exist_ok=True)
+
+          model = RRDBNet(
+              num_in_ch=3,
+              num_out_ch=3,
+              num_feat=64,
+              num_block=23,
+              num_grow_ch=32,
+              scale=4,
+          )
+          upsampler = RealESRGANer(
+              scale=4,
+              model_path='/tmp/RealESRGAN_x4plus.pth',
+              model=model,
+              tile=192,
+              tile_pad=16,
+              pre_pad=0,
+              half=False,
+          )
+
+          for src in sorted(src_dir.glob('*.png')):
+              img = cv2.imread(str(src), cv2.IMREAD_COLOR)
+              if img is None:
+                  raise RuntimeError(f'Could not read {src}')
+              output, _ = upsampler.enhance(img, outscale=4)
+              dest = out_dir / f'{src.stem}_restored.png'
+              if not cv2.imwrite(str(dest), output):
+                  raise RuntimeError(f'Could not write {dest}')
+              print(src.name, img.shape, '->', output.shape, dest)
+          PY
 
       - name: Finish restored images and wire them into site
         run: |
