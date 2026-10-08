@@ -476,7 +476,6 @@ body{
 #oogun-unlock-form{display:grid;grid-template-columns:1fr auto;gap:9px}
 #oogun-unlock-form input{min-width:0;height:48px;padding:0 12px;border:1px solid rgba(232,190,103,.35);border-radius:6px;background:#fff9ed;color:#2b1b10}
 .unlock-error{color:#f2b2a1!important}
-.source-document-note{margin:24px 0 14px;padding:13px 15px;border:1px solid #d6b77b;background:#fff2d9;color:#6b4e30;font-size:.68rem}
 .oogun-source-text{padding:24px;border:1px solid #dfcfb7;border-radius:8px;background:#fffaf0;color:#3d2d20;font-family:var(--body);font-size:.88rem;line-height:1.8}
 .access-generator{display:grid;grid-template-columns:1fr 1fr;gap:13px}
 .generated-access{display:grid;gap:10px;margin-top:12px}
