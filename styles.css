@@ -3509,3 +3509,225 @@ body[data-page="store"] main .section.alt > .container{
     font-size:1.12rem;
   }
 }
+
+
+/* =========================================================
+   PREMIUM PRODUCT COMPOSITION REFINEMENT — 2026-10-08
+   Larger product photography, less empty space, same 3-up desktop
+   ========================================================= */
+#products > .container,
+body[data-page="store"] main .section.alt > .container{
+  width:min(1380px,calc(100% - 30px));
+}
+
+.live-product-banner{
+  grid-template-columns:50% 50%!important;
+  min-height:330px!important;
+  background:#07120a!important;
+}
+
+.live-product-bg{
+  opacity:.10!important;
+  filter:saturate(.9) contrast(1.04)!important;
+}
+
+.live-product-banner::before{
+  background:
+    linear-gradient(90deg,rgba(2,12,6,.02) 0%,rgba(3,15,7,.22) 44%,rgba(3,13,7,.94) 58%,rgba(2,9,5,.99) 100%)!important;
+}
+
+.live-product-visual{
+  align-items:stretch!important;
+  justify-content:stretch!important;
+  min-height:100%!important;
+  background:#07130a!important;
+}
+
+.live-product-visual::after{
+  display:none!important;
+}
+
+.live-product-photo{
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  object-position:center center!important;
+  filter:none!important;
+  transform:scale(1.035)!important;
+}
+
+.live-product-brand{
+  top:15px!important;
+  left:16px!important;
+  padding:7px 8px!important;
+  border:1px solid rgba(228,193,110,.20)!important;
+  border-radius:7px!important;
+  background:rgba(5,19,9,.72)!important;
+  backdrop-filter:blur(5px)!important;
+}
+
+.live-product-copy{
+  justify-content:center!important;
+  padding:25px 22px 22px!important;
+}
+
+.live-product-copy h3{
+  max-width:100%!important;
+  margin:7px 0 8px!important;
+  font-size:clamp(1.42rem,1.65vw,1.92rem)!important;
+  line-height:1.02!important;
+  text-wrap:balance;
+}
+
+.live-product-tagline{
+  font-size:.72rem!important;
+  line-height:1.45!important;
+}
+
+.live-product-benefits{
+  margin:14px 0 16px!important;
+  gap:6px!important;
+}
+
+.live-product-benefits span{
+  padding:5px 8px!important;
+  font-size:.49rem!important;
+}
+
+.live-product-action{
+  margin-top:8px!important;
+  padding-top:14px!important;
+}
+
+.live-product-action strong{
+  font-size:1.15rem!important;
+}
+
+.store-live-product{
+  grid-template-columns:50% 50%!important;
+  min-height:365px!important;
+}
+
+.store-live-product .live-product-photo{
+  object-fit:cover!important;
+}
+
+.store-live-product .live-product-copy{
+  padding:26px 21px!important;
+}
+
+.store-live-product .live-product-copy h3{
+  font-size:1.45rem!important;
+}
+
+.store-live-desc{
+  font-size:.65rem!important;
+  line-height:1.55!important;
+  color:#d0c8bb!important;
+}
+
+@media(max-width:1100px) and (min-width:641px){
+  .live-product-banner{
+    grid-template-columns:47% 53%!important;
+  }
+}
+
+@media(max-width:640px){
+  #products > .container,
+  body[data-page="store"] main .section.alt > .container{
+    width:min(var(--max),calc(100% - 28px));
+  }
+
+  #featured-products-track{
+    display:flex!important;
+    grid-template-columns:none!important;
+    overflow-x:auto!important;
+    overflow-y:hidden!important;
+    scroll-snap-type:x mandatory!important;
+    gap:12px!important;
+    padding:4px 7vw 12px!important;
+    margin-left:-7vw!important;
+    margin-right:-7vw!important;
+    -webkit-overflow-scrolling:touch!important;
+    scrollbar-width:none!important;
+  }
+
+  #featured-products-track .live-product-banner{
+    flex:0 0 88vw!important;
+    width:88vw!important;
+    min-width:88vw!important;
+    grid-template-columns:48% 52%!important;
+    min-height:310px!important;
+    scroll-snap-align:center!important;
+    scroll-snap-stop:always!important;
+  }
+
+  .live-product-copy{
+    padding:18px 13px 16px!important;
+  }
+
+  .live-product-copy h3{
+    font-size:1.22rem!important;
+  }
+
+  .live-product-tagline{
+    font-size:.64rem!important;
+  }
+
+  .live-product-benefits{
+    margin:10px 0 12px!important;
+  }
+
+  .live-product-benefits span{
+    font-size:.43rem!important;
+    padding:4px 5px!important;
+  }
+
+  .live-product-action{
+    align-items:flex-start!important;
+    flex-direction:column!important;
+    gap:8px!important;
+  }
+
+  .live-product-action a{
+    width:100%!important;
+  }
+
+  body[data-page="store"] .store-grid{
+    display:flex!important;
+    grid-template-columns:none!important;
+    overflow-x:auto!important;
+    overflow-y:hidden!important;
+    scroll-snap-type:x mandatory!important;
+    gap:12px!important;
+    padding:4px 7vw 14px!important;
+    margin-left:-7vw!important;
+    margin-right:-7vw!important;
+    -webkit-overflow-scrolling:touch!important;
+    scrollbar-width:none!important;
+  }
+
+  body[data-page="store"] .store-live-product{
+    flex:0 0 90vw!important;
+    width:90vw!important;
+    min-width:90vw!important;
+    max-width:none!important;
+    grid-template-columns:48% 52%!important;
+    min-height:360px!important;
+    scroll-snap-align:center!important;
+    scroll-snap-stop:always!important;
+  }
+}
+
+@media(max-width:390px){
+  #featured-products-track .live-product-banner{
+    flex-basis:91vw!important;
+    width:91vw!important;
+    min-width:91vw!important;
+    grid-template-columns:46% 54%!important;
+  }
+
+  .live-product-copy h3{
+    font-size:1.08rem!important;
+  }
+}
