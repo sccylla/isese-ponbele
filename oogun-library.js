@@ -17,7 +17,7 @@
   const card=x=>`<article class="oogun-preview-card">
     <div class="oogun-card-top"><span class="oogun-date">${esc(x.archiveDate||ARCHIVE_DATE)}</span><span class="locked-pill">🔒 Protected</span></div>
     <small>${esc(sourceLabel[x.source]||x.sourceName)}</small>
-    <h3>${esc(x.title)}</h3>
+    <h3><a class="oogun-title-link" href="oogun-document.html?id=${encodeURIComponent(x.id)}">${esc(x.title)}</a></h3>
     <p class="oogun-card-purpose">${esc(x.subtitle?x.subtitle.replace(/^\\(|\\)$/g,""):x.preview)}</p>
     <div class="oogun-card-content-preview">
       <span>Inside this document</span>
@@ -56,7 +56,7 @@
     const draw=()=>{
       const q=(search?.value||"").toLowerCase().trim();
       const rows=C.filter(x=>(source==="all"||x.source===source)&&(!q||[x.title,x.titleEnglish,x.subtitle,x.sourceName,x.preview,x.contentPreview].join(" ").toLowerCase().includes(q)));
-      if(count) count.textContent=`${rows.length} protected web documents`;
+      if(count) count.textContent=`${rows.length} entries`;
       list.innerHTML=rows.map(card).join("");
     };
     search?.addEventListener("input",draw);
