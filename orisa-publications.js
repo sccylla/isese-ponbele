@@ -42,6 +42,98 @@ window.ORISA_PUBLICATIONS = [
       "Another important distinction is between visible wealth and sustainable wealth. Ceremonial display has long been part of Yoruba status, yet public display can coexist with strong expectations of generosity. A prosperous person may be judged not only by clothing or possessions but by the ability to sponsor dependants, contribute to communal events and assist relatives in difficulty. In this sense prosperity is evaluated socially.",
       "Ajé also belongs to the cultural history of migration. Yoruba traders built commercial networks that stretched across towns and later across national borders. Modern merchants in Lagos, Cotonou, London or New York operate in different economies, but many still frame success through inherited ideas about blessing, character and social responsibility. The sacred vocabulary moves with people even when the market changes.",
       "For documentary purposes, Ajé is most revealing when treated as an economic philosophy as well as a sacred figure. The tradition asks what makes resources productive, how opportunity is recognized, how wealth should circulate and what kind of character allows prosperity to endure. Those questions give the subject a depth that cannot be captured by the modern phrase 'money attraction.'"
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ajé personifies productive wealth, exchange, prosperity and the capacity for resources to circulate through households, markets and communities.",
+          "Ajé is important because Yoruba ideas of wealth are not limited to cash. Prosperity can include children, productive work, reputation, social support, land, trade and the ability to sustain others.",
+          "The market is a major social institution in this tradition. Commercial skill, networks of trust and the movement of goods make prosperity a collective process rather than a purely private possession.",
+          "Economic anthropology helps explain why Ajé is more than a personification of money. Yoruba markets historically linked towns, farms, craft specialists and long-distance traders. Wealth moved through relationships: credit, reputation, kinship and trust could be as important as coins. Sacred language about prosperity therefore belongs to a social economy in which the ability to circulate resources matters greatly. A person who accumulates without supporting household or community obligations may be wealthy in one sense but poor in another.",
+          "Contemporary festival photography makes Ajé unusually visible today. Processions in Lagos show white clothing, cowries, beads and sacred loads moving through urban streets, placing traditional symbolism inside a modern commercial city. Such images are valuable because they document continuity without pretending that the present is unchanged from the past. Urban heritage events can themselves become new stages in the history of an Òrìṣà.",
+          "To understand Ajé properly, it helps to begin with the market rather than with the modern language of sudden riches. Yoruba markets were places where food, cloth, craft goods, information, credit and reputation moved together. A trader’s standing depended not only on what she owned but on whether other people trusted her judgment, kept returning to her stall and were willing to extend or receive credit. Prosperity was therefore relational. It was built through repeated exchange, social memory and the ability to keep resources moving without losing control of them."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, praise language & oral memory",
+        "paragraphs": [
+          "Praise language may emphasize wealth that arrives, wealth that remains, profitable exchange and the dignity of productive abundance.",
+          "Stories and sayings concerning wealth frequently warn that money without character or social responsibility can become unstable. Prosperity is evaluated alongside conduct.",
+          "Online discussions of Ajé often drift into promises of supernatural financial success. A documentary publication should resist that framing. The culturally richer themes are enterprise, productive labor, exchange, reputation, generosity and the management of abundance. These ideas can be studied historically and ethically without presenting ritual claims as guaranteed economic results.",
+          "For Ajé, responsible documentation must keep local variation visible. The themes of wealth, commerce, prosperity, market are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ajé as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Women have been central to Yoruba market history, and that social fact is essential to any serious account of Ajé. In many towns, women dominated important sectors of retail exchange and organized themselves through market associations and titled leadership. Commercial authority could therefore carry public weight beyond the household. Ajé belongs naturally to this world of negotiation, storage, pricing, mobility and reputation. The sacred vocabulary of abundance grew beside the practical intelligence of people who understood how to turn small margins and long relationships into lasting economic security."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Ajé is best understood within the long history of Yoruba markets and household economies. In precolonial towns, prosperity depended on far more than the possession of coins. Farms, craft production, livestock, trade relations, children, dependants and a reputation for reliability all formed part of a person's economic standing. Wealth became socially meaningful when it moved: through exchange, hospitality, support for relatives, sponsorship of ceremonies and investment in productive activity. This is why Yoruba discussions of prosperity often carry a moral dimension. Money that circulates responsibly can sustain a household and strengthen a network, while wealth pursued without character can isolate its owner.",
+          "Markets were among the most important public institutions in many Yoruba towns, and women were central to their operation. Trading careers could span generations, with knowledge of prices, credit, routes, customers and negotiation passed through families and apprenticeships. Titles connected with market leadership reflected the political importance of commercial women. Ajé belongs naturally to this world. The sacred language of wealth is inseparable from the practical intelligence required to buy, sell, save, lend, judge character and maintain trust across a crowded marketplace.",
+          "Prosperity in Yoruba thought is often cumulative rather than spectacular. A person may be described as fortunate because work produces steady results, children thrive, debts can be met, relatives are supported and the household has dignity. Such a picture differs from the modern fantasy of sudden riches. Ajé can therefore represent productive abundance: the capacity for resources to enter, remain useful and generate further wellbeing. The distinction matters because the sacred idea of wealth is connected to continuity. What is gained should be able to sustain life beyond one dramatic moment.",
+          "Older Yoruba ideas of wealth also challenge the assumption that prosperity can be measured only by cash. A productive farm, a thriving household, respected children, valuable cloth, livestock, land, a dependable network and the ability to meet communal obligations could all signal wellbeing. Money mattered, but it sat inside a wider social economy. This is why wealth without character appears so often as an unstable condition in Yoruba moral thought: abundance was expected to support continuity, not merely display."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Cowries, beads, white cloth, market goods and specially prepared loads may appear in contemporary public documentation, but local forms vary.",
+          "Ajé also reveals how economic life and religious language meet without becoming identical. A trader may pray for customers and success, yet success still requires practical skill. Yoruba religious traditions do not erase labor. They often assume it. Blessing, destiny, good relationships and human effort are imagined as forces that must meet. This helps explain why prayers for wealth can exist beside proverbs warning against laziness, dishonesty or reckless consumption. The ideal is not wealth detached from work, but abundance that has roots.",
+          "Contemporary devotion to Ajé has become more publicly visible through festivals, cultural associations and online media. In Lagos and other urban centers, Ajé may be presented in a language that speaks to entrepreneurs, professionals and younger people navigating a cash economy very different from older market systems. That adaptation should not be mistaken for a completely new invention. Yoruba religious traditions have always spoken to the economic realities of their time. What changes is the form in which prosperity is imagined and the institutions through which it is pursued.",
+          "Public ceremonies associated with Ajé in the present day often use cowries, beads, white or bright cloth and processional display. These forms should be read as contemporary expressions of living heritage rather than treated as frozen evidence of one timeless ritual system. Lagos, Ilé-Ifẹ̀ and other Yoruba centers have different histories, and modern festivals often bring together older religious themes with urban cultural revival. What remains consistent is the emphasis on abundance that can be gathered, circulated and sustained."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, specialist knowledge & transmission",
+        "paragraphs": [
+          "Devotion can be household-, market- or community-centered. This publication describes documented cultural meanings rather than promising financial outcomes.",
+          "The symbolism of Ajé also overlaps with wider Yoruba ideas about destiny and social recognition. A person may possess talent yet struggle to convert it into stable opportunity; another may have access to opportunity but lack the discipline to preserve it. Religious language gives people a way to think about the unseen dimensions of those differences without denying the visible ones. In this sense Ajé belongs to a larger conversation about fortune, character, timing and the roads through which human effort becomes fruitful.",
+          "Because wealth attracts imitation and commercial promotion, modern descriptions of Ajé require care. Not every object sold online as an 'Ajé charm' represents a widely shared Yoruba tradition, and there is no single universal recipe for prosperity. Practices vary by lineage and community. A documentary account should separate broad cultural ideas from the claims of individual sellers. The enduring subject is richer than any product: how Yoruba communities have understood the making, circulation and moral use of abundance.",
+          "Migration has carried Yoruba commercial culture far beyond the old market towns. Traders and professionals now work across West Africa, Europe, North America and online platforms, yet inherited ideas about blessing, reputation and responsibility continue to shape how success is discussed. Ajé has therefore become a useful language for modern entrepreneurship without losing its older connection to community. The context has changed from market stalls and caravan routes to bank transfers and digital commerce, but the underlying question is familiar: how does opportunity become durable prosperity?"
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ajé traditions are found in multiple Yoruba communities, including contemporary public heritage events in Lagos and traditions associated with Ilé-Ifẹ̀.",
+          "Ajé remains relevant because the questions surrounding prosperity have not disappeared. People still ask how to make work productive, how to protect a household from instability, how to build a reputation that attracts opportunity and how to enjoy success without losing character. The vocabulary may shift from market stalls to businesses, salaries and digital commerce, but the underlying concerns are recognizable. Ajé stands at that meeting point between material survival, social responsibility and the hope that effort will become lasting fruit.",
+          "Historical Yoruba prosperity also depended on social credit. A trader with little cash could still possess valuable capital in the form of trust, reputation and dependable relationships. Goods could move on credit, customers could return because of fair dealing, and relatives could provide labor or introductions. This social dimension helps explain why prayers for Ajé are often linked with acceptance, favor and the opening of opportunities. Wealth does not arrive in a vacuum; it travels through human networks.",
+          "Ajé is sometimes presented online as though there were one universal charm, one color or one ritual guaranteed to produce money. That is not a reliable description of Yoruba religious practice. Ritual forms differ by lineage, town and practitioner, and the public record is uneven. A documentary treatment should focus on the better-attested cultural themes—trade, productive abundance, market institutions, social trust and the moral use of wealth—rather than repeating commercial promises that cannot be historically verified."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Recent documentation shows processions and festivals that present Ajé as living heritage connected with commerce and urban identity.",
+          "Another important distinction is between visible wealth and sustainable wealth. Ceremonial display has long been part of Yoruba status, yet public display can coexist with strong expectations of generosity. A prosperous person may be judged not only by clothing or possessions but by the ability to sponsor dependants, contribute to communal events and assist relatives in difficulty. In this sense prosperity is evaluated socially.",
+          "Ajé also belongs to the cultural history of migration. Yoruba traders built commercial networks that stretched across towns and later across national borders. Modern merchants in Lagos, Cotonou, London or New York operate in different economies, but many still frame success through inherited ideas about blessing, character and social responsibility. The sacred vocabulary moves with people even when the market changes.",
+          "The relationship between Ajé and character is especially important. Yoruba moral language repeatedly treats good conduct as a form of social capital: people remember who keeps agreements, who helps relatives, who abuses power and who remains dependable after success. A prosperous person who loses all trustworthy relationships may be materially rich but socially weakened. Ajé therefore belongs to a larger Yoruba conversation about ìwà, responsibility and the kind of person one becomes while pursuing success."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Gendered descriptions, objects and ritual procedures vary. Modern images should not be projected backward as timeless universal forms.",
+          "Ideas of sacred wealth traveled into Atlantic Yoruba-derived traditions, where local economies and religious institutions shaped new expressions.",
+          "For documentary purposes, Ajé is most revealing when treated as an economic philosophy as well as a sacred figure. The tradition asks what makes resources productive, how opportunity is recognized, how wealth should circulate and what kind of character allows prosperity to endure. Those questions give the subject a depth that cannot be captured by the modern phrase 'money attraction.'",
+          "In contemporary Yoruba cultural life, Ajé can be read as both sacred power and economic philosophy. The tradition asks how resources enter a household, how they are preserved, how they multiply through useful work and how they should circulate outward. That makes Ajé more substantial than the phrase “goddess of money.” The real subject is abundance in motion: wealth as something produced through work, relationships, judgment, timing and the capacity to sustain more than one life."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Ajé is not a magical guarantee of instant money. The deeper tradition connects wealth with production, exchange, networks, continuity and responsibility."
+        ]
+      }
     ]
   },
   {
@@ -90,6 +182,101 @@ window.ORISA_PUBLICATIONS = [
       "The social intelligence of the drummer is easy to underestimate. A performer must know when to intensify a celebration and when to remain restrained. He must recognize praise names correctly and avoid insulting someone through careless wording. Technical brilliance without social judgment can ruin an event. In this sense, Àyàn training is also training in etiquette.",
       "Recording technology preserves performances that earlier generations could know only by memory. Archival recordings now allow researchers to compare styles across decades and regions. Yet recordings are snapshots. They capture one event, one ensemble and one moment in a living repertoire rather than a permanent definition of how Yoruba drumming must sound.",
       "Àyàn ultimately represents the idea that speech can live inside rhythm. The tradition collapses the boundary between musician and historian, entertainer and messenger. A master drummer does not merely keep time; he interprets the social world in sound."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Àyàn is associated with the sacred and hereditary dimensions of Yoruba drumming, especially the ability of pressure drums to reproduce the tonal contours of speech.",
+          "Yoruba talking-drum traditions depend on language. By changing pitch, a skilled drummer can reproduce tonal patterns closely enough to evoke words, praise names and proverbs.",
+          "Drumming is often learned within specialist families, making lineage and apprenticeship central. Àyàn may be described as a deified drummer ancestor or sacred principle, and exact theological framing varies.",
+          "The tonal structure of Yoruba makes talking-drum performance especially significant. Yoruba words can change meaning according to pitch, so drummers work with a language in which melody is already part of speech. A master drummer does not simply imitate a vague rhythm of conversation; performance can evoke recognizable phrases and praise names for listeners who know the repertoire. This is one reason musical skill is inseparable from linguistic knowledge.",
+          "Hereditary drumming also illustrates how professional expertise is organized socially. Apprenticeship may begin within families, and knowledge can include drum construction, ensemble hierarchy, praise poetry and protocols for different ceremonies. Royal courts historically supported specialized musicians, while festivals created public settings in which drummers interacted with dancers, priests, chiefs and audiences. The sacred association with Àyàn expresses the depth of this professional identity.",
+          "Àyàn is inseparable from the fact that Yoruba is a tonal language. Pressure drums such as dùndún and gángan can alter pitch while they are being played, allowing an expert drummer to imitate the rise and fall of spoken Yoruba. Listeners who know the repertoire can recognize praise names, proverbs and familiar phrases. This is why the English expression “talking drum” is more than a metaphor. The performance does not reproduce every feature of ordinary speech, but it can carry socially intelligible language through rhythm and pitch."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, praise language & oral memory",
+        "paragraphs": [
+          "Names such as Àyàn and Àyàngalú appear in discussions of hereditary drumming. Lineage histories determine how these names are interpreted.",
+          "Drummers transmit praise poetry, historical memory and social commentary through performance. The drum can announce, praise, warn and converse.",
+          "Modern popular music has expanded the audience for gángan and dùndún, but stage performance can sometimes hide the verbal content behind spectacular sound. Documentation should therefore record not only how a drum looks but what drummers say it is doing. Audio, transcription and interviews can preserve dimensions that photographs cannot. The tradition is an important reminder that Yoruba cultural archives are carried in performance as well as in books.",
+          "For Àyàn, responsible documentation must keep local variation visible. The themes of drumming, rhythm, lineage, speech are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Àyàn as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Hereditary drummer families preserve more than technique. A young apprentice learns when a rhythm is appropriate, how to address a ruler, how to accompany a praise singer, how to respond to dancers and how to avoid using a phrase in the wrong social setting. The drum therefore belongs to etiquette as well as music. A performer who has speed but lacks judgment can embarrass a patron or disrupt a ceremony; mastery includes knowing the people and the occasion."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Àyàn refers not only to drumming as an activity but to a sacred and hereditary principle associated with drummer lineages. Among Yoruba communities, professional drumming has often been transmitted through families whose members learn rhythm, repertoire, instrument care and the social rules of performance from an early age. A skilled drummer is therefore not simply someone with fast hands. He or she inherits a vocabulary of occasions: what can be played for a ruler, an Òrìṣà, a funeral, a praise singer, a festival procession or an ordinary celebration.",
+          "The talking drum tradition shows particularly clearly how music and language intersect. Yoruba is tonal, so changes in pitch help distinguish meaning. Dùndún-family drums can alter pitch by squeezing tension cords, allowing expert performers to imitate the tonal contour and rhythm of speech. The result is not a magical substitute for ordinary language but a highly developed musical code. Listeners who know the praise phrases, proverbs or names being rendered can recognize what the drum is 'saying.' This turns performance into a form of public speech.",
+          "Drumming also preserves history. Praise names for towns, rulers and lineages can be embedded in performance, so a festival may carry historical memory even when no formal lecture is delivered. The drummer cues dancers, acknowledges dignitaries, energizes a procession and reminds the audience of inherited identities. In this way Àyàn belongs to the architecture of public memory. Rhythm helps a community remember who is present and what kind of occasion is taking place.",
+          "The dùndún ensemble is internally organized. Different drums carry different roles, with lead instruments speaking more freely over supporting rhythmic patterns. The gúdúgúdú, for example, can provide a steady foundation while pressure drums articulate more flexible lines. Such ensembles demonstrate that Yoruba “speech surrogacy” is collective. One instrument may carry recognizable language, but the full musical statement depends on the relationship among several performers."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Dùndún and gángan drums use tension cords that allow pitch to change while playing. Carving, hide preparation and maintenance are specialist crafts.",
+          "The status of hereditary drummers has varied across time and place. Some were closely attached to palaces; others served religious institutions or built independent careers moving between patrons. Their knowledge could be highly specialized. Bàtá repertoires, dùndún speech patterns and the rhythms associated with specific Òrìṣà are not interchangeable. A drummer trained in one tradition may understand another, but mastery depends on repertoire and social context as much as technical ability.",
+          "Modern recording and amplification have transformed the profession. A drummer can now perform on a concert stage, in a church, on a film soundtrack or in a popular-music ensemble, sometimes within the same career. These changes have not erased lineage identity. Many contemporary musicians still speak proudly of belonging to Àyàn families even when their work extends far beyond traditional festival settings. The sacred ancestry of drumming becomes part of a modern professional identity.",
+          "Royal courts historically gave professional drummers a prominent setting. Praise drumming could identify an ọba or chief through titles and lineage references, turning music into a public announcement of status. At festivals and family ceremonies, the same principle operates on a smaller scale: individuals can be recognized through oríkì, and the performance becomes a conversation between drummer, dancer and audience. Money given to the drummer is part of that exchange, not merely a fee for background music."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, specialist knowledge & transmission",
+        "paragraphs": [
+          "Religious and professional identity can overlap in drummer families. Not every performer describes the tradition in identical theological terms.",
+          "Àyàn also complicates the common division between 'religious music' and 'entertainment.' In Yoruba public life, the same musical intelligence can serve praise, ritual, social dancing and political ceremony. Meaning depends on where, when and for whom a rhythm is played. A drum phrase that honors an Òrìṣà inside a shrine context carries a different weight from a similar phrase quoted on a popular stage. Context is what converts sound into social language.",
+          "Apprenticeship remains central because much drumming knowledge is embodied. Written notation can record rhythm, but it cannot easily teach touch, timing, tonal inflection, interaction with dancers or the judgment required to respond to a live event. Young drummers learn by listening, repeating and being corrected. They watch how seniors handle a mistake, how they greet an elder musically and how they reshape a phrase when the mood of a gathering changes. That practical intelligence is part of Àyàn.",
+          "Bàtá traditions reveal another side of Àyàn’s world. Bàtá drums have long been associated with several Òrìṣà traditions, including Ṣàngó, and their repertoires are not interchangeable with dùndún performance. Different instruments require different touch, ensemble logic and ritual knowledge. The category of “Yoruba drumming” is therefore too broad if it erases the distinct professional histories carried by separate drum families."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Talking-drum lineages are widespread across Yorubaland, with important stylistic differences between towns and ensembles.",
+          "To document Àyàn responsibly is therefore to document people, not just instruments. Photographs of a talking drum can show construction, but the tradition lives in relationships between families, performers, patrons, dancers and audiences. The drum becomes meaningful when someone knows how to make it speak and someone else knows how to hear what is being said.",
+          "Instrument making forms another part of Àyàn knowledge. Talking drums require carefully selected wood, skins, tension cords and skilled assembly. Maintenance matters because changes in humidity and use affect sound. A professional drummer learns not only performance but the practical care of an instrument whose voice depends on physical precision. Craft knowledge and musical knowledge therefore meet in the same profession.",
+          "Recording technology changed the way drumming knowledge circulates. A performance that once disappeared with the end of an event can now be replayed, studied and sampled. This has helped preserve voices and styles, but it can also detach a phrase from the situation that gave it meaning. A festival rhythm heard on a concert recording may sound impressive while its praise references remain invisible to listeners who do not know the language."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Drummers are central to royal ceremonies, Òrìṣà festivals, funerals, weddings and contemporary stage performance.",
+          "Drumming can also mark social hierarchy. At a palace event, a performer may recognize a ruler or chief through specific praise phrases. At a family celebration, the drummer may identify individuals by oríkì and encourage them to respond publicly. Money given to performers during such exchanges is part of a social conversation, not merely payment for background entertainment.",
+          "Women have participated in Yoruba musical traditions in multiple ways, although hereditary professional drumming has often been described through male lineages. Contemporary performance increasingly makes female drummers more visible, and historical documentation continues to complicate simple gender assumptions. The broader lesson is that musical institutions change while preserving core repertoires.",
+          "Contemporary musicians carry talking-drum techniques into gospel, jùjú, fuji, Afrobeats, theatre and international concert music. That does not make the tradition less traditional. Yoruba drumming has always responded to patrons and changing social environments. What matters is that the underlying skills—pitch control, repertoire, listening, response and social intelligence—continue to be transmitted."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Rhythmic vocabularies, repertoire and lineage claims vary. 'Talking drum' is a useful English label but does not capture every Yoruba drum family.",
+          "Yoruba rhythmic concepts influenced Atlantic music and religion, while modern touring artists have carried talking-drum techniques globally.",
+          "Àyàn is therefore a useful example of intangible heritage. A drum can be stored in a museum, but the tradition cannot. It survives only when someone learns the phrases, understands the language, knows the occasion and can respond to other performers in real time. Heritage here is a skill carried in bodies and relationships.",
+          "The social intelligence of the drummer is easy to underestimate. A performer must know when to intensify a celebration and when to remain restrained. He must recognize praise names correctly and avoid insulting someone through careless wording. Technical brilliance without social judgment can ruin an event. In this sense, Àyàn training is also training in etiquette.",
+          "Àyàn is best understood as an institution of performed knowledge. The instrument is important, but the real archive lives in people who know what to play, what the phrase means and when it should be heard. A museum can preserve a drum shell; only a living performer can restore the speech, memory and social timing that make the instrument culturally complete."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Recording technology preserves performances that earlier generations could know only by memory. Archival recordings now allow researchers to compare styles across decades and regions. Yet recordings are snapshots. They capture one event, one ensemble and one moment in a living repertoire rather than a permanent definition of how Yoruba drumming must sound.",
+          "Àyàn ultimately represents the idea that speech can live inside rhythm. The tradition collapses the boundary between musician and historian, entertainer and messenger. A master drummer does not merely keep time; he interprets the social world in sound.",
+          "Àyàn should not be reduced to a decorative music symbol. The tradition involves language, genealogy, craftsmanship, memory and professional discipline."
+        ]
+      }
     ]
   },
   {
@@ -140,6 +327,103 @@ window.ORISA_PUBLICATIONS = [
       "Erinlẹ̀ is therefore a strong example of why regional Yoruba religion deserves careful documentation. A tradition can be locally grounded, historically significant and intellectually rich even when it has never received the international publicity of Ọ̀ṣun or Ṣàngó.",
       "One final point is methodological: local priests and families may preserve details that never entered print. Their absence from books does not make them unimportant. It means the public record is incomplete. Erinlẹ̀ is a reminder that Yoruba religious history cannot be reconstructed from published mythology alone.",
       "That incompleteness should encourage humility rather than invention. Where evidence is regional or uncertain, a careful publication can say so and still tell a rich story about river, hunting, fertility and healing. Accuracy is stronger than false completeness."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Erinlẹ̀ is associated with riverine power, hunting knowledge, medicine, fertility and strategic intelligence, especially in traditions connected with southwestern Yorubaland.",
+          "Erinlẹ̀ traditions demonstrate how difficult it can be to place Yoruba sacred powers into rigid categories. Hunting, rivers, healing and fertility can belong to the same religious biography because ecological knowledge connects them.",
+          "The name is especially associated with regional traditions around Ilobu and Osun State, though related forms appear in the diaspora and in neighboring ritual systems.",
+          "Erinlẹ̀ is especially useful for understanding why Yoruba religious classifications are relational rather than rigid. A river can be a source of fish, plants, transport and medicine; a hunter can require botanical knowledge; fertility can depend on healthy land and water. Modern categories separate these activities into different professions, but older ecological systems connected them closely. A sacred identity that crosses river, hunting and healing therefore reflects an integrated environmental world.",
+          "Museum catalogues sometimes reveal this complexity indirectly. A staff may be labeled 'Ọ̀pá Ọ̀sányìn or Ọ̀pá Erinlẹ̀,' acknowledging that collectors or curators cannot always reconstruct the original local classification. Instead of treating such uncertainty as a failure, a responsible publication can use it as evidence that ritual art must be interpreted with provenance and oral history. Objects moved from shrines into museums often lost parts of the knowledge that once surrounded them.",
+          "Erinlẹ̀ is a good example of why Yoruba sacred traditions should not be reduced to a neat list of divine job descriptions. The river, the forest, hunting and healing form a connected historical environment. Hunters crossed streams, followed animal paths, learned the habits of plants and moved through areas beyond ordinary farms and residential compounds. A sacred figure associated with these activities reflects a practical landscape in which water, food, medicine and mobility were closely related."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, praise language & oral memory",
+        "paragraphs": [
+          "Praise language can emphasize hunting ability, river depth, medicine and strategic perception. Local oral specialists are the best guides to exact titles.",
+          "Stories about Erinlẹ̀ often connect environmental knowledge with the ability to perceive what others miss. This combination of intuition and practical skill is central to many interpretations.",
+          "Contemporary documentation should give special attention to regional voices because global internet descriptions are often derived from Cuban forms. Atlantic traditions are historically valuable, but they developed new relationships and terminologies. Placing West African geography beside diaspora sources allows readers to see a tradition moving through time without collapsing every stage into a single standardized mythology.",
+          "For Erinlẹ̀, responsible documentation must keep local variation visible. The themes of river, hunting, medicine, fertility are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Erinlẹ̀ as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "The Erinlẹ̀ River gives the tradition a geographical anchor. River-based Òrìṣà are not simply abstract “water deities”; they belong to particular waterways with named communities, histories and ritual custodians. Settlements along a river depend on it for drinking water, farming, fishing and movement, while also recognizing its danger. Sacred attention makes that dependence socially visible and gives the landscape a memory larger than one generation."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Erinlẹ̀ is associated in different Yoruba traditions with river power, hunting, medicine and fertility. Those domains make sense when viewed together through the older landscape of hunting communities. Hunters moved through forests, crossed streams, identified plants and animal behavior, and often carried specialist knowledge of places that ordinary town dwellers encountered less frequently. A river Òrìṣà connected with hunting could therefore stand at the boundary between water, forest skill, healing knowledge and the provision of food.",
+          "Regional variation is especially important in the study of Erinlẹ̀. Traditions in towns connected with the Erinlẹ̀ River may emphasize local geography and ancestral history, while Atlantic diaspora traditions developed their own names, ritual forms and relationships among related sacred figures. The name Inle, familiar in Cuban practice, preserves a historical connection but should not be used to flatten every West African tradition into one model. Continuity and difference have to be held together.",
+          "Objects associated with Erinlẹ̀ can also overlap visually with the material culture of Ọ̀sányìn and other healing traditions. Metal staffs with birds or complex branching forms are sometimes differently identified in museum collections because objects moved from communities into markets and museums without complete documentation. This uncertainty is instructive. Sacred art cannot always be classified correctly from shape alone; oral provenance and ritual context matter.",
+          "Hunting itself was a specialized occupation. A skilled hunter needed patience, knowledge of terrain, the ability to read tracks and an understanding of animal behavior. Hunters could also serve as scouts or guides because they knew routes through forest and bush. Erinlẹ̀’s hunting associations therefore point to expertise rather than simple violence. The hunter is valuable because he can navigate uncertain ground and return with something useful."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Iron staffs in museum collections may be classified as Erinlẹ̀, Ọ̀sányìn or both, showing how collecting records can preserve uncertainty rather than a perfect taxonomy.",
+          "Hunting in Yoruba culture was historically more than the pursuit of animals. Hunters could serve as scouts, pathfinders and defenders. Their occupational knowledge produced its own songs, praise names and associations. A sacred figure tied to hunting therefore evokes qualities such as precision, patience, courage and knowledge of terrain. These are practical virtues before they become metaphors.",
+          "Water introduces another dimension. Rivers sustain farming, travel and settlement, but they can also be dangerous and unpredictable. Yoruba river traditions often treat waterways as living social and sacred landscapes rather than as anonymous natural resources. Erinlẹ̀'s identity as a river power belongs to that wider cultural pattern in which particular waters have histories, custodians and communities of devotion.",
+          "Connections with healing should be read in the same practical way. Forest specialists encountered leaves, roots and barks in the environments where they worked, and herbal knowledge was traditionally acquired through apprenticeship. Sacred narratives can place medicinal expertise under the authority of an Òrìṣà, but that does not mean that every claimed remedy is medically effective. The history of the institution and the pharmacology of a plant are different questions and should be documented separately."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, specialist knowledge & transmission",
+        "paragraphs": [
+          "Regional shrine communities and specialists sustain the tradition. Healing associations should be documented historically, not turned into unsupervised medical instruction.",
+          "Medicine connects the forest and river domains. Traditional specialists learned leaves, roots, barks and methods of preparation through apprenticeship. Religious narratives sometimes personify this knowledge through Òrìṣà, but the practical skill still depends on identification and training. It is therefore inaccurate to describe sacred healing traditions as if a name alone guaranteed medical effectiveness. The religious institution and the empirical knowledge of plants are related but not identical.",
+          "Public knowledge of Erinlẹ̀ is less standardized than that of widely celebrated figures such as Ṣàngó or Ọ̀ṣun. That relative obscurity can tempt modern writers to fill gaps with confident invention. A better documentary method is to preserve uncertainty. Where traditions disagree, the disagreement should remain visible. A sacred figure can be important to a local community without having one nationally uniform biography.",
+          "Iron staffs with birds in museum collections are sometimes associated with Erinlẹ̀ as well as Ọ̀sányìn. This overlap is significant because it shows how closely the visual languages of healing traditions can be related. A staff cannot always be identified correctly by shape alone. Provenance, local testimony and ritual context matter, especially when an object entered a collection without detailed records."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ilobu and other communities in present-day Osun State are important reference points, while wider Yoruba and Atlantic traditions add further variation.",
+          "Seen in this way, Erinlẹ̀ offers a lesson in Yoruba sacred geography. Rivers, forests, occupations and lineages form a network of meaning. The tradition is not simply a story about a deity who 'controls' several unrelated things. It reflects a historical world in which hunting, water, food, medicine and movement through the landscape were deeply connected activities.",
+          "Fertility associations surrounding Erinlẹ̀ should also be understood within the social importance of children and household continuity. In agrarian communities, reproduction was connected with inheritance, labor and the future of a lineage. Sacred traditions dealing with fertility therefore addressed both private hope and collective continuity. They were not simply symbolic celebrations of sexuality.",
+          "Fertility associations linked with Erinlẹ̀ also make sense within an older social world in which children represented household continuity, inheritance and future labor. Sacred concern with fertility addressed both intimate hopes and the survival of a lineage. Modern descriptions sometimes isolate fertility as a separate “power,” but historically it belonged to wider questions of health, family continuity and the wellbeing of the community."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Local festivals and river-centered observances depend on community calendars and may combine religious, historical and civic dimensions.",
+          "River communities often developed practical rules for access to water, fishing and seasonal use. Sacred restrictions could overlap with environmental management, although it would be too simple to describe every taboo as conservation policy. What can be said is that religious attention made particular places socially accountable. A river with custodians and ritual significance was not an anonymous resource.",
+          "Erinlẹ̀'s relatively regional profile also demonstrates how modern canons of Òrìṣà are created. Global audiences tend to know the figures most strongly represented in books, diaspora religions and popular media. Local traditions with fewer publications can appear secondary even when they remain important to the communities that sustain them. Documentary work can correct that imbalance.",
+          "Across the Atlantic, forms of Erinlẹ̀/Inle worship developed within religious systems shaped by enslavement, migration and new environments. Those traditions preserved the name while reorganizing ritual relationships and symbols. They are part of the history of Erinlẹ̀, but they should not be projected backward as exact copies of West African practice. Continuity is real; so is change."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "The relationship between Erinlẹ̀, Ọ̀ṣọ́ọ̀sì and Ọ̀sányìn differs by region and should not be standardized.",
+          "Erinle/Inle became significant in Cuban traditions, where river, medicine and hunting associations developed within the Regla de Ocha system.",
+          "The best way to understand Erinlẹ̀ is therefore through connection: water with hunting, hunting with medicinal knowledge, medicine with fertility, and all of them with the geography of a particular community. What looks like a collection of separate domains becomes coherent once the historical landscape is restored.",
+          "Local festivals and shrine communities provide the most reliable setting for understanding Erinlẹ̀ because they preserve relationships that written summaries often miss. A title held by a priest, a procession route or a praise name may reveal more about the tradition than a modern mythological chart.",
+          "Erinlẹ̀ deserves fuller documentation precisely because the tradition is less globally standardized than those of Ṣàngó or Ọ̀ṣun. Local importance does not depend on international fame. The river, hunter, healer and fertility themes together reveal a Yoruba religious world built around specific landscapes and specialized knowledge rather than a universal mythology with identical forms everywhere."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "The tradition also warns against treating 'medicine' as one undifferentiated category. Hunting knowledge, plant knowledge, ritual healing and fertility concerns may overlap, but each requires its own expertise. Erinlẹ̀'s broad associations reflect connections among specialists rather than proof that one figure historically replaced all of them.",
+          "Erinlẹ̀ is therefore a strong example of why regional Yoruba religion deserves careful documentation. A tradition can be locally grounded, historically significant and intellectually rich even when it has never received the international publicity of Ọ̀ṣun or Ṣàngó.",
+          "One final point is methodological: local priests and families may preserve details that never entered print. Their absence from books does not make them unimportant. It means the public record is incomplete. Erinlẹ̀ is a reminder that Yoruba religious history cannot be reconstructed from published mythology alone.",
+          "That incompleteness should encourage humility rather than invention. Where evidence is regional or uncertain, a careful publication can say so and still tell a rich story about river, hunting, fertility and healing. Accuracy is stronger than false completeness.",
+          "Erinlẹ̀ is not merely another name for Ọ̀ṣọ́ọ̀sì or Ọ̀sányìn. Overlap exists, but local histories preserve distinctions."
+        ]
+      }
     ]
   },
   {
@@ -187,6 +471,100 @@ window.ORISA_PUBLICATIONS = [
       "The social role of witnesses and messengers also helps explain Èṣù's place in exchange. Agreements depend on memory and communication. When people deny what was promised, communities need ways to establish consequence. Sacred narratives turn this practical problem into a larger moral principle: words have weight because relationships remember them.",
       "Èṣù's presence at ritual beginnings in many traditions reflects the same logic. Communication must be opened before other work can proceed. The exact procedure differs by lineage, but the principle is consistent with his broader identity as mediator rather than enemy.",
       "Modern readers often discover Èṣù through controversy over translation. That controversy is useful because it reveals a larger lesson: religious vocabulary cannot always be transferred across cultures by choosing the nearest familiar word. Translation carries power, and a bad translation can reshape public understanding for generations."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Èṣù occupies a central position in Yoruba thought as a force of mediation, consequence, communication and the movement between different realms of obligation.",
+          "Èṣù is one of the most complex figures in Yoruba religion. He is associated with crossroads, exchange, message-bearing, testing, reciprocity and the consequences that follow speech and action.",
+          "Missionary-era translations often collapsed Èṣù into the Christian devil, a comparison that has distorted public understanding. Yoruba traditions present a far more complex figure whose roles are embedded in ritual order, communication and moral consequence.",
+          "Èṣù is particularly important for understanding how Yoruba thought approaches communication. Words, promises, exchanges and ritual messages do not simply move from one person to another without consequences. Narratives about Èṣù repeatedly show that the meaning of an action can depend on timing, perspective, intention and whether obligations have been honored. This helps explain why crossroads are such a powerful metaphor: a crossroads is not only a physical junction but also a place where alternatives meet and choices become consequential. In oral literature, Èṣù may expose arrogance, reveal contradictions or force people to confront the results of careless speech. The humor and unpredictability of some stories should therefore not hide their serious ethical structure.",
+          "The history of translation has deeply shaped global perceptions of Èṣù. Nineteenth- and twentieth-century missionary writing frequently forced Yoruba categories into Christian theological equivalents, and Èṣù was often translated as Satan or the devil. That equation continues to circulate widely even though it does not adequately describe the roles Èṣù performs in Yoruba ritual and narrative systems. Scholars and practitioners have repeatedly challenged this reduction. A better documentary method is to describe functions first—mediation, exchange, consequence, movement, communication—and only then discuss comparisons made by outsiders. Doing so protects the specificity of Yoruba concepts and also allows readers to understand why Èṣù can be invoked in contexts of order and ritual communication rather than being treated as an embodiment of absolute evil.",
+          "Èṣù is one of the clearest examples of the damage that poor translation can do. Early Christian interpreters sometimes used his name as an equivalent for the biblical Devil, and the identification spread through schools, churches and popular writing. Yoruba tradition does not support that simple equivalence. Èṣù belongs inside the Òrìṣà world as a necessary power of communication, exchange, consequence and mediation. He may test people or create difficult situations, but he is not the cosmic enemy of God in the Christian theological sense."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, praise language & oral memory",
+        "paragraphs": [
+          "Names and praise titles vary across regions and lineages. Some titles emphasize movement, cleverness, mediation or presence at points of exchange.",
+          "Stories concerning Èṣù often turn on language, ambiguity, contracts, promises, arrogance and the consequences of ignoring obligations. Their point is frequently ethical rather than simply mischievous.",
+          "Material and public representations of Èṣù vary sharply by town, shrine and period. Some sites emphasize stones, staffs, sculptural figures or particular shrine arrangements, while other traditions focus less on monumental imagery. This variation is itself part of the subject. A photograph from one sacred grove should never be treated as the universal visual form of Èṣù. In the diaspora, related names and ritual roles developed in Cuba, Brazil and elsewhere, adding further layers of interpretation. Responsible study therefore compares local histories rather than flattening them. The continuity lies less in a single standardized image than in recurring concerns with mediation, exchange, messages, moral testing and the unpredictable consequences that follow human choices.",
+          "Èṣù is one of the most intellectually complex figures in Yoruba religion. He is associated with communication, exchange, crossroads, consequence and the difficult work of carrying messages between different domains. Because he appears in stories as a tester, provocateur and revealer of hidden contradictions, outside observers have often reduced him to a simple 'trickster.' That label captures only one part of his character. Èṣù is also concerned with order: he exposes what happens when obligations are ignored or communication fails.",
+          "Crossroads are a powerful symbol in Èṣù’s tradition because they gather movement and choice into one place. Roads bring strangers together, divide travelers into different directions and create the possibility of exchange. The crossroads therefore represents more than geography. It is a social image for decisions: once a person chooses one road, other possibilities are left behind, and the consequences of movement begin to unfold."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "The famous problem of translating Èṣù as 'devil' grew from early missionary encounters. Christian translators searched for Yoruba equivalents for biblical concepts, and the identification created a misunderstanding that spread widely. Within Yoruba thought, Èṣù is not a rebel opposed to an all-good God in the Christian theological sense. He belongs to the structure of the Òrìṣà world and performs necessary functions within it. Correcting this translation is one of the most important tasks in public education about Yoruba religion.",
+          "Crossroads are a powerful symbol because they represent movement and decision. Roads meet, messages pass and choices produce consequences. Èṣù's association with such places expresses a larger principle: human actions enter networks larger than the person who begins them. Words can travel, bargains can bind, gifts can create obligations and negligence can return unexpectedly. The crossroads is therefore social as well as geographical.",
+          "Ifá literature gives Èṣù a particularly prominent role. Divination depends on communication, and narratives repeatedly show that prescribed obligations must be carried out properly. Èṣù may appear in such stories as the figure who ensures that consequences follow action. This has sometimes been misread as arbitrary mischief. In context, the stories often function like moral puzzles: the problem is not that the universe is chaotic, but that people fail to recognize the terms of their relationships.",
+          "Ifá gives Èṣù a particularly important place because divination depends on messages being carried and obligations being completed. Many narratives turn on the difference between hearing advice and actually acting on it. Èṣù often appears where a promise, offering or agreement has been neglected. The story may look mischievous on the surface, but its deeper structure is about consequence. The problem is usually not that the universe is random; it is that somebody ignored the terms of a relationship."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Representations include shrine forms, staffs, stones, carved figures and other localized objects. There is no single universal iconography for all Yoruba communities.",
+          "Visual representations of Èṣù vary. Laterite mounds, carved figures and shrine forms can differ greatly by region and institution. Some historic sculptures emphasize a projecting hairstyle or other distinctive features, but there is no single standardized portrait comparable to a modern religious icon. Material form takes meaning from placement, consecration and community use.",
+          "Èṣù also demonstrates the importance of language. He is closely tied to ambiguity, interpretation and the possibility that words may mean more than speakers intend. Yoruba proverbs often delight in double meanings, and Ifá verses use verbal play as a method of thought. A sacred figure of communication therefore belongs naturally to a culture in which rhetorical intelligence is highly valued.",
+          "Language is central to this identity. Yoruba rhetoric values proverb, double meaning, indirection and the ability to hear more than one side of an utterance. Èṣù’s stories frequently expose the danger of assuming that one perspective is complete. A quarrel can begin because two people see different sides of the same event; a message can change meaning as it travels. Communication itself becomes a moral problem."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, specialist knowledge & transmission",
+        "paragraphs": [
+          "Èṣù is invoked in many ritual contexts because communication and exchange are fundamental to relationships among persons, ancestors and Òrìṣà. Practice differs by lineage and ritual setting.",
+          "In the Atlantic world, related traditions developed under names such as Eleguá, Exu and Legba, but those identities are not perfectly interchangeable. Cuban, Brazilian, Fon-Ewe and Yoruba histories intersect through the slave trade and later religious exchange. Modern popular culture often merges them into one generic 'trickster god.' Careful documentation keeps their distinct historical settings visible.",
+          "Èṣù remains compelling because communication remains difficult. Contracts, friendships, politics, ritual obligations and digital conversations all depend on messages being delivered and interpreted. The old stories continue to feel contemporary because they ask enduring questions: Did you listen carefully? Did you fulfill your side of the agreement? Did you assume that your perspective was the only one? Èṣù turns those questions into sacred drama.",
+          "Material representations of Èṣù vary widely. Some shrine forms use laterite, carved figures or objects placed at boundaries, entrances and roads. Historic sculptures sometimes emphasize distinctive hairstyles or bodily features, but there is no single portrait that can stand for every community. Context—where an object stood, who cared for it and what institution it belonged to—is more important than a modern standardized image."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Èṣù traditions are widespread across Yoruba regions and have also become highly visible in diasporic religions.",
+          "Èṣù's importance to exchange can also be understood through the Yoruba value placed on reciprocity. Gifts, greetings, promises and ritual obligations create relationships. Once an exchange begins, each party acquires expectations. Stories about Èṣù often dramatize what happens when someone attempts to enjoy the benefit of a relationship without fulfilling the corresponding duty. Consequence is built into exchange.",
+          "His reputation for unpredictability should therefore not be confused with meaninglessness. The unexpected event in an Èṣù story frequently reveals information that characters were ignoring. A quarrel exposes pride; a failed message reveals bad communication; a neglected instruction produces a visible result. The narrative shock forces attention onto a problem that already existed.",
+          "Exchange gives Èṣù another layer of meaning. Gifts, greetings, contracts and ritual obligations create expectations between people. Once something has been received, the relationship is no longer neutral. Èṣù’s association with reciprocity reflects a society in which people remember promises and where reputation has practical consequences. He becomes a sacred reminder that benefits and responsibilities travel together."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public observances differ by locality. Some shrines are embedded in larger festival complexes, while other forms of devotion remain household- or lineage-centered.",
+          "Modern artists and writers have found Èṣù especially attractive because he resists simple categories. He can be humorous and serious, disruptive and regulatory, close to the road yet central to sophisticated philosophical discussion. That complexity makes him difficult to translate but also unusually fertile for literature, theatre and contemporary visual art.",
+          "To reduce Èṣù to either 'evil' or 'a playful trickster' is therefore to miss the same point from opposite directions. His tradition is concerned with mediation: how messages move, how choices branch, how obligations return and how truth can emerge from contradiction. Those are structural problems of social life, which is why Èṣù remains intellectually powerful.",
+          "Atlantic traditions produced related but distinct figures such as Eleguá and Exu, and these should be studied in their own historical settings. The slave trade brought Yoruba names into contact with Fon-Ewe, Kongo, Catholic and other religious worlds. Similarities are important, but collapsing every messenger or crossroads spirit into one universal figure erases the history of how those traditions actually developed."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Regional theology may emphasize messenger roles, crossroads, justice, unpredictability or the testing of character in different proportions.",
+          "Èṣù appears under related names in several Atlantic traditions, where local histories shaped pronunciation, ritual forms and theology.",
+          "The social role of witnesses and messengers also helps explain Èṣù's place in exchange. Agreements depend on memory and communication. When people deny what was promised, communities need ways to establish consequence. Sacred narratives turn this practical problem into a larger moral principle: words have weight because relationships remember them.",
+          "Èṣù's presence at ritual beginnings in many traditions reflects the same logic. Communication must be opened before other work can proceed. The exact procedure differs by lineage, but the principle is consistent with his broader identity as mediator rather than enemy.",
+          "Èṣù remains compelling because the problems he dramatizes are still ordinary problems: a message misunderstood, a promise broken, a bargain left incomplete, a choice whose consequences were not considered. His tradition turns those moments into sacred thought. He is not simply “the trickster.” He is a way of thinking about communication, responsibility and the uncomfortable fact that actions continue moving after the person who began them has walked away."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Modern readers often discover Èṣù through controversy over translation. That controversy is useful because it reveals a larger lesson: religious vocabulary cannot always be transferred across cultures by choosing the nearest familiar word. Translation carries power, and a bad translation can reshape public understanding for generations.",
+          "Èṣù should not be equated automatically with 'the devil.' That equation emerged through translation histories that did not reflect the complexity of Yoruba categories."
+        ]
+      }
     ]
   },
   {
@@ -237,6 +615,103 @@ window.ORISA_PUBLICATIONS = [
       "Ìbejì traditions therefore bring together demography, grief, art and family memory. Their richness comes from that combination. What appears at first to be a specialized religious custom opens onto much wider Yoruba ideas about personhood, continuity and the obligations of remembrance.",
       "The tradition also shows how family memory can survive religious change. Christian or Muslim Yoruba families may still value twin names, celebrate twin identity or keep stories inherited from older relatives. Cultural continuity does not always require continued ritual practice in exactly the same form.",
       "Because Ìbejì traditions are so visually attractive, they are easily reduced to collectible sculpture. Restoring names, grief, family care and living twin celebrations to the story returns the objects to the human relationships that originally gave them meaning."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ìbejì traditions center on twins, family continuity and the special social and spiritual attention historically given to multiple birth among Yoruba communities.",
+          "Yoruba societies are well known for a historically high cultural visibility of twin births. Ìbejì traditions developed rich forms of family practice, praise language and artistic representation.",
+          "Museum collections contain many carved ere Ìbejì figures. These should be understood in the context of family remembrance and care, not as generic dolls or decorative sculptures.",
+          "Ìbejì traditions reveal how family, art and sacred responsibility can become inseparable. Yoruba communities are widely known for the cultural visibility of twins, and twin births generated distinctive praise names, songs and family practices. Historical responses to the death of a twin sometimes included the commissioning of an ere Ìbejì figure, which could be cared for within the household. Museum displays often present these carvings as examples of sculpture, but their original importance lay in relationships: grief, memory, continuity and the social identity of twins.",
+          "The international art market transformed the afterlife of ere Ìbejì. Thousands of figures entered European and American collections, where they were classified by carving style, town or workshop. This scholarship can be useful, but it also risks separating objects from the families whose practices gave them meaning. A documentary approach should therefore discuss collecting history alongside aesthetics. Beads, cowries, surface treatments and wear can record acts of care rather than merely decorative choices.",
+          "Yoruba communities are famous for high rates of twin birth, but the cultural importance of Ìbejì cannot be reduced to a biological statistic. Families developed names, songs, ceremonies and forms of care that gave twinhood a special social identity. Táíwò and Kẹ́hìndé, the best-known twin names, place the pair inside an established naming system in which birth circumstance becomes part of the person’s public history."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, praise language & oral memory",
+        "paragraphs": [
+          "Twin praise names and family terminology are central to the tradition and vary in performance and local practice.",
+          "Songs, praise names and family narratives play major roles in sustaining the social identity of twins.",
+          "Contemporary twin festivals and cultural celebrations show that Ìbejì identity is not confined to museum history. Families continue to value twin-specific names and social recognition, while public events can turn that heritage into community pride and tourism. Practices have changed, and not every Yoruba family follows older ritual customs. That diversity matters. The tradition should neither be romanticized as frozen antiquity nor dismissed as something that disappeared. It is better understood as a field in which kinship, memory, artistic form and changing religious commitments continue to interact.",
+          "For Ìbejì, responsible documentation must keep local variation visible. The themes of twins, family, continuity, remembrance are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ìbejì as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Ere Ìbejì figures became especially visible because so many entered museum collections during the nineteenth and twentieth centuries. When a twin died, some Yoruba communities commissioned a carved figure that could remain within the family as a focus of remembrance and ritual care. The figure was washed, dressed, adorned and handled. The polished surfaces of surviving sculptures often record years of such contact, turning wear into evidence of a lived relationship."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Yoruba communities are widely known for unusually high rates of twin birth, and the cultural response to twins developed into one of the most distinctive family traditions in the region. Ìbejì means twins, and twinhood can carry religious, emotional and social significance. The tradition does not begin with carved figures; it begins with children, parents and the recognition that a multiple birth changes the structure of a household.",
+          "Twins are often treated as a special pair whose wellbeing is linked. Names such as Táíwò and Kẹ́hìndé reflect an established naming sequence, while later-born siblings can also receive names associated with the twin tradition. These names are part of a larger Yoruba system in which birth circumstances are remembered through personal identity. They allow family history to be carried in ordinary speech.",
+          "Ere Ìbejì figures became internationally famous because museums collected large numbers of them. Historically, when a twin died, a carved memorial figure could become a focus of remembrance and care within some Yoruba communities. The figure was not simply a portrait in the Western sense. It participated in a relationship between the surviving family and the identity of the deceased child. Dressing, washing or adorning it expressed continuing attachment.",
+          "The figures are not usually childlike portraits. They often show mature proportions, elaborate hairstyles, scarification patterns and ornaments associated with social completeness. This is important: the sculpture does not merely reproduce the appearance of a dead child. It presents the person in an idealized, socially fulfilled form. The carved body becomes a statement about personhood and continuity rather than a snapshot."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Ere Ìbejì figures are among the most widely collected Yoruba artworks internationally, though their museum history must be distinguished from living family practice.",
+          "The visual style of ere Ìbejì varies by carving center and period. Hairstyles, scarification marks, beads and body proportions can reveal regional conventions. Collectors once treated these differences mainly as art-historical styles, but the objects also document family practices and local ideas about personhood. Their worn surfaces can show years of handling, which is evidence of relationship rather than damage.",
+          "Twin traditions also involve celebration. Songs, dancing and public gatherings can recognize the unusual status of twins and the demands placed on their families. Modern twin festivals have become highly visible cultural events, drawing large numbers of twin pairs and turning a family-based tradition into a form of public identity and tourism. This transformation shows how older meanings can be reorganized for contemporary life.",
+          "Regional style matters. Oyo, Ijebu, Igbomina, Ekiti and other carving centers developed recognizable approaches to proportion, facial features and surface treatment. Museum catalogues can therefore sometimes identify a regional origin through style, but even then the family history behind an object may be lost. The same broad tradition produced many local visual languages."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, specialist knowledge & transmission",
+        "paragraphs": [
+          "Practices historically centered on family relationships, remembrance and care, with considerable local variation.",
+          "It is important to avoid exoticizing Yoruba attitudes toward twins. Older European accounts sometimes described African twin customs as curiosities without examining the historical changes behind them. Yoruba communities themselves have not held one unchanging attitude across all centuries and regions. Beliefs and practices shifted, and modern families may interpret twin identity in religious, cultural or purely familial terms.",
+          "The tradition also speaks to grief. A memorial object can preserve the social presence of someone who died young, allowing loss to be acknowledged without treating the child as if he or she never existed. That dimension is sometimes overlooked when ere Ìbejì are displayed only for their sculptural beauty. The object makes fullest sense when returned conceptually to the household that cared for it.",
+          "The surviving twin is equally important. Twin identity does not disappear when one child dies; the pair continues to matter socially. Care directed toward the memorial figure can be understood partly as care for the relationship between the living and deceased twin and for the wellbeing of the household as a whole. This makes Ìbejì a tradition about family continuity as much as sculpture."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Twin traditions are widespread across Yoruba communities.",
+          "Today, Ìbejì identity moves between religion, heritage and popular culture. Twin associations organize events, photographers document paired fashion, and families celebrate names that connect them to older customs even when they do not practice indigenous religion. The persistence of the tradition shows how a sacred idea can remain culturally meaningful across changing religious affiliations.",
+          "Statistical discussions of Yoruba twinning have often attracted scientific interest because rates of dizygotic twin birth have historically been high in parts of southwestern Nigeria. Cultural meaning, however, should not be reduced to biology. Communities did not merely observe a demographic pattern; they developed names, ceremonies, songs and family practices through which twin identity became socially meaningful.",
+          "Modern festivals have transformed twin identity into public heritage. Large gatherings of twins use coordinated dress, photography and performance to celebrate the cultural distinctiveness of multiple birth. These events differ from older household-centered practices, but they show how an inherited category can be reworked for contemporary civic pride and tourism without losing its historical roots."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Some communities hold public twin festivals or contemporary cultural celebrations.",
+          "Twins also challenge ordinary ideas of individuality. Two children may be treated as distinct persons while being recognized as a special pair. Clothing, naming and performance can emphasize similarity and difference at the same time. This tension gives the tradition philosophical depth: identity can be personal without being isolated.",
+          "Colonial and missionary change affected twin practices just as it affected other Yoruba institutions. Some customs declined, others were reinterpreted, and carved memorial figures increasingly entered the art market. The large number of ere Ìbejì in museums partly reflects this history of removal from household contexts. Their museum survival should not be mistaken for the whole tradition.",
+          "Christian and Muslim Yoruba families may continue to value twin names and celebrate twin identity even when they do not maintain older ritual practices. This is a useful example of cultural continuity across religious change. A name can preserve memory after a shrine disappears; a family celebration can carry an old category into a new religious environment."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Family practice, sculpture style and ritual emphasis vary by region and period.",
+          "The cultural significance of twins traveled into Atlantic Yoruba-derived traditions in different forms.",
+          "Contemporary twin celebrations show a different trajectory. Instead of memorializing loss, they often emphasize visibility, joy and community. Large gatherings of twins create a modern public identity around an old cultural category. The change is significant: a tradition once documented mainly through ritual objects is now also performed through fashion, photography and festival tourism.",
+          "The surviving twin is equally important to the tradition. Historical care was not directed only toward the memory of the child who died; families also paid attention to the wellbeing and identity of the living twin. The relationship between the pair remained socially meaningful even after death separated them.",
+          "Ìbejì therefore sits at the meeting point of demography, grief, sculpture, naming and family memory. The figures are beautiful objects, but their significance is greatest when they are returned conceptually to the households that cared for them. A museum can display carved wood; the fuller documentary story must also restore the mothers, surviving siblings, songs and acts of remembrance that made the figures meaningful."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Photographs of ere Ìbejì in museums often remove clothing, beads and household setting in order to emphasize sculpture. That presentation can unintentionally strip away evidence of use. A figure's accessories and worn surface may tell us how it lived within a family more clearly than its carved style alone.",
+          "Ìbejì traditions therefore bring together demography, grief, art and family memory. Their richness comes from that combination. What appears at first to be a specialized religious custom opens onto much wider Yoruba ideas about personhood, continuity and the obligations of remembrance.",
+          "The tradition also shows how family memory can survive religious change. Christian or Muslim Yoruba families may still value twin names, celebrate twin identity or keep stories inherited from older relatives. Cultural continuity does not always require continued ritual practice in exactly the same form.",
+          "Because Ìbejì traditions are so visually attractive, they are easily reduced to collectible sculpture. Restoring names, grief, family care and living twin celebrations to the story returns the objects to the human relationships that originally gave them meaning.",
+          "Ere Ìbejì should not be treated simply as collectible art objects detached from the family histories that gave them meaning."
+        ]
+      }
     ]
   },
   {
