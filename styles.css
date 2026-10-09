@@ -5547,3 +5547,25 @@ body.oogun-window-unfocused .secure-oogun-document{
   text-decoration:underline;
   text-underline-offset:3px;
 }
+
+
+/* OOGUN CATEGORIES — 2026-10-09 */
+.oogun-category-pill{
+  display:inline-flex;
+  width:max-content;
+  max-width:100%;
+  margin:0 0 7px;
+  padding:4px 8px;
+  border:1px solid rgba(157,103,47,.28);
+  border-radius:999px;
+  background:#fff8e9;
+  color:#7f5127;
+  font-size:.52rem;
+  font-weight:850;
+  letter-spacing:.06em;
+}
+#oogun-category-filters{
+  display:flex;
+  flex-wrap:wrap;
+  gap:7px;
+}
