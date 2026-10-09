@@ -1,13 +1,21 @@
-(()=>{
-  const C=window.OOGUN_CATALOG||[];
+(async()=>{
+  let C=window.OOGUN_CATALOG||[];
+  try{
+    const r=await fetch("/api/oogun?catalog=iwosan2",{headers:{"Accept":"application/json"}});
+    if(r.ok){
+      const data=await r.json();
+      const ids=new Set(C.map(x=>x.id));
+      C=[...C,...(data.entries||[]).filter(x=>!ids.has(x.id))];
+    }
+  }catch(e){}
   const esc=v=>String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-  const sourceLabel={livestock:"Livestock",awise:"Awíṣe & Voice",baba:"Baba Oogun Archive"};
+  const sourceLabel={livestock:"Livestock",awise:"Awíṣe & Voice",baba:"Baba Oogun Archive",iwosan2:"Egbo Igi Iwosan 2"};
   const HOME_ORDER=[...C];
   const ARCHIVE_DATE="08 OCT 2026";
   const whatsappUrl=x=>"https://wa.me/2347047604452?text="+encodeURIComponent("Hello Isese Ponbele, I need an access code for the Oogun document: "+x.title);
   const whatsappIcon='<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M16.1 4.2a11.5 11.5 0 0 0-9.9 17.4L4.5 27.8l6.4-1.7a11.5 11.5 0 1 0 5.2-21.9Zm0 20.9c-1.9 0-3.7-.5-5.3-1.5l-.4-.2-3.8 1 1-3.7-.2-.4a9.4 9.4 0 1 1 8.7 4.8Zm5.2-7c-.3-.1-1.7-.8-1.9-.9-.3-.1-.5-.1-.7.2-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-1.7-.8-2.8-1.5-4-3.4-.3-.5.3-.5.8-1.7.1-.2 0-.4 0-.6l-.9-2.1c-.2-.5-.5-.4-.7-.4h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.3 1.4 3.6c.2.2 2.4 3.7 5.9 5.2.8.4 1.5.6 2 .7.8.3 1.6.2 2.2.1.7-.1 1.7-.7 1.9-1.4.2-.7.2-1.3.1-1.4-.1-.2-.3-.3-.6-.4Z"/></svg>';
   const card=x=>`<article class="oogun-preview-card">
-    <div class="oogun-card-top"><span class="oogun-date">${ARCHIVE_DATE}</span><span class="locked-pill">🔒 Protected</span></div>
+    <div class="oogun-card-top"><span class="oogun-date">${esc(x.archiveDate||ARCHIVE_DATE)}</span><span class="locked-pill">🔒 Protected</span></div>
     <small>${esc(sourceLabel[x.source]||x.sourceName)}</small>
     <h3>${esc(x.title)}</h3>
     <p class="oogun-card-purpose">${esc(x.subtitle?x.subtitle.replace(/^\\(|\\)$/g,""):x.preview)}</p>
@@ -25,7 +33,7 @@
     let expanded=false;
     const draw=()=>{
       const q=(search?.value||"").toLowerCase().trim();
-      const rows=HOME_ORDER.filter(x=>!q||[x.title,x.subtitle,x.sourceName,x.preview].join(" ").toLowerCase().includes(q));
+      const rows=HOME_ORDER.filter(x=>!q||[x.title,x.titleEnglish,x.subtitle,x.sourceName,x.preview,x.contentPreview].join(" ").toLowerCase().includes(q));
       const shown=expanded||q?rows:rows.slice(0,12);
       home.classList.toggle("show-all",expanded||!!q);
       home.innerHTML=shown.map(card).join("");
@@ -47,7 +55,7 @@
     let source="all";
     const draw=()=>{
       const q=(search?.value||"").toLowerCase().trim();
-      const rows=C.filter(x=>(source==="all"||x.source===source)&&(!q||[x.title,x.subtitle,x.sourceName,x.preview].join(" ").toLowerCase().includes(q)));
+      const rows=C.filter(x=>(source==="all"||x.source===source)&&(!q||[x.title,x.titleEnglish,x.subtitle,x.sourceName,x.preview,x.contentPreview].join(" ").toLowerCase().includes(q)));
       if(count) count.textContent=`${rows.length} protected web documents`;
       list.innerHTML=rows.map(card).join("");
     };
@@ -64,10 +72,10 @@
     document.title=x.title+" — Isese Ponbele";
     const renderLocked=(msg="")=>{
       docRoot.innerHTML=`<article class="protected-document">
-        <div class="document-kicker"><span>${esc(x.sourceName)}</span><span>${ARCHIVE_DATE}</span></div>
+        <div class="document-kicker"><span>${esc(x.sourceName)}</span><span>${esc(x.archiveDate||ARCHIVE_DATE)}</span>${x.page?`<span>Page ${esc(x.page)}</span>`:""}</div>
         <h1>${esc(x.title)}</h1>
         ${x.subtitle?`<p class="doc-subtitle">${esc(x.subtitle.replace(/^\\(|\\)$/g,""))}</p>`:""}
-        <div class="document-preview-box"><strong>Document preview</strong><p>${esc(x.preview)}</p></div>
+        <div class="document-preview-box"><strong>Document preview</strong><p>${esc(x.contentPreview||x.preview)}</p>${x.bilingual?`<span class="bilingual-preview-pill">English + Yorùbá</span>`:""}</div>
         <div class="unlock-panel">
           <div><span class="lock-icon">🔒</span><h2>Protected Oogun document</h2><p>Enter your individual access code, or request one directly on WhatsApp.</p></div>
           <a class="whatsapp-code-btn" href="${whatsappUrl(x)}" target="_blank" rel="noopener">${whatsappIcon}<span>Get access code on WhatsApp</span></a>
@@ -91,13 +99,37 @@
       });
     };
     const renderOpen=d=>{
-      const body=esc(d.content||"").replace(/\n/g,"<br>");
+      const renderText=v=>esc(v||"").replace(/\n/g,"<br>");
+      const bilingual=!!(d.bilingual&&(d.contentEnglish||d.contentYoruba));
+      const body=bilingual
+        ? `<div class="oogun-language-tabs" role="tablist" aria-label="Document language">
+            <button class="active" type="button" data-oogun-lang="en">English</button>
+            <button type="button" data-oogun-lang="yo">Yorùbá</button>
+          </div>
+          <section class="oogun-lang-panel active" data-oogun-panel="en">
+            <div class="oogun-lang-heading"><strong>English translation</strong><span>Page ${esc(d.page||"")}</span></div>
+            <div class="oogun-source-text" data-protected-content>${renderText(d.contentEnglish)}</div>
+          </section>
+          <section class="oogun-lang-panel" data-oogun-panel="yo" hidden>
+            <div class="oogun-lang-heading"><strong>Yorùbá / source text</strong><span>Page ${esc(d.page||"")}</span></div>
+            <div class="oogun-source-text" data-protected-content>${renderText(d.contentYoruba)}</div>
+          </section>`
+        : `<div class="oogun-source-text" data-protected-content>${renderText(d.content)}</div>`;
       docRoot.innerHTML=`<article class="protected-document open secure-oogun-document">
-        <div class="document-kicker"><span>${esc(d.sourceName)}</span><span>${ARCHIVE_DATE}</span><span class="unlocked-pill">✓ Unlocked</span></div>
+        <div class="document-kicker"><span>${esc(d.sourceName)}</span><span>${esc(d.archiveDate||ARCHIVE_DATE)}</span>${d.page?`<span>Page ${esc(d.page)}</span>`:""}<span class="unlocked-pill">✓ Unlocked</span></div>
         <h1>${esc(d.title)}</h1>
-        ${d.subtitle?`<p class="doc-subtitle">${esc(d.subtitle.replace(/^\\(|\\)$/g,""))}</p>`:""}
-        <div class="oogun-source-text" data-protected-content>${body}</div>
+        ${d.titleEnglish&&d.titleEnglish!==d.title?`<p class="doc-subtitle">${esc(d.titleEnglish)}</p>`:(d.subtitle?`<p class="doc-subtitle">${esc(d.subtitle.replace(/^\\(|\\)$/g,""))}</p>`:"")}
+        ${body}
       </article>`;
+      if(bilingual){
+        const buttons=[...docRoot.querySelectorAll("[data-oogun-lang]")];
+        const panels=[...docRoot.querySelectorAll("[data-oogun-panel]")];
+        buttons.forEach(btn=>btn.addEventListener("click",()=>{
+          const lang=btn.dataset.oogunLang;
+          buttons.forEach(b=>b.classList.toggle("active",b===btn));
+          panels.forEach(p=>{const on=p.dataset.oogunPanel===lang;p.hidden=!on;p.classList.toggle("active",on);});
+        }));
+      }
       enableContentProtection();
     };
     renderLocked();
