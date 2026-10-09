@@ -9,14 +9,48 @@
     }
   }catch(e){}
   const esc=v=>String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-  const sourceLabel={livestock:"Livestock",awise:"Awíṣe & Voice",baba:"Baba Oogun Archive",iwosan2:"Oogun & Ìwòsàn"};
+  const plain=v=>String(v??"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
+  const categoryOrder=["Health & Ìwòsàn","Protection","Wealth & Favour","Awíṣe & Command","Love & Attraction","Victory & Defence","Livestock","Travel & Weather","General Oogun"];
+  const categoryOf=x=>{
+    const t=plain([x.title,x.titleEnglish,x.subtitle,x.preview,x.contentPreview,x.sourceName].join(" "));
+    if(x.source==="iwosan2") return "Health & Ìwòsàn";
+    if(x.source==="livestock"||/(livestock|nkan osin|eran)/.test(t)) return "Livestock";
+    if(/(awise|afohunse|apase|asoribe|olugbohun|mayehun|ase inu|command|utterance|voice|word|statement)/.test(t)) return "Awíṣe & Command";
+    if(/(aabo|idaabobo|protect|protection|isori|ikujenjo|magun|attack|harmful|death|iku|sudden attack)/.test(t)) return "Protection";
+    if(/(isegun|segun|victory|overcom|opposition|revolt|enemy|defence|defense)/.test(t)) return "Victory & Defence";
+    if(/(owo|money|wealth|financial|prosper|gbese|debt|ola|aje|favour|favor|anu|isore)/.test(t)) return "Wealth & Favour";
+    if(/(ife|love|attract|afeeri|aferi|obinrin|iyawo|husband|wife|sentiment|eyonu|arisoyin)/.test(t)) return "Love & Attraction";
+    if(/(ojo|rain|iji|storm|irinajo|travel|journey|ode|hunting)/.test(t)) return "Travel & Weather";
+    return "General Oogun";
+  };
+  const mixEntries=items=>{
+    const sourceOrder=["baba","iwosan2","awise","livestock"];
+    const buckets=new Map();
+    items.forEach(x=>{
+      const key=x.source||"other";
+      if(!buckets.has(key)) buckets.set(key,[]);
+      buckets.get(key).push(x);
+    });
+    const keys=[...sourceOrder.filter(k=>buckets.has(k)),...[...buckets.keys()].filter(k=>!sourceOrder.includes(k))];
+    const mixed=[];
+    let more=true;
+    while(more){
+      more=false;
+      keys.forEach(k=>{
+        const bucket=buckets.get(k);
+        if(bucket&&bucket.length){mixed.push(bucket.shift());more=true;}
+      });
+    }
+    return mixed;
+  };
+  C=mixEntries(C.map(x=>({...x,category:x.category||categoryOf(x)})));
   const HOME_ORDER=[...C];
   const ARCHIVE_DATE="08 OCT 2026";
   const whatsappUrl=x=>"https://wa.me/2347047604452?text="+encodeURIComponent("Hello Isese Ponbele, I need an access code for the Oogun document: "+x.title);
   const whatsappIcon='<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M16.1 4.2a11.5 11.5 0 0 0-9.9 17.4L4.5 27.8l6.4-1.7a11.5 11.5 0 1 0 5.2-21.9Zm0 20.9c-1.9 0-3.7-.5-5.3-1.5l-.4-.2-3.8 1 1-3.7-.2-.4a9.4 9.4 0 1 1 8.7 4.8Zm5.2-7c-.3-.1-1.7-.8-1.9-.9-.3-.1-.5-.1-.7.2-.2.3-.7.9-.9 1.1-.2.2-.3.2-.6.1-1.7-.8-2.8-1.5-4-3.4-.3-.5.3-.5.8-1.7.1-.2 0-.4 0-.6l-.9-2.1c-.2-.5-.5-.4-.7-.4h-.6c-.2 0-.6.1-.9.4-.3.3-1.2 1.2-1.2 2.9s1.2 3.3 1.4 3.6c.2.2 2.4 3.7 5.9 5.2.8.4 1.5.6 2 .7.8.3 1.6.2 2.2.1.7-.1 1.7-.7 1.9-1.4.2-.7.2-1.3.1-1.4-.1-.2-.3-.3-.6-.4Z"/></svg>';
   const card=x=>`<article class="oogun-preview-card">
     <div class="oogun-card-top"><span class="oogun-date">${esc(x.archiveDate||ARCHIVE_DATE)}</span><span class="locked-pill">🔒 Protected</span></div>
-    <small>${esc(sourceLabel[x.source]||x.sourceName)}</small>
+    <span class="oogun-category-pill">${esc(x.category||categoryOf(x))}</span>
     <h3><a class="oogun-title-link" href="oogun-document.html?id=${encodeURIComponent(x.id)}">${esc(x.title)}</a></h3>
     <p class="oogun-card-purpose">${esc(x.subtitle?x.subtitle.replace(/^\\(|\\)$/g,""):x.preview)}</p>
     <div class="oogun-card-content-preview">
@@ -39,7 +73,7 @@
       home.innerHTML=shown.map(card).join("");
       if(more){
         more.hidden=!!q||rows.length<=12;
-        more.textContent=expanded?"Show fewer previews":`Show all ${rows.length} Oogun previews`;
+        more.textContent=expanded?"Show fewer":"Show more";
       }
     };
     search?.addEventListener("input",draw);
@@ -50,17 +84,22 @@
   const list=document.querySelector("#oogun-library-list");
   if(list){
     const search=document.querySelector("#oogun-library-search");
-    const filters=[...document.querySelectorAll("[data-oogun-source]")];
-    const count=document.querySelector("#oogun-library-count");
-    let source="all";
+    const filterWrap=document.querySelector("#oogun-category-filters");
+    const present=new Set(C.map(x=>x.category));
+    const categories=categoryOrder.filter(x=>present.has(x));
+    if(filterWrap){
+      filterWrap.innerHTML=`<button class="chip active" type="button" data-oogun-category="all">All</button>`+
+        categories.map(x=>`<button class="chip" type="button" data-oogun-category="${esc(x)}">${esc(x)}</button>`).join("");
+    }
+    const filters=[...document.querySelectorAll("[data-oogun-category]")];
+    let category="all";
     const draw=()=>{
       const q=(search?.value||"").toLowerCase().trim();
-      const rows=C.filter(x=>(source==="all"||x.source===source)&&(!q||[x.title,x.titleEnglish,x.subtitle,x.sourceName,x.preview,x.contentPreview].join(" ").toLowerCase().includes(q)));
-      if(count) count.textContent=`${rows.length} entries`;
+      const rows=C.filter(x=>(category==="all"||x.category===category)&&(!q||[x.title,x.titleEnglish,x.subtitle,x.sourceName,x.preview,x.contentPreview,x.category].join(" ").toLowerCase().includes(q)));
       list.innerHTML=rows.map(card).join("");
     };
     search?.addEventListener("input",draw);
-    filters.forEach(b=>b.addEventListener("click",()=>{source=b.dataset.oogunSource;filters.forEach(x=>x.classList.toggle("active",x===b));draw();}));
+    filters.forEach(b=>b.addEventListener("click",()=>{category=b.dataset.oogunCategory;filters.forEach(x=>x.classList.toggle("active",x===b));draw();}));
     draw();
   }
 
@@ -130,7 +169,7 @@
         return out;
       };
       const materialList=arr=>`<ul class="oogun-material-list">${(arr||[]).filter(Boolean).map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`;
-      const formulaBlock=({number,title,subtitle,materials,preparation,usage,lang})=>{
+      const formulaBlock=({title,subtitle,materials,preparation,usage,lang})=>{
         const yoruba=lang==="yo";
         const materialHeading=yoruba?"Awon eroja:":"Materials needed:";
         const prepHeading=yoruba?"IPESE":"PREPARATION";
@@ -162,7 +201,6 @@
           : (d.preparationYoruba||raw.preparation||d.contentYoruba||"");
         const usage=english?(d.usageEnglish||raw.usage||""):(d.usageYoruba||raw.usage||"");
         return formulaBlock({
-          number:d.number,
           title,
           subtitle,
           materials:materials.length?materials:raw.materials,
@@ -182,7 +220,6 @@
       }else{
         const raw=sectionize(d.content||"");
         body=formulaBlock({
-          number:d.number,
           title:d.title,
           subtitle:d.subtitle||"",
           materials:raw.materials,
@@ -251,7 +288,7 @@
   const manager=document.querySelector("#access-manager-root")||document.querySelector("#access-generator-form");
   if(manager){
     const scope=document.querySelector("#access-scope");
-    if(scope) scope.innerHTML='<option value="all">All protected Oogun documents</option>'+C.map(x=>`<option value="${esc(x.id)}">${esc(x.title)} (#${esc(x.number)})</option>`).join("");
+    if(scope) scope.innerHTML='<option value="all">All protected Oogun documents</option>'+C.map(x=>`<option value="${esc(x.id)}">${esc(x.title)}</option>`).join("");
     document.querySelector("#access-generator-form")?.addEventListener("submit",async e=>{
       e.preventDefault();
       const fd=new FormData(e.currentTarget);
