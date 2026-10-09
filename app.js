@@ -2,7 +2,12 @@
   const DATA = window.ISESE_DATA || {orisas:[],oogun:[],dictionary:[],products:[]};
   const ORISAS = window.ORISA_PUBLICATIONS || DATA.orisas || [];
   const $ = (s,root=document) => root.querySelector(s);
-  const $$ = (s,root=document) => [...root.querySelectorAll(s)];
+  const $ = (s,root=document) => [...root.querySelectorAll(s)];
+
+  // Keep the Isese Ponbele brand name in correct Yoruba orthography everywhere.
+  $('.brand-copy strong, .footer-brand strong').forEach(el=>{
+    el.textContent='ÌṢẸ̀ṢẸ PỌ̀NBÉLÉ';
+  });
 
   const page = document.body.dataset.page || '';
   const menuBtn = $('.menu-btn');
