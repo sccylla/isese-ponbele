@@ -764,6 +764,105 @@ window.ORISA_PUBLICATIONS = [
       "That distinction makes Ọ̀bà especially valuable for teaching how Yoruba oral tradition works. A sacred figure may accumulate stories across generations while remaining tied to a local institution. Biography, landscape and moral interpretation grow together rather than being written once and permanently fixed.",
       "Historical river traditions also help resist the tendency to read Yoruba sacred figures only as personalities. A river has seasonal behavior, economic uses, dangerous stretches and communities responsible for access. Those facts shape religious memory. Ọ̀bà's identity therefore includes an environmental history that cannot be reconstructed from marriage narratives alone.",
       "Her story also demonstrates the value of multiple tellers. A palace historian, priest, popular storyteller and diaspora devotee may preserve different emphases without one automatically cancelling the others. A documentary publication becomes stronger when it identifies that plurality rather than pretending oral tradition behaves like a single authorized textbook."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọ̀bà is associated with the Ọ̀bà River and with narratives of devotion, endurance, marriage and the difficult choices that relationships can demand.",
+          "Ọ̀bà appears in Yoruba oral traditions as a powerful female Òrìṣà whose stories are often discussed in relation to Ṣàngó and other female sacred powers. Popular retellings frequently focus on rivalry, but local versions can carry broader lessons about trust, sacrifice and dignity.",
+          "Because many internet summaries repeat a single dramatic narrative, responsible documentation should acknowledge variation and avoid turning one story into the entire identity of the Òrìṣà.",
+          "The popularity of marriage narratives around Ọ̀bà creates a methodological challenge. Oral stories are not newspaper reports; they are performed, interpreted and reshaped in communities. A dramatic episode can carry several meanings at once, and different narrators may emphasize different moral lessons. Treating one version as a fixed biography removes precisely the interpretive richness that makes oral literature important.",
+          "River traditions also remind readers that sacred power is geographical. Waterways support farming, transport, fishing and settlement, and they can become archives of community memory. A river Òrìṣà should therefore be documented through landscape as well as myth. Photographs of river environments can provide better context than invented portraits because they connect the publication to the physical world in which devotion developed.",
+          "Ọ̀bà is best approached first as a river tradition and only then through the famous marriage narratives that dominate popular retellings. The river gives the Òrìṣà a physical and communal foundation: people lived beside it, crossed it, farmed near it and attached memory to particular stretches of water. A named river is not interchangeable with an abstract idea of “water.” It belongs to communities whose histories are tied to that landscape."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names are locally transmitted and may evoke riverine power, seniority, endurance and devoted strength. Their wording and interpretation vary by community.",
+          "Narratives involving Ọ̀bà are important examples of how marriage stories can become ethical literature. They can be interpreted through questions of trust, jealousy, counsel, self-respect and social pressure.",
+          "In contemporary culture, Ọ̀bà is increasingly encountered through diaspora art and social media. Those sources can renew interest, but they also encourage standardized colors and simplified personality profiles. A stronger approach compares versions, names the region when possible and separates documented Yoruba material from later Atlantic developments. That method preserves both continuity and historical creativity.",
+          "For Ọ̀bà, responsible documentation must keep local variation visible. The themes of river, endurance, marriage, loyalty are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ọ̀bà as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "The best-known stories about Ọ̀bà place her in Ṣàngó’s household and explore rivalry, loyalty and the dangerous consequences of deception. These narratives have often been simplified into a single lesson about jealousy. Oral tradition is more flexible than that. Different tellers can emphasize endurance, misplaced trust, competition among co-wives, or the cost of sacrificing judgment in the name of devotion."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Ọ̀bà is remembered as a river Òrìṣà and as a figure in narratives about marriage, endurance and the difficult choices people make in intimate relationships. Popular retellings often focus almost entirely on one dramatic story involving rivalry within Ṣàngó's household. That story is important, but it is only one layer of a broader tradition. A river, a community of worship and a body of praise language stand behind the literary episode.",
+          "The Ọ̀bà River itself gives the tradition geographical depth. Yoruba river cults are rooted in specific landscapes rather than in a generic category of 'water goddesses.' A named river has communities along its banks, histories of settlement, dangers, economic uses and ritual custodians. When an Òrìṣà is tied to such a river, sacred identity and local geography become inseparable.",
+          "Marriage narratives associated with Ọ̀bà have often been retold as simple morality tales about jealousy. Yoruba oral literature is usually more complicated. Characters can embody admirable loyalty and painful misjudgment at the same time. A story may warn against deception, excessive self-sacrifice or rivalry without turning one woman into a permanent stereotype. Different tellers emphasize different lessons because oral tradition is interpretive.",
+          "Polygynous households in older Yoruba society were complex institutions. Co-wives could cooperate economically, raise children within overlapping family networks and compete for seniority or attention. Reading Ọ̀bà only as a jealous woman turns a social world into a stereotype. The stories make more sense when placed inside the realities of marriage, household hierarchy and the emotional negotiations required by extended family life."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "River sites, vessels, cloth, beads and local shrine forms may appear in devotional settings. Visual conventions from Brazil or Cuba should not automatically be projected backward onto every Yoruba community.",
+          "Modern popular culture has sometimes repeated sensational versions of Ọ̀bà's story without examining where the details came from. A documentary approach should distinguish widely circulated modern summaries from locally preserved ritual knowledge. The fact that a story is repeated on thousands of websites does not make every detail ancient or universal.",
+          "Ọ̀bà's association with endurance is meaningful because endurance in Yoruba moral thought is not passive suffering. Patience, loyalty and perseverance are valued when joined to wisdom. The tradition can therefore open a broader discussion about the limits of devotion. Loyalty that destroys judgment is different from loyalty that sustains a household through hardship.",
+          "Ọ̀bà’s river identity also changes the scale of the story. Human relationships may end, but the river continues through generations, carrying the memory of communities that settle around it. Sacred geography gives the tradition a durability that no single biography can provide. The river becomes both environment and archive."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Practice is often place-based and less internationally visible than some major Òrìṣà traditions. Local priesthoods and family histories remain important to interpretation.",
+          "In diaspora traditions, Obá became part of new ritual systems with their own liturgies and relationships among Òrìṣà. Cuban and Brazilian traditions preserved the name while developing within societies shaped by enslavement, Catholic institutions and contact among multiple African peoples. Those histories should be acknowledged rather than folded back into West African practice as if nothing changed.",
+          "Material culture associated specifically with Ọ̀bà is less standardized in public museum collections than that of some other Òrìṣà. This means written documentary work must rely more heavily on regional history, oral tradition and sacred geography. Absence of a famous museum object does not mean absence of a living institution.",
+          "Public visual material associated specifically with Ọ̀bà is less standardized than for Ọ̀ṣun or Ṣàngó. That makes provenance especially important. A modern image labeled “Oba” online may reflect diaspora iconography, contemporary art or a local lineage rather than a widely shared West African form. Documentary work must separate those layers instead of presenting one recent visual convention as ancient and universal."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "The Ọ̀bà River and communities connected with it form an important geographical frame, while related traditions also appear elsewhere in Yorubaland and the diaspora.",
+          "Ọ̀bà remains significant because her tradition speaks to experiences that are deeply human: attachment, dignity, competition, disappointment and the strength required to continue after loss. The river dimension prevents the story from becoming mere domestic drama. It places human emotion inside a sacred landscape that has outlived generations of storytellers.",
+          "Ọ̀bà traditions also invite attention to the social reality of polygynous households in older Yoruba society. Co-wives could cooperate, compete, raise children within overlapping domestic networks and negotiate seniority in ways far more complex than the jealous-rival stereotype found in popular retellings. Oral stories compress those social tensions into memorable characters.",
+          "Diaspora traditions preserved the name Obá and placed her within new ritual systems in Cuba and Brazil. Those traditions developed under slavery, colonial Catholic institutions and contact among several African peoples. They belong to Ọ̀bà’s larger historical story, but they also have their own liturgies and interpretations. Similar names should not be used to erase the history of transformation."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public observance varies by locality and may not have the global visibility of larger heritage festivals.",
+          "River identity gives Ọ̀bà a dimension that domestic narratives alone cannot provide. A river outlives one marriage, one ruler and one generation. Communities return to it repeatedly, turning flowing water into a carrier of continuity. This larger temporal scale helps explain why sacred geography can hold stories that change in detail while remaining anchored to place.",
+          "Modern feminist readings have revisited Ọ̀bà because her story raises questions about sacrifice, self-worth and competition among women. Such interpretations can be valuable when they are clearly presented as contemporary readings rather than ancient doctrine. Living traditions generate new interpretations because later generations ask new questions of inherited stories.",
+          "Contemporary readers often return to Ọ̀bà through questions of dignity and self-worth. That is a modern interpretive emphasis, but it grows from genuine features of the older stories: loyalty, disappointment, rivalry and the consequences of trusting bad advice. The most useful reading does not turn the tradition into self-help. It allows an old narrative to remain rooted in a specific social and sacred world while recognizing why later generations continue to find it emotionally powerful."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Narrative relationships among Ọ̀bà, Ọ̀ṣun, Ọya and Ṣàngó are told differently across regions and diasporic lineages.",
+          "Ọ̀bà became especially visible in Brazilian and Cuban traditions, where ritual colors, songs and narratives developed within new institutions.",
+          "Documenting Ọ̀bà responsibly therefore means resisting sensationalism. The dramatic episode may draw readers in, but the fuller subject includes river worship, local institutions, oral variation, marriage ethics and the ways diaspora communities reworked her identity. The story becomes richer once the headline version is placed back inside its cultural world.",
+          "The river also gives Ọ̀bà a public identity beyond household stories. Communities living near waterways depend on them for farming, transport and daily use, so river reverence can become part of civic geography. A sacred river belongs simultaneously to environment, memory and religious life.",
+          "Ọ̀bà therefore sits at the intersection of sacred geography and intimate ethics. The river anchors the tradition in place; oral narratives turn domestic tension into moral reflection; later diaspora communities carry the name into new settings. A full documentary should keep all three levels visible rather than allowing the most dramatic marriage story to swallow the rest of the tradition."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Praise poetry is important because it preserves identities that prose summaries flatten. Oríkì can emphasize strength, place, temperament and remembered events without arranging them into a chronological biography. For many Òrìṣà, this poetic mode is closer to traditional memory than the modern encyclopedia profile.",
+          "Ọ̀bà's tradition is most compelling when it is allowed to remain layered. She can be river, sacred presence, remembered woman, wife in narrative and symbol of endurance without those identities needing to collapse into one literal historical biography.",
+          "Modern documentation should also preserve the distinction between Ọ̀bà the river and the literary character built around famous marriage stories. They overlap, but one cannot be reduced to the other. The river anchors sacred identity in a place whose history exceeds any single narrative.",
+          "That distinction makes Ọ̀bà especially valuable for teaching how Yoruba oral tradition works. A sacred figure may accumulate stories across generations while remaining tied to a local institution. Biography, landscape and moral interpretation grow together rather than being written once and permanently fixed.",
+          "Historical river traditions also help resist the tendency to read Yoruba sacred figures only as personalities. A river has seasonal behavior, economic uses, dangerous stretches and communities responsible for access. Those facts shape religious memory. Ọ̀bà's identity therefore includes an environmental history that cannot be reconstructed from marriage narratives alone.",
+          "Her story also demonstrates the value of multiple tellers. A palace historian, priest, popular storyteller and diaspora devotee may preserve different emphases without one automatically cancelling the others. A documentary publication becomes stronger when it identifies that plurality rather than pretending oral tradition behaves like a single authorized textbook.",
+          "Reducing Ọ̀bà to a jealous or rejected wife reproduces the narrowest possible reading of a much wider sacred identity concerned with river power, endurance and dignity."
+        ]
+      }
     ]
   },
   {
@@ -816,6 +915,105 @@ window.ORISA_PUBLICATIONS = [
       "For historians, Ọbalúayé provides rare evidence of how religion, medicine and state power can collide. The tradition should therefore be studied alongside epidemic history and colonial policy, not isolated in a mythological category. Its seriousness comes from the reality of disease that shaped it.",
       "Changes in public health also changed religious vocabulary. Once smallpox ceased to circulate, younger devotees inherited stories about a terror they had never personally witnessed. Ritual memory became historical memory. That shift is important evidence of how religious institutions adapt when the social world around them changes fundamentally.",
       "Ọbalúayé's tradition therefore deserves to be read with unusual seriousness. It records fear of disease, attempts to make suffering intelligible and conflicts between indigenous authority and colonial medicine. Those histories are uncomfortable, but they are more valuable than a romantic portrait of a simple 'healing deity.'"
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọbalúayé is associated in many traditions with the earth, epidemic illness, healing and the collective responsibilities that arise when communities face vulnerability.",
+          "Names and theological relationships vary widely. Ṣọ̀pọ̀nná, Babalú-Ayé, Ọbalúayé and related names can overlap in some traditions while carrying distinct regional histories in others.",
+          "Historical discussion of this sacred complex must be sensitive because epidemic disease and public health were entangled with colonial governance, bans, fear and changing medical institutions.",
+          "The history of epidemic disease makes this one of the most socially sensitive Òrìṣà traditions to document. Smallpox and other illnesses were not only personal experiences; they could reshape entire towns. Sacred institutions provided frameworks for interpreting fear, responsibility and recovery long before modern biomedical systems became dominant. Colonial authorities later regulated and sometimes suppressed related priesthoods, producing records that must be read critically because they often reflect administrative suspicion rather than community perspectives.",
+          "The tradition also raises important questions about stigma. Illness can isolate people socially, and narratives connected with Ọbalúayé frequently invite reflection on how communities treat vulnerable bodies. Healing therefore has a moral dimension: restoring social belonging can matter alongside physical recovery. This is one reason modern publications should avoid sensational imagery and should clearly separate cultural documentation from medical advice.",
+          "Ọbalúayé and Ṣọ̀pọ̀nná belong to one of the most historically serious areas of Yoruba religion: the social experience of epidemic disease. Before vaccination, smallpox could scar, blind or kill large numbers of people. A sacred institution associated with that disease therefore cannot be understood as colorful mythology detached from ordinary life. It developed around fear, caregiving, mortality and the need to explain why illness struck one household and spared another."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Names often emphasize the earth, seniority, power over illness or authority to restore health. The exact relationship among regional names should never be assumed without context.",
+          "Narratives can address humility, social exclusion, the fragility of the body and the need for collective responsibility during illness.",
+          "Diaspora representations are visually influential, particularly in Brazil and Cuba. Raffia-covered forms and public processions have become widely recognized, but they belong to specific Atlantic histories. Using such an image on this page requires explicit labeling, which is why the caption identifies the photograph as diasporic. Comparison becomes most useful when it shows both continuity and change rather than presenting one regional form as universal.",
+          "For Ọbalúayé, responsible documentation must keep local variation visible. The themes of earth, illness, healing, community are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ọbalúayé as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Historical evidence shows that priests associated with Ṣọ̀pọ̀nná were more than ritual specialists. In some communities they also participated in the management of smallpox patients, isolation, burial and forms of inoculation. Their knowledge made them respected and feared. Colonial officials interpreted this authority through their own medical and political assumptions, producing records that are useful but often openly hostile to indigenous religion."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Ọbalúayé belongs to a complex cluster of West African traditions concerned with earth, illness, vulnerability and healing. Names and emphases vary by region; Ṣọ̀pọ̀nná is historically important in Yoruba contexts, while Babalú-Ayé became especially prominent in parts of the Atlantic diaspora. These names are related through historical movement, but they should not be treated as perfectly interchangeable in every ritual setting.",
+          "The association with epidemic disease gave this sacred tradition unusual social power. Smallpox was once one of the most feared diseases in West Africa. Before vaccination and eradication, outbreaks could devastate communities. Religious institutions that interpreted, feared or sought to manage such illness therefore occupied a serious place in public life. The history cannot be understood as mere superstition detached from real suffering.",
+          "Colonial authorities became deeply involved in regulating Ṣọ̀pọ̀nná worship during campaigns against smallpox. Officials sometimes viewed priests as obstacles to public health and attempted to suppress practices they considered dangerous. These encounters produced a complicated record in which medicine, colonial power, religious authority and fear of contagion overlapped. Later public health narratives sometimes caricatured indigenous practitioners instead of examining the social context in which people sought protection.",
+          "British colonial law in southwestern Nigeria attempted to suppress Ṣọ̀pọ̀nná worship in the early twentieth century, partly because officials believed priests obstructed vaccination campaigns or encouraged resistance. Chiefs could be pressured to report practitioners, and colonial public-health policy became entangled with older political relationships. The result was not a simple contest between “science” and “superstition”; it was also a struggle over who had authority to define disease and control communities."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Raffia, earth-associated shrine materials and specialized ritual objects appear in different West African and diasporic contexts. Iconography varies substantially.",
+          "The earth symbolism of Ọbalúayé adds another layer. The ground receives bodies after death, supports crops and can also be imagined as a source of dangerous forces. Illness and healing are therefore connected to a wider cycle of mortality and renewal. This symbolism helps explain why the tradition often carries both fear and reverence rather than fitting into a simple category of a benevolent 'healing god.'",
+          "Modern readers should be cautious about interpreting historical disease rituals as medical treatment. Sacred practice can provide meaning, social support and a language for suffering, but smallpox was eliminated through vaccination and coordinated public health. Respecting a religious tradition does not require denying the effectiveness of modern medicine. In fact, historical accuracy demands keeping those domains distinct.",
+          "Modern medicine changed the material conditions behind the tradition. Smallpox was eradicated globally through vaccination, and younger generations no longer experience the disease that once gave the cult such immediate social force. The sacred figure did not disappear. Meanings broadened toward illness, earth, vulnerability and healing more generally, showing how a religious institution can survive after the historical crisis that once shaped it has changed."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Devotion may involve specialist priesthoods and local restrictions. This page documents cultural history and does not provide medical or ritual instructions.",
+          "Atlantic traditions transformed Ọbalúayé/Babalú-Ayé in powerful ways. In Cuba and Brazil, devotees developed new ritual associations and public festivals. Images influenced by local Catholic iconography sometimes entered the tradition, showing how displaced communities used available symbols to preserve African sacred identities while adapting to new environments.",
+          "Because illness makes people vulnerable, the ethical dimension of this tradition deserves emphasis. Communities historically faced the question of how to care for the sick, how to interpret misfortune and how to prevent fear from becoming social exclusion. Sacred narratives surrounding epidemic disease can reveal values about responsibility and communal survival even when their cosmological explanations differ from biomedical ones.",
+          "Earth symbolism adds another dimension. The ground receives the dead, produces food and can be associated with powers beneath ordinary visibility. This makes Ọbalúayé’s relationship with the earth larger than one disease. Mortality, decay and renewal sit beside the hope of healing. Fear and reverence are therefore not contradictions in the tradition; they reflect the seriousness of the forces being addressed."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Related traditions occur across Yoruba-speaking areas and neighboring regions, with different local names and institutional histories.",
+          "Today, Ọbalúayé is best documented as a tradition at the intersection of religious history and the history of health. His importance lies not in sensational claims about curing disease, but in what the tradition shows about how Yoruba and diaspora communities confronted suffering, mortality and the hope of restoration.",
+          "The ritual management of epidemic disease also created specialists whose authority could be both respected and feared. Historical accounts suggest that colonial officials sometimes suspected priests of manipulating outbreaks, while local communities understood disease through very different religious frameworks. These clashes remind us that public health history is also a history of competing systems of authority.",
+          "Modern writing must be especially careful not to turn historical disease religion into medical advice. Smallpox was defeated by vaccination and coordinated public health. A traditional account can document how communities interpreted illness without claiming that sacred practice replaces biomedical treatment. Respect for Yoruba history and respect for modern medicine are entirely compatible."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public rites and healing-oriented observances differ by locality. Some of the best-known visual documentation comes from diaspora traditions.",
+          "After the global eradication of smallpox, the historical meaning of Ṣọ̀pọ̀nná/Ọbalúayé inevitably changed. A disease once experienced as a recurring terror became something younger generations knew mainly through history. Religious tradition, however, did not disappear. The sacred figure continued to represent illness, vulnerability, healing and the earth more broadly.",
+          "This transition provides an important example of how living religions respond when the material condition behind a major cult changes. Sacred traditions can retain moral and symbolic meaning even after medicine alters the disease environment. They may shift emphasis from one specific illness toward broader concerns with suffering, health and communal protection.",
+          "Atlantic traditions transformed related forms of Ọbalúayé/Babalú-Ayé worship in Cuba, Brazil and elsewhere. Images and ceremonies developed within societies shaped by enslavement and Catholic public culture. The diaspora history is important because it shows how a sacred figure associated with vulnerability and disease could travel and acquire new social meanings under very different conditions."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Regional naming is a major issue. Yoruba, Fon/Ewe and Atlantic traditions have interacted, so careful attribution matters.",
+          "Babalú-Ayé/Obaluaye became highly significant in Cuba and Brazil, where historical epidemics and African religious continuities shaped new public traditions.",
+          "Modern documentary writing should also avoid romanticizing precolonial disease experience. Smallpox killed and scarred people on a massive scale. The historical seriousness of Ọbalúayé's tradition comes partly from that fact. Respectful treatment begins by acknowledging both the religious depth of the institution and the life-saving importance of vaccination and modern epidemiology.",
+          "Material culture connected with Ọbalúayé often reflects the seriousness of illness through textures, coverings and objects that differ across regions. Rather than searching for a universal costume, it is more useful to ask what a particular community's objects communicate about vulnerability, protection and contact.",
+          "Ọbalúayé is therefore most valuable as a documentary subject when religion is placed beside the history of health. The tradition records how Yoruba communities responded to epidemic fear, how priests acquired authority, how colonial states tried to regulate that authority and how religious memory changed after medical science altered the disease environment. That history is richer and more difficult than the simple label “healing deity.”"
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Public health history also shows how indigenous religion was sometimes judged through colonial stereotypes. Officials documented practices through the assumptions of their own institutions. Reading those records critically means separating useful observation from the prejudice that often shaped interpretation.",
+          "Ọbalúayé remains one of the clearest examples of religion responding to a concrete human crisis. Epidemic disease forced communities to confront fear, blame, caregiving and mortality. The sacred tradition gave those experiences a language long before modern medicine could eliminate smallpox.",
+          "Religious communities today also reinterpret the tradition through modern ideas of care. Conversations about stigma, disability and infectious disease have changed dramatically. A living tradition can preserve its history while rejecting harmful treatment of sick people. Continuity does not require repeating every older assumption.",
+          "For historians, Ọbalúayé provides rare evidence of how religion, medicine and state power can collide. The tradition should therefore be studied alongside epidemic history and colonial policy, not isolated in a mythological category. Its seriousness comes from the reality of disease that shaped it.",
+          "Changes in public health also changed religious vocabulary. Once smallpox ceased to circulate, younger devotees inherited stories about a terror they had never personally witnessed. Ritual memory became historical memory. That shift is important evidence of how religious institutions adapt when the social world around them changes fundamentally.",
+          "Ọbalúayé's tradition therefore deserves to be read with unusual seriousness. It records fear of disease, attempts to make suffering intelligible and conflicts between indigenous authority and colonial medicine. Those histories are uncomfortable, but they are more valuable than a romantic portrait of a simple 'healing deity.'",
+          "It is misleading to describe Ọbalúayé simply as a 'god of disease.' Healing, earth, social vulnerability, exclusion and restoration are equally important themes."
+        ]
+      }
     ]
   },
   {
@@ -868,6 +1066,105 @@ window.ORISA_PUBLICATIONS = [
       "Taken together, creation, coolness, seniority and restraint form a coherent cultural portrait. Ọbàtálá is not simply the answer to 'who created humans?' He represents a theory of mature authority: power that should be clear-minded enough to recognize the consequences of its own actions.",
       "White clothing, clear water and restrained aesthetics associated with Ọbàtálá in many traditions create a ritual environment in which visual simplicity itself communicates status. This differs from traditions whose public festivals emphasize dramatic color and movement. Yoruba sacred aesthetics are plural, and difference of style can carry theological meaning.",
       "The figure of Ọbàtálá also reminds us that creation stories are ethical stories. The question is not only how bodies or the world came into being, but what responsibility belongs to a maker. Skill without sobriety, authority without restraint and seniority without care are all problems that the narratives bring into view."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọbàtálá is widely associated with creation, seniority, composure, white cloth and ideals of clarity and ethical restraint.",
+          "Across Yoruba communities, Ọbàtálá occupies an important place in narratives of creation and seniority. White clothing and calmness are prominent associations in many traditions.",
+          "Theological details differ by community, including relationships among Ọbàtálá, Òrìṣàńlá and other senior creative powers.",
+          "Ọbàtálá is often described through the language of seniority, calmness and creation, but these themes belong to complex local theologies. In some communities the names Ọbàtálá and Òrìṣàńlá overlap closely; elsewhere distinctions of title, shrine history or lineage remain important. This is why a documentary account should avoid presenting one simplified genealogy as universal. Creation narratives are not merely stories about beginnings. They provide frameworks for discussing responsibility, error, patience and the dignity of different kinds of human embodiment. The association with white cloth and composure reinforces an ethical aesthetic in which clarity and restraint matter as much as supernatural power.",
+          "Material culture connected with Ọbàtálá often emphasizes whiteness, beads, cloth, vessels, staffs and carefully ordered shrine spaces. Yet even a strong color association should not be treated as a complete definition. White can communicate coolness, seniority, clarity and ritual discipline, but objects gain meaning through the communities that prepare and use them. Museum displays frequently isolate a single work from this network of relationships. Better documentation restores the surrounding context by discussing priesthood, festival calendars, oral histories and the local institutions that sustain devotion.",
+          "Ọbàtálá is associated with creation in several Yoruba traditions, particularly with the shaping of human beings from clay. Yet Yoruba creation narratives are not a single fixed story. In some accounts Ọbàtálá receives the task of forming human bodies; in others Odùduwà becomes central to the creation of land and sacred kingship. The coexistence of different narratives reflects regional and institutional history rather than a failure of consistency."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Names and titles may emphasize seniority, whiteness, creation and composure. Local equivalences should not be assumed without context.",
+          "Stories concerning Ọbàtálá often address creation, human difference, error, responsibility, patience and correction.",
+          "Ọbàtálá also illustrates the importance of ethical interpretation in contemporary study. Popular summaries sometimes turn him into a generic creator deity equivalent to concepts from unrelated religions. That comparison may be convenient but erases the specificity of Yoruba cosmology and the relationships among multiple Òrìṣà. A stronger approach keeps the tradition relational: creation, seniority, kingship, human difference and moral character are discussed through stories involving many sacred powers and historical communities. Diasporic traditions developed additional forms while retaining major themes of composure and creation. Comparing them carefully shows continuity without pretending that ritual detail is identical everywhere.",
+          "For Ọbàtálá, responsible documentation must keep local variation visible. The themes of creation, clarity, seniority, ethical restraint are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ọbàtálá as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "White cloth, white beads and ideas of coolness are widely linked with Ọbàtálá. In Yoruba aesthetics, coolness can suggest composure, clarity and controlled authority. The symbolism is ethical as well as visual. A senior person is expected to demonstrate restraint, patience and the ability to judge without being ruled by anger. White therefore communicates a style of power rather than simply a color preference."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Ọbàtálá is widely associated with creation, seniority, clarity and a disciplined form of authority. In many Yoruba narratives he participates in the shaping of human beings or the ordering of the world, although creation stories vary considerably by region and lineage. These narratives should be read as a family of traditions rather than forced into one standardized mythology.",
+          "White is strongly associated with Ọbàtálá in many communities and diaspora traditions. The color can signify coolness, clarity, age, restraint and ritual cleanliness. Yoruba aesthetic ideas often contrast 'cool' composure with uncontrolled heat. In this context, whiteness is not simply decorative; it expresses an ethical style of calm authority.",
+          "Stories about Ọbàtálá frequently emphasize the consequences of intoxication and failures of self-control. Some well-known narratives explain bodily difference through a moment in which a creator figure becomes impaired. Modern readers should handle such stories carefully. They are religious narratives about responsibility and imperfection, not scientific explanations of disability, and they should never be used to stigmatize disabled people.",
+          "Stories about intoxication are equally important. Some narratives describe Ọbàtálá becoming impaired by palm wine while engaged in the work of creation. These stories are often used to explain why sobriety and self-control matter. Modern readers should not use them to stigmatize disabled people or to present disability as punishment. They are religious narratives about responsibility, not medical explanations of human bodies."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "White cloth, beads, staffs, vessels and shrine architecture may be significant, but local practice determines meaning.",
+          "Seniority is another central theme. Seniority in Yoruba society can carry prestige, but it also implies obligation. A senior figure is expected to show patience, judgment and the capacity to restrain anger. Ọbàtálá's authority is therefore often represented as measured rather than explosive. That makes him a useful contrast to Òrìṣà whose narratives emphasize speed, conflict or dramatic force.",
+          "Ilé-Ifẹ̀ is important in traditions concerning Ọbàtálá, but local histories are not uniform. Different sacred communities within the city preserve distinct accounts of creation and precedence. Debates about whether Ọbàtálá, Odùduwà or other figures should be placed first in a single cosmic sequence often reflect later attempts to harmonize traditions that were never fully identical.",
+          "Ilé-Ifẹ̀ is central to traditions about Ọbàtálá, but the city itself contains multiple sacred histories. Different institutions remember creation and precedence differently. Attempts to arrange every Òrìṣà into one universal family tree often flatten these local traditions. A careful documentary should preserve disagreement where the historical record preserves disagreement."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Devotional practice often emphasizes composure, ritual cleanliness and seniority. Specific prohibitions and offerings vary by lineage.",
+          "Material culture connected with Ọbàtálá includes shrine objects, beads, cloth and sculptural forms, but meaning depends on ritual context. Museum labels sometimes present an object as if it represented the entire Òrìṣà. In living practice, the object is one component of a larger institution involving priests, songs, offerings, taboos and community memory.",
+          "Across the Atlantic, Ọbàtálá remained one of the major Yoruba-derived sacred figures. Names such as Obatalá and Oxalá entered different religious systems with their own histories. Brazilian Oxalá traditions, for example, developed through interactions among Yoruba-derived, other West African and local religious worlds. Similarity of name does not eliminate the need to study each tradition on its own terms.",
+          "Material culture associated with Ọbàtálá includes white textiles, beads and shrine objects whose meaning depends on the ritual setting. Museum objects can document aesthetics, but they rarely contain the whole institution. A beaded object may indicate coolness or seniority, yet its significance also depends on who commissioned it, who wore it and in what ceremonial context it was used."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ọbàtálá traditions are widespread and particularly important in Ilé-Ifẹ̀ and other Yoruba centers.",
+          "Ọbàtálá's continuing appeal lies in the moral imagination surrounding calmness and clear judgment. In a social world often attracted to displays of force, the tradition proposes another kind of power: senior authority that does not need constant noise. That ideal helps explain why narratives about Ọbàtálá remain meaningful beyond the specific rituals of his devotees.",
+          "Ọbàtálá's connection with artistic creation is also reflected in the language of shaping and forming. Yoruba sculptors, potters and other makers transform material through patience and skilled control, qualities that resonate with creation narratives. The analogy does not mean every craft guild historically worshipped Ọbàtálá, but it helps explain why creation can be imagined as disciplined workmanship.",
+          "Ọbàtálá’s seniority produces an important theory of leadership. Power is imagined as strongest when it does not need constant display. This contrasts with the dramatic public force of thunder or iron. Calm speech, measured movement and disciplined behavior can communicate authority more effectively than aggression. The sacred character therefore becomes a moral model for how elders and leaders ought to behave."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Festivals and temple observances vary by town and may be linked with local histories of creation and kingship.",
+          "Ritual coolness is an especially important aesthetic idea. Calm speech, white cloth, measured movement and controlled behavior can communicate seniority more effectively than loud display. In this sense, Ọbàtálá's visual language teaches a social ideal: authority should not always need to prove itself through aggression.",
+          "Disability narratives require particular care because older stories were created within moral worlds different from contemporary disability ethics. A documentary publication can record the tradition without endorsing the claim that disability is punishment or the result of divine error. Living communities are fully capable of interpreting inherited narratives with compassion and critical judgment.",
+          "In the Atlantic world, Ọbàtálá and related forms such as Oxalá entered religious systems with their own histories. Brazilian and Cuban traditions preserved strong associations with white, seniority and creation while developing distinct liturgical structures. These traditions should be compared with West African practice without assuming that every later convention existed everywhere in Yorubaland."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "The names Ọbàtálá and Òrìṣàńlá are related in many traditions but should not be flattened into a single uniform theology.",
+          "Ọbàtálá traditions became highly influential in several Atlantic religions.",
+          "Ọbàtálá therefore offers more than a creation myth. His tradition gathers together ideas about seniority, restraint, moral clarity, embodiment and the dangers of impaired judgment. Those themes remain recognizable in modern life, where leadership is still measured partly by the ability to remain composed under pressure.",
+          "Priestly institutions connected with Ọbàtálá have their own local rules, praise language and calendars. The global popularity of the Òrìṣà can make these differences disappear from public view. A responsible profile therefore begins with shared themes but leaves room for lineages to define their own practice.",
+          "Ọbàtálá’s depth lies in the way cosmic and ordinary ethics meet. The tradition can speak about the creation of humanity while also returning to everyday questions of sobriety, patience, authority and care. The creator is not only a figure of beginnings; he becomes a reminder that anyone who shapes the lives of others must be responsible for the condition in which that work is done."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Creation narratives also change depending on the question being asked. A story about the formation of human bodies may differ from a story explaining the founding of a town or the precedence of a royal line. Treating all creation stories as one sequence can produce contradictions that traditional storytellers never needed to resolve.",
+          "Ọbàtálá's value as a documentary subject lies precisely in this combination of cosmic scale and ethical restraint. The tradition can speak about creation of the world while also returning to ordinary questions of sobriety, patience, responsibility and how an elder should behave.",
+          "Modern artistic representations often emphasize white cloth, serene posture and balanced composition because these visual choices communicate the ethical qualities associated with Ọbàtálá. Contemporary art is not the same as old shrine art, but it can show how inherited ideas are translated for new audiences.",
+          "Taken together, creation, coolness, seniority and restraint form a coherent cultural portrait. Ọbàtálá is not simply the answer to 'who created humans?' He represents a theory of mature authority: power that should be clear-minded enough to recognize the consequences of its own actions.",
+          "White clothing, clear water and restrained aesthetics associated with Ọbàtálá in many traditions create a ritual environment in which visual simplicity itself communicates status. This differs from traditions whose public festivals emphasize dramatic color and movement. Yoruba sacred aesthetics are plural, and difference of style can carry theological meaning.",
+          "The figure of Ọbàtálá also reminds us that creation stories are ethical stories. The question is not only how bodies or the world came into being, but what responsibility belongs to a maker. Skill without sobriety, authority without restraint and seniority without care are all problems that the narratives bring into view.",
+          "Popular descriptions sometimes make Ọbàtálá a simple abstract 'creator god.' Yoruba traditions are richer, localized and embedded in ritual communities."
+        ]
+      }
     ]
   },
   {
@@ -920,6 +1217,105 @@ window.ORISA_PUBLICATIONS = [
       "A complete documentary account therefore leaves space for several kinds of truth: sacred truth carried by lineage, historical probability tested by scholarship and public identity created through modern memory. Odùduwà stands precisely where those forms of truth meet.",
       "Contemporary royal ceremonies continue to use genealogy as a language of legitimacy, even though modern government no longer depends on precolonial dynastic structures. This coexistence shows that political modernization does not necessarily erase older forms of authority; it can place them in new social roles.",
       "Odùduwà also functions as a cultural bridge between local and collective identity. An individual kingdom can insist on its own history while participating in a wider story of Yoruba origins. That flexibility helps explain why the figure remains central to both palace tradition and modern pan-Yoruba cultural imagination."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Odùduwà stands at the center of Yoruba traditions of origin, Ilé-Ifẹ̀ kingship and dynastic ancestry, though communities explain the figure in different historical and theological ways.",
+          "Many Yoruba royal traditions trace dynastic legitimacy to Odùduwà and Ilé-Ifẹ̀. The figure can be described as ancestor, founder, culture hero or sacred power depending on the source.",
+          "Because origin narratives carry political meaning, they should be presented as traditions with multiple versions rather than as simple modern historical chronicles.",
+          "Origin traditions are especially powerful because they explain more than where people came from. They can define relationships among towns, justify royal offices and shape claims about seniority. This means every retelling has a social context. Historians compare oral traditions, archaeology, art history and written records, while royal institutions preserve genealogical narratives with their own authority. A good publication allows these forms of evidence to stand beside one another rather than pretending they always produce a single answer.",
+          "Ilé-Ifẹ̀ is central because it is simultaneously a living city, a sacred center and an archaeological site famous for extraordinary works of art. Odùduwà traditions are therefore embedded in a broader landscape of palaces, shrines, festivals and dynastic memory. Modern statues, including the photograph used here, show how contemporary Yoruba society continues to visualize an ancestor who belongs primarily to oral and ritual history.",
+          "Odùduwà stands at the center of Yoruba traditions of origin, sacred kingship and dynastic legitimacy. Ilé-Ifẹ̀ is remembered as the foundational city from which many royal houses trace their ancestry. Those genealogies created a language of relationship among kingdoms that were politically independent but could understand themselves as members of a wider historical family."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Titles emphasize ancestry, leadership, Ilé-Ifẹ̀ and the founding of royal lines. Modern phrases such as 'progenitor of the Yoruba race' reflect contemporary identity language as well as older traditions.",
+          "Oral histories recount journeys, settlement, conflict, creation and the dispersal of descendants who established royal houses. Versions differ in chronology and emphasis.",
+          "The category 'Òrìṣà' itself requires care here. Some communities and writers speak of Odùduwà within a sacred pantheon, while others emphasize primordial kingship or ancestry. Rather than choosing one label and erasing the rest, this publication makes the variation explicit. That approach is especially important online, where simplified lists often mix deities, ancestors and personified forces without explaining their different institutional histories.",
+          "For Odùduwà, responsible documentation must keep local variation visible. The themes of ancestry, kingship, Ile-Ife, dynasty are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Odùduwà as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Origin accounts differ substantially. Some traditions describe a descent from the sky and the creation of land at Ifẹ̀; others remember migration from elsewhere; still others present Odùduwà as arriving in a place that already had inhabitants and sacred institutions. These versions should not be forced into one biography. Their differences reveal political memory, regional perspective and changing ideas about legitimacy."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Odùduwà occupies a central place in Yoruba traditions of origin, dynastic legitimacy and the sacred history of Ilé-Ifẹ̀. He is remembered in many royal genealogies as a foundational ancestor from whom ruling houses trace authority. Yet the stories of his origin vary widely. Some place him within a cosmic descent; others emphasize migration, conquest or political foundation. The differences are historically important.",
+          "Ilé-Ifẹ̀ became a major center of Yoruba sacred and political memory. Archaeology confirms that the city supported an extraordinary artistic and urban culture centuries ago, including the production of naturalistic terracotta and metal sculpture. Oral traditions about Odùduwà belong to this historical landscape, though archaeology cannot simply prove or disprove every detail of sacred genealogy.",
+          "Royal houses across Yorubaland have long used descent traditions to connect themselves with Ifẹ̀. Such genealogies do more than record biological ancestry. They create political relationships, explain the foundation of towns and place rulers inside a shared sacred history. A dynasty's claim to Odùduwà can therefore be both a religious statement and a theory of legitimate kingship.",
+          "Archaeology confirms that Ilé-Ifẹ̀ became a sophisticated urban and artistic center centuries ago. Its terracotta, stone and copper-alloy works demonstrate highly developed craft traditions and elite patronage, especially during the period associated with classical Ifẹ̀ art. Archaeology cannot verify every element of sacred genealogy, but it confirms that the city remembered in oral tradition was historically a major center of power and creativity."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Palace sites, crowns, staffs, shrines and modern statues all participate in Odùduwà memory. Public monuments are recent interpretations of much older oral traditions.",
+          "Modern arguments sometimes ask whether Odùduwà was 'really' a deity, a human king, a migrant founder or a symbolic ancestor. Yoruba traditions do not always separate those categories as sharply as modern historical writing does. A remembered founder can acquire sacred status, and a sacred figure can become central to political genealogy. Documentary work should describe those layers instead of forcing a single answer.",
+          "Competing origin stories also reveal the politics of memory. Communities can emphasize different ancestors depending on their history and relationship to neighboring kingdoms. Older written sources were themselves shaped by the perspectives of informants and the political concerns of their time. No nineteenth- or twentieth-century account should be treated as a neutral transcript of an unchanged ancient tradition.",
+          "Royal crowns make Odùduwà’s political legacy materially visible. Yoruba beaded crowns are not simply decoration; they connect an ọba with ancestors and with the institution of sacred kingship. Some traditions restrict the right to wear particular crown forms to dynasties claiming descent from Odùduwà. The crown therefore acts as a public argument about legitimacy."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "The relationship between royal ritual, ancestor veneration and Òrìṣà categories varies. It is safer to describe documented local practice than to force a single classification.",
+          "Odùduwà's material presence in contemporary Ifẹ̀ includes monuments, palace traditions, festivals and public art. These forms make origin stories visible in urban space. Modern statues are not ancient artifacts, but they are historically meaningful because they show how a living community chooses to represent its past.",
+          "The diaspora has also adopted Odùduwà as a symbol of Yoruba civilizational identity. Cultural organizations, religious communities and pan-Yoruba movements may invoke his name to express unity across national borders. This modern symbolic role differs from a specific palace genealogy but grows from the same association with beginnings and collective ancestry.",
+          "Genealogies can also be political instruments. Historians have shown that versions of Odùduwà descent traditions were used in struggles over precedence among Yoruba kingdoms. This does not make the traditions meaningless or fraudulent. It shows that collective memory is active: communities use inherited stories to explain present relationships and to defend claims about status."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ilé-Ifẹ̀ is the central geographical reference, while many kingdoms across Yorubaland connect their dynasties to descendants of Odùduwà.",
+          "Odùduwà is therefore best approached as a meeting point of myth, history and political memory. His importance does not depend on reducing all traditions to one biography. The variety of accounts shows how deeply Yoruba communities have used origin narratives to think about land, authority, kinship and the relationship between local identity and a wider Yoruba world.",
+          "The political reach of Odùduwà traditions became especially visible through the many royal houses that claimed genealogical connection with Ilé-Ifẹ̀. Such claims created a language of kinship among otherwise independent kingdoms. Shared ancestry could support diplomacy and cultural unity without erasing local sovereignty.",
+          "The relationship between myth and history is therefore especially important here. A sacred founder can be understood as ancestor, king, Òrìṣà and symbol of civilization without every category needing to be separated. Yoruba political memory did not always divide the human and sacred in the way modern academic biography does. Documentary writing should explain that difference instead of pretending it can produce one modern-style birth-to-death account."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Royal and civic ceremonies in Ilé-Ifẹ̀ preserve aspects of origin memory, while other towns maintain their own dynastic observances.",
+          "Modern Yoruba nationalism also drew on the idea of common descent. Intellectuals seeking a collective history for Yoruba-speaking peoples found Odùduwà useful as a unifying ancestor. That modern role should be distinguished from older local traditions, but it is now part of the historical record in its own right.",
+          "Archaeology has complicated simplistic origin stories by revealing the depth of urban and artistic development at Ilé-Ifẹ̀. The city's famous metal and terracotta works demonstrate highly organized craft traditions and elite patronage. They confirm the significance of Ifẹ̀ while leaving many questions about political chronology open.",
+          "Modern cultural organizations often invoke Odùduwà as a symbol of pan-Yoruba identity. Statues, institutions and public speeches use the name to represent shared ancestry across national borders. This is a modern extension of older royal genealogies. The symbol has moved from palace legitimacy into broader cultural politics."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Historical scholars, royal traditions and religious lineages do not always agree on how to interpret Odùduwà. These differences are part of the documentary record.",
+          "Odùduwà became a symbol of wider Yoruba identity in the diaspora, where origin narratives support cultural continuity and community organization.",
+          "Odùduwà's documentary value therefore lies partly in showing how history and sacred memory interact. Oral genealogy does not function like a modern archive, yet it preserves relationships that mattered to communities. Archaeology and oral tradition should be compared critically rather than forcing either one to replace the other.",
+          "Ilé-Ifẹ̀'s ritual calendar keeps origin memory in public circulation. Palace ceremonies and sacred institutions continually reconnect contemporary residents with stories of foundation. History is therefore not confined to archives; it is performed through offices, routes and annual observances.",
+          "Odùduwà is therefore best understood as a meeting point of archaeology, sacred history and political memory. Ilé-Ifẹ̀ provides the geographical anchor; royal genealogies provide the dynastic structure; modern cultural movements add another layer. The tradition remains powerful because it allows local kingdoms to preserve distinct histories while still participating in a larger story of Yoruba origins."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "The many descendants attributed to Odùduwà in royal genealogies also function as a map of political relationships. Whether every genealogical link can be read literally is less important than understanding what the claim accomplished: it positioned a kingdom within a wider family of legitimate Yoruba polities.",
+          "For modern readers, the most productive approach is neither blind acceptance nor dismissive skepticism. Sacred genealogy can be respected as a historical source while being compared with archaeology, linguistics and documentary evidence. Each form of evidence answers different questions.",
+          "The name Odùduwà also operates today in institutions, cultural associations and public monuments. These modern uses are part of the ongoing construction of Yoruba identity. They show that ancestral symbols continue to do political and cultural work in the present.",
+          "A complete documentary account therefore leaves space for several kinds of truth: sacred truth carried by lineage, historical probability tested by scholarship and public identity created through modern memory. Odùduwà stands precisely where those forms of truth meet.",
+          "Contemporary royal ceremonies continue to use genealogy as a language of legitimacy, even though modern government no longer depends on precolonial dynastic structures. This coexistence shows that political modernization does not necessarily erase older forms of authority; it can place them in new social roles.",
+          "Odùduwà also functions as a cultural bridge between local and collective identity. An individual kingdom can insist on its own history while participating in a wider story of Yoruba origins. That flexibility helps explain why the figure remains central to both palace tradition and modern pan-Yoruba cultural imagination.",
+          "Odùduwà should not be presented as if one modern biography were universally accepted. Sacred history, political memory and historical reconstruction overlap but are not identical."
+        ]
+      }
     ]
   },
   {
@@ -971,6 +1367,104 @@ window.ORISA_PUBLICATIONS = [
       "This makes Ògún unusually relevant to industrial society. The details of technology have changed, but people still depend on tools that can save life or destroy it. The tradition keeps moral attention fixed on the human consequences of technical power.",
       "Ritual respect for iron also appears in everyday speech and professional identity. Mechanics, drivers and artisans may invoke Ògún in ways that differ greatly from formal priestly worship. These ordinary references show how sacred vocabulary can circulate beyond the shrine and become part of occupational culture.",
       "The tradition is especially useful for documentary history because it links several technological eras. The same sacred idea can be followed from hand-forged tools to firearms, railways, automobiles and industrial machines. Few religious traditions reveal the cultural history of technology so clearly."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ògún is associated with iron, technological transformation, disciplined labor, dangerous tools, roads and the responsibilities that accompany power.",
+          "Across many Yoruba communities, Ògún is closely linked to iron and the human capacity to transform the environment through tools. Hunters, blacksmiths, drivers, mechanics and other professions may invoke Ògún in ways shaped by their work.",
+          "His symbolism joins productivity and danger: the same iron that builds also cuts. This makes responsibility, restraint and disciplined use of power important themes in narratives about Ògún.",
+          "Ògún offers one of the clearest Yoruba frameworks for thinking about technology as a moral force. Iron changes landscapes: it cuts paths, shapes farms, builds houses, repairs machines and makes transportation possible, but it can also injure and destroy. That double capacity appears repeatedly in narratives and occupational traditions connected with Ògún. The point is not simply that iron is sacred; it is that power requires discipline. Hunters, blacksmiths, mechanics, drivers and other workers who depend on metal encounter this principle in different forms. The religious vocabulary surrounding Ògún therefore links technical skill with responsibility, reminding users of dangerous tools that competence without restraint can become destructive.",
+          "The social history of Ògún is also inseparable from labor. Yoruba ironworkers and blacksmiths have historically occupied specialized positions because their craft transforms raw material into socially necessary tools. Hunters similarly move through forests and difficult terrain, while modern transport workers extend the older symbolism of roads into engines, vehicles and mechanical workshops. These occupational associations show how Òrìṣà traditions can absorb technological change without losing their conceptual center. A motor vehicle is not an ancient object, but the questions of iron, movement, danger and disciplined handling make modern transport intelligible within an older symbolic vocabulary. This adaptability is one reason Ògún remains highly visible in contemporary Yoruba religious life.",
+          "Ògún is not simply the Òrìṣà of a metal. He represents the entire human relationship with iron technology: extraction, forging, cutting, building, farming, hunting, warfare, transport and the risks created by powerful tools. Iron transforms the environment, and Yoruba traditions recognize that transformation as both productive and dangerous."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names frequently emphasize iron, forests, roads, labor and fearsome strength. Exact forms vary widely by locality.",
+          "Ògún narratives often describe clearing paths, opening difficult spaces, forging technology and the costs of uncontrolled force. They can be read as reflections on work, courage and responsibility.",
+          "Artists and museums document Ògún through iron objects, shrine assemblages and sculpture, yet the visual field is diverse. No single sword, chain or statue represents all traditions. The most useful way to read these objects is alongside the communities that used them and the work they symbolize. Public festivals can bring occupational groups, families and devotees together, while more private practices remain attached to particular shrines or lineages. Across the Atlantic, Ògún retained strong associations with iron and labor but entered new ritual systems and political histories. A careful publication therefore distinguishes shared themes from local procedure and avoids reducing Ògún either to warfare alone or to a generic symbol of masculinity.",
+          "Ògún is the Òrìṣà of iron in the broadest cultural sense: not only metal as a substance, but the technologies, occupations and moral responsibilities that iron makes possible. Blacksmiths, hunters, farmers, drivers, soldiers and other people whose work depends on cutting tools or dangerous machinery have all been connected with Ògún in different communities. The common thread is transformative power.",
+          "Blacksmithing gives the symbolism a practical foundation. A smith controls fire, timing and material to turn resistant metal into a useful form. The work demands knowledge acquired through apprenticeship. Agricultural tools, weapons, knives and craft implements all depend on this transformation. Ògún’s sacred importance therefore grows from a technology on which everyday life historically depended."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Iron changed human relationships with landscape. Hoes and cutlasses made farming possible on a larger scale; tools shaped wood and built houses; weapons affected warfare and defense; later engines and vehicles extended the symbolic field from the forge to the road. Ògún's tradition expanded because technology expanded. This is a clear example of an old religious category adapting to new material realities.",
+          "Roads are especially important in modern understandings of Ògún. Drivers and mechanics work with metal, speed and risk, making the road a natural extension of his older associations. Prayers for safety among transport workers show how religious symbolism responds to modern danger. The lorry and motorcycle are new, but the underlying problem—how to handle powerful tools without being destroyed by them—is ancient.",
+          "Blacksmithing historically carried specialized knowledge. Smelting and forging require control of heat, material and timing. The smith turns resistant ore into useful form, an act easily understood as both technical and symbolic transformation. In many African societies, smiths acquired ritual significance because their work seemed to join danger and creativity. Yoruba traditions of Ògún fit within that wider history while retaining their own local forms.",
+          "Hunters and farmers connect Ògún to the opening of roads and fields. Iron blades clear vegetation; hoes cultivate land; hunting equipment allows movement through forest country. In this sense, Ògún makes passage possible. The “road” is not only a metaphor—it reflects the material work of cutting a path where none existed."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Iron implements, tools, chains, blades, anvils and forged forms can become part of Ògún shrine environments. The specific arrangement is not universal.",
+          "Ògún is also associated with oaths and truth in some settings. Iron can be invoked as a witness because it represents a power whose consequences are feared. This dimension reveals that technology is not morally neutral in the traditional imagination. The tool carries responsibility. A person who benefits from iron is expected to respect the force it represents.",
+          "Festival traditions connected with Ògún vary widely. Hunters, craft groups, towns and professional associations may celebrate differently. Some events emphasize historic weapons and hunting culture; others are civic festivals with music, food and public procession. There is no single national 'Ogun ritual' that can stand for every community.",
+          "Modern vehicles expanded the tradition naturally. Drivers, mechanics and transport workers deal with metal, engines, speed and risk, so the road became an obvious contemporary extension of Ògún’s older domain. A lorry or motorcycle is technologically new, but the moral problem is familiar: powerful tools can sustain life or destroy it depending on how they are handled."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Devotion is frequently connected to occupations that rely on iron or dangerous technology. Ritual specialists, families and occupational groups may maintain different practices.",
+          "Across the Atlantic, Ògún became Ogum, Ogún or similar forms in diaspora religions. In Brazil, Cuba, Haiti and elsewhere, African iron symbolism met new histories of labor, war and technology. Diaspora traditions sometimes connect him with railways, machinery or modern professions in ways that continue the old logic of technological power.",
+          "Ògún remains one of the most adaptable Òrìṣà because societies continue to depend on dangerous technologies. Cars, industrial machines, surgical tools and construction equipment all extend the human capacity to transform matter. His tradition asks a question that modern life still faces: how should people live responsibly with the power of the tools they create?",
+          "Iron also appears in oath-taking and ideas of truth in some Yoruba settings. The material can be invoked as a feared witness because it represents a force whose consequences are serious. This turns technology into an ethical presence. The tool is not morally neutral; the person who benefits from its power is expected to behave responsibly."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ògún traditions are found across Yoruba regions and have strong diasporic continuities.",
+          "Occupational devotion to Ògún also reveals how religion can follow professions. Blacksmiths, hunters and drivers face different hazards, but all work with iron or technologies capable of causing injury. Ritual respect becomes a way of acknowledging risk. It can encourage seriousness toward tools even though it should never substitute for practical safety.",
+          "The transformation from forge to motor road is historically revealing. No premodern Yoruba community knew automobiles, yet modern practitioners could understand the engine as another form of iron power. This shows that tradition can remain coherent while extending into technologies that did not exist when older songs and stories were first composed.",
+          "Festivals for Ògún vary by town and occupational group. Hunters, blacksmiths, drivers and communities may emphasize different histories. Some public events foreground hunting and iron tools; others become civic celebrations with music, food and professional associations. There is no single national ritual form that can stand for every Ògún community."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Several towns hold public festivals for Ògún, while occupational associations may maintain their own observances.",
+          "Ògún is also prominent in modern literature because writers have used him as a symbol of industrial modernity, creativity and violence. These literary interpretations are not identical to shrine theology, but they have shaped global understanding of the Òrìṣà. Documentary work should note the distinction between religious tradition and artistic reinterpretation.",
+          "At the heart of Ògún's tradition is a moral paradox: the same metal can cultivate a farm or make a weapon; the same road can connect communities or become a site of death. Technology magnifies human intention. Ògún remains powerful as a cultural symbol because modern societies have not solved that paradox.",
+          "Atlantic traditions carried Ògún into new histories of labor, war and technology. In Brazil, Cuba and elsewhere, related forms of the Òrìṣà became connected with railways, machinery and urban work. These developments follow the same logic visible in West Africa: the sacred category expands when technology expands."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Local traditions may emphasize hunting, blacksmithing, road travel, warfare, agriculture or modern technology.",
+          "Ògún became especially important in Atlantic religions, often remaining strongly associated with iron, labor and technological force.",
+          "Environmental history adds another dimension to Ògún. Iron production once required charcoal, ore and specialized sites, linking metallurgy to forests and labor networks. The finished tool carried within it an entire chain of extraction and craftsmanship that modern users rarely see.",
+          "Contemporary artisans continue to give metal social meaning through gates, sculpture, tools and machinery. While not every metalworker is a devotee of Ògún, the persistence of iron as a symbol shows how closely Yoruba cultural memory connects material technology with human creativity.",
+          "Ògún remains unusually modern because industrial societies still depend on tools that can both build and destroy. Cars, surgical instruments, construction equipment and machines amplify human intention. The tradition keeps a moral question in view: how should people live responsibly with the technologies that make civilization possible while also creating new forms of danger?"
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Ògún's documentary story is ultimately about disciplined power. Iron can build, cultivate, cut, protect and destroy. The tradition refuses to pretend that technology is harmless. It honors usefulness while keeping danger visible, a lesson that remains strikingly modern.",
+          "Safety is an important modern way to read Ògún's symbolism. Respect for machinery should translate into training, protective equipment, sober driving and responsible maintenance. Religious reverence cannot make dangerous technology physically harmless. Practical caution is entirely consistent with the seriousness traditionally attached to iron.",
+          "This makes Ògún unusually relevant to industrial society. The details of technology have changed, but people still depend on tools that can save life or destroy it. The tradition keeps moral attention fixed on the human consequences of technical power.",
+          "Ritual respect for iron also appears in everyday speech and professional identity. Mechanics, drivers and artisans may invoke Ògún in ways that differ greatly from formal priestly worship. These ordinary references show how sacred vocabulary can circulate beyond the shrine and become part of occupational culture.",
+          "The tradition is especially useful for documentary history because it links several technological eras. The same sacred idea can be followed from hand-forged tools to firearms, railways, automobiles and industrial machines. Few religious traditions reveal the cultural history of technology so clearly.",
+          "Ògún is not simply a 'war god.' Iron, labor, craft, movement and technological responsibility are equally central to many understandings."
+        ]
+      }
     ]
   },
   {
