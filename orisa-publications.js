@@ -1518,6 +1518,106 @@ window.ORISA_PUBLICATIONS = [
       "Seasonal festivals can renew a community's relationship with a hill even when daily life has moved elsewhere. People who now live abroad may return for annual observances, transforming sacred geography into a point of diaspora reconnection. Place becomes a way of maintaining belonging across distance.",
       "Because hills are immovable, they provide a form of continuity that human institutions cannot. Priests change, rulers die and neighborhoods expand, yet the same elevation remains. That physical persistence gives Òkè traditions unusual power as anchors of long-term memory.",
       "For younger generations, learning the names and histories of sacred hills can become an entry point into local history itself. The landscape gives memory a physical address, making stories easier to connect with the town that produced them."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Òkè refers to sacred understandings of hills and elevated places, where landscape, community memory and religious authority can converge.",
+          "Yoruba religion is deeply place-based. Hills, groves, rivers and particular trees can become parts of sacred geography, and Òkè traditions make elevation itself a meaningful category.",
+          "The importance of a hill is usually local. A named sacred hill carries the history of the community around it, so one site should not be assumed to represent every Òkè tradition.",
+          "Sacred geography challenges the assumption that religion is mainly a collection of beliefs held in the mind. A hill can organize movement, memory and authority. People approach it by particular routes, tell stories about events that happened there and connect it with offices such as kingship or priesthood. The physical landscape becomes an archive that must be visited and maintained, not merely described.",
+          "Òkè Mògún in Ilé-Ifẹ̀ provides a strong example because it appears within the ceremonial geography of the Olojo festival. Contemporary heritage photography records trees, paths and shrine boundaries that might seem visually modest compared with large sculptures. Their importance lies in the relationships they anchor. This helps readers understand why culturally significant sites cannot be evaluated only by architectural grandeur.",
+          "Òkè, literally connected with hill or elevation, shows how Yoruba sacred thought can attach memory directly to landscape. A hill can be a boundary, lookout, place of refuge, meeting point or landmark long before it acquires formal ritual significance. When a community remembers a named hill as sacred, geography becomes part of its historical archive."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Local names often join Òkè with a specific place or associated sacred history. The title is therefore geographical as well as theological.",
+          "Stories of hills can preserve memories of settlement, kingship, warfare, ritual procession and encounters with sacred powers.",
+          "Environmental protection is therefore also a cultural issue. When sacred hills or groves are damaged, the loss is not simply ecological; routes, memories and ritual rights can disappear as well. Digital documentation can support awareness, but it should not invite uncontrolled access or override local custodianship. A respectful publication explains significance while recognizing that communities remain the primary authorities over living sacred places.",
+          "For Òkè, responsible documentation must keep local variation visible. The themes of hill, place, height, landscape are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Òkè as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Place matters more than abstraction. A sacred hill in one town may have a founding story, priestly office or festival route that has no exact equivalent elsewhere. Describing Òkè as a universal “mountain god” therefore removes the local history that gives the tradition meaning. Yoruba sacred geography is often specific: this hill, this grove, this river, this compound."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Òkè means hill or elevated ground, and traditions connected with Òkè reveal how Yoruba religion can be rooted in landscape itself. A hill is not important merely because it is physically high. It can serve as a landmark, boundary, meeting place, defensive position or sacred point from which a community understands its territory. Elevation becomes historical memory.",
+          "In Ilé-Ifẹ̀ and other Yoruba settings, named hills are woven into local narratives and festival routes. Sacred geography works through specificity: this hill, this grove, this river, this road. The landscape becomes a record of movement and encounter. When people return to a sacred hill during an annual festival, they are not only approaching nature; they are reenacting a relationship between place and community.",
+          "Modern summaries sometimes turn Òkè into a generalized 'god of mountains.' That phrase is easy to understand but can be misleading. Yoruba sacred landscapes do not necessarily assume one universal mountain deity ruling every elevation. Local hills can possess their own histories, names and ritual custodians. Òkè is therefore better understood through place-based traditions than through a simplified mythological category.",
+          "Elevation also has practical consequences. From higher ground, travelers and defenders can see farther; water drains differently; settlement patterns change. Symbolic associations with visibility, endurance and nearness to the open sky grow naturally from those physical qualities. Sacred meaning is often strongest when it remains connected to what people actually experience in a place."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "The landscape itself may be the principal material focus. Trees, stones, paths, gates and modest shrines can matter more than monumental sculpture.",
+          "Height carries symbolic possibilities. From high ground, a person sees farther; a hill can suggest permanence, watchfulness and nearness to the open sky. These meanings help explain why elevated places often become religiously significant in many cultures. Yoruba traditions develop those possibilities through local stories rather than one abstract philosophy of mountains.",
+          "The connection between sacred hills and kingship is also important in some towns. Festival movement can link palace, shrine and landscape, producing a ritual map of political history. A ruler's authority is then situated not only in a building or genealogy but in the land through which processions move. Geography becomes part of public legitimacy.",
+          "Festival movement can turn a hill into part of a civic map. The route from palace to shrine or from town to elevated ground may reenact a story of settlement, authority or ancestral presence. Walking the route is different from merely hearing about it. The body learns history through distance, effort and orientation."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Ritual attention is frequently tied to local custodianship and civic history. Access and practice may be governed by community authority.",
+          "Archaeological and historical work on Yoruba cities reminds us that landscapes change. Settlement expands, roads are built, vegetation disappears and sacred sites can become surrounded by modern neighborhoods. A hill that once marked the edge of town may now sit inside dense urban development. Continued ritual attention can preserve its older identity even when the physical setting has transformed.",
+          "Documentation of Òkè therefore requires more than photographing scenery. Place names, oral accounts, festival routes and the testimony of custodians are essential. Without them, a visitor may see only an ordinary rise in the ground while missing the network of meanings that gives the place sacred status.",
+          "Urban growth threatens many sacred landscapes. A hill once outside the town may become surrounded by roads, housing or commercial development. Quarrying and land sales can alter sites faster than oral traditions can be recorded. Heritage preservation therefore depends on land policy as much as on ritual memory."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ilé-Ifẹ̀ provides important examples of sacred hills, including Òkè Mògún, but comparable place-based traditions exist elsewhere.",
+          "Òkè traditions demonstrate a wider Yoruba principle: history is often stored spatially. Rivers, groves, markets, compounds, crossroads and hills all carry memory. To walk through a Yoruba town with someone who knows its sacred geography is to encounter a map made not only of streets but of stories.",
+          "Topography also shaped defense and settlement. Elevated ground could provide visibility, cooler air or strategic advantage, so hills often entered the practical history of towns before becoming objects of symbolic interpretation. Sacred memory can preserve those older relationships long after the military or environmental conditions have changed.",
+          "Documentation should include place names, oral testimony and routes, not only photographs of scenery. A photograph can show the hill’s physical form, but it cannot explain which side is approached, where a procession pauses or why one rock is remembered differently from another. Those details live in community knowledge."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "The Olojo festival in Ilé-Ifẹ̀ demonstrates how procession can connect palace, sacred hill and city history in a single ritual geography.",
+          "Pilgrimage to a hill creates a physical experience that text cannot reproduce. Climbing requires effort; the view changes as elevation increases; the town appears differently from above. Such bodily movement can become part of ritual meaning. A sacred landscape is experienced through feet, breath and orientation as much as through spoken explanation.",
+          "Modern development places many sacred sites under pressure. Quarrying, construction and land speculation can alter hills that communities regard as historically important. Heritage protection therefore raises practical questions about ownership, access and the balance between urban growth and cultural continuity.",
+          "Migration gives sacred hills another role. People who live far from their hometown may return for festivals or use the name of the place as a marker of identity. The hill becomes an anchor for belonging even when daily life happens elsewhere. In this way, geography can continue to organize memory across distance."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Because Òkè is fundamentally place-sensitive, variation is not a secondary detail; it is part of the meaning of the tradition.",
+          "Place-based hill traditions are less easily transferred than portable objects or names, though the broader symbolism of elevation can travel.",
+          "Òkè traditions remind us that Yoruba religion is geographically literate. Sacred knowledge often answers the question 'where?' before it answers 'what?' The correct hill, grove, riverbank or compound matters because history is attached to location. Remove the location and much of the story becomes abstract.",
+          "Sacred hills can also become archives of naming. A single landscape may preserve the names of founders, past rulers, battles or ritual offices. When younger people learn those place names, they are learning fragments of local history that may never have been written in a formal chronicle.",
+          "Òkè traditions reveal a wider Yoruba principle: history is often stored spatially. Rivers, groves, markets, compounds, roads and hills all carry remembered events. A full documentary should therefore treat the landscape itself as evidence, not as a decorative background to mythology."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "The physical condition of a sacred site affects transmission. If a hill is fenced off, quarried or absorbed into private development, younger generations may lose not only ritual access but the sensory memory of the place. Heritage protection is therefore inseparable from land policy.",
+          "Òkè traditions are valuable because they make religious history tangible. A reader can debate mythology endlessly, but a community can still point to the hill, walk the route and explain why that place has mattered across generations.",
+          "Public history projects can help preserve sacred geography by recording oral explanations before elderly custodians die. Maps, photographs and interviews can document changes in access without pretending to replace the ritual knowledge of those communities. This is especially urgent in rapidly expanding cities.",
+          "Òkè ultimately teaches that place can be an archive. A hill may store memories of settlement, authority, pilgrimage and identity without containing a written document. The landscape itself becomes part of the historical record.",
+          "Seasonal festivals can renew a community's relationship with a hill even when daily life has moved elsewhere. People who now live abroad may return for annual observances, transforming sacred geography into a point of diaspora reconnection. Place becomes a way of maintaining belonging across distance.",
+          "Because hills are immovable, they provide a form of continuity that human institutions cannot. Priests change, rulers die and neighborhoods expand, yet the same elevation remains. That physical persistence gives Òkè traditions unusual power as anchors of long-term memory.",
+          "For younger generations, learning the names and histories of sacred hills can become an entry point into local history itself. The landscape gives memory a physical address, making stories easier to connect with the town that produced them.",
+          "Òkè should not be treated as one standardized deity with a universal icon. Sacred hills are best understood through their local histories."
+        ]
+      }
     ]
   },
   {
@@ -1571,6 +1671,106 @@ window.ORISA_PUBLICATIONS = [
       "The ambiguity of Olókun's gender across traditions is not a problem that documentary writing needs to solve. It is evidence of regional history. Instead of choosing one version and labeling others incorrect, a careful account asks which community, period and ritual institution is being described.",
       "That method changes the subject from a mythology quiz into cultural history. Olókun becomes a record of how neighboring peoples understood water, wealth and depth, and how those ideas later crossed the Atlantic. Variation becomes evidence rather than confusion.",
       "The subject also demonstrates why comparative religion requires patience. Similar aquatic symbols may appear in several traditions, but resemblance is not proof of identical origin or meaning. Local testimony, language and historical context remain the strongest guides."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Olókun is associated with deep water, wealth, hidden abundance and forms of power that are difficult to reduce to a single image.",
+          "Olókun traditions differ significantly across Yoruba and neighboring cultural histories. In some Yoruba contexts Olókun is strongly linked with depth, wealth and the sea; other regions preserve distinct gendered and theological understandings.",
+          "Because the name also has important histories in Edo traditions, careful attention to cultural context is essential.",
+          "Olókun is a particularly important case for careful regional comparison. The name and associated traditions appear across cultural boundaries, and Yoruba and Edo histories should not be merged casually. Within Yoruba contexts, deep water, wealth, hidden abundance and inaccessible depth are recurring themes, but gender, ritual organization and imagery can differ. The sea is powerful partly because it represents what lies beyond ordinary visibility. This makes Olókun useful for thinking about wealth not only as money but as resources, knowledge and power that remain concealed beneath the surface.",
+          "Coastal history adds another layer. Trade, fishing, migration and Atlantic contact changed the social meaning of water over many centuries. Communities living near lagoons and the ocean developed relationships with marine environments that differed from inland river traditions. Diasporic religions then carried the name Olókun into new theological systems, sometimes emphasizing the ocean in ways that became globally influential. Documenting these developments requires a timeline rather than a single timeless description.",
+          "Olókun is associated with deep water, wealth, fertility and the resources imagined beneath the visible surface. The most important starting point is that West African Olókun traditions are regionally diverse. Yoruba and Edo-speaking communities both preserve powerful forms of Olókun worship, but their institutions, gender descriptions and visual languages are not identical."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names and gendered language vary, reflecting important regional differences.",
+          "Narratives often emphasize depth, inaccessible wealth, mystery and the limits of human control.",
+          "Visual culture should be handled with the same caution. A modern photograph, shrine object or internet illustration can represent one community without representing every Olókun tradition. This publication therefore uses contextual imagery and emphasizes documented variation. Museum collections, coastal ethnography and diaspora studies can be read together to understand how depth, wealth, mystery and water recur while ritual form changes. The aim is not to force all versions into one standardized identity but to show why the name remains powerful across multiple related histories.",
+          "For Olókun, responsible documentation must keep local variation visible. The themes of deep water, wealth, mystery, depth are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Olókun as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Water creates a natural language of depth. A person can stand at the shore and see the surface while remaining unable to know everything below. This makes deep water an effective image for hidden wealth and hidden knowledge. Mystery in Olókun traditions is therefore not simply secrecy; it reflects an environment that human beings cannot fully control or survey."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Olókun is associated with deep water, wealth, mystery and the powerful resources imagined beneath the surface. The name appears across a broad cultural region, including Yoruba and Edo-speaking communities, but the traditions are not identical. This is one of the clearest cases where careful documentation must distinguish neighboring histories rather than assuming one standardized West African deity.",
+          "In coastal and riverine environments, water is both resource and danger. It supports fishing, trade and travel while concealing depths that cannot be easily seen. Olókun's symbolism grows from this combination. Depth becomes a metaphor for hidden wealth and hidden knowledge, but it also represents forces beyond easy human control.",
+          "The relationship between Olókun and wealth is not accidental. Long-distance commerce in West Africa depended on waterways and coastal exchange. Valuable goods moved through ports, lagoons and river systems. A sacred power associated with deep water could therefore be connected with abundance in a way rooted in economic history rather than in arbitrary symbolism.",
+          "Trade gives the wealth association a historical basis. Rivers, lagoons and coastal routes connected communities to long-distance exchange. Valuable goods, beads, coral and imported materials could arrive through maritime networks. Sacred language linking water and abundance grew in a world where waterways literally carried wealth into cities and courts."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Water vessels, beads and localized shrine objects may be used, but no single iconography should be universalized.",
+          "Questions of gender reveal major regional variation. In some Yoruba and diaspora traditions Olókun may be represented differently from Edo traditions, where the cult has its own institutions and visual history. Modern internet descriptions often state one gender as universally correct. Historical evidence does not support that level of simplification. The identity must be read within the community being discussed.",
+          "The famous object sometimes called the 'Ori Olokun' from Ilé-Ifẹ̀ became important in modern Yoruba cultural imagination, although its archaeological interpretation is more complicated than the popular name suggests. The story of its discovery and reproduction illustrates how museum objects can acquire new public meanings beyond their original context.",
+          "Yoruba beadwork provides one of the clearest material connections. Beads became central to royal and devotional art, and historical sources link their brilliance and value with Olókun. Their ability to catch and reflect light created a visual language of prestige. Wealth was made visible through surfaces that shimmered like water."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Practice varies by region and may be connected with coastal or water-oriented communities.",
+          "In Atlantic religions, Olókun developed new relationships with oceanic memory. For descendants of Africans carried across the Atlantic, the sea was not only a source of wealth or mystery but also the route of forced displacement. Diaspora traditions therefore interpret deep water through histories that differ profoundly from those of inland Yoruba towns.",
+          "Material representations of Olókun can include beads, colors, vessels and aquatic imagery, but there is no single icon that captures the tradition everywhere. As with other Òrìṣà, objects become meaningful through ritual use and local explanation. Detached from those settings, the same object can be misidentified.",
+          "Gender cannot be described responsibly without regional qualification. Some traditions represent Olókun as female, others as male, and diaspora communities developed their own conventions. The disagreement is evidence of cultural history, not a mistake that one modern article needs to solve. A documentary should identify the community being discussed before declaring one form universal."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Coastal Yoruba areas and diasporic contexts have developed especially visible Olókun traditions.",
+          "Olókun remains a compelling sacred idea because deep water continues to represent what is valuable, dangerous and not fully visible. The tradition reminds us that wealth and uncertainty often occupy the same space. What lies beneath the surface may sustain life, but it also demands respect.",
+          "Deep-water symbolism can also be read through the idea of limits. Human beings can stand at the shore and see the surface while remaining unable to know everything below. This makes depth a natural metaphor for knowledge that is powerful precisely because it is incomplete. Mystery in Olókun traditions is therefore not mere secrecy; it reflects an environment that resists total visibility.",
+          "Deep-water symbolism also carries danger. The same water that supports trade and food can drown, flood or conceal hazards. This ambivalence prevents Olókun from becoming a simple figure of luxury. Wealth and risk occupy the same sacred field: what is valuable may also be difficult to control."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public observances depend on locality.",
+          "Beads and prestige materials are frequently associated with aquatic wealth in southern Nigerian traditions. Imported goods historically arrived through trade networks connected to waterways, making the relationship between water and luxury materially understandable. Sacred symbolism often grows from such economic realities rather than from arbitrary color charts.",
+          "Modern environmental change gives water traditions new relevance. Pollution, dredging and coastal erosion affect communities whose histories are tied to rivers and lagoons. Religious attachment can become part of cultural arguments for protecting a landscape. That contemporary role should be documented without pretending every ancient ritual was originally ecological activism.",
+          "Atlantic displacement added another historical layer. For African descendants in the Americas, the ocean was not only a source of wealth or mystery but the route of forced migration. Diaspora interpretations of Olókun therefore developed in societies where deep water carried traumatic ancestral memory. That history cannot be reduced to West African coastal symbolism."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Regional variation is central and should be stated explicitly whenever Olókun is discussed.",
+          "Olókun became highly influential in several Atlantic religions, with new ritual and theological developments.",
+          "Olókun also illustrates the danger of collapsing neighboring cultures into one mythology. Edo, Yoruba and diaspora traditions have influenced one another, but each possesses its own historical institutions. Respectful comparison begins by identifying the community speaking before drawing connections. Similar names are invitations to research, not permission to erase difference.",
+          "Coastal trade also brought strangers, languages and imported goods into contact. Water was therefore a route through which the outside world entered local life. Olókun's combination of wealth and mystery fits a historical environment in which the horizon could deliver opportunity as well as danger.",
+          "Olókun is best documented comparatively but carefully. Yoruba, Edo and diaspora traditions can be placed beside one another without being collapsed into one mythology. The strongest common thread is depth itself: a sacred language for abundance, danger, fertility and the limits of what human beings can see."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Modern ocean imagery can overshadow inland Yoruba traditions connected with lagoons and rivers. The documentary record becomes clearer when the specific body of water is named rather than assuming that every Olókun tradition is maritime in exactly the same way.",
+          "Olókun's lasting strength as a symbol comes from the fact that depth resists possession. Wealth can be desired but not fully controlled; knowledge can be pursued but not exhausted. The sacred language of deep water gives form to both abundance and humility.",
+          "Artistic representations of deep water also change with technology. Contemporary painters, filmmakers and digital artists can visualize Olókun in forms unknown to earlier shrine communities. Such creativity is part of living culture, but it should be labeled as modern interpretation rather than ancient iconography.",
+          "The strongest documentary approach keeps three levels visible at once: local West African institutions, neighboring Edo and Yoruba differences, and later Atlantic transformations. Olókun becomes clearer when comparison preserves boundaries instead of dissolving them.",
+          "The ambiguity of Olókun's gender across traditions is not a problem that documentary writing needs to solve. It is evidence of regional history. Instead of choosing one version and labeling others incorrect, a careful account asks which community, period and ritual institution is being described.",
+          "That method changes the subject from a mythology quiz into cultural history. Olókun becomes a record of how neighboring peoples understood water, wealth and depth, and how those ideas later crossed the Atlantic. Variation becomes evidence rather than confusion.",
+          "The subject also demonstrates why comparative religion requires patience. Similar aquatic symbols may appear in several traditions, but resemblance is not proof of identical origin or meaning. Local testimony, language and historical context remain the strongest guides.",
+          "Modern internet imagery often blends Yoruba and Edo traditions without distinction; responsible documentation keeps those histories separate."
+        ]
+      }
     ]
   },
   {
@@ -1624,6 +1824,106 @@ window.ORISA_PUBLICATIONS = [
       "Traditional agricultural knowledge also includes social timing: when communal labor is available, when markets will need produce and when ceremonies place demands on household resources. Farming is embedded in society. Òrìṣà Oko therefore represents agricultural order in a broad sense, not just the physical act of planting.",
       "Modern mechanization changes tools but not the central problem of dependence on land. Tractors, improved seed and irrigation can increase control, yet weather and soil still matter. The tradition remains intelligible because agriculture continues to combine skilled human work with conditions no individual farmer fully commands.",
       "The dignity of cultivation also has a social message: societies that celebrate wealth while ignoring farmers misunderstand the foundation of abundance. Òrìṣà Oko places productive land and patient labor back at the beginning of the economic story."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Òrìṣà Oko is associated with agriculture, cultivated land, food production and the social order sustained by farming.",
+          "Agriculture has long been central to Yoruba social life, and Òrìṣà Oko traditions connect cultivation with ritual responsibility, land and communal wellbeing.",
+          "Historical objects associated with Òrìṣà Oko in museum collections show how agricultural identity can be expressed through highly refined ritual art.",
+          "Òrìṣà Oko places agriculture at the center of sacred and social order. Farming is not only a way to produce food; historically it has organized calendars, labor relations, land rights, household survival and community exchange. An Òrìṣà associated with cultivated land therefore connects religious thought with the practical work that sustains society. Narratives about productivity, honesty and communal responsibility can be read against this agricultural background. The dignity of labor is not abstract: it is tied to fields, seasons, tools and the vulnerability of communities to environmental conditions.",
+          "Museum collections preserve striking iron staffs and beaded sheaths associated with Òrìṣà Oko. One documented example from the Ọ̀yọ́ region shows how blacksmithing and agriculture meet in a single ritual object: iron hoes supplied by a client could be reworked into a staff, turning ordinary productive technology into a sign of shrine authority. The beaded covering adds another layer, giving the object a visual status associated with prestige. Such objects demonstrate why it is misleading to separate 'art' from religious practice too sharply in Yoruba material culture.",
+          "Òrìṣà Oko belongs to the world of cultivated land, seasonal labor and food production. Before industrial supply chains, the success of a farming season determined whether households ate well, whether markets had goods and whether ceremonies could be supported. An agricultural Òrìṣà therefore addressed one of the most basic conditions of community survival."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names and local titles often refer to farming, land, food and rural prosperity.",
+          "Narratives may emphasize cultivation, social responsibility, justice and the value of productive labor.",
+          "Contemporary documentation of Òrìṣà Oko can also contribute to environmental history. Crop patterns, soil use, rural migration and changing agricultural economies affect how communities relate to land. Religious traditions do not stand outside these changes. Some observances remain strongly local, while the name Òrìṣà Oko also appears in diaspora pantheons. A careful publication should therefore preserve agricultural vocabulary and historical objects without inventing a single standardized festival calendar. The continuity is best seen in the relationship among land, productive labor, food security, community responsibility and the sacred value of cultivation.",
+          "For Òrìṣà Oko, responsible documentation must keep local variation visible. The themes of agriculture, land, farming, community are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Òrìṣà Oko as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Farming requires patience because results are delayed. Land must be cleared, seed planted, weeds controlled and harvest awaited. A farmer works for an outcome that cannot be produced instantly. Religious attention to cultivation recognizes that human effort is necessary but never fully sufficient: rainfall, soil, pests and timing remain partly beyond individual control."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Òrìṣà Oko is associated with farming, cultivated land and the social order built around agricultural production. Before industrial food systems, the success of the farming season shaped nearly every aspect of community life. Harvest determined whether households ate well, whether markets were supplied and whether ceremonies could be supported. An agricultural Òrìṣà therefore belonged near the center of social survival.",
+          "The word <em>oko</em> can refer to farm or cultivated field, and the tradition reflects the moral value placed on productive labor. Farming is repetitive, seasonal work that depends on timing and patience. Land must be cleared, planted, weeded and harvested. Religious attention to agriculture acknowledges that human effort is essential while also recognizing dependence on rain, soil and conditions beyond individual control.",
+          "Historic objects associated with Òrìṣà Oko include iron staffs and implements whose forms connect agriculture with the wider symbolic importance of metal technology. The farming tool links Òrìṣà Oko to the transformative power of Ògún without collapsing the two traditions. One emphasizes cultivated land and food production; the other centers iron and technology more broadly.",
+          "Yam cultivation is especially important in many West African histories because yam is labor-intensive and culturally significant. First-harvest practices can transform a crop from ordinary food into a marker of seasonal renewal. The meaning is social as well as agricultural. A successful harvest allows households to feed guests, support dependants and participate in public life."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Documented objects include staffs, sheaths and other forms connected with agricultural ritual traditions.",
+          "Agricultural festivals can serve several purposes at once. They may mark the beginning or end of a season, recognize the first harvest, renew social obligations and create opportunities for communal feasting. The sacred and economic dimensions cannot be separated neatly because the harvest is both food and a sign of collective wellbeing.",
+          "Land tenure introduces a political dimension. Farms belong within systems of family rights, community authority and inheritance. Disputes over boundaries or access can therefore become disputes about history and legitimacy. A sacred tradition concerned with cultivated land exists inside this wider social framework.",
+          "Iron tools connect Òrìṣà Oko with the wider history of technology. Hoes, cutlasses and other implements make cultivation possible, creating a natural relationship with Ògún without collapsing the two traditions. One sacred field centers the transformation of metal; the other centers the transformation of land into food."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Practice may be associated with farming communities, households and local specialists.",
+          "Urbanization has reduced the direct experience of farming for many Yoruba people, but agricultural identity has not disappeared. Food prices, land development and migration keep the question of cultivation socially important. In rural communities, farming remains a major livelihood; in cities, festivals and family ties continue to preserve memory of agricultural roots.",
+          "Modern romanticism sometimes presents traditional farming as an uncomplicated harmony with nature. Historical farmers faced drought, crop disease, labor shortages and political insecurity. Religious institutions did not remove those risks. They provided ways to organize hope, obligation and communal response around them.",
+          "Land rights are also family history. Farms can be inherited, and the right to cultivate a field may preserve knowledge of settlement and descent. A dispute over farmland can therefore be more than an economic disagreement; it can be an argument about who belongs to a lineage and how the community remembers its past."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Òrìṣà Oko traditions are distributed across multiple Yoruba regions with different agricultural histories.",
+          "Òrìṣà Oko offers a useful reminder that Yoruba religion is deeply connected to work. Sacred life is not confined to temples and divination rooms. It is also found in the field, the market and the practical systems through which a community feeds itself.",
+          "Farming knowledge itself is highly localized. Soil, rainfall, crop choice and planting calendars vary across ecological zones, so agricultural practice depends on accumulated experience. A sacred tradition tied to cultivation exists alongside this practical expertise. Ritual does not replace knowledge of when to plant or how to manage a field; it gives social meaning to dependence on uncertain conditions.",
+          "Urbanization has made agriculture less visible to many Yoruba people, but dependence on farmers has not disappeared. Food still arrives in cities because someone planted, weeded and harvested it. Òrìṣà Oko’s tradition challenges the modern tendency to celebrate commercial wealth while ignoring the labor that produces the goods being traded."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Observances may follow local agricultural cycles and community calendars.",
+          "The importance of yam in many West African communities helps explain the prominence of first-harvest celebrations. A new crop is not simply food arriving in the market. It marks the successful completion of months of labor and the renewal of the household's food supply. Ceremonial restriction before first consumption can turn harvest into a communal event.",
+          "Land also connects the living with ancestors. Family farms may be inherited, and rights to use particular fields can preserve knowledge of descent and settlement. Losing land can therefore mean losing part of a lineage's history as well as an economic resource. Òrìṣà Oko sits naturally within that relationship between cultivation and belonging.",
+          "Climate variability gives the tradition contemporary relevance. Rainfall patterns, soil pressure and changing seasons affect farmers in new ways, even as modern science offers improved seed, irrigation and forecasting. Sacred heritage does not replace agricultural science, but it preserves the historical fact that farming has always combined expertise with uncertainty."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "The importance of specific crops, objects and ritual roles varies locally.",
+          "Òrìṣà Oko is less globally visible than several other Òrìṣà but remains part of broader diasporic pantheons.",
+          "Contemporary discussions of food security give the tradition another layer of relevance. Urban consumers may be distant from farms, yet everyone depends on agricultural labor. The sacred dignity attached to cultivation challenges the modern tendency to treat farming as socially inferior work while relying completely on those who produce food.",
+          "Farm labor was also organized socially. Households depended on cooperation, hired labor, age groups or reciprocal work arrangements depending on place and period. Agricultural success therefore reflected community organization as well as the skill of an individual farmer.",
+          "Òrìṣà Oko ultimately represents stability created through repeated work. The tradition is less dramatic than thunder or deep water, but that quietness is part of its importance. Civil life depends on food, and food depends on land, timing, labor and the patience to continue working before results are visible."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Market life begins with production. The yam, maize, beans or vegetables sold in town carry the labor of fields that urban consumers may never visit. Òrìṣà Oko's tradition reconnects prosperity with the land from which commercial life ultimately depends.",
+          "Seen historically, Òrìṣà Oko represents stability created through repeated work. Farming rarely produces the dramatic imagery of thunder or the mystery of deep water, but it sustains everything around it. That quiet centrality is the tradition's real power.",
+          "Climate variability now gives agricultural heritage additional urgency. Farmers continue to face uncertain rainfall, soil degradation and changing seasons. Modern agricultural science addresses these problems in new ways, while older ritual traditions preserve the historical fact that food production has always involved uncertainty.",
+          "Òrìṣà Oko therefore belongs to a larger Yoruba respect for productive work. The sacred value of cultivation reminds a modern audience that prosperity begins long before money reaches a market. It begins with land, labor, timing and the patient work of growing food.",
+          "Traditional agricultural knowledge also includes social timing: when communal labor is available, when markets will need produce and when ceremonies place demands on household resources. Farming is embedded in society. Òrìṣà Oko therefore represents agricultural order in a broad sense, not just the physical act of planting.",
+          "Modern mechanization changes tools but not the central problem of dependence on land. Tractors, improved seed and irrigation can increase control, yet weather and soil still matter. The tradition remains intelligible because agriculture continues to combine skilled human work with conditions no individual farmer fully commands.",
+          "The dignity of cultivation also has a social message: societies that celebrate wealth while ignoring farmers misunderstand the foundation of abundance. Òrìṣà Oko places productive land and patient labor back at the beginning of the economic story.",
+          "Treating agriculture as merely economic misses its ritual, social and ecological significance."
+        ]
+      }
     ]
   },
   {
@@ -1671,6 +1971,100 @@ window.ORISA_PUBLICATIONS = [
       "Consultation also depends on listening from both sides. The diviner must hear the client's circumstances, and the client must hear the verse carefully enough to recognize relevance. The process is dialogic. An Odù is not useful simply because it has been named; meaning emerges through interpretation.",
       "Because Ifá knowledge can now be searched online, memorization may appear less necessary to outsiders. Traditional training, however, treats memory as more than data storage. Memorized verses become available for comparison in real time, allowing a priest to recognize patterns without reducing consultation to a database lookup.",
       "Òrúnmìlà therefore represents a form of intelligence grounded in memory, humility and application. Knowledge matters because it can guide action, but it remains credible only when the person using it accepts the discipline required to learn it."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Òrúnmìlà stands at the center of Ifá as the sacred intelligence through which questions of character, destiny, ethics and choice are interpreted.",
+          "Within Yoruba religious thought, Òrúnmìlà is closely associated with Ifá, the divinatory and philosophical corpus preserved through trained specialists. His importance is not simply that of foretelling events. Ifá is used to think through conduct, obligations, relationships, sacrifice, timing and the consequences of choices.",
+          "Many Yoruba communities understand Òrúnmìlà as a witness to destiny and as a source of counsel. The precise theology, titles and ritual emphases vary among lineages, towns and diasporic traditions, so no single local explanation should be treated as universal.",
+          "The documentary importance of Òrúnmìlà lies in the way Ifá joins religion, literature, intellectual history and social decision-making. UNESCO describes Ifá as a system based on a large corpus of signs and verses interpreted by trained diviners, and notes that the corpus preserves material concerning Yoruba history, philosophy, medicine, mythology and contemporary social questions. That breadth helps explain why Òrúnmìlà cannot be reduced to a single function such as prediction. In many communities, a consultation creates a structured setting in which questions are placed beside inherited narratives and ethical precedents. The answer is therefore not merely an announcement about the future; it is an argument about conduct, character, obligation and consequence.",
+          "The arts of Ifá also make its intellectual structure visible. Divination trays, tappers, carved containers, palm nuts and chains are not random accessories. Their forms belong to a long history of specialist workshops and ritual institutions. Museum collections show considerable regional variation in carving style, iconography and materials, while oral teaching explains how objects become meaningful through use. The relationship between spoken verse and material form is especially important: an object can mark the physical space of consultation, but the interpretation still depends on language, memory and apprenticeship. This is one reason responsible documentation should place photographs of Ifá objects beside explanations of how knowledge is transmitted rather than presenting them as isolated curiosities.",
+          "Òrúnmìlà is inseparable from Ifá, the Yoruba system of divination and oral literature organized through 256 Odù. His sacred authority is tied to knowledge, memory and interpretation. The Babaláwo does not simply announce personal intuition; he works through a structured system of signs connected with a large body of verses, narratives and precedents."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Common references include Òrúnmìlà and Ifá, while praise names and lineage titles vary. In practice, the distinction between the Òrìṣà and the divinatory institution around Ifá may be expressed differently by different teachers.",
+          "Ifá knowledge is carried through Odù, verses, narratives, proverbs, prayers, ritual language and interpretive training. Oral transmission is central: memorization is important, but interpretation also depends on apprenticeship, context and the ability to relate a verse responsibly to the matter being examined.",
+          "Contemporary study of Òrúnmìlà also requires attention to living practitioners and to differences among lineages. No digital publication can replace the years of memorization, interpretive discipline and ritual training expected of a Babaláwo or other recognized specialist. At the same time, public documentation has an important role in preserving terminology, recording art, explaining the structure of the Odù corpus and correcting stereotypes. A useful modern approach treats Ifá simultaneously as a living religious institution and as a major Yoruba archive of thought. It should acknowledge both historical change and continuity, including the growth of Ifá communities in the Americas and Europe, without assuming that every diaspora procedure is identical to every West African lineage.",
+          "Òrúnmìlà is central to Ifá because he represents the ideal of knowledgeable interpretation. In praise language he is remembered as a witness to matters of destiny and as a source of counsel. This does not mean that every story about him presents a single fixed biography. Ifá lineages preserve many narratives, sometimes with different settings and emphases. What unites them is the authority of wisdom.",
+          "The Ifá corpus is vast. Each Odù can contain many ẹsẹ Ifá, and no single priest necessarily knows every verse preserved across all lineages. This is why apprenticeship matters. A student learns by listening, memorizing, reciting, being corrected and observing how senior priests connect a verse to a real consultation."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "The prestige of Òrúnmìlà is closely tied to the intellectual demands placed on Babaláwo. Ifá specialists memorize large bodies of oral literature and learn how to connect a sign with appropriate verses. The religious authority of Òrúnmìlà therefore supports a social institution of disciplined learning. His sacred identity cannot be separated from the practices of memory, recitation and interpretation maintained by priests.",
+          "Destiny is one of the major themes associated with Òrúnmìlà, but Ifá narratives rarely make destiny a simple excuse for fatalism. Advice matters because action matters. Characters are repeatedly shown making choices after receiving warning. Some succeed because they listen; others suffer because they refuse counsel. Wisdom is therefore practical rather than merely contemplative.",
+          "Òrúnmìlà's relationship with other Òrìṣà is also important. Ifá verses place him in a world of interaction rather than isolation. He consults, advises, travels, negotiates and sometimes depends on other sacred powers. These narratives reflect a Yoruba religious universe built from relationships among specialized institutions rather than a rigid hierarchy controlled by one figure.",
+          "UNESCO’s recognition of the Ifá divination system as intangible cultural heritage reflects this depth. The institution is not only a method of answering questions; it is also a repository of Yoruba language, history, ethical reflection and social memory. Verses discuss marriage, leadership, work, illness, conflict, travel, family and the consequences of human choices."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Material culture associated with Ifá includes ọ̀pọ́n Ifá (divination trays), ìrọ̀kẹ̀ Ifá, ikin, ọ̀pẹ̀lẹ̀, carved containers and other objects whose form and decoration can vary widely. Their visual language often combines geometry, figuration and the face of Èṣù or other motifs relevant to communication and divination.",
+          "The material culture of Ifá makes Òrúnmìlà visible without requiring a standardized statue. Ikin, Ọ̀pẹ̀lẹ̀, ọ̀pọ́n Ifá, carved vessels and divining powder form part of the ritual environment. Many trays include imagery connected with Èṣù, showing that communication itself depends on relationships among sacred principles.",
+          "UNESCO's recognition of the Ifá divination system brought international attention to a tradition that practitioners had maintained for generations. The significance of that recognition lies less in giving Ifá legitimacy than in acknowledging its importance as intangible cultural heritage. The institution already possessed its own systems of authority and transmission long before international heritage frameworks existed.",
+          "Material culture makes the intellectual system visible. Ikin palm nuts, Ọ̀pẹ̀lẹ̀ chains, divination trays and carved vessels are part of a ritual environment in which signs are generated and interpreted. Some historic objects are highly elaborate, showing that communities invested artistic skill and valuable materials in the institution."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Babaláwo and other Ifá specialists undergo long periods of training. Consultation is therefore not merely the act of casting; it belongs to a wider institution of study, ritual discipline, ethics and community responsibility.",
+          "Modern Ifá communities now span Nigeria, Benin, Europe and the Americas. Digital communication allows verses and teachings to circulate rapidly, but it also creates new problems. Material can be copied without context, titles can be claimed without adequate training and different lineages can appear contradictory when presented side by side. The traditional answer to such complexity remains apprenticeship and accountable teaching.",
+          "Òrúnmìlà endures as a sacred image of reflective intelligence. His tradition values the person who listens before acting, remembers precedent and understands that knowledge carries responsibility. Those ideals are as relevant in modern professional life as they were in older ritual settings, which helps explain why his figure continues to attract study beyond the community of initiated practitioners.",
+          "Destiny is one of the most important themes associated with Òrúnmìlà, but Ifá should not be described as simple fatalism. Consultation matters because response matters. A verse can warn, advise or identify an obligation, and the client is expected to act. The system assumes that inherited conditions and human choices interact."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Strong Ifá traditions are documented across Yoruba-speaking regions, including Ilé-Ifẹ̀, Ọ̀yọ́, Ekiti, Ondo, Ìjẹ̀bú and other areas, with distinctive local schools and vocabularies.",
+          "Written collections of Ifá verses have transformed access to Òrúnmìlà's tradition. They preserve material that might otherwise disappear and allow scholars to compare variants, but writing also changes an oral text. Performance, tone, pacing and the interaction between priest and listener cannot be fully captured on a page. Publication is preservation and transformation at the same time.",
+          "Òrúnmìlà's reputation for wisdom also creates a standard against which practitioners are judged. A Babaláwo who is boastful, careless with confidential matters or primarily interested in money contradicts the ethical image associated with the office. Communities debate these failures precisely because the ideal of responsible knowledge remains strong.",
+          "Ethics are built into the ideal of the Babaláwo. A diviner hears private information, addresses vulnerable people and speaks with religious authority. Truthfulness, discretion and restraint are therefore central professional expectations. Ifá literature itself contains criticism of greed, arrogance and careless behavior, making ethical self-examination part of the tradition."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public observances connected with Ifá differ by town and lineage. Some communities maintain annual festivals, temple observances or lineage gatherings, while other practices are more private.",
+          "Modern interest in Ifá philosophy has produced comparisons with mathematics, computing, psychology and other disciplines. Some comparisons are illuminating, while others become exaggerated claims that force modern scientific language onto an older system. The most respectful approach recognizes Ifá's intellectual sophistication without needing to prove that it secretly invented every later field.",
+          "Òrúnmìlà's documentary importance ultimately lies in the institution built around remembered precedent. Ifá teaches that a present problem can be understood by listening to stories of earlier problems. That method—consulting memory before action—is one reason the tradition continues to speak to people navigating new circumstances.",
+          "Writing and digital media have transformed transmission. Printed collections preserve verses and make comparison possible, while online platforms carry teachings across continents. Yet an oral verse on a page is not identical to performance. Tone, pacing, explanation and the dialogue of consultation can disappear when the text is detached from a trained interpreter."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Ifá is especially sensitive to variation because oral corpora, recitation style, naming, ritual procedure and interpretive conventions may differ significantly between lineages.",
+          "Ifá traveled through Atlantic histories and is now practiced in several diasporic traditions. Yoruba-derived systems in Cuba, Brazil, the United States and elsewhere developed their own institutions while maintaining important continuities with West African Ifá.",
+          "Consultation also depends on listening from both sides. The diviner must hear the client's circumstances, and the client must hear the verse carefully enough to recognize relevance. The process is dialogic. An Odù is not useful simply because it has been named; meaning emerges through interpretation.",
+          "Because Ifá knowledge can now be searched online, memorization may appear less necessary to outsiders. Traditional training, however, treats memory as more than data storage. Memorized verses become available for comparison in real time, allowing a priest to recognize patterns without reducing consultation to a database lookup.",
+          "Òrúnmìlà represents a particular idea of intelligence: remember precedent, listen carefully, compare patterns and avoid acting as though the present situation has no history. That method is one reason Ifá remains compelling. The tradition treats wisdom not as possession of secret facts but as the disciplined ability to interpret experience responsibly."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Òrúnmìlà therefore represents a form of intelligence grounded in memory, humility and application. Knowledge matters because it can guide action, but it remains credible only when the person using it accepts the discipline required to learn it.",
+          "Reducing Ifá to fortune-telling misses its philosophical, ethical and literary dimensions. It is better understood as a broad system of consultation, knowledge transmission, ritual practice and reflection on human choice."
+        ]
+      }
     ]
   },
   {
@@ -1721,6 +2115,103 @@ window.ORISA_PUBLICATIONS = [
       "Ọ̀sányìn's tradition is therefore not simply about 'herbs.' It is about expertise: the recognition that the natural world contains useful and dangerous materials and that responsible use depends on training. That principle remains valid whether one approaches the subject religiously, culturally or scientifically.",
       "Conservation adds another modern concern. When medicinal plants become scarce through habitat loss or overharvesting, cultural knowledge can survive in words while the species themselves disappear locally. Protecting biodiversity is therefore relevant to preserving the material basis of herbal traditions.",
       "Ọ̀sányìn's documentary story is strongest when wonder is joined to precision. The forest may be sacred, but identification still matters; inherited knowledge may be valuable, but safety still matters. Respect for tradition is not weakened by careful verification—it is strengthened."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọ̀sányìn is closely associated with ewé—leaves—and with the disciplined specialist knowledge through which plants are identified, combined and understood.",
+          "Yoruba traditions surrounding Ọ̀sányìn emphasize the importance of leaves to ritual and healing knowledge. This does not mean that every plant use is interchangeable or universally known.",
+          "Expertise is commonly lineage-based and practical. Identification, harvesting, preparation, timing, language and context all matter.",
+          "Ọ̀sányìn is central to discussions of Yoruba plant knowledge because ewé are not treated simply as ingredients detached from expertise. Identification, habitat, season, preparation, combination and naming all matter. This makes the tradition ecological as well as religious. A specialist must know plants in the landscape, not only from a written list. Oral transmission can preserve distinctions that are difficult to capture in translation, and the same common name may refer to different species in different places. Responsible documentation therefore separates cultural history from medical instruction and avoids turning specialist knowledge into unsupported health claims.",
+          "The famous iron staffs associated with Ọ̀sányìn show how botanical knowledge can be represented through metalwork and symbolic form. Many examples consist of a central shaft with birds and human figures arranged above it. Museum labels often emphasize the birds, but interpretation varies and should be tied to specific collections and communities. The visual complexity of the staff reminds viewers that plant knowledge is embedded in a larger social world of specialists, lineages, markets, forests and ritual institutions. The object is not a botanical manual; it is a sign of authority and a material expression of disciplined knowledge.",
+          "Ọ̀sányìn is associated with leaves, forests and specialist herbal knowledge. The key word is specialist. Traditional medicine depends on identifying the correct plant, knowing which part is used, recognizing the condition of the material and learning how preparation changes its properties. A list of plant names is not equivalent to mastery."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names frequently emphasize leaves, forest knowledge, secrecy and specialist expertise.",
+          "Songs, formulas, plant names, proverbs and apprenticeship are important vehicles of transmission.",
+          "Modern interest in herbal medicine creates both opportunities and risks for documenting Ọ̀sányìn. Ethnobotany can preserve plant names and ecological knowledge, while digital archives can help younger readers encounter terminology that might otherwise disappear. At the same time, internet circulation can strip recipes from context, misidentify plants or present dangerous claims as universal cures. A strong cultural publication should therefore focus on history, language, material culture and systems of knowledge, while directing medical questions to qualified professionals. Diasporic Osain traditions offer another important field of comparison, showing how plant-centered expertise adapted to new environments and available species.",
+          "For Ọ̀sányìn, responsible documentation must keep local variation visible. The themes of leaves, herbal knowledge, specialist practice, forest are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ọ̀sányìn as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Yoruba plant vocabulary is highly local. One vernacular name may refer to different species in different areas, and several names may be used for the same plant. This creates real problems for translation. Reliable botanical documentation requires specimens, field identification and comparison, not confidence based only on a familiar-sounding name."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Ọ̀sányìn is associated with leaves, forests and specialist knowledge of plants. Yoruba medicine historically depended on detailed familiarity with local environments: how a plant was identified, which part was used, when it was collected and how it was combined with other materials. A sacred figure of herbal knowledge therefore belongs to a tradition of disciplined observation as well as religion.",
+          "The Yoruba phrase <em>ewe</em>, meaning leaf, appears constantly in medicinal and ritual vocabulary. But a list of plant names is not equivalent to medical expertise. Similar common names can refer to different species in different regions, and some plants can be toxic. Traditional specialists learned through apprenticeship and local identification. Modern documentation must preserve that caution rather than turning ethnobotanical records into casual instructions.",
+          "Ọ̀sányìn's association with one leg, one arm or other unusual bodily imagery appears in several oral and artistic traditions, though details vary. Such imagery is symbolic and should not be treated as a universal literal portrait. Metal staffs associated with Ọ̀sányìn often feature a vertical form crowned by birds, creating one of the most recognizable types of Yoruba sacred sculpture.",
+          "Iron staffs associated with Ọ̀sányìn are among the most recognizable objects in Yoruba sacred art. Smithsonian collections preserve staffs with a large central bird surrounded by smaller birds, as well as forms involving bells or human figures. The objects show how herbal knowledge, ironworking and spiritual authority could be represented in a single sculptural form."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Museum collections include distinctive staffs associated with Ọ̀sányìn, often composed of iron figures and birds. Their forms should be understood as documented ritual art rather than generic logos.",
+          "Bird imagery can carry multiple meanings in Yoruba thought, including references to spiritual power, surveillance and the dangerous or protective capacities of unseen forces. On an Ọ̀sányìn staff, birds contribute to a visual language of concentrated knowledge. Museum objects can preserve this form, but the ritual interpretation depends on the community that used the staff.",
+          "Forest knowledge historically overlapped with hunting, farming and trade. Herbal specialists were not isolated from ordinary economic life; they worked within networks of patients, markets and other practitioners. Ingredients could be gathered locally or purchased from specialized stalls. This practical world is essential to understanding Ọ̀sányìn beyond mythology.",
+          "Bird imagery carries layered meaning. In many Yoruba contexts, birds can suggest hidden power, observation and the ability to act beyond ordinary limits. On herbalist staffs, the arrangement of birds communicates concentrated authority rather than merely decorating the metal. The smith’s work turns an abstract idea of expertise into a visible object."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Specialists may maintain relationships with Ọ̀sányìn within broader systems of herbal and ritual knowledge.",
+          "Colonial and modern medical systems changed the social status of herbal practice. Some knowledge was dismissed as superstition, while other plant remedies became subjects of pharmacological study. The relationship is complicated. A traditional use may provide a clue for research, but historical use does not by itself prove safety or effectiveness. Respect and scientific evaluation are not opposites.",
+          "Atlantic religions preserved related forms of plant knowledge under names such as Osain. In Cuba especially, herbal expertise became an important specialized field within Yoruba-derived religious practice. The diaspora transformed the botanical repertoire because Caribbean environments contain different plants, showing how sacred systems can preserve principles while adapting materials.",
+          "The connection with Ògún is practical as well as symbolic. Iron blades are used to cut paths and collect plant materials, so the herbalist depends on the technology of iron. Some staffs visually acknowledge this relationship. Yoruba sacred institutions often overlap through such practical connections rather than functioning as isolated departments."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Plant knowledge varies strongly by ecology and locality, making regional context especially important.",
+          "Ọ̀sányìn's deepest significance lies in the idea that knowledge of the natural world is specialized, powerful and morally demanding. The forest is not a warehouse of interchangeable ingredients. It is a living environment that must be known carefully. In an age of biodiversity loss and online misinformation about herbal remedies, that emphasis on disciplined knowledge deserves renewed attention.",
+          "Yoruba plant knowledge also depends on naming systems. A single plant may have different local names, and one vernacular name may occasionally be applied to more than one species. This creates serious challenges for translation. Botanical identification requires specimens and trained comparison, not confidence based only on a familiar-sounding Yoruba word.",
+          "Markets are another part of Ọ̀sányìn’s world. Specialist stalls can gather leaves, roots, bark and other materials from different ecological zones. These markets preserve commercial networks of knowledge, but they also create modern problems of identification, safety and sustainability when materials are sold far from the environments where they were gathered."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public festivals are less globally standardized than those of some other Òrìṣà; practice may be specialist- or lineage-centered.",
+          "Markets for medicinal ingredients preserve another dimension of Ọ̀sányìn's world. Specialist stalls can bring together leaves, bark, roots, minerals and animal products from different regions. These markets function as commercial networks of knowledge, but they also raise modern questions about sustainability, endangered species and the safety of unidentified materials.",
+          "Religious efficacy and pharmacological efficacy should be distinguished even when they coexist in one preparation. A plant can have measurable chemical properties while also carrying ritual significance. Conversely, a sacred use does not prove a biomedical effect. Clear documentation respects both domains by refusing to confuse them.",
+          "Religious significance and pharmacological effect should be separated carefully. A plant may have measurable chemical properties while also carrying ritual meaning; another material may be important symbolically without having a proven biomedical effect. Documenting traditional use is valuable, but it is not the same as establishing clinical safety or efficacy."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Local plant taxonomies, ritual language and materials differ, so specific formulas should never be generalized casually.",
+          "Ọ̀sányìn/Osain became important in Atlantic ritual systems, particularly where plant knowledge remained central.",
+          "Ọ̀sányìn is therefore especially important for modern archives. Recording plant vocabulary, local identification and cultural use can preserve knowledge threatened by urbanization and language loss. The work must be done carefully: good ethnobotany documents what people know without turning every historical practice into an unsupervised health recommendation.",
+          "Plant knowledge is also seasonal. A species may be abundant at one time of year and difficult to find at another; the condition of a leaf or root can change with age and environment. Such details are part of practical expertise and are easily lost when knowledge is reduced to a static ingredient list.",
+          "Ọ̀sányìn remains important in an age of biodiversity loss because the tradition reminds us that knowledge depends on living environments. If a plant disappears locally, the name may survive while the material basis of the practice is lost. Preserving herbal heritage therefore involves language, apprenticeship and ecological conservation at the same time."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Urbanization has separated many younger Yoruba people from the environments in which older relatives learned plant names. Digital photography and botanical databases can assist preservation, but they cannot fully replace field identification with knowledgeable practitioners. Documentation must reconnect names with actual living species.",
+          "Ọ̀sányìn's tradition is therefore not simply about 'herbs.' It is about expertise: the recognition that the natural world contains useful and dangerous materials and that responsible use depends on training. That principle remains valid whether one approaches the subject religiously, culturally or scientifically.",
+          "Conservation adds another modern concern. When medicinal plants become scarce through habitat loss or overharvesting, cultural knowledge can survive in words while the species themselves disappear locally. Protecting biodiversity is therefore relevant to preserving the material basis of herbal traditions.",
+          "Ọ̀sányìn's documentary story is strongest when wonder is joined to precision. The forest may be sacred, but identification still matters; inherited knowledge may be valuable, but safety still matters. Respect for tradition is not weakened by careful verification—it is strengthened.",
+          "It is misleading to treat Ọ̀sányìn as a decorative 'herb god.' The tradition points toward disciplined expertise, ecology and transmission."
+        ]
+      }
     ]
   },
   {
