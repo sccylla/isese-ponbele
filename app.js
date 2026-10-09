@@ -206,33 +206,102 @@
     const id=new URLSearchParams(location.search).get('id') || 'orunmila';
     const o=ORISAS.find(x=>x.slug===id) || ORISAS[0];
     if(!o) return;
+
     const canonicalUrl=`https://isese-ponbele.vercel.app/orisa/${encodeURIComponent(o.slug)}`;
-    document.title=`${o.name}: Yoruba Orisa Documentary | Isese Ponbele`;
+    document.title=`${o.name}: Yoruba Òrìṣà — History, Tradition & Living Culture | Isese Ponbele`;
     let canonical=document.head.querySelector('link[rel="canonical"]');
     if(!canonical){canonical=document.createElement('link');canonical.rel='canonical';document.head.appendChild(canonical);}
     canonical.href=canonicalUrl;
-    const setMeta=(selector,attrs)=>{let el=document.head.querySelector(selector);if(!el){el=document.createElement('meta');document.head.appendChild(el);}Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));return el;};
+
+    const setMeta=(selector,attrs)=>{
+      let el=document.head.querySelector(selector);
+      if(!el){el=document.createElement('meta');document.head.appendChild(el);}
+      Object.entries(attrs).forEach(([k,v])=>el.setAttribute(k,v));
+      return el;
+    };
     setMeta('meta[name="description"]',{name:'description',content:String(o.lead||'').slice(0,158)});
-    const graph=`<div class="orisa-domain-graphic" aria-label="Domain map for ${esc(o.name)}">
+
+    const graph=`<div class="orisa-domain-graphic documentary-domain-map" aria-label="Cultural domain map for ${esc(o.name)}">
       <div class="orisa-domain-center"><strong>${esc(o.name)}</strong><small>cultural map</small></div>
       ${o.domains.slice(0,4).map((d,i)=>`<span class="domain-node node-${i+1}">${esc(d)}</span>`).join('')}
     </div>`;
-    const media=`<figure class="doc-media premium-orisa-media"><img src="${esc(o.image)}" alt="${esc(o.imageCaption||('Cultural documentation for '+o.name))}" referrerpolicy="no-referrer"><figcaption>${esc(o.imageCaption||'Documented cultural context.')}</figcaption></figure>`;
-    const sections=[
-      ['identity','Identity & worldview',`<p class="lead-paragraph">${esc(o.lead)}</p>${o.overview.map(p=>`<p>${esc(p)}</p>`).join('')}`],
-      ['visual','Visual & conceptual map',graph],
-      ['names','Names, titles & praise language',`<p>${esc(o.titles)}</p>`],
-      ['oral','Oral tradition & cultural memory',`<p>${esc(o.oral)}</p>`],
-      ['material','Material culture & representation',`<p>${esc(o.material)}</p>`],
-      ['worship','Worship, priesthood & institutions',`<p>${esc(o.worship)}</p>`],
-      ['geography','Sacred geography',`<p>${esc(o.geography)}</p>`],
-      ['festivals','Festivals & public life',`<p>${esc(o.festivals)}</p>`],
-      ['variation','Regional & lineage variation',`<p>${esc(o.variation)}</p>`],
-      ['diaspora','Diaspora & historical movement',`<p>${esc(o.diaspora)}</p>`],
-      ['study','Extended documentation',`${(o.deepDive||[]).map(p=>`<p>${esc(p)}</p>`).join('')}`],
-      ['misconceptions','Questions, variations & misunderstandings',`<p>${esc(o.misconceptions)}</p>`]
-    ];
-    root.innerHTML=`<section class="page-hero orisa-pub-hero"><div class="container"><div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="orisas.html">Orisa</a><span>/</span><span>${esc(o.name)}</span></div><p class="eyebrow">ISESE PONBELE • ORISA PUBLICATION</p><h1 class="page-title">${esc(o.name)}</h1><p class="page-lead">${esc(o.lead)}</p><div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div></div></section><section class="section alt"><div class="container doc-shell"><article class="doc-article">${media}${sections.map(([id,title,body])=>`<section id="${id}"><h2>${esc(title)}</h2>${body}</section>`).join('')}</article><aside class="doc-toc"><strong>On this page</strong>${sections.map(([id,title])=>`<a href="#${id}">${esc(title)}</a>`).join('')}</aside></div></section>`;
+
+    const media=`<figure class="doc-media premium-orisa-media">
+      <img src="${esc(o.image)}" alt="${esc(o.imageCaption||('Cultural documentation for '+o.name))}" referrerpolicy="no-referrer">
+      <figcaption>${esc(o.imageCaption||'Documented cultural context.')}</figcaption>
+    </figure>`;
+
+    const genericChapters=()=>{
+      const d=[...(o.deepDive||[])];
+      const take=n=>d.splice(0,n);
+      return [
+        {id:'identity',title:'Identity, meaning & worldview',paragraphs:[o.lead,...(o.overview||[]),...take(2)]},
+        {id:'language',title:'Names, praise language & remembered character',paragraphs:[o.titles,o.oral,...take(2)]},
+        {id:'material',title:'Sacred imagery, material culture & symbols',paragraphs:[o.material,...take(3)]},
+        {id:'institutions',title:'Worship, priesthood, apprenticeship & transmission',paragraphs:[o.worship,...take(3)]},
+        {id:'geography',title:'Landscape, place & sacred geography',paragraphs:[o.geography,...take(2)]},
+        {id:'public-life',title:'Festivals, public life & community memory',paragraphs:[o.festivals,...take(2)]},
+        {id:'variation',title:'Regional traditions, historical change & the Atlantic world',paragraphs:[o.variation,o.diaspora,...take(3)]},
+        {id:'continuity',title:'Contemporary meaning, interpretation & continuity',paragraphs:[...d,o.misconceptions]}
+      ];
+    };
+
+    const chapters=(o.chapters?.length?o.chapters:genericChapters())
+      .map((ch,i)=>({
+        id:ch.id||('chapter-'+(i+1)),
+        title:ch.title||('Chapter '+(i+1)),
+        paragraphs:(ch.paragraphs||[]).filter(Boolean)
+      }))
+      .filter(ch=>ch.paragraphs.length);
+
+    const chapterHtml=chapters.map((ch,i)=>`
+      <section id="${esc(ch.id)}" class="orisa-documentary-chapter">
+        <div class="documentary-chapter-heading">
+          <span class="chapter-index">${String(i+1).padStart(2,'0')}</span>
+          <h2>${esc(ch.title)}</h2>
+        </div>
+        <div class="documentary-prose">
+          ${ch.paragraphs.map((p,j)=>`<p class="${j===0?'chapter-opening':''}">${esc(p)}</p>`).join('')}
+        </div>
+      </section>`).join('');
+
+    const summary=`<div class="orisa-publication-summary">
+      <div><small>Classification</small><strong>${esc(o.classification)}</strong></div>
+      <div><small>Core themes</small><strong>${o.domains.map(esc).join(' • ')}</strong></div>
+      <div><small>Publication format</small><strong>Long-form cultural documentary</strong></div>
+    </div>`;
+
+    root.innerHTML=`
+      <section class="page-hero orisa-pub-hero">
+        <div class="container">
+          <div class="breadcrumbs"><a href="index.html">Home</a><span>/</span><a href="orisas.html">Òrìṣà</a><span>/</span><span>${esc(o.name)}</span></div>
+          <p class="eyebrow">ISESE PONBELE • YORUBA CULTURAL PUBLICATION</p>
+          <h1 class="page-title">${esc(o.name)}</h1>
+          <p class="page-lead">${esc(o.lead)}</p>
+          <div class="domain-row">${o.domains.map(d=>`<span>${esc(d)}</span>`).join('')}</div>
+        </div>
+      </section>
+      <section class="section alt">
+        <div class="container doc-shell orisa-documentary-full">
+          <article class="doc-article">
+            ${media}
+            ${summary}
+            <section class="orisa-map-intro">
+              <div>
+                <p class="eyebrow">Cultural map</p>
+                <h2>A tradition with several connected dimensions</h2>
+                <p>The domains associated with ${esc(o.name)} overlap with social history, landscape, ritual institutions, oral memory and regional practice. The map below is an orientation to the publication, not a substitute for the fuller chapters that follow.</p>
+              </div>
+              ${graph}
+            </section>
+            ${chapterHtml}
+          </article>
+          <aside class="doc-toc">
+            <strong>On this page</strong>
+            ${chapters.map(ch=>`<a href="#${esc(ch.id)}">${esc(ch.title)}</a>`).join('')}
+          </aside>
+        </div>
+      </section>`;
   }
 
   function renderOogun(){
