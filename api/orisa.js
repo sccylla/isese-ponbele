@@ -113,7 +113,7 @@ function page(o){
     '</body></html>';
 }
 module.exports=(req,res)=>{
-  const slug=String(req.query.slug||'').replace(/^\\/+|\\/+$/g,'');
+  const slug=String(req.query.slug||'').replace(/^\/+|\/+$/g,'');
   const o=bySlug.get(slug);
   if(!o){res.statusCode=404;res.setHeader('X-Robots-Tag','noindex, follow');return res.end('Orisa publication not found');}
   res.statusCode=200;
