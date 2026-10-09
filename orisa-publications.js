@@ -2264,6 +2264,105 @@ window.ORISA_PUBLICATIONS = [
       "Research on hunter poetry also shows how occupations generate their own philosophies. The forest becomes a place where courage is tested, solitude is normal and mistakes carry immediate consequences. Such occupational literature gives Ọ̀ṣọ́ọ̀sì a cultural depth that iconography alone cannot provide.",
       "Modern readers can therefore appreciate the tradition without romanticizing hunting itself. What deserves preservation is the history, language and environmental knowledge of hunter communities, together with the sacred ideas that grew from their work. Heritage can be documented even as practices change.",
       "This perspective also preserves the humanity of historical hunters. They were not mythic figures living permanently outside society; they were family members, workers and specialists whose dangerous occupation produced a distinctive body of knowledge and sacred identity."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọ̀ṣọ́ọ̀sì is associated with the disciplined knowledge of hunting, the forest, provision and the ability to pursue a difficult objective with accuracy.",
+          "Hunting in Yoruba history required far more than the ability to use a weapon. A hunter needed knowledge of paths, animals, weather, plants, danger and social obligations. Ọ̀ṣọ́ọ̀sì gathers many of these ideas into a sacred vocabulary of skill, patience and provision.",
+          "The tradition is regionally diverse. In some communities Ọ̀ṣọ́ọ̀sì is especially prominent, while elsewhere hunting institutions may foreground other sacred powers or local ancestors. Diasporic religions made Oshosi/Ochosi highly visible and sometimes emphasized justice and confinement in ways shaped by Atlantic history.",
+          "The forest in Yoruba history was never simply an empty wilderness. It could be farmland in transition, a hunting ground, a source of medicine, a place of danger and a zone through which travelers moved. A sacred power associated with hunting therefore sits at the intersection of ecology and social survival. The hunter must know when to move, when to remain still and how to distinguish useful signs from misleading ones. Precision becomes an ethical quality as well as a technical skill.",
+          "Modern representations of Ọ̀ṣọ́ọ̀sì often borrow heavily from diaspora iconography. That visual material is valuable, but a Nigerian documentary should also foreground hunter associations, oral genres and local environmental history. Sacred-grove photographs can provide landscape context without pretending to show the Òrìṣà directly. This distinction between context and portraiture is especially important online, where attractive but historically mixed images circulate rapidly.",
+          "Ọ̀ṣọ́ọ̀sì belongs to the occupational world of hunters, trackers and forest specialists. Hunting demanded patience, knowledge of animal behavior, familiarity with paths and the ability to judge distance accurately. The sacred figure therefore represents disciplined observation before he represents the modern shorthand of “hitting a target.”"
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise language often emphasizes the hunter who reaches a target, the person who knows the forest, and the provider who returns with what the community needs. Exact titles differ by lineage.",
+          "Hunter narratives and praise poetry frequently value observation, self-control, endurance and the ability to read signs in difficult terrain. These stories also preserve knowledge about forests and social responsibilities.",
+          "As forests shrink and rural economies change, the social world that produced many hunting traditions is also changing. Documentation can preserve vocabulary, praise language and material culture while recognizing that contemporary devotees may live in cities and work in professions far removed from hunting. The persistence of the tradition shows that its central ideas—focus, provision, disciplined pursuit and knowledge of difficult terrain—remain meaningful beyond a single occupation.",
+          "Ọ̀ṣọ́ọ̀sì is associated with hunting, forest skill, precision and the ability to find what is needed. Hunting in older Yoruba society required far more than courage. A successful hunter had to read tracks, understand animal behavior, recognize weather and terrain, move quietly and judge distance accurately. The sacred image of the hunter therefore represents disciplined attention.",
+          "Hunters could also serve as scouts and guides because they knew territory beyond farms and settlements. Their expertise in forest routes gave them value during migration, conflict and long-distance travel. The hunter’s social role was therefore larger than obtaining meat. He was someone who could enter uncertain ground and return with knowledge."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Hunters historically occupied an important place in the expansion and defense of communities. They knew routes through forest and bush, could scout unfamiliar territory and sometimes served as protectors. Their mobility gave them knowledge of places beyond the farm and town. Hunting associations developed songs, praise poetry, medicines and occupational identities of their own.",
+          "Precision is one of the qualities most often attached to Ọ̀ṣọ́ọ̀sì in modern descriptions. The idea should not be reduced to a fantasy of a supernatural archer. It grows from the occupational ethic of the hunter: do not waste movement, observe before acting and aim carefully because resources are limited. Those practical virtues become moral metaphors.",
+          "The forest in Yoruba thought is not empty wilderness. It contains farms, paths, medicinal plants, animals, shrines and historical sites. Hunters enter a space filled with both material and sacred meanings. An Òrìṣà associated with hunting therefore belongs to a landscape of knowledge rather than to a simple category of sport.",
+          "Provision is another important theme. Game contributed protein and market goods to communities, so successful hunting was connected with feeding others. This practical responsibility helps explain why Ọ̀ṣọ́ọ̀sì can be associated with abundance. The hunter is admired not merely for killing but for bringing something useful back to the household."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Bows, arrows, hunting bags, iron implements and shrine objects may appear in different traditions. Because surviving museum collections often come from specific towns, no single object should be treated as universal iconography.",
+          "Regional documentation of Ọ̀ṣọ́ọ̀sì is less extensive than that of Ògún or Ṣàngó, and some modern accounts mix West African material with Cuban Ochosi traditions. The relationship is historically real, but the two contexts should be distinguished. Diaspora traditions developed specific ritual associations and iconography that cannot automatically be projected backward onto every Yoruba community.",
+          "Ọ̀ṣọ́ọ̀sì also appears in conversations about justice in some diaspora traditions, where the hunter's ability to locate a target becomes a metaphor for finding truth or a missing person. That emphasis may be less central in many West African accounts. The difference illustrates how sacred domains expand when traditions enter new social environments.",
+          "Modern iconography often emphasizes the bow and arrow, especially in Atlantic traditions. Historic Yoruba hunting, however, also used traps, firearms and other technologies as they became available. A single weapon should therefore not be treated as the whole history of the profession. Iconography is a symbol, not an inventory."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Devotion may be connected with hunter associations, households or broader Òrìṣà communities. The relationship between Ọ̀ṣọ́ọ̀sì and other hunting powers can vary by locality.",
+          "Material culture associated with hunting includes bows, arrows, leather equipment, iron tools and protective objects, but no single object can define Ọ̀ṣọ́ọ̀sì everywhere. Museum classification is especially difficult when an item belonged to a hunter whose religious affiliation was not recorded. Context matters more than resemblance.",
+          "Today, hunting no longer structures most urban Yoruba lives, yet the qualities associated with the tradition remain intelligible. Precision, patience, provision and the ability to navigate uncertainty are still admired. Ọ̀ṣọ́ọ̀sì survives as a sacred language for those skills and as a reminder of the ecological knowledge once required to move confidently through forest country.",
+          "Justice becomes especially prominent in Cuban and other diaspora traditions, where Ochosi is closely linked with legal matters and the pursuit of truth. That theme is historically important but should be identified as a strong diaspora development rather than projected uncritically onto every West African lineage."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Hunting traditions historically crossed many Yoruba regions because forests, farms and trade routes created different ecological settings. Local prominence varies substantially.",
+          "Hunter associations also preserved forms of occupational ethics. A hunter depended on companions, knew that careless shooting could injure people and had to distinguish useful courage from reckless behavior. Sacred praise of skill should therefore be read alongside the social rules that made dangerous work acceptable within a community.",
+          "Food provision gives hunting a household dimension. Meat obtained from the forest could supplement farming and enter market exchange, so the successful hunter was not simply an adventurer. He contributed to the material life of others. This helps explain why provision, rather than violence alone, belongs to Ọ̀ṣọ́ọ̀sì symbolism.",
+          "Forest knowledge overlaps with the worlds of Ògún, Erinlẹ̀ and Ọ̀sányìn. Iron tools, plant knowledge and hunting skill meet in the same landscape. Yoruba religious traditions often reflect these practical connections. Separate Òrìṣà can have distinct institutions while still belonging to an interdependent social and ecological world."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public observances are less standardized internationally than those of Ọ̀ṣun or Ṣàngó; some communities maintain local celebrations while others preserve more private forms.",
+          "Modern conservation has changed attitudes toward hunting. Wildlife decline and legal restrictions mean that practices once ordinary may now be environmentally unsustainable or prohibited. A historical documentary can preserve hunter culture without recommending the repetition of every old practice. Cultural memory and present ecological responsibility can coexist.",
+          "Ọ̀ṣọ́ọ̀sì is best understood, then, as a tradition of skilled pursuit. The hunter sees what others miss, moves through uncertain ground and returns with something useful. That pattern has allowed later communities to interpret him through broader ideas of searching, justice and purposeful direction while retaining the forest at the center of his identity.",
+          "Modern conservation changes the meaning of hunting. Wildlife decline and legal restrictions make some older practices unsustainable or prohibited. Preserving hunter songs, oríkì, stories and occupational history does not require repeating every historical hunting practice. Heritage and ecological responsibility can exist together."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Diasporic Ochosi traditions should be compared carefully with West African material. Shared names and themes do not guarantee identical ritual structure.",
+          "Ọ̀ṣọ́ọ̀sì became an important figure in Cuban and other Atlantic systems, where new institutional relationships developed under the conditions of slavery and migration.",
+          "Oral poetry associated with hunters preserves a distinctive emotional world of danger, solitude and competence. Forest travel places the individual outside ordinary town routines, and hunter songs can reflect that altered social position. Sacred identity grows from occupational experience.",
+          "The bow and arrow have become dominant modern symbols of Ọ̀ṣọ́ọ̀sì, especially in global representations, but historic Yoruba hunting also involved traps, firearms and other techniques as technologies changed. Iconography should therefore not be confused with a complete history of the profession.",
+          "Ọ̀ṣọ́ọ̀sì endures as a sacred language of focus because the underlying skill remains recognizable. The hunter watches before acting, reads signs that others overlook and commits to a direction only after judgment. Contemporary ideas of precision are meaningful when they remain connected to this older occupational discipline."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Ọ̀ṣọ́ọ̀sì's enduring lesson is concentration. The hunter succeeds by reading signs that others overlook and acting at the right moment. This is why the tradition can be translated into modern language about focus without losing its historical roots—provided the forest and hunter remain visible behind the metaphor.",
+          "Modern archery imagery can be useful as a visual shorthand, but it should not hide the social history of hunters as scouts, providers and members of associations. The institution was larger than a weapon. It involved knowledge of terrain, food, danger and cooperation.",
+          "By restoring that occupational world, Ọ̀ṣọ́ọ̀sì becomes more than a symbol of 'hitting the target.' He represents a complete discipline of observation and provision—skills developed in a landscape where error could mean hunger, injury or getting lost.",
+          "Research on hunter poetry also shows how occupations generate their own philosophies. The forest becomes a place where courage is tested, solitude is normal and mistakes carry immediate consequences. Such occupational literature gives Ọ̀ṣọ́ọ̀sì a cultural depth that iconography alone cannot provide.",
+          "Modern readers can therefore appreciate the tradition without romanticizing hunting itself. What deserves preservation is the history, language and environmental knowledge of hunter communities, together with the sacred ideas that grew from their work. Heritage can be documented even as practices change.",
+          "This perspective also preserves the humanity of historical hunters. They were not mythic figures living permanently outside society; they were family members, workers and specialists whose dangerous occupation produced a distinctive body of knowledge and sacred identity.",
+          "Describing Ọ̀ṣọ́ọ̀sì only as a god of hunting misses the intellectual discipline of tracking, ecological knowledge, provision and responsibility that hunting historically required."
+        ]
+      }
     ]
   },
   {
@@ -2315,6 +2414,104 @@ window.ORISA_PUBLICATIONS = [
       "Ọ̀ṣun's documentary depth therefore lies in the union of place and institution. River, grove, palace, priests, artists and visitors all contribute to the modern sacred landscape. Remove any one element and the picture becomes less complete.",
       "Pilgrimage also changes the social scale of the festival. What was once primarily a regional sacred event now receives visitors who approach it as religion, heritage, tourism or diaspora homecoming. These audiences do not experience the grove in the same way, and their coexistence is part of its modern history.",
       "Ọ̀ṣun's tradition is therefore a particularly rich study of cultural continuity under visibility. The more famous the festival becomes, the more important it is to preserve the voices of local custodians and the physical health of the river that gives the entire tradition its name."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọ̀ṣun is strongly associated with fresh water, fertility, beauty, diplomacy, prosperity and the sacred landscape of the Ọ̀ṣun River.",
+          "Ọ̀ṣun is among the most widely recognized Yoruba Òrìṣà. In Ọ̀ṣogbo, the river and sacred grove form a major ritual landscape in which shrines, sculpture, forest and water are integrated.",
+          "Her traditions also extend far beyond Ọ̀ṣogbo. Different towns, lineages and diasporic communities preserve distinct praise names, ritual emphases and understandings of her character.",
+          "Ọ̀ṣun is best understood through the relationship between water, place and social life. The Osun-Osogbo Sacred Grove demonstrates this relationship especially clearly because the river, forest, shrines, sculptures, priests, festival routes and city history are interconnected. UNESCO describes the grove as an active religious site and as a surviving example of the sacred groves that once characterized many Yoruba settlements. This is important because modern popular culture can detach Ọ̀ṣun from geography and present her only as an abstract symbol of beauty. In lived traditions, the river is not background scenery. Sacred landscape, ritual authority and the memory of the town are part of how the Òrìṣà is known.",
+          "Narratives of Ọ̀ṣun often address recognition, diplomacy and the consequences of excluding female authority. Stories differ, but a recurring lesson is that collective projects fail when important forms of knowledge or social power are dismissed. This makes the tradition relevant to discussions of gender, negotiation and community balance without reducing Ọ̀ṣun to a modern political slogan. Beauty and adornment are meaningful, yet they coexist with intelligence, fertility, wealth, healing, motherhood and strategic speech. The richness of the tradition comes from this combination. A documentary page should therefore resist the internet habit of turning Ọ̀ṣun into a one-dimensional goddess of romance and instead show the wider institutional and geographical context.",
+          "Ọ̀ṣun is inseparable from the river that bears her name and from the sacred landscape of Òṣogbo. The grove is not simply a monument built to illustrate mythology. It is an active religious site where shrines, sculpture, priestly offices, the river and annual festival traditions form one living cultural environment."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Titles often evoke the river, wealth, beauty, motherhood, diplomacy and sweetness, but praise poetry differs by community.",
+          "Narratives of Ọ̀ṣun frequently foreground intelligence, negotiation, fertility, social recognition and the consequences of excluding female power from collective affairs.",
+          "The annual Osun-Osogbo festival is one of the best-known public expressions of Yoruba religion, but it should not be mistaken for the totality of Ọ̀ṣun worship. Devotion exists in many towns and families, with different praise names, ritual histories and aesthetic preferences. Diasporic traditions further expanded the range of colors, objects and theological associations connected with Ọ̀ṣun. Museum art, grove sculpture and festival photography are valuable records, but each belongs to a specific place and period. Reading these materials together reveals both continuity and creativity: an enduring river-centered sacred power has been interpreted through changing artistic movements, urban identities, transatlantic histories and contemporary heritage institutions.",
+          "Ọ̀ṣun is inseparable from the river that bears her name and from the city of Òṣogbo, where the sacred grove remains one of the most visible living landscapes of Yoruba religion. The grove is not merely a monument. It is part of an active devotional geography in which river, shrines, artworks, priestly offices and annual festival traditions come together.",
+          "UNESCO’s description of the Ọ̀ṣun-Òṣogbo Sacred Grove emphasizes that it is one of the last major surviving examples of the sacred groves that were once common around Yoruba settlements. That fact gives the site significance beyond one Òrìṣà. The grove preserves a model of how town, forest, river and ritual once fitted together."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Popular descriptions often reduce Ọ̀ṣun to beauty, love and fertility. Those associations are important but incomplete. Oral traditions also present her as politically intelligent, persuasive and capable of restoring balance when other powers fail. Her femininity is not a decorative quality added to an otherwise male sacred world; it is central to narratives about authority, diplomacy and the necessity of women's participation.",
+          "The Ọ̀ṣun-Òṣogbo festival brings large crowds to the city each year. Processions, drumming, royal participation and river-centered ceremonies turn the event into both a religious observance and a civic gathering. The modern festival also attracts tourists and diaspora visitors, creating an environment in which devotion, heritage, commerce and media coverage overlap.",
+          "The Sacred Grove's twentieth-century history is significant. Artists and ritual custodians worked to protect and renew a landscape threatened by encroachment. Monumental sculptures now visible throughout the grove belong to that modern period of conservation as well as to older sacred continuity. Calling every sculpture 'ancient' would therefore misrepresent the site's layered history.",
+          "Modern sculpture is part of the grove’s history. Many monumental works visible today were created or renewed during the twentieth-century revival associated with artists and religious custodians. Calling every sculpture “ancient” would be inaccurate. The power of the site lies partly in the fact that preservation involved new artistic work as well as inherited devotion."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "River vessels, cloth, beads, brass objects, fans, sculptural forms and local shrine arts may appear in Ọ̀ṣun contexts, but iconography varies.",
+          "Water is an obvious source of fertility symbolism because rivers sustain settlement and agriculture, but Yoruba river traditions are not interchangeable. Ọ̀ṣun's identity is shaped by the particular river, towns and narratives connected to her. A generic phrase such as 'goddess of water' removes too much local history.",
+          "Ọ̀ṣun's Atlantic history is extensive. In Cuba and Brazil, Oshun and Oxum became major sacred figures within religions created by African descendants. River and sweet-water symbolism remained important, while local liturgies, colors, songs and institutional relationships developed in new directions. Those traditions are part of Ọ̀ṣun's global history but have their own authority.",
+          "Female religious authority is central to Ọ̀ṣun traditions. Priestesses, singers and other women have served as custodians and transmitters of ritual knowledge. Popular culture often reduces Ọ̀ṣun to beauty, romance or sensuality, but the institution also contains leadership, diplomacy, healing, fertility and public responsibility."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Priesthood and devotion can center on rivers, shrines, households and community festivals. Water is not merely decorative symbolism; it is part of the sacred geography itself.",
+          "Modern representations frequently focus on gold, mirrors, luxury and sensuality. These images can be meaningful within certain traditions, but commercial culture sometimes turns them into a shallow stereotype of a glamorous feminine deity. The older documentary record shows a more complicated figure connected with river power, political intelligence, motherhood, fertility and social negotiation.",
+          "Ọ̀ṣun remains important because her tradition joins beauty with effectiveness. Charm without judgment is not enough; fertility without community is incomplete. The river image captures this combination: water can be gentle and attractive, but it also shapes land, sustains cities and carries force. Her enduring significance lies in that depth.",
+          "The annual festival turns sacred geography into civic life. Processions connect palace, town and river; visitors arrive as devotees, tourists, cultural returnees and members of the diaspora. These groups do not experience the event in exactly the same way, and their coexistence is part of the modern history of the festival."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ọ̀ṣogbo is globally known because of the Sacred Grove, but Ọ̀ṣun traditions are distributed widely across Yoruba-speaking regions.",
+          "Female religious authority is essential to the history of Ọ̀ṣun worship. Priestesses and other women have served as custodians, singers, organizers and transmitters of ritual knowledge. Popular portrayals that focus only on feminine beauty can obscure this institutional authority. The tradition is not simply about being admired; it includes responsibility for a sacred community.",
+          "The relationship between grove and city is equally important. Òṣogbo developed around a landscape in which settlement and sacred forest remained connected. Protecting the grove required negotiating modern urban expansion. Its continued existence shows that heritage is not automatic: people must decide that an old place still matters and organize to defend it.",
+          "Water quality has become an important contemporary concern. UNESCO conservation reports have repeatedly noted pollution threats affecting the river. This is not separate from cultural heritage. A sacred river can remain spiritually important while its physical condition is damaged by modern environmental pressures. Protecting the tradition therefore also requires protecting the water itself."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "The annual Ọ̀ṣun-Ọ̀ṣogbo festival is one of the most visible Yoruba religious festivals internationally, drawing devotees and visitors to the sacred grove and river.",
+          "Ọ̀ṣun also demonstrates how a local sacred tradition can become a symbol of wider Yoruba identity. Visitors arrive from across Nigeria and the diaspora, and the festival is photographed globally. That fame can strengthen preservation while also encouraging simplified images designed for tourism. The living community must continually balance access with sacred boundaries.",
+          "At the center of all these developments is still the river. Political interpretation, art history, diaspora identity and tourism make sense only because generations have continued to recognize a specific waterway as sacred. The river prevents Ọ̀ṣun from becoming a purely abstract symbol; it ties the tradition to a physical place that can be visited, protected and remembered.",
+          "Atlantic traditions transformed Ọ̀ṣun into Oshun and Oxum within new religious worlds in Cuba, Brazil and elsewhere. Sweet-water symbolism remained powerful, while colors, ritual relationships and public imagery developed in distinct local directions. These traditions are part of Ọ̀ṣun’s global history, but each should be understood on its own terms."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Local traditions may differ in color associations, ritual objects, praise names and relationships with other Òrìṣà.",
+          "Ọ̀ṣun/Ọ̀ṣum traditions became influential across Cuba, Brazil and other parts of the Atlantic world, where local ritual systems developed distinctive forms.",
+          "Art at the Ọ̀ṣun grove also records a modern collaboration between artists, custodians and conservation efforts. The landscape visitors see today is the result of both inherited sacred practice and twentieth-century creative intervention. That layered history is one of the site's strengths, not a contradiction.",
+          "River pollution makes the material health of the Ọ̀ṣun River an increasingly serious issue. A sacred river can carry enormous cultural meaning while still being vulnerable to industrial and urban contamination. Heritage protection must therefore concern the water itself, not only festivals and monuments.",
+          "Ọ̀ṣun’s depth lies in the union of attractiveness and effectiveness. The river may appear gentle, yet it shapes land and sustains settlements. In the same way, narratives about charm or beauty sit beside themes of intelligence, fertility and political negotiation. The tradition is diminished when only the glamorous surface is retained."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Ọ̀ṣun's global popularity should return attention to that local reality. Images of beauty and gold travel easily online; the river, grove, priestly community and environmental challenges are harder to package. A full documentary keeps them together so symbolism does not float free of place.",
+          "Another important dimension is intergenerational transmission. Children who grow up around the festival learn routes, songs, family roles and the language of the grove through repeated participation. Heritage survives because ordinary attendance slowly becomes knowledge.",
+          "Ọ̀ṣun's documentary depth therefore lies in the union of place and institution. River, grove, palace, priests, artists and visitors all contribute to the modern sacred landscape. Remove any one element and the picture becomes less complete.",
+          "Pilgrimage also changes the social scale of the festival. What was once primarily a regional sacred event now receives visitors who approach it as religion, heritage, tourism or diaspora homecoming. These audiences do not experience the grove in the same way, and their coexistence is part of its modern history.",
+          "Ọ̀ṣun's tradition is therefore a particularly rich study of cultural continuity under visibility. The more famous the festival becomes, the more important it is to preserve the voices of local custodians and the physical health of the river that gives the entire tradition its name.",
+          "Popular culture often reduces Ọ̀ṣun to beauty or romance. Yoruba traditions also emphasize authority, fertility, diplomacy, wealth, sacred water and social intelligence."
+        ]
+      }
     ]
   },
   {
@@ -2369,6 +2566,107 @@ window.ORISA_PUBLICATIONS = [
       "Transformation in Ọya's tradition should therefore be understood materially as well as psychologically. Rivers alter routes, storms alter landscapes and markets alter ownership. Change has consequences for bodies, property and community. This concrete quality is what keeps the symbolism from becoming vague.",
       "Contemporary environmental history adds another dimension. Flooding, erosion and changing weather patterns make wind and river forces immediate realities for modern communities. Ọya's symbolism remains culturally powerful because the forces she represents are still experienced physically, not only metaphorically.",
       "For documentary study, this combination of landscape, economy and sacred memory is crucial: it keeps Ọya rooted in Yoruba history while still explaining why later generations found her an enduring language for change."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ọya is associated with powerful wind, transformation, movement, markets and important river traditions.",
+          "Ọya traditions often emphasize forceful movement, change and the capacity to transform circumstances. She is also associated with specific river geographies and with public spaces of exchange.",
+          "Her meanings differ across Yoruba regions and diasporic systems, where storm imagery sometimes becomes especially prominent.",
+          "Ọya is often introduced through dramatic images of storms and wind, yet place-based documentation reveals a wider field of meaning. Shrines and groves in communities such as Irra show that local geography, lineage memory and public heritage are central to how an Òrìṣà is sustained. Wind is therefore only one dimension of a tradition concerned with movement, transformation, market life, riverine power and courage. The association with rapid change is meaningful because it can describe both natural force and social transition: situations in which stability gives way to a new order.",
+          "Markets are especially important in Yoruba social history because they are economic, political and communicative spaces where women have often exercised significant authority. Traditions that connect Ọya with market activity therefore open a window onto public female power rather than merely adding another symbolic attribute. River associations likewise vary by region and should be documented geographically rather than generalized. These layered meanings are frequently simplified in diaspora and popular-media summaries that present Ọya only as a storm goddess.",
+          "Ọya is associated with the Niger River, wind, movement and transformation in several Yoruba traditions. These domains become clearer when they are treated as connected experiences. A great river carries people and goods across distance; wind announces changing weather; markets redistribute ownership. Each involves movement that alters the conditions around it."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names can emphasize wind, rapid movement, courage, markets and riverine power.",
+          "Ọya narratives frequently explore transformation, independence, courage and the social force of women in public life.",
+          "Contemporary heritage photography of Ọya Grove offers a valuable opportunity to connect religious study with landscape preservation. Sacred places can be vulnerable to urban expansion, environmental damage and the loss of local knowledge. Recording shrines respectfully can support cultural memory, but photographs should never be treated as substitutes for the authority of the community responsible for the site. Diasporic Oya/Iansã traditions remain historically important and visually rich, yet they developed under different conditions. A careful publication places West African shrine evidence and Atlantic traditions side by side without claiming that every ritual detail, color or object is universal.",
+          "For Ọya, responsible documentation must keep local variation visible. The themes of wind, transformation, river, market are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Ọya as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "The Niger River gives Ọya a geographical scale larger than one town. Communities living along major waterways depend on them for transport, trade and food while also confronting flooding and danger. River devotion therefore grows from practical dependence as much as symbolism."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Ọya is associated with wind, transformation and the Niger River in several Yoruba traditions. Her sacred identity is dynamic: wind is invisible but immediately known through its effects, and a great river can change the geography through which people travel and trade. These associations make movement and transition central themes in her tradition.",
+          "The Niger River connection places Ọya within a landscape larger than any single town. Rivers historically supported fishing, transport, markets and settlement while also presenting danger. To imagine a sacred power through a major river is to connect religion with mobility and economic life as well as nature.",
+          "Wind symbolism has encouraged modern descriptions of Ọya as a figure of storms and rapid change. Such language can be useful when kept grounded in tradition. Wind rearranges the environment, carries dust, announces weather and can turn ordinary conditions dangerous. It offers a vivid image for forces that cannot be held still.",
+          "Wind is invisible but known by its effects. Dust rises, trees bend, temperature changes and storms approach. This makes wind a powerful cultural image for transformation: change can be felt before its final shape is visible. Ọya’s association with wind gives the tradition a language for conditions that refuse to remain still."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Cloth, beads, market symbolism, river associations and localized shrine objects may appear, but there is no single universal visual code.",
+          "Some traditions connect Ọya with markets. This association deserves attention because Yoruba markets were spaces of intense movement, negotiation and female economic power. Market identity adds a social dimension to the image of transformation. Change does not happen only in nature; it also happens through exchange, competition and public life.",
+          "Narratives linking Ọya and Ṣàngó are widespread, but their details vary. Popular mythology often treats sacred relationships like a fixed family tree, assigning one definitive spouse or biography to every Òrìṣà. Oral tradition is less tidy. Different communities preserve different relationship stories, each shaped by local ritual history.",
+          "Market associations add a social dimension. Yoruba women historically held substantial authority in commerce, and titled market leadership could influence civic life. When Ọya is linked with markets, transformation is not only natural but economic. Goods move, prices change, ownership transfers and information circulates."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Priesthood and household devotion vary by region, with local histories shaping ritual emphasis.",
+          "In Brazil, Iansã became one of the major Òrìṣà of Candomblé, and Cuban traditions also developed forms of Oya worship. Diaspora histories preserved associations with wind and force while adding local liturgical structures. These traditions should be documented as historical developments, not merely copied into a West African profile.",
+          "Modern imagery sometimes turns Ọya into a generic symbol of female empowerment. Her tradition can certainly speak to strength and transformation, but responsible interpretation begins with the communities, rivers, markets and ritual institutions that gave the figure meaning. Symbolism is richest when it grows from history.",
+          "Narratives linking Ọya with Ṣàngó are widespread, but their details vary. Modern mythological charts often present one definitive spouse list and one universal biography. Oral traditions are more plural. Different towns and lineages remember relationships differently, and those differences should remain visible."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ọya traditions are associated with parts of the Niger River region and with Yoruba communities in multiple areas.",
+          "Ọya's continuing appeal is easy to understand in societies experiencing rapid change. Migration, urban growth, economic uncertainty and shifting family roles make transformation part of everyday life. The tradition gives sacred language to the experience that stability can disappear quickly—and that movement can also open a new road.",
+          "Ọya's relationship with death and ancestral transition is emphasized in several later and diaspora traditions, sometimes through connections with cemetery gates or the movement between worlds. The strength of this theme varies by community. It fits the larger symbolism of transition, but it should be identified as a regional emphasis rather than assumed to be uniform everywhere.",
+          "In diaspora traditions, especially Brazilian Candomblé, Iansã became a major sacred figure with strong associations with wind, storms and ancestral transition. These traditions preserved recognizable themes while developing their own liturgies and visual language under Atlantic historical conditions."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Observances differ significantly by locality.",
+          "Color and visual symbolism likewise differ. Modern charts assign fixed colors to Òrìṣà as though there were one universal code. In practice, ritual palettes can change by lineage and diaspora tradition. Documentation should describe a specific community's use rather than turning contemporary convention into timeless law.",
+          "Women's strength is a powerful modern interpretation of Ọya, especially because market authority, movement and force are all compatible with histories of Yoruba female public life. Yet empowerment becomes more meaningful when connected to actual institutions—trade, titles, ritual office—rather than reduced to motivational language.",
+          "Modern writers often use Ọya as a symbol of personal reinvention or female strength. Those interpretations can be meaningful, but they become richer when grounded in actual Yoruba histories of rivers, trade and women’s public economic roles. Empowerment has more substance when connected to institutions rather than slogans."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Diasporic storm imagery should not erase older regional associations with river, market and transformation.",
+          "Ọya became highly visible in Atlantic religions, especially in Cuba and Brazil.",
+          "Ọya's tradition ultimately focuses attention on thresholds. Wind announces weather before it arrives; rivers are crossed; markets exchange ownership; social status changes; generations die and are replaced. These are moments when one condition becomes another. A sacred figure of movement gives cultural form to the uncertainty of crossing.",
+          "River crossings historically marked both movement and risk. Ferries, seasonal flooding and long-distance trade made large rivers practical thresholds long before they became metaphors. Ọya's association with transition therefore has a geographical foundation.",
+          "Ọya ultimately represents movement with consequence. A river crossing takes a traveler somewhere else; a storm changes a landscape; a market transaction changes who owns what. Transformation in this tradition is material and social, not merely emotional. That concreteness is what gives the symbolism its enduring force."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Storm imagery also invites a lesson about preparedness. Wind can arrive before rain, giving signs of a changing environment. In cultural interpretation, attention to such signs becomes a metaphor for recognizing change before it is complete. Transformation is rarely entirely without warning.",
+          "Ọya's tradition remains strongest when movement is treated as more than chaos. Markets, rivers, weather and social transition all have patterns. The sacred figure represents force, but also the intelligence required to live when conditions refuse to remain still.",
+          "Contemporary writers often use Ọya as a metaphor for personal reinvention. That can be meaningful, but historical grounding prevents symbolism from becoming generic self-help language. The Niger, market life, weather and ritual relationships give transformation a specifically Yoruba texture.",
+          "Ọya is most accurately understood as movement with consequence. Wind changes what it touches; rivers carry people elsewhere; markets redistribute goods. Transformation is not merely emotional. It alters material and social conditions, which is why the tradition carries such force.",
+          "Market associations also connect Ọya with forms of female authority that were practical, not symbolic. Traders could accumulate wealth, organize associations and influence public life. Reading the sacred tradition alongside that history grounds modern discussions of women's power in real social institutions.",
+          "Transformation in Ọya's tradition should therefore be understood materially as well as psychologically. Rivers alter routes, storms alter landscapes and markets alter ownership. Change has consequences for bodies, property and community. This concrete quality is what keeps the symbolism from becoming vague.",
+          "Contemporary environmental history adds another dimension. Flooding, erosion and changing weather patterns make wind and river forces immediate realities for modern communities. Ọya's symbolism remains culturally powerful because the forces she represents are still experienced physically, not only metaphorically.",
+          "For documentary study, this combination of landscape, economy and sacred memory is crucial: it keeps Ọya rooted in Yoruba history while still explaining why later generations found her an enduring language for change.",
+          "Reducing Ọya to a generic storm goddess overlooks river, market, social and historical dimensions."
+        ]
+      }
     ]
   },
   {
@@ -2422,6 +2720,106 @@ window.ORISA_PUBLICATIONS = [
       "This layered evidence makes Ṣàngó an unusually rich documentary subject. A complete account must move between ruler and Òrìṣà, palace and shrine, historical criticism and living devotion. That complexity is not a problem to simplify away; it is the reason the tradition matters.",
       "The 2023 international heritage recognition also places new responsibility on documentation. Greater visibility can encourage preservation, but it can also invite oversimplification for tourism. The strongest safeguarding keeps specialist knowledge, community authority and the festival's historical relationship with Ọ̀yọ́ at the center.",
       "That balance between royal history and living performance is what makes Ṣàngó more than a mythic character: the tradition continues to be renewed by communities that remember, sing, drum and publicly enact the past."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Ṣàngó joins thunder, royal authority, public performance, charisma and the disciplined use of force.",
+          "Ṣàngó is deeply connected with the political and ritual history of Ọ̀yọ́. Traditions linking him with kingship, thunder and public authority have produced a rich body of praise poetry, dance, drumming and sculptural art.",
+          "His public image can be dramatic, but the tradition also speaks to legitimacy, justice, leadership and the dangers of excessive power.",
+          "Ṣàngó sits at the meeting point of religion, royal history and performance. Traditions connecting him with Ọ̀yọ́ kingship make political memory central to his identity. Thunder and lightning are dramatic signs, but the deeper questions concern legitimate authority: who has the right to command, how power should be used, and what happens when force exceeds restraint. Praise poetry and narrative frequently present leadership as both charismatic and dangerous. This is why Ṣàngó can symbolize public confidence and justice while also warning against uncontrolled anger. The historical and sacred dimensions reinforce one another rather than fitting neatly into a modern distinction between a former king and a deity.",
+          "Performance is one of the strongest ways Ṣàngó traditions become visible. Drumming, dance, possession, costume and praise language transform theology into public experience. The famous double-axe motif appears on carved staffs and in museum collections, often carried by devotees or represented above a figure. Such objects should not be read as static symbols detached from movement. Their meaning becomes fuller when viewed alongside dance, rhythm and oral praise. Different carving centers developed distinctive styles, and the circulation of these works through museums has made Ṣàngó one of the most visually recognizable Yoruba Òrìṣà internationally.",
+          "Ṣàngó stands at the intersection of sacred power and political history. In Ọ̀yọ́ tradition he is remembered in connection with an early Alaafin, often identified with Tẹ̀là-Ọ̀kọ̀, whose memory became inseparable from the Òrìṣà of thunder and lightning. This relationship makes Ṣàngó a particularly important example of royal ancestry becoming sacred history."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names often refer to thunder, fire, royal presence and the intensity of public authority.",
+          "Ṣàngó narratives connect royal history, charisma, anger, justice and the responsibilities of command. Oríkì and performance are especially important to his public memory.",
+          "Atlantic histories expanded Ṣàngó traditions in several directions. In Cuba, Brazil, Trinidad and elsewhere, communities preserved and reworked names, rhythms, colors, narratives and ritual relationships under new social conditions. These traditions are historically connected but not interchangeable. A responsible publication should therefore distinguish Ọ̀yọ́-centered Yoruba histories from later diasporic institutions while recognizing genuine continuities. The same caution applies to popular media, where Ṣàngó is often portrayed simply as a superhero-like thunder god. That image captures dramatic power but misses kingship, justice, praise poetry, dance, political memory and the moral problem of how authority is controlled.",
+          "Ṣàngó stands at the meeting point of thunder, kingship, history and performance. In Ọ̀yọ́ tradition he is remembered in connection with an early Alaafin whose life became sacred history. This relationship between royal ancestor and Òrìṣà makes Ṣàngó especially important for understanding how Yoruba political memory can become religious memory.",
+          "Thunder is an obvious symbol of public force. It announces itself across a wide area and cannot be ignored. Yet Ṣàngó is not simply a personification of weather. The royal dimension turns thunder into a language of authority, justice, danger and the consequences of power when it is badly controlled."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Thunder and lightning provide an obvious language of force. A storm announces itself publicly; it cannot be ignored. Ṣàngó's authority is similarly represented as dramatic and visible. Yet reducing him to anger misses the political dimension. Royal power must be heard, but it must also be controlled. Narratives about Ṣàngó often explore the danger of power that exceeds restraint.",
+          "The Ṣàngó Festival in Ọ̀yọ́ is one of the clearest examples of living Yoruba intangible heritage. Its ceremonies connect the palace, Koso, priestly offices, drummers, singers, devotees and the wider community. Storytelling and performance do not merely decorate the festival; they transmit the historical memory on which the festival depends.",
+          "The festival's inscription on UNESCO's Representative List in 2023 brought new international visibility, but its significance is local before it is global. Community members have transmitted songs, rites, craft knowledge and ceremonial roles across generations. International recognition documents that continuity; it does not create it.",
+          "The Ṣàngó Festival in Ọ̀yọ́ preserves this political memory in living form. UNESCO recognized the festival as intangible cultural heritage in 2023, describing a ten-day celebration connected with religious, social and political institutions. Chanting, storytelling, drumming, dance, dress and palace-centered ceremony all contribute to transmission."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "The double-axe motif, known widely through oṣé Ṣàngó forms, is prominent in museum collections and performance contexts. Beadwork and dance objects may also be important.",
+          "Material culture associated with Ṣàngó includes the well-known <em>oṣé Ṣàngó</em>, often carved as a double-axe form carried or represented in sculpture. The shape is connected with thunder symbolism and sacred authority. Museum examples vary considerably in style because artists and communities developed regional conventions rather than one standardized icon.",
+          "Bàtá drumming has strong historical associations with Ṣàngó traditions. The music demonstrates how sound can embody sacred character: complex rhythms, call-and-response and dance create an environment in which history is performed through the body. A written biography cannot replace that experience.",
+          "Koso is central to the festival’s geography and to Ṣàngó’s memory. Place anchors the tradition in Ọ̀yọ́ rather than allowing the figure to float free as a generic thunder god. The palace, temples, streets and processional routes together form a map of historical relationships."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Devotion may involve shrine communities, priesthoods, drumming and possession performance, with details differing by town and lineage.",
+          "Across the Atlantic, Ṣàngó became Changó, Xangô and other related forms in Cuba, Brazil and beyond. His association with thunder and kingship proved highly durable, while each diaspora religion developed its own ritual relationships and histories. In some places Ṣàngó also became a symbol of resistance, masculinity or political strength.",
+          "Modern popular culture loves the dramatic image of a thunder god, but the enduring tradition is more sophisticated. Ṣàngó asks how force becomes legitimate authority, how memory transforms a ruler into an ancestor and how performance keeps political history alive. Thunder is the most visible symbol, not the entire story.",
+          "Bàtá drumming is strongly associated with Ṣàngó and demonstrates how sound carries sacred character. Complex rhythms, praise language and dance create an environment in which history is performed rather than simply described. A written biography cannot reproduce the social knowledge contained in a full festival performance."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Ọ̀yọ́ is central to many historical traditions of Ṣàngó, though worship is widespread across Yoruba areas.",
+          "Kingship gives Ṣàngó's thunder symbolism a political framework. The Alaafin was not simply a warrior chief; the office was surrounded by ritual institutions, palace officials and expectations of public order. Stories about an earlier ruler becoming Òrìṣà therefore reflect the problem of how political power is remembered, judged and sacralized after death.",
+          "Fire, lightning and double-axe imagery are dramatic, but performance is equally central. Praise singers, drummers and dancers embody Ṣàngó through rhythm, gesture and costume. The tradition survives because it is repeatedly performed in public, not merely because a myth is written in books. Memory here is choreographed.",
+          "Material culture includes the well-known oṣé Ṣàngó, often represented as a double-axe form. Museum examples vary in carving style and composition because artists worked within regional traditions. The form communicates thunder and sacred authority, but no single sculpture can stand for every lineage."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Ṣàngó festivals and public performances remain important in several communities and have also become internationally recognized through diasporic traditions.",
+          "Modern media have globalized Ṣàngó quickly. The name appears in novels, music, comics, fashion and online spirituality. Creative reinterpretation is part of cultural life, but it can detach the figure from Ọ̀yọ́ history. A serious documentary keeps Koso, the palace and the festival visible even while acknowledging global reinvention.",
+          "The survival of the festival also demonstrates the importance of community institutions. Priestly families, palace offices, drummers, children and devotees each transmit different parts of the heritage. No single person carries the whole tradition. Cultural continuity is distributed across a network, which is why festivals can endure through major political change.",
+          "Across the Atlantic, Ṣàngó became Changó, Xangô and related forms. Thunder and kingship remained important themes, while diaspora communities developed new ritual systems and public meanings. In some contexts he also became a symbol of masculine force, resistance or political power."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "Historical and ritual narratives can differ substantially across Ọ̀yọ́, other Yoruba regions and the diaspora.",
+          "Ṣàngó became one of the most visible Yoruba-derived Òrìṣà in Atlantic religions, particularly in Cuba, Brazil and Trinidad.",
+          "Oríkì and royal history deepen the Ṣàngó tradition beyond the simplified image of thunder. Praise language remembers places, actions and qualities associated with the figure and his cult. These verbal archives help explain why performance is central to transmission.",
+          "The palace setting also makes the festival politically significant. When ritual specialists, the Alaafin's institution and the wider public participate in one cycle of events, sacred memory becomes part of civic identity. The festival tells the city a story about itself.",
+          "Ṣàngó’s documentary importance lies in the way ruler, ancestor, Òrìṣà and festival remain connected. The tradition cannot be reduced to mythology or to royal chronicle alone. It survives because communities continue to drum, sing, process, teach children and publicly enact a memory that joins political history with sacred performance."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Ṣàngó's long-form history therefore cannot be written as mythology alone. It requires political history, music, material culture, oral literature and the study of a living festival. The thunderbolt is only the entry point into a much larger institution.",
+          "The festival also shows how children learn heritage through participation rather than formal classroom instruction alone. Watching elders, hearing songs repeatedly and joining public events gradually produces familiarity. Apprenticeship deepens specialized roles, but the wider community also learns by being present.",
+          "Ṣàngó's continuing strength comes from this combination of specialist ritual and public performance. A sacred tradition remains rooted in priestly knowledge while also becoming a shared civic memory. Few Òrìṣà illustrate that balance more visibly.",
+          "Historical memory of Ṣàngó also intersects with debates about the chronology of early Ọ̀yọ́. Oral traditions preserve relationships and political meaning more reliably than exact dates. Scholars therefore compare praise poetry, dynastic lists, archaeology and external records rather than reading one sacred narrative as a modern chronology.",
+          "This layered evidence makes Ṣàngó an unusually rich documentary subject. A complete account must move between ruler and Òrìṣà, palace and shrine, historical criticism and living devotion. That complexity is not a problem to simplify away; it is the reason the tradition matters.",
+          "The 2023 international heritage recognition also places new responsibility on documentation. Greater visibility can encourage preservation, but it can also invite oversimplification for tourism. The strongest safeguarding keeps specialist knowledge, community authority and the festival's historical relationship with Ọ̀yọ́ at the center.",
+          "That balance between royal history and living performance is what makes Ṣàngó more than a mythic character: the tradition continues to be renewed by communities that remember, sing, drum and publicly enact the past.",
+          "Ṣàngó is not adequately described as only a thunder god. His traditions also engage kingship, justice, charisma, performance and political memory."
+        ]
+      }
     ]
   },
   {
@@ -2475,6 +2873,106 @@ window.ORISA_PUBLICATIONS = [
       "Public celebrations in the diaspora have also changed how the wider world imagines Yemọja. Seaside ceremonies provide powerful photographs, so ocean imagery travels more easily than quieter river traditions in West Africa. Media visibility can therefore reshape what outsiders assume is original or universal.",
       "A balanced documentary restores the full geography. Yemọja is not diminished by having different histories in different places. On the contrary, the ability of her tradition to move from Yoruba waterways into Atlantic religious worlds is one of the clearest examples of cultural continuity through transformation.",
       "The modern global image of Yemọja is therefore best read as a historical archive in motion. Each river tradition, Atlantic ceremony and contemporary artwork records a different stage in the expansion of her sacred identity across geography and generations."
+    ],
+    "chapters": [
+      {
+        "id": "identity",
+        "title": "Identity, meaning & worldview",
+        "paragraphs": [
+          "Yemọja is associated with water, motherhood, care, protection and continuity, with major differences between West African and diasporic expressions.",
+          "In Yoruba contexts, Yemọja traditions are historically connected with inland waters and specific regional communities. Diasporic developments expanded and transformed some of these associations.",
+          "Because Yemọja has become globally popular, it is especially important to distinguish documented Yoruba traditions from later universalized imagery.",
+          "Yemọja is a useful example of how an Òrìṣà can acquire different geographical emphases across history. In many West African Yoruba traditions she is connected with inland waters, motherhood and specific towns or river systems. Across the Atlantic, however, Yemọja became increasingly associated with the sea and with broad maternal imagery. Both histories are important, but they should not be collapsed into the claim that every contemporary ocean symbol represents an unchanged ancient Yoruba tradition. Documentation benefits from showing how migration, slavery, urbanization and new ritual institutions transformed the ways water was imagined.",
+          "Motherhood in Yemọja traditions is also more complex than a sentimental image of nurturing. Maternal power can include protection, discipline, continuity, grief, fertility and collective responsibility. Praise language and festival practice may present senior female authority as a force that holds communities together. This broader understanding helps explain why household, lineage and public ritual can all become important settings for devotion. It also makes space for regional traditions that do not match the blue-and-white iconography popularized internationally.",
+          "Yemọja is widely known today as a great mother of the ocean, but her West African history is strongly connected with rivers, especially the Ògùn River around Abeokuta. The shift from river to ocean is one of the most important examples of how a Yoruba sacred tradition changed as it traveled across the Atlantic."
+        ]
+      },
+      {
+        "id": "language",
+        "title": "Names, oral tradition & remembered character",
+        "paragraphs": [
+          "Praise names vary by region and may emphasize motherhood, water, protection and senior female authority.",
+          "Narratives frequently foreground motherhood, care, community, emotional force and the responsibilities of nurture.",
+          "Photographs of possession performance, river festivals and shrine settings provide especially valuable evidence because they show religion as lived practice rather than abstract mythology. The image used on this publication comes from a Nigerian festival context and should be read as one documented expression among many. Diasporic traditions in Brazil, Cuba and elsewhere developed their own aesthetics and ritual structures. Comparing them with West African material is productive when differences are made explicit. The goal is not to decide which form is more authentic, but to understand how a living tradition carries recognizable themes through changing historical conditions.",
+          "For Yemọja, responsible documentation must keep local variation visible. The themes of waters, motherhood, protection, continuity are useful guides, but they do not replace the authority of named communities, shrine histories, oral specialists and practitioners. Yoruba religious traditions have changed through migration, colonialism, urbanization, conversion, museum collecting and global media. A modern publication should therefore distinguish what is widely documented from what belongs to one town or lineage. It should also separate historical description from claims about ritual effectiveness. This editorial approach allows readers to appreciate Yemọja as part of a living intellectual and cultural system rather than as a flattened mythological character.",
+          "Her name is commonly interpreted through the idea of a mother whose children are like fish, an image of abundance and fecundity. Motherhood in the tradition is broader than biological childbirth. It can express protection, nourishment, seniority and the capacity to sustain an extended community."
+        ]
+      },
+      {
+        "id": "history",
+        "title": "Historical setting & social world",
+        "paragraphs": [
+          "Yemọja is widely associated with motherhood, waters, protection and continuity, but the modern global image of her as a universal ocean goddess can obscure older regional histories. Yoruba traditions often connect Yemọja with specific rivers and inland waters. Her later Atlantic association with the sea reflects major historical transformations.",
+          "Motherhood in Yemọja traditions is broader than biological reproduction. It can represent protection, nourishment, collective ancestry and the capacity to sustain a community. Yoruba sacred language frequently uses family relationships to express social power. A maternal Òrìṣà can therefore embody authority as well as care.",
+          "Water is central because it sustains life and links settlements. Rivers provide drinking water, support farming and create routes of movement. They can also flood or drown. Sacred water traditions hold these opposite qualities together: nurture and danger, continuity and uncertainty. Yemọja's protective dimension should be understood against that ambivalence.",
+          "River life gives this symbolism a practical setting. Water supports farming, fishing, washing, travel and settlement, yet it can also flood or drown. Yemọja’s maternal identity therefore should not be reduced to softness. The same water that nourishes life can become forceful and dangerous."
+        ]
+      },
+      {
+        "id": "material",
+        "title": "Material culture, symbols & visual language",
+        "paragraphs": [
+          "Water vessels, cloth, beads and localized shrine forms may appear in Yemọja devotion. Blue-and-white imagery is especially prominent in some diasporic contexts but should not be treated as universal.",
+          "Regional variation is essential. Different Yoruba towns preserve distinct histories about Yemọja's origin, residence and relationships with other Òrìṣà. Modern diagrams that present one fixed family tree are often products of later systematization. Oral traditions are better treated as local archives that may overlap without becoming identical.",
+          "The Atlantic slave trade profoundly changed Yemọja's geography. In Cuba and Brazil, Yoruba-derived communities encountered the ocean as the route of forced displacement and as the physical separation from Africa. Over time, Yemọja/Yemayá/Iemanjá became increasingly associated with the sea in several diaspora traditions. That development is historically meaningful rather than an error to be corrected.",
+          "Regional traditions differ in the details of Yemọja’s relationships with other Òrìṣà. Modern family trees often present one definitive genealogy, but Yoruba oral traditions do not always agree. A documentary should preserve that plurality instead of turning sacred relationships into a fixed chart."
+        ]
+      },
+      {
+        "id": "institutions",
+        "title": "Worship, priesthood & transmission",
+        "paragraphs": [
+          "Devotion takes different forms in West Africa and the diaspora, with local water bodies and lineage histories shaping practice.",
+          "Brazilian public celebrations of Iemanjá have become among the most visible expressions of African-derived religion in the Atlantic world. Offerings, music and large seaside gatherings demonstrate how a sacred figure can become part of national popular culture while remaining religiously important to devotees. Public visibility, however, can simplify complex ritual meanings.",
+          "Modern art often depicts Yemọja as a mermaid or regal woman rising from waves. Such imagery is powerful but should not be mistaken for a single ancient Yoruba iconography. Sacred identity was historically carried through shrine objects, vessels, beads, water and ritual performance as much as through figurative portraiture.",
+          "Atlantic history transformed the geography dramatically. In Cuba, Brazil and other diaspora communities, Yemayá/Iemanjá became increasingly associated with the sea. For descendants of people carried across the Atlantic through enslavement, the ocean held meanings that were impossible to separate from displacement and memory."
+        ]
+      },
+      {
+        "id": "geography",
+        "title": "Landscape, place & sacred geography",
+        "paragraphs": [
+          "Historical Yoruba centers of Yemọja devotion include inland communities as well as later broader regional traditions.",
+          "Yemọja endures because the language of water and motherhood can travel across cultures while retaining emotional force. Her history shows both continuity and transformation: a Yoruba sacred figure rooted in particular communities became a major Atlantic symbol of protection, ancestry and the dangerous generosity of water.",
+          "Motherhood symbolism can sometimes encourage the mistaken idea that Yemọja is relevant only to women or childbirth. In practice, maternal imagery can speak to entire communities. Protection, continuity and origin concern everyone. Sacred motherhood is a social principle as much as a biological one.",
+          "Brazilian public celebrations of Iemanjá are among the most visible expressions of African-derived religion in the Americas. Seaside offerings and large gatherings have shaped global imagery, which is one reason many people now assume Yemọja was always primarily an ocean Òrìṣà in West Africa."
+        ]
+      },
+      {
+        "id": "public-life",
+        "title": "Festivals, public life & community memory",
+        "paragraphs": [
+          "Public festivals occur in several communities, including contemporary celebrations that have grown in visibility.",
+          "Fishing and waterside livelihoods provide another historical context. Communities dependent on rivers and lagoons live with the generosity and danger of water every day. Religious respect for water emerges from that practical dependence. A river that feeds a settlement can also take life, creating an emotional relationship far more complex than picturesque scenery.",
+          "Global popular culture has made Yemọja one of the most recognizable Òrìṣà outside Africa. Mermaid imagery, blue-and-white palettes and ocean photography circulate widely. Some of these forms come primarily from diaspora traditions or contemporary art. Their popularity should not erase older inland and river-centered Yoruba histories.",
+          "Modern mermaid imagery, blue-and-white palettes and shell decoration can be powerful contemporary symbols, but they should not automatically be treated as one ancient Yoruba iconography. Visual traditions change. The historical question is not whether a modern image is “wrong,” but where and when that image became meaningful."
+        ]
+      },
+      {
+        "id": "variation",
+        "title": "Regional variation, diaspora & historical change",
+        "paragraphs": [
+          "This is an area where regional and diasporic variation is particularly significant.",
+          "Yemọja became a major Atlantic Òrìṣà and acquired strong oceanic associations in several diasporic traditions.",
+          "Yemọja's long history therefore illustrates how sacred identity can migrate without becoming meaningless. The waters change—from river to Atlantic shore—but themes of protection, motherhood and continuity remain intelligible. The result is not one uniform global religion but a family of related traditions shaped by different landscapes and memories.",
+          "Naming traditions around Yemọja can reveal local histories that global imagery misses. Praise names, river references and lineage associations often identify the community in which a particular form of devotion developed. These linguistic details are essential evidence.",
+          "Yemọja’s global history is a story of continuity through transformation. A sacred identity rooted in particular Yoruba waters traveled into societies defined by the Atlantic and developed new oceanic forms. River, sea, motherhood and ancestral memory now coexist across related traditions rather than cancelling one another."
+        ]
+      },
+      {
+        "id": "continuity",
+        "title": "Contemporary interpretation & continuity",
+        "paragraphs": [
+          "Maternal symbolism also includes discipline. A mother protects, but she may also correct and organize. Contemporary portrayals that reduce Yemọja to endless softness miss the authority contained in Yoruba ideas of senior motherhood and household responsibility.",
+          "Yemọja's documentary history is therefore a story of scale. It begins with particular Yoruba waters and communities, travels through Atlantic displacement and becomes a global sacred image. Each stage adds meaning, and none should be allowed to erase the others.",
+          "Modern environmental concern gives Yemọja traditions a practical contemporary setting. Polluted rivers and coastlines challenge any romantic image of sacred water. Communities that value water spiritually also confront the physical need to keep it clean enough to sustain life.",
+          "Yemọja's history demonstrates how a sacred figure can expand geographically without losing every trace of origin. River, ocean, motherhood and protection now coexist in a global field of traditions. Careful documentation makes that layered history visible instead of forcing one version to replace the others.",
+          "Public celebrations in the diaspora have also changed how the wider world imagines Yemọja. Seaside ceremonies provide powerful photographs, so ocean imagery travels more easily than quieter river traditions in West Africa. Media visibility can therefore reshape what outsiders assume is original or universal.",
+          "A balanced documentary restores the full geography. Yemọja is not diminished by having different histories in different places. On the contrary, the ability of her tradition to move from Yoruba waterways into Atlantic religious worlds is one of the clearest examples of cultural continuity through transformation.",
+          "The modern global image of Yemọja is therefore best read as a historical archive in motion. Each river tradition, Atlantic ceremony and contemporary artwork records a different stage in the expansion of her sacred identity across geography and generations.",
+          "Treating every modern ocean image as ancient and universal Yoruba iconography obscures important historical change."
+        ]
+      }
     ]
   }
 ];
