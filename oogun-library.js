@@ -10,7 +10,11 @@
     <div class="oogun-card-top"><span class="oogun-date">${ARCHIVE_DATE}</span><span class="locked-pill">🔒 Protected</span></div>
     <small>${esc(sourceLabel[x.source]||x.sourceName)}</small>
     <h3>${esc(x.title)}</h3>
-    <p>${esc(x.subtitle?x.subtitle.replace(/^\\(|\\)$/g,""):x.preview)}</p>
+    <p class="oogun-card-purpose">${esc(x.subtitle?x.subtitle.replace(/^\\(|\\)$/g,""):x.preview)}</p>
+    <div class="oogun-card-content-preview">
+      <span>Inside this document</span>
+      <p>${esc(x.contentPreview||x.preview||"Protected traditional knowledge document.")}</p>
+    </div>
     <a class="text-link" href="oogun-document.html?id=${encodeURIComponent(x.id)}">Preview document →</a>
   </article>`;
 

@@ -5340,3 +5340,54 @@ body.oogun-window-unfocused .secure-oogun-document{
     line-height:1.84;
   }
 }
+
+
+/* OOGUN CARD CONTENT PREVIEW — 2026-10-09 */
+.oogun-preview-card{
+  display:flex;
+  flex-direction:column;
+}
+.oogun-preview-card .oogun-card-purpose{
+  min-height:38px;
+  margin:0 0 11px;
+  color:#77614c;
+  font-size:.68rem;
+  line-height:1.45;
+}
+.oogun-card-content-preview{
+  margin:0 0 13px;
+  padding:11px 12px 12px;
+  border:1px solid #e4cfad;
+  border-left:3px solid #b97a35;
+  border-radius:7px;
+  background:linear-gradient(180deg,#fffdf7,#f5e7cf);
+}
+.oogun-card-content-preview>span{
+  display:block;
+  margin-bottom:5px;
+  color:#8b5728;
+  font-size:.50rem;
+  font-weight:900;
+  letter-spacing:.11em;
+  text-transform:uppercase;
+}
+.oogun-card-content-preview>p{
+  display:-webkit-box;
+  min-height:0!important;
+  margin:0!important;
+  overflow:hidden;
+  color:#4e3b2c!important;
+  font-size:.64rem!important;
+  line-height:1.52!important;
+  -webkit-box-orient:vertical;
+  -webkit-line-clamp:3;
+}
+.oogun-preview-card>.text-link{
+  margin-top:auto;
+  padding-top:2px;
+}
+@media(max-width:620px){
+  .oogun-card-content-preview{
+    padding:10px 11px;
+  }
+}
