@@ -5536,3 +5536,14 @@ body.oogun-window-unfocused .secure-oogun-document{
     font-size:.94rem;
   }
 }
+
+/* OOGUN TITLE LINKS — 2026-10-09 */
+.oogun-title-link{
+  color:inherit;
+  text-decoration:none;
+}
+.oogun-title-link:hover,
+.oogun-title-link:focus{
+  text-decoration:underline;
+  text-underline-offset:3px;
+}
