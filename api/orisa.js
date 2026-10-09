@@ -32,7 +32,7 @@ function socialIcons(){
 }
 function page(o){
   const url=SITE+'/orisa/'+encodeURIComponent(o.slug);
-  const title=o.name+': Yoruba Òrìṣà Documentary | Isese Ponbele';
+  const title=o.name+': Yoruba Òrìṣà — History, Tradition & Cultural Meaning | Isese Ponbele';
   const desc=String(o.lead||'').slice(0,158);
   const chapters=chaptersFor(o).map((ch,i)=>({
     id:ch.id||('chapter-'+(i+1)),
@@ -41,7 +41,7 @@ function page(o){
   })).filter(ch=>ch.paragraphs.length);
   const related=relatedFor(o);
   const jsonLd=JSON.stringify({'@context':'https://schema.org','@graph':[
-    {'@type':'Article','@id':url+'#article',headline:o.name+' — Yoruba Òrìṣà documentary',description:desc,image:o.image,datePublished:'2026-10-08',dateModified:'2026-10-09',mainEntityOfPage:url,inLanguage:'en',publisher:{'@type':'Organization',name:'Isese Ponbele',url:SITE+'/',logo:{'@type':'ImageObject',url:SITE+'/assets/isese-ponbele-logo-polished.webp'}},about:['Yoruba culture','Isese','Orisa',o.name]},
+    {'@type':'Article','@id':url+'#article',headline:o.name+' — Yoruba Òrìṣà history, tradition and cultural meaning',description:desc,image:o.image,datePublished:'2026-10-08',dateModified:'2026-10-09',mainEntityOfPage:url,inLanguage:'en',publisher:{'@type':'Organization',name:'Isese Ponbele',url:SITE+'/',logo:{'@type':'ImageObject',url:SITE+'/assets/isese-ponbele-logo-polished.webp'}},about:['Yoruba culture','Isese','Orisa',o.name]},
     {'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'Home',item:SITE+'/'},{'@type':'ListItem',position:2,name:'Yoruba Òrìṣà',item:SITE+'/orisas.html'},{'@type':'ListItem',position:3,name:o.name,item:url}]}
   ]}).replace(/</g,'\\u003c');
 
@@ -60,7 +60,7 @@ function page(o){
     '</a>'
   ).join('');
   const themes=(o.domains||[]).join(' • ');
-  const intro='This long-form publication follows '+esc(o.name)+' through oral tradition, social history, material culture, sacred geography, ritual institutions, regional variation and modern continuity. The chapters are written as one connected documentary rather than a set of short dictionary entries.';
+  const opening=(o.articleIntro||[]).map(p=>'<p>'+esc(p)+'</p>').join('');
 
   return '<!doctype html><html lang="en"><head>'+
     '<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#120704">'+
@@ -87,13 +87,13 @@ function page(o){
         '<div class="orisa-live-meta">'+
           '<div><small>Classification</small><strong>'+esc(o.classification)+'</strong></div>'+
           '<div><small>Core themes</small><strong>'+esc(themes)+'</strong></div>'+
-          '<div><small>Format</small><strong>Long-form documentary</strong></div>'+
+          '<div><small>Format</small><strong>Long-form cultural article</strong></div>'+
           '<div><small>Chapters</small><strong>'+chapters.length+' chapters</strong></div>'+
         '</div>'+
       '</div></section>'+
       '<section class="orisa-live-body"><div class="container orisa-live-layout">'+
         '<article class="orisa-live-article">'+
-          '<section class="orisa-live-intro"><p class="eyebrow">Documentary overview</p><h2>Understanding '+esc(o.name)+'</h2><p>'+intro+'</p></section>'+
+          '<section class="orisa-live-opening">'+opening+'</section>'+
           chapterHtml+
         '</article>'+
         '<aside class="orisa-live-aside">'+

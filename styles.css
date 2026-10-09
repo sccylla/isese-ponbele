@@ -5340,3 +5340,42 @@ body.oogun-window-unfocused .secure-oogun-document{
     line-height:1.84;
   }
 }
+
+
+/* ORISA EDITORIAL OPENING — 2026-10-09 */
+.orisa-live-opening{
+  max-width:78ch;
+  padding:18px 0 26px;
+  margin:0 0 4px;
+  border-bottom:1px solid #d8c09c;
+}
+.orisa-live-opening p{
+  margin:0 0 20px;
+  color:#3c2c1e;
+  font-family:var(--display);
+  font-size:1.24rem;
+  line-height:1.72;
+  letter-spacing:-.006em;
+}
+.orisa-live-opening p:last-child{margin-bottom:0}
+.orisa-live-opening p:first-child::first-letter{
+  float:left;
+  margin:9px 10px 0 0;
+  color:#865020;
+  font-family:var(--display);
+  font-size:4.3rem;
+  line-height:.74;
+}
+.orisa-live-chapter{
+  padding-top:50px;
+}
+.orisa-live-chapter h2{
+  max-width:760px;
+}
+@media(max-width:680px){
+  .orisa-live-opening{padding:10px 0 18px}
+  .orisa-live-opening p{
+    font-size:1.08rem;
+    line-height:1.76;
+  }
+}
