@@ -137,7 +137,7 @@
         const usageHeading=yoruba?"LILO":"USAGE";
         return `<div class="oogun-formatted-document">
           <header class="oogun-formula-heading">
-            <h2 class="oogun-formula-title">${number?`${esc(number)}. `:""}${esc(title)}</h2>
+            <h2 class="oogun-formula-title">${esc(title)}</h2>
             ${subtitle?`<p class="oogun-formula-subtitle">${esc(subtitle)}</p>`:""}
           </header>
           <section class="oogun-material-section">
