@@ -5404,3 +5404,15 @@ body.oogun-window-unfocused .secure-oogun-document{
 .oogun-lang-heading span{color:#8b6d4f;font-size:.63rem;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
 @keyframes oogunLangIn{from{opacity:.4;transform:translateY(3px)}to{opacity:1;transform:none}}
 @media(max-width:620px){.oogun-language-tabs{width:100%}.oogun-language-tabs button{flex:1;min-width:0}.oogun-lang-heading{align-items:flex-start;flex-direction:column;gap:3px}}
+
+
+/* OOGUN NAME MATERIALS PREPARATION FORMAT — 2026-10-09 */
+.oogun-formatted-document{display:grid;gap:24px}
+.oogun-formatted-document>section{padding:0 0 23px;border-bottom:1px solid #ddc39a}
+.oogun-formatted-document>section:last-child{border-bottom:0}
+.oogun-field-label{display:block;margin-bottom:9px;color:#8b5728;font-size:.66rem;font-weight:900;letter-spacing:.13em;text-transform:uppercase}
+.oogun-formatted-document h2{margin:0;color:#2c180c;font-family:var(--display);font-size:1.7rem;line-height:1.2}
+.oogun-material-list{display:grid;gap:7px;margin:0;padding:0;list-style:none}
+.oogun-material-list li{position:relative;padding-left:16px;color:#49382a;font-size:.92rem;line-height:1.55}
+.oogun-material-list li::before{content:"•";position:absolute;left:0;color:#a36931;font-weight:900}
+.oogun-formatted-document .oogun-source-text{margin-top:0}

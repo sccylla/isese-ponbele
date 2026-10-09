@@ -9,7 +9,7 @@
     }
   }catch(e){}
   const esc=v=>String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
-  const sourceLabel={livestock:"Livestock",awise:"Awíṣe & Voice",baba:"Baba Oogun Archive",iwosan2:"Egbo Igi Iwosan 2"};
+  const sourceLabel={livestock:"Livestock",awise:"Awíṣe & Voice",baba:"Baba Oogun Archive",iwosan2:"Oogun & Ìwòsàn"};
   const HOME_ORDER=[...C];
   const ARCHIVE_DATE="08 OCT 2026";
   const whatsappUrl=x=>"https://wa.me/2347047604452?text="+encodeURIComponent("Hello Isese Ponbele, I need an access code for the Oogun document: "+x.title);
@@ -100,25 +100,29 @@
     };
     const renderOpen=d=>{
       const renderText=v=>esc(v||"").replace(/\n/g,"<br>");
-      const bilingual=!!(d.bilingual&&(d.contentEnglish||d.contentYoruba));
+      const materialList=arr=>`<ul class="oogun-material-list">${(arr||[]).map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`;
+      const bilingual=!!(d.bilingual&&(d.preparationEnglish||d.preparationYoruba||d.contentEnglish||d.contentYoruba));
+      const block=(lang)=>{
+        const english=lang==="en";
+        const name=english?(d.titleEnglish||d.title):(d.titleOriginal||d.title);
+        const materials=english?(d.materialsEnglish||[]):(d.materialsYoruba||[]);
+        const preparation=english?(d.preparationEnglish||d.contentEnglish):(d.preparationYoruba||d.contentYoruba);
+        return `<div class="oogun-formatted-document">
+          <section><span class="oogun-field-label">${english?"NAME":"ORUKO"}</span><h2>${esc(name)}</h2></section>
+          <section><span class="oogun-field-label">${english?"MATERIALS NEEDED":"AWON EROJA"}</span>${materialList(materials)}</section>
+          <section><span class="oogun-field-label">${english?"PREPARATION":"IPESE"}</span><div class="oogun-source-text" data-protected-content>${renderText(preparation)}</div></section>
+        </div>`;
+      };
       const body=bilingual
         ? `<div class="oogun-language-tabs" role="tablist" aria-label="Document language">
             <button class="active" type="button" data-oogun-lang="en">English</button>
             <button type="button" data-oogun-lang="yo">Yorùbá</button>
           </div>
-          <section class="oogun-lang-panel active" data-oogun-panel="en">
-            <div class="oogun-lang-heading"><strong>English translation</strong><span>Page ${esc(d.page||"")}</span></div>
-            <div class="oogun-source-text" data-protected-content>${renderText(d.contentEnglish)}</div>
-          </section>
-          <section class="oogun-lang-panel" data-oogun-panel="yo" hidden>
-            <div class="oogun-lang-heading"><strong>Yorùbá / source text</strong><span>Page ${esc(d.page||"")}</span></div>
-            <div class="oogun-source-text" data-protected-content>${renderText(d.contentYoruba)}</div>
-          </section>`
+          <section class="oogun-lang-panel active" data-oogun-panel="en">${block("en")}</section>
+          <section class="oogun-lang-panel" data-oogun-panel="yo" hidden>${block("yo")}</section>`
         : `<div class="oogun-source-text" data-protected-content>${renderText(d.content)}</div>`;
       docRoot.innerHTML=`<article class="protected-document open secure-oogun-document">
-        <div class="document-kicker"><span>${esc(d.sourceName)}</span><span>${esc(d.archiveDate||ARCHIVE_DATE)}</span>${d.page?`<span>Page ${esc(d.page)}</span>`:""}<span class="unlocked-pill">✓ Unlocked</span></div>
-        <h1>${esc(d.title)}</h1>
-        ${d.titleEnglish&&d.titleEnglish!==d.title?`<p class="doc-subtitle">${esc(d.titleEnglish)}</p>`:(d.subtitle?`<p class="doc-subtitle">${esc(d.subtitle.replace(/^\\(|\\)$/g,""))}</p>`:"")}
+        <div class="document-kicker"><span>${esc(sourceLabel[d.source]||d.sourceName)}</span><span>${esc(d.archiveDate||ARCHIVE_DATE)}</span>${d.page?`<span>Page ${esc(d.page)}</span>`:""}<span class="unlocked-pill">✓ Unlocked</span></div>
         ${body}
       </article>`;
       if(bilingual){
