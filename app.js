@@ -6,7 +6,7 @@
 
   // Keep the Isese Ponbele brand name in correct Yoruba orthography everywhere.
   $('.brand-copy strong, .footer-brand strong').forEach(el=>{
-    el.textContent='ÌṢẸ̀ṢE PỌ́NBẸ́LẸ́';
+    el.textContent='ISESE PONBELE';
   });
 
   const page = document.body.dataset.page || '';
