@@ -33,7 +33,7 @@ function verifyPass(pass,id){
 module.exports=(req,res)=>{
   if(req.method==="GET"&&String(req.query?.catalog||"")==="iwosan2"){
     const entries=IWOSAN2.map(x=>({
-      id:x.id,source:x.source,sourceName:x.sourceName,number:x.number,page:x.page,
+      id:x.id,source:x.source,sourceName:x.sourceName,page:x.page,
       title:x.title,titleOriginal:x.titleOriginal,titleEnglish:x.titleEnglish,
       subtitle:x.subtitle,preview:x.preview,contentPreview:x.contentPreview,
       archiveDate:x.archiveDate,bilingual:true,restricted:!!x.restricted
@@ -48,5 +48,6 @@ module.exports=(req,res)=>{
   if(!item) return res.status(404).json({error:"Document not found"});
   const supplied=String(password||"");
   if(!verifyAdmin(supplied)&&!verifyPass(supplied,item.id)) return res.status(401).json({error:"Invalid or expired access password"});
-  return res.status(200).json({document:item});
+  const {number,...publicItem}=item;
+  return res.status(200).json({document:publicItem});
 };
