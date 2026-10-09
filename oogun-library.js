@@ -100,31 +100,98 @@
     };
     const renderOpen=d=>{
       const renderText=v=>esc(v||"").replace(/\n/g,"<br>");
-      const materialList=arr=>`<ul class="oogun-material-list">${(arr||[]).map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`;
+      const cleanMaterial=v=>String(v||"").replace(/^[\s•●▪◦*\-]+/,"").trim();
+      const sectionize=raw=>{
+        const out={materials:[],preparation:"",usage:""};
+        const prep=[],usage=[];
+        let mode="";
+        String(raw||"").replace(/\r/g,"").split("\n").forEach(rawLine=>{
+          const line=rawLine.trim();
+          if(!line){
+            if(mode==="preparation") prep.push("");
+            if(mode==="usage") usage.push("");
+            return;
+          }
+          const heading=line.replace(/\*+/g,"").replace(/:$/,"").trim().toUpperCase();
+          if(/^(MATERIALS(?: NEEDED)?|AWON EROJA)$/.test(heading)){mode="materials";return;}
+          if(/^(PREPARATION|PROCEDURE|METHOD|IPESE)$/.test(heading)){mode="preparation";return;}
+          if(/^(USAGE|USE|PLACEMENT|APPLICATION|DIRECTIONS?|HOW TO USE|LILO)$/.test(heading)){mode="usage";return;}
+          if(mode==="materials"){
+            const item=cleanMaterial(rawLine);
+            if(item) out.materials.push(item);
+          }else if(mode==="preparation"){
+            prep.push(line.replace(/^\s*/,""));
+          }else if(mode==="usage"){
+            usage.push(line.replace(/^\s*/,""));
+          }
+        });
+        out.preparation=prep.join("\n").replace(/\n{3,}/g,"\n\n").trim();
+        out.usage=usage.join("\n").replace(/\n{3,}/g,"\n\n").trim();
+        return out;
+      };
+      const materialList=arr=>`<ul class="oogun-material-list">${(arr||[]).filter(Boolean).map(v=>`<li>${esc(v)}</li>`).join("")}</ul>`;
+      const formulaBlock=({number,title,subtitle,materials,preparation,usage,lang})=>{
+        const yoruba=lang==="yo";
+        const materialHeading=yoruba?"Awon eroja:":"Materials needed:";
+        const prepHeading=yoruba?"IPESE":"PREPARATION";
+        const usageHeading=yoruba?"LILO":"USAGE";
+        return `<div class="oogun-formatted-document">
+          <header class="oogun-formula-heading">
+            <h2 class="oogun-formula-title">${number?`${esc(number)}. `:""}${esc(title)}</h2>
+            ${subtitle?`<p class="oogun-formula-subtitle">${esc(subtitle)}</p>`:""}
+          </header>
+          <section class="oogun-material-section">
+            <h3 class="oogun-material-heading">${materialHeading}</h3>
+            ${materialList(materials)}
+          </section>
+          ${preparation?`<section class="oogun-copy-section"><h3 class="oogun-section-heading">${prepHeading}</h3><div class="oogun-source-text" data-protected-content>${renderText(preparation)}</div></section>`:""}
+          ${usage?`<section class="oogun-copy-section"><h3 class="oogun-section-heading">${usageHeading}</h3><div class="oogun-source-text" data-protected-content>${renderText(usage)}</div></section>`:""}
+        </div>`;
+      };
       const bilingual=!!(d.bilingual&&(d.preparationEnglish||d.preparationYoruba||d.contentEnglish||d.contentYoruba));
       const block=(lang)=>{
         const english=lang==="en";
-        const name=english?(d.titleEnglish||d.title):(d.titleOriginal||d.title);
-        const materials=english?(d.materialsEnglish||[]):(d.materialsYoruba||[]);
-        const preparation=english?(d.preparationEnglish||d.contentEnglish):(d.preparationYoruba||d.contentYoruba);
-        return `<div class="oogun-formatted-document">
-          <section><span class="oogun-field-label">${english?"NAME":"ORUKO"}</span><h2>${esc(name)}</h2></section>
-          <section><span class="oogun-field-label">${english?"MATERIALS NEEDED":"AWON EROJA"}</span>${materialList(materials)}</section>
-          <section><span class="oogun-field-label">${english?"PREPARATION":"IPESE"}</span><div class="oogun-source-text" data-protected-content>${renderText(preparation)}</div></section>
-        </div>`;
+        const raw=sectionize(english?d.contentEnglish:d.contentYoruba);
+        const title=d.titleOriginal||d.title;
+        const subtitle=english
+          ? (d.subtitle||((d.titleEnglish&&d.titleEnglish!==title)?`(${d.titleEnglish})`:""))
+          : (d.subtitle||"");
+        const materials=(english?(d.materialsEnglish||[]):(d.materialsYoruba||[]));
+        const preparation=english
+          ? (d.preparationEnglish||raw.preparation||d.contentEnglish||"")
+          : (d.preparationYoruba||raw.preparation||d.contentYoruba||"");
+        const usage=english?(d.usageEnglish||raw.usage||""):(d.usageYoruba||raw.usage||"");
+        return formulaBlock({
+          number:d.number,
+          title,
+          subtitle,
+          materials:materials.length?materials:raw.materials,
+          preparation,
+          usage,
+          lang
+        });
       };
-      const body=bilingual
-        ? `<div class="oogun-language-tabs" role="tablist" aria-label="Document language">
+      let body="";
+      if(bilingual){
+        body=`<div class="oogun-language-tabs" role="tablist" aria-label="Document language">
             <button class="active" type="button" data-oogun-lang="en">English</button>
             <button type="button" data-oogun-lang="yo">Yorùbá</button>
           </div>
           <section class="oogun-lang-panel active" data-oogun-panel="en">${block("en")}</section>
-          <section class="oogun-lang-panel" data-oogun-panel="yo" hidden>${block("yo")}</section>`
-        : `<div class="oogun-source-text" data-protected-content>${renderText(d.content)}</div>`;
-      docRoot.innerHTML=`<article class="protected-document open secure-oogun-document">
-        <div class="document-kicker"><span>${esc(sourceLabel[d.source]||d.sourceName)}</span><span>${esc(d.archiveDate||ARCHIVE_DATE)}</span>${d.page?`<span>Page ${esc(d.page)}</span>`:""}<span class="unlocked-pill">✓ Unlocked</span></div>
-        ${body}
-      </article>`;
+          <section class="oogun-lang-panel" data-oogun-panel="yo" hidden>${block("yo")}</section>`;
+      }else{
+        const raw=sectionize(d.content||"");
+        body=formulaBlock({
+          number:d.number,
+          title:d.title,
+          subtitle:d.subtitle||"",
+          materials:raw.materials,
+          preparation:raw.preparation||(!raw.materials.length&&!raw.usage?d.content:""),
+          usage:raw.usage,
+          lang:"en"
+        });
+      }
+      docRoot.innerHTML=`<article class="protected-document open secure-oogun-document">${body}</article>`;
       if(bilingual){
         const buttons=[...docRoot.querySelectorAll("[data-oogun-lang]")];
         const panels=[...docRoot.querySelectorAll("[data-oogun-panel]")];
