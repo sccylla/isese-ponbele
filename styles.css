@@ -78,7 +78,7 @@ button{cursor:pointer}
 background-size:auto,34px 34px,34px 34px}
 .hero-reference-grid{position:relative;z-index:2;display:grid;grid-template-columns:minmax(0,.82fr) minmax(520px,1.18fr);min-height:470px}
 .hero-reference-copy{position:relative;padding:52px 34px 44px 0;align-self:center}
-.hero-reference-copy::before{content:'';position:absolute;width:390px;height:390px;left:-145px;top:50%;transform:translateY(-50%);background:url('assets/isese-ponbele-logo-clean.svg?v=20261010-logo-fix-v3') center/contain no-repeat;opacity:.05;filter:sepia(1) saturate(.7);pointer-events:none}
+.hero-reference-copy::before{content:'';position:absolute;width:390px;height:390px;left:-145px;top:50%;transform:translateY(-50%);background:url('assets/isese-ponbele-logo-polished.webp?v=20261010-original-logo-v5') center/contain no-repeat;opacity:.05;filter:sepia(1) saturate(.7);pointer-events:none}
 .hero-reference-copy>*{position:relative;z-index:1}
 .hero-kicker{margin:0 0 8px;color:#d9a84c;font-size:.66rem;font-weight:800;letter-spacing:.24em}
 .hero-reference h1{margin:0;font-family:var(--display);font-size:clamp(4.8rem,7.4vw,7.4rem);font-weight:700;line-height:.74;letter-spacing:-.045em;color:#f2c875;text-shadow:0 4px 0 rgba(73,40,13,.30),0 0 34px rgba(216,162,74,.10)}

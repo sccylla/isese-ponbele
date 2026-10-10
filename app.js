@@ -2,12 +2,22 @@
   const DATA = window.ISESE_DATA || {orisas:[],oogun:[],dictionary:[],products:[]};
   const ORISAS = window.ORISA_PUBLICATIONS || DATA.orisas || [];
   const $ = (s,root=document) => root.querySelector(s);
-  const $ = (s,root=document) => [...root.querySelectorAll(s)];
+  const $$ = (s,root=document) => [...root.querySelectorAll(s)];
 
-  // Keep the Isese Ponbele brand name in correct Yoruba orthography everywhere.
-  $('.brand-copy strong, .footer-brand strong').forEach(el=>{
+  // Keep the exact original Isese Ponbele emblem visible everywhere.
+  $$('.brand-copy strong, .footer-brand strong').forEach(el=>{
     el.textContent='ISESE PONBELE';
   });
+  const originalLogo='assets/isese-ponbele-logo-polished.webp?v=20261010-original-logo-v5';
+  $$('img[src*="isese-ponbele-logo"]').forEach(img=>{ img.src=originalLogo; });
+  let favicon=document.querySelector('link[rel~="icon"]');
+  if(!favicon){
+    favicon=document.createElement('link');
+    favicon.rel='icon';
+    document.head.appendChild(favicon);
+  }
+  favicon.type='image/webp';
+  favicon.href=originalLogo;
 
   const page = document.body.dataset.page || '';
   const menuBtn = $('.menu-btn');
