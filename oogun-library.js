@@ -10,11 +10,10 @@
   }catch(e){}
   const esc=v=>String(v??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
   const plain=v=>String(v??"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
-  const categoryOrder=["Health & Ìwòsàn","Protection","Wealth & Favour","Awíṣe & Command","Love & Attraction","Victory & Defence","Livestock","Travel & Weather","General Oogun"];
+  const categoryOrder=["Health & Ìwòsàn","Protection","Wealth & Favour","Awíṣe & Command","Love & Attraction","Victory & Defence","Travel & Weather","General Oogun"];
   const categoryOf=x=>{
     const t=plain([x.title,x.titleEnglish,x.subtitle,x.preview,x.contentPreview,x.sourceName].join(" "));
     if(x.source==="iwosan2") return "Health & Ìwòsàn";
-    if(x.source==="livestock"||/(livestock|nkan osin|eran)/.test(t)) return "Livestock";
     if(/(awise|afohunse|apase|asoribe|olugbohun|mayehun|ase inu|command|utterance|voice|word|statement)/.test(t)) return "Awíṣe & Command";
     if(/(aabo|idaabobo|protect|protection|isori|ikujenjo|magun|attack|harmful|death|iku|sudden attack)/.test(t)) return "Protection";
     if(/(isegun|segun|victory|overcom|opposition|revolt|enemy|defence|defense)/.test(t)) return "Victory & Defence";
@@ -24,7 +23,7 @@
     return "General Oogun";
   };
   const mixEntries=items=>{
-    const sourceOrder=["baba","iwosan2","awise","livestock"];
+    const sourceOrder=["baba","iwosan2","awise"];
     const buckets=new Map();
     items.forEach(x=>{
       const key=x.source||"other";
