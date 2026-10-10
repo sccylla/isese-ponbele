@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ISESE PONBELE logo">
+<defs>
+  <radialGradient id="bg" cx="50%" cy="42%" r="62%">
+    <stop offset="0" stop-color="#2b160b"/>
+    <stop offset=".62" stop-color="#120704"/>
+    <stop offset="1" stop-color="#070301"/>
+  </radialGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff0a8"/>
+    <stop offset=".22" stop-color="#f2c875"/>
+    <stop offset=".55" stop-color="#c9872f"/>
+    <stop offset=".8" stop-color="#f2c875"/>
+    <stop offset="1" stop-color="#8f541d"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<circle cx="256" cy="256" r="246" fill="url(#bg)" stroke="url(#gold)" stroke-width="12"/>
+<circle cx="256" cy="256" r="224" fill="none" stroke="#d8a24a" stroke-opacity=".55" stroke-width="2"/>
+<circle cx="256" cy="205" r="126" fill="none" stroke="#d8a24a" stroke-width="6"/>
+<path d="M177 175c-20 3-42 12-58 29M335 175c20 3 42 12 58 29M164 305c-22 12-38 31-47 53M348 305c22 12 38 31 47 53" fill="none" stroke="#8f6a2a" stroke-width="9" stroke-linecap="round"/>
+<g fill="url(#gold)" opacity=".95">
+  <circle cx="256" cy="68" r="11"/><circle cx="256" cy="92" r="8"/><circle cx="256" cy="112" r="6"/>
+</g>
+<g transform="translate(256 207)">
+  <path d="M-58-28c7-51 29-80 58-80s51 29 58 80c3 20 1 54-8 80-11 31-29 48-50 48s-39-17-50-48c-9-26-11-60-8-80z" fill="#a96b2f" stroke="#f2c875" stroke-width="3"/>
+  <path d="M-56-33c13-42 31-66 56-66s43 24 56 66c-17-14-35-20-56-20s-39 6-56 20z" fill="#2c160b" stroke="#f2c875" stroke-width="3"/>
+  <path d="M-30 0c8-6 18-6 27 0M3 0c9-6 19-6 27 0" fill="none" stroke="#1a0c06" stroke-width="5" stroke-linecap="round"/>
+  <path d="M0 8c-5 15-7 27-1 35M-20 57c13 8 27 8 40 0" fill="none" stroke="#5d3219" stroke-width="4" stroke-linecap="round"/>
+</g>
+<g stroke="url(#gold)" stroke-width="7" stroke-linecap="round" fill="none">
+  <path d="M116 229h54M143 202v54M123 209l40 40M163 209l-40 40"/>
+  <path d="M342 229c0-23 28-23 28 0 0 23 28 23 28 0M342 247c0 23 28 23 28 0 0-23 28-23 28 0"/>
+</g>
+<path d="M104 361c43-32 95-42 152-29 57-13 109-3 152 29" fill="none" stroke="#d8a24a" stroke-width="5"/>
+<rect x="82" y="354" width="348" height="101" rx="22" fill="#0d0502" fill-opacity=".92" stroke="#d8a24a" stroke-width="3"/>
+<text x="256" y="395" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="700" fill="#f2c875" letter-spacing="2">ISESE</text>
+<text x="256" y="438" text-anchor="middle" font-family="Georgia,serif" font-size="39" font-weight="700" fill="#f2c875" letter-spacing="1.5">PONBELE</text>
+</svg>
