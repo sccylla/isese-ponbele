@@ -1,5 +1,5 @@
 const ORISAS=require('./orisa-data.json');
-const SITE='https://isese-ponbele.vercel.app';
+const SITE='https://www.onisese.ng';
 const bySlug=new Map(ORISAS.map(x=>[x.slug,x]));
 function esc(v=''){return String(v).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
 function relatedFor(o){
@@ -104,11 +104,11 @@ function page(o){
       '</div></section>'+
     '</main>'+
     '<footer class="site-footer rich-footer orisa-live-footer"><div class="container"><div class="footer-grid">'+
-      '<div><div class="footer-brand"><img src="/assets/isese-ponbele-logo-polished.webp" alt="Isese Ponbele logo"><div><strong>ÌSÈSÈ PONBELÈ</strong><small>Yoruba Traditional Knowledge House</small></div></div><p class="footer-copy">Preserving Yoruba knowledge. Empowering generations. Rooted in tradition, relevant for today.</p>'+socialIcons()+'</div>'+
+      '<div><div class="footer-brand"><img src="/assets/isese-ponbele-logo-polished.webp" alt="Isese Ponbele logo"><div><strong>ISESE PONBELE</strong><small>Yoruba Traditional Knowledge House</small></div></div><p class="footer-copy">Preserving Yoruba knowledge. Empowering generations. Rooted in tradition, relevant for today.</p>'+socialIcons()+'</div>'+
       '<div class="footer-col"><h4>Knowledge</h4><a href="/isese.html">Ìṣẹ̀ṣe</a><a href="/ifa.html">Ifá</a><a href="/yoruba-culture.html">Yoruba Culture</a><a href="/orisas.html">Òrìṣà</a></div>'+
       '<div class="footer-col"><h4>Resources</h4><a href="/dictionary.html">Yoruba Dictionary</a><a href="/oogun.html">Oogun Library</a><a href="/about.html">About</a><a href="/consultation.html">Consultation</a></div>'+
       '<div class="footer-col footer-motto"><strong>Àṣẹ.<br>Ìmọ̀.<br>Ilé.<br>Generations.</strong></div>'+
-    '</div><div class="footer-bottom"><span>© 2026 ÌSÈSÈ PONBELÈ. All rights reserved.</span><span>Knowledge • Culture • Spirituality • Community</span></div></div></footer>'+
+    '</div><div class="footer-bottom"><span>© 2026 ISESE PONBELE. All rights reserved.</span><span>Knowledge • Culture • Spirituality • Community</span></div></div></footer>'+
     '<script>(function(){var b=document.querySelector(".menu-btn"),n=document.querySelector(".nav-links");if(!b||!n)return;b.addEventListener("click",function(){var o=n.classList.toggle("open");b.setAttribute("aria-expanded",String(o));document.body.classList.toggle("menu-open",o)});})();</script>'+
     '</body></html>';
 }

@@ -4,4 +4,10 @@ Disallow: /api/
 Disallow: /access-manager.html
 Disallow: /oogun-document.html
 
-Sitemap: https://isese-ponbele.vercel.app/sitemap.xml
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /api/
+Disallow: /access-manager.html
+Disallow: /oogun-document.html
+
+Sitemap: https://www.onisese.ng/sitemap.xml

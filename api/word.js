@@ -1,6 +1,6 @@
 const words = require('./dictionary-data.json');
 
-const SITE = 'https://isese-ponbele.vercel.app';
+const SITE = 'https://www.onisese.ng';
 const bySlug = new Map(words.map(x => [x.slug, x]));
 const byTerm = new Map(words.map(x => [String(x.term || '').toLowerCase(), x]));
 
