@@ -2,12 +2,14 @@ User-agent: *
 Allow: /
 Disallow: /api/
 Disallow: /access-manager.html
+Disallow: /admin-analytics.html
 Disallow: /oogun-document.html
 
 User-agent: OAI-SearchBot
 Allow: /
 Disallow: /api/
 Disallow: /access-manager.html
+Disallow: /admin-analytics.html
 Disallow: /oogun-document.html
 
 Sitemap: https://www.onisese.ng/sitemap.xml

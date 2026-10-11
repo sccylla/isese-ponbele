@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>Analytics Dashboard | ISESE PONBELE</title>
+<style>
+:root{--bg:#0d0805;--panel:#18100b;--panel2:#21160f;--gold:#e2b259;--gold2:#f3d18d;--text:#f7efe2;--muted:#a99b8c;--line:#3c2b1e;--good:#75d7a1;--danger:#ff8d7e}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 20% 0,#2b190d 0,transparent 33%),var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+button,input,select{font:inherit}.hidden{display:none!important}
+.login{min-height:100vh;display:grid;place-items:center;padding:24px}.login-card{width:min(460px,100%);background:linear-gradient(180deg,#20140d,#130d09);border:1px solid var(--line);border-radius:28px;padding:34px;box-shadow:0 30px 80px #0008}
+.logo{width:72px;height:72px;border-radius:50%;object-fit:cover;border:1px solid #755527}.eyebrow{color:var(--gold);font-size:12px;letter-spacing:.18em;font-weight:800}.login h1{font-family:Georgia,serif;font-size:34px;margin:15px 0 8px}.muted{color:var(--muted)}
+.field{display:flex;gap:10px;margin-top:25px}.field input{flex:1;min-width:0;background:#0d0906;border:1px solid var(--line);color:#fff;border-radius:14px;padding:14px 15px}.btn{border:0;background:var(--gold);color:#1b1008;font-weight:900;border-radius:14px;padding:14px 17px;cursor:pointer}.error{color:var(--danger);min-height:22px;margin-top:12px}
+.dashboard{max-width:1450px;margin:auto;padding:26px}.topbar{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:9px 0 25px}.brand{display:flex;align-items:center;gap:14px}.brand img{width:48px;height:48px;border-radius:50%}.brand strong{display:block;letter-spacing:.08em}.brand small{color:var(--muted)}
+.actions{display:flex;gap:9px;align-items:center}.ghost,.range{background:#17100b;border:1px solid var(--line);color:var(--text);border-radius:11px;padding:10px 12px}.ghost{cursor:pointer}
+.status{display:flex;align-items:center;gap:8px;color:var(--good);font-size:13px}.dot{width:9px;height:9px;border-radius:50%;background:var(--good);box-shadow:0 0 16px var(--good)}
+.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}.kpi,.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:20px}.kpi{padding:20px}.kpi span{display:block;color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.08em}.kpi b{display:block;font-family:Georgia,serif;font-size:34px;color:var(--gold2);margin-top:7px}.online b{color:var(--good)}
+.card{padding:20px;margin-top:14px}.card h2{font-size:17px;margin:0 0 18px}.two{display:grid;grid-template-columns:1.45fr 1fr;gap:14px}.three{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.chart{height:260px;display:flex;align-items:flex-end;gap:7px;padding-top:20px;overflow:hidden}.barwrap{flex:1;min-width:10px;display:flex;flex-direction:column;justify-content:flex-end;height:100%;gap:7px}.bar{background:linear-gradient(180deg,var(--gold2),#9e6e2f);border-radius:7px 7px 2px 2px;min-height:2px}.barlabel{font-size:10px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:center}
+.rows{display:grid;gap:9px}.row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:12px;align-items:center}.row .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#eadfce}.meter{height:6px;background:#0c0805;border-radius:999px;margin-top:5px;overflow:hidden}.meter i{display:block;height:100%;background:var(--gold);border-radius:999px}.value{font-weight:800;color:var(--gold2)}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{text-align:left;padding:11px 9px;border-bottom:1px solid #302117}th{color:var(--muted);font-weight:700}td{color:#e8ddcd}.scroll{overflow:auto;max-height:460px}.empty{color:var(--muted);padding:20px 0}.footer-note{color:var(--muted);font-size:12px;text-align:center;padding:22px}
+@media(max-width:1000px){.grid{grid-template-columns:repeat(2,1fr)}.two,.three{grid-template-columns:1fr}}@media(max-width:620px){.dashboard{padding:16px}.topbar{align-items:flex-start;flex-direction:column}.actions{width:100%;flex-wrap:wrap}.grid{grid-template-columns:1fr 1fr}.kpi{padding:16px}.kpi b{font-size:28px}.field{flex-direction:column}.chart{height:200px}}
+</style>
+</head>
+<body>
+<section id="login" class="login">
+  <form id="loginForm" class="login-card">
+    <img class="logo" src="assets/isese-ponbele-logo-polished.webp?v=20261010-original-logo-v5" alt="">
+    <p class="eyebrow">PRIVATE ADMIN</p>
+    <h1>Website Analytics</h1>
+    <p class="muted">Use your existing ISESE PONBELE admin key to open the private dashboard.</p>
+    <div class="field"><input id="password" type="password" autocomplete="current-password" placeholder="Admin key" required><button class="btn">Open dashboard</button></div>
+    <div id="loginError" class="error"></div>
+  </form>
+</section>
+
+<main id="dashboard" class="dashboard hidden">
+  <div class="topbar">
+    <div class="brand"><img src="assets/isese-ponbele-logo-polished.webp?v=20261010-original-logo-v5" alt=""><div><strong>ISESE PONBELE</strong><small>Private analytics dashboard</small></div></div>
+    <div class="actions"><span class="status"><i class="dot"></i><span id="statusText">Live</span></span><select id="range" class="range"><option value="1">Today / 24h</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option></select><button id="refresh" class="ghost">Refresh</button><button id="logout" class="ghost">Log out</button></div>
+  </div>
+
+  <section class="grid">
+    <div class="kpi online"><span>Online now</span><b id="onlineNow">—</b></div>
+    <div class="kpi"><span>Pageviews today</span><b id="pageviewsToday">—</b></div>
+    <div class="kpi"><span>Visitors today</span><b id="visitorsToday">—</b></div>
+    <div class="kpi"><span>Pageviews selected</span><b id="pageviews">—</b></div>
+    <div class="kpi"><span>Unique visitors</span><b id="visitors">—</b></div>
+  </section>
+
+  <section class="two">
+    <div class="card"><h2>Traffic trend</h2><div id="chart" class="chart"></div></div>
+    <div class="card"><h2>What people are viewing now</h2><div id="onlinePages" class="rows"></div></div>
+  </section>
+
+  <section class="three">
+    <div class="card"><h2>Top pages</h2><div id="topPages" class="rows"></div></div>
+    <div class="card"><h2>Countries</h2><div id="countries" class="rows"></div></div>
+    <div class="card"><h2>Traffic sources</h2><div id="referrers" class="rows"></div></div>
+  </section>
+
+  <section class="three">
+    <div class="card"><h2>Devices</h2><div id="devices" class="rows"></div></div>
+    <div class="card"><h2>Browsers</h2><div id="browsers" class="rows"></div></div>
+    <div class="card"><h2>Campaign sources</h2><div id="utmSources" class="rows"></div></div>
+  </section>
+
+  <section class="card"><h2>Recent pageviews</h2><div class="scroll"><table><thead><tr><th>Time</th><th>Page</th><th>Country</th><th>Device</th><th>Browser</th><th>Referrer</th></tr></thead><tbody id="recent"></tbody></table></div></section>
+  <div id="note" class="footer-note">Analytics refresh automatically every 15 seconds. No full IP addresses are stored.</div>
+</main>
+
+<script>
+const API='/api/admin-analytics';
+const login=document.getElementById('login'),dash=document.getElementById('dashboard');
+const tokenKey='ip_admin_analytics_token';
+let timer=0;
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
+const num=n=>new Intl.NumberFormat().format(Number(n)||0);
+function showDash(){login.classList.add('hidden');dash.classList.remove('hidden')}
+function showLogin(){dash.classList.add('hidden');login.classList.remove('hidden')}
+async function post(body){
+  const r=await fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+  const j=await r.json().catch(()=>({}));
+  if(!r.ok) throw Object.assign(new Error(j.error||'Request failed'),{status:r.status});
+  return j;
+}
+function rows(id,data){
+  const el=document.getElementById(id); data=data||[];
+  if(!data.length){el.innerHTML='<div class="empty">No data yet.</div>';return}
+  const max=Math.max(...data.map(x=>x.value),1);
+  el.innerHTML=data.map(x=>'<div class="row"><div><div class="name">'+esc(x.name)+'</div><div class="meter"><i style="width:'+Math.max(3,(x.value/max)*100)+'%"></i></div></div><div class="value">'+num(x.value)+'</div></div>').join('');
+}
+function chart(data){
+  const el=document.getElementById('chart'); data=data||[];
+  const max=Math.max(...data.map(x=>x.pageviews),1);
+  el.innerHTML=data.map(x=>'<div class="barwrap" title="'+esc(x.date)+': '+num(x.pageviews)+' pageviews, '+num(x.visitors)+' visitors"><div class="bar" style="height:'+Math.max(2,(x.pageviews/max)*100)+'%"></div><div class="barlabel">'+esc(x.date.slice(5))+'</div></div>').join('');
+}
+function render(d){
+  ['onlineNow','pageviewsToday','visitorsToday','pageviews','visitors'].forEach(k=>document.getElementById(k).textContent=num(d[k]));
+  rows('topPages',d.topPages);rows('countries',d.countries);rows('referrers',d.referrers);rows('devices',d.devices);rows('browsers',d.browsers);rows('utmSources',d.utmSources);rows('onlinePages',d.onlinePages);chart(d.daily);
+  const tbody=document.getElementById('recent');
+  tbody.innerHTML=(d.recent||[]).map(x=>'<tr><td>'+new Date(x.ts).toLocaleString()+'</td><td>'+esc(x.path)+'</td><td>'+esc(x.country)+'</td><td>'+esc(x.device)+'</td><td>'+esc(x.browser)+'</td><td>'+esc(x.referrer)+'</td></tr>').join('')||'<tr><td colspan="6" class="empty">No pageviews recorded yet.</td></tr>';
+  document.getElementById('statusText').textContent='Updated '+new Date(d.generatedAt).toLocaleTimeString();
+  document.getElementById('note').textContent=d.truncated?'High traffic: this view is showing the latest 5,000 events in the selected period.':'Analytics refresh automatically every 15 seconds. No full IP addresses are stored.';
+}
+async function load(){
+  const token=sessionStorage.getItem(tokenKey); if(!token){showLogin();return}
+  try{
+    const d=await post({action:'summary',token,days:Number(document.getElementById('range').value)});
+    showDash();render(d);
+  }catch(e){
+    if(e.status===401){sessionStorage.removeItem(tokenKey);showLogin()}
+    else document.getElementById('statusText').textContent='Refresh failed';
+  }
+}
+document.getElementById('loginForm').addEventListener('submit',async e=>{
+  e.preventDefault();const err=document.getElementById('loginError');err.textContent='';
+  try{
+    const r=await post({action:'login',password:document.getElementById('password').value});
+    sessionStorage.setItem(tokenKey,r.token);document.getElementById('password').value='';showDash();load();
+  }catch(x){err.textContent=x.message}
+});
+document.getElementById('refresh').onclick=load;
+document.getElementById('range').onchange=load;
+document.getElementById('logout').onclick=()=>{sessionStorage.removeItem(tokenKey);clearInterval(timer);showLogin()};
+if(sessionStorage.getItem(tokenKey)){showDash();load()}else showLogin();
+timer=setInterval(()=>{if(!dash.classList.contains('hidden'))load()},15000);
+</script>
+</body></html>

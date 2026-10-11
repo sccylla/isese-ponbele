@@ -817,3 +817,48 @@
     mark.innerHTML=icons[p];
   });
 })();
+
+;(() => {
+  if (location.pathname === '/admin-analytics.html' || navigator.webdriver) return;
+  const endpoint='/api/analytics';
+  const makeId=()=>{
+    try{
+      let id=localStorage.getItem('ip_visitor_id');
+      if(!id){
+        id=(crypto.randomUUID?crypto.randomUUID():Date.now().toString(36)+'-'+Math.random().toString(36).slice(2));
+        localStorage.setItem('ip_visitor_id',id);
+      }
+      return id;
+    }catch{
+      return (crypto.randomUUID?crypto.randomUUID():Date.now().toString(36)+'-'+Math.random().toString(36).slice(2));
+    }
+  };
+  const visitorId=makeId();
+  const params=new URLSearchParams(location.search);
+  const payload=type=>({
+    type,
+    visitorId,
+    path:location.pathname || '/',
+    referrer:document.referrer || '',
+    utmSource:params.get('utm_source')||'',
+    utmMedium:params.get('utm_medium')||'',
+    utmCampaign:params.get('utm_campaign')||''
+  });
+  const send=(type)=>{
+    const body=JSON.stringify(payload(type));
+    try{
+      if(type==='heartbeat' && navigator.sendBeacon){
+        navigator.sendBeacon(endpoint,new Blob([body],{type:'application/json'}));
+      }else{
+        fetch(endpoint,{method:'POST',headers:{'Content-Type':'application/json'},body,keepalive:true,credentials:'same-origin'}).catch(()=>{});
+      }
+    }catch{}
+  };
+  send('pageview');
+  send('heartbeat');
+  let timer=setInterval(()=>{ if(document.visibilityState==='visible') send('heartbeat'); },25000);
+  document.addEventListener('visibilitychange',()=>{
+    if(document.visibilityState==='visible') send('heartbeat');
+  });
+  addEventListener('pagehide',()=>{ clearInterval(timer); },{once:true});
+})();
