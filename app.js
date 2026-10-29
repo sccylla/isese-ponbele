@@ -669,18 +669,18 @@
 
     // Staggered reveal for the main visual blocks.
     const revealTargets = [
-      ...$('.section-heading-rich'),
-      ...$('.seo-topic-grid > a'),
-      ...$('.rich-product-card'),
-      ...$('.document-card'),
-      ...$('.knowledge-house-head'),
-      ...$('.knowledge-feature'),
-      ...$('.knowledge-story'),
-      ...$('.dark-panel'),
-      ...$('.newsletter-inner'),
-      ...$('.store-card'),
-      ...$('.orisa-card'),
-      ...$('.dictionary-entry')
+      ...$$('.section-heading-rich'),
+      ...$$('.seo-topic-grid > a'),
+      ...$$('.rich-product-card'),
+      ...$$('.document-card'),
+      ...$$('.knowledge-house-head'),
+      ...$$('.knowledge-feature'),
+      ...$$('.knowledge-story'),
+      ...$$('.dark-panel'),
+      ...$$('.newsletter-inner'),
+      ...$$('.store-card'),
+      ...$$('.orisa-card'),
+      ...$$('.dictionary-entry')
     ];
     revealTargets.forEach((el,i)=>{
       el.classList.add('motion-item');
@@ -755,7 +755,7 @@
     onScroll();
 
     // Product carousel glides automatically; pauses on interaction.
-    $('[data-carousel]').forEach(carousel=>{
+    $$('[data-carousel]').forEach(carousel=>{
       const track=$('.rich-card-track',carousel);
       if(!track || reduce) return;
       let timer=null;

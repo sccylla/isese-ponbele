@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/dictionary",
+      "destination": "/api/dictionary"
+    },
+    {
+      "source": "/dictionary/:letter",
+      "destination": "/api/dictionary?letter=:letter"
+    },
+    {
       "source": "/orisa/:slug",
       "destination": "/api/orisa?slug=:slug"
     },

@@ -13,6 +13,11 @@ on:
       - 'vercel.json'
       - 'api/word.js'
       - 'api/dictionary-data.json'
+      - 'api/dictionary.js'
+      - 'lib/dictionary.cjs'
+      - 'api/orisa.js'
+      - 'api/orisa-data.json'
+      - 'orisa-publications.js'
       - 'scripts/seo-indexer.mjs'
       - '.github/workflows/search-engine-indexing.yml'
       - 'a9f09a6a309b82b26ebba80a6f2a63c5.txt'
@@ -31,7 +36,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 2
+          fetch-depth: 0
 
       - name: Use Node
         uses: actions/setup-node@v4
@@ -51,7 +56,7 @@ jobs:
 
       - name: Notify search engines
         env:
-          SEO_BASE_URL: 'https://isese-ponbele.vercel.app'
+          SEO_BASE_URL: 'https://www.onisese.ng'
           BEFORE_SHA: '${{ github.event.before }}'
           AFTER_SHA: '${{ github.sha }}'
         run: node scripts/seo-indexer.mjs

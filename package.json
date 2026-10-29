@@ -2,6 +2,11 @@
   "name": "isese-ponbele",
   "private": true,
   "version": "1.0.0",
+  "scripts": {
+    "test": "node --test",
+    "seo:generate": "node scripts/generate-discovery.cjs",
+    "seo:check": "node scripts/generate-discovery.cjs --check"
+  },
   "dependencies": {
     "@vercel/blob": "2.8.1"
   }

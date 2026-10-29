@@ -1,4 +1,5 @@
 const words = require('./dictionary-data.json');
+const {sorted, positions, browsePath} = require('../lib/dictionary.cjs');
 
 const SITE = 'https://www.onisese.ng';
 const bySlug = new Map(words.map(x => [x.slug, x]));
@@ -8,6 +9,9 @@ function esc(v='') {
   return String(v).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 function page(entry) {
+  const position = positions.get(entry.slug);
+  const neighbours = [sorted[position.index - 1], sorted[position.index + 1]].filter(Boolean);
+  const browse = browsePath(position.letter, position.page);
   const canonical = SITE + '/word/' + encodeURIComponent(entry.slug);
   const title = entry.term + ' Meaning in Yoruba | Isese Ponbele Dictionary';
   const desc = String(entry.meaning || entry.context || ('Meaning of ' + entry.term + ' in Yoruba')).slice(0,155);
@@ -42,7 +46,9 @@ function page(entry) {
     (entry.context ? '<div class="word-context">' + esc(entry.context) + '</div>' : '') + variants +
     (related ? '<div class="related">' + related + '</div>' : '') +
     '<div class="word-note">This dictionary uses simplified unmarked Yoruba spelling for consistency. Meanings can vary by dialect, region and context.</div>' +
-    '</article></div></main><footer class="site-footer"><div class="container"><div class="footer-bottom"><span>© Isese Ponbele</span><span>Yoruba language • culture • traditional knowledge</span></div></div></footer></body></html>';
+    '</article><nav class="related" aria-label="Browse dictionary words"><a href="' + esc(browse) + '">More words beginning with ' + esc(position.letter.toUpperCase()) + '</a>' +
+    neighbours.map(word => '<a href="/word/' + encodeURIComponent(word.slug) + '">' + esc(word.term) + '</a>').join('') +
+    '</nav></div></main><footer class="site-footer"><div class="container"><div class="footer-bottom"><span>© Isese Ponbele</span><span>Yoruba language • culture • traditional knowledge</span></div></div></footer></body></html>';
 }
 
 module.exports = (req,res) => {
